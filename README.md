@@ -6,8 +6,8 @@ Itt tároljuk az Emmánuel Közösség énekeit az OpenSong vetítőprogram form
 
 1. Töltsd le az OpenSongot [az opensong.org-ról](http://www.opensong.org/home/download).
 2. Töltsd le [az Emmánueles alapcsomagot](https://bitbucket.org/eckerg/emmet-enekek/downloads/OpenSong.zip), amibe már beletettünk:
-  * néhány képet, amit énekek között lehet vetíteni;
-  * illetve pár alapbeállítást, pl. az előtér és háttér színét, a szöveg elrendezését, az animációkat, stb.
+    * néhány képet, amit énekek között lehet vetíteni;
+    * illetve pár alapbeállítást, pl. az előtér és háttér színét, a szöveg elrendezését, az animációkat, stb.
 3. Töltsd le [az itteni énekeket egy csomagban](https://bitbucket.org/eckerg/emmet-enekek/get/88a6571d782d.zip), és tedd be az alapcsomag _Songs_ mappájába az _Emmánuel_ mappát.
 4. Indítsd el az OpenSongot, és add meg neki, hogy hova tetted a (most már teljes) alapcsomagot.
 
@@ -25,7 +25,7 @@ Az összes vetítőprogram arra van felkészítve, hogy az esemény előtt össz
 3. Nyisd ki az OpenSongot, és menj át _Összeállítás mód_ba, ha még nem vagy ott.
 4. Baloldalt felül az _Összeállítások_ listájából válaszd ki az _EM Fekete.xml_ vagy _EM Fekete Mentone.xml_ összeállítást (utóbbit akkor, ha telepítetted a Mentone betűtípust, lásd fent).
 5. Mivel nem tudunk semmit az énekekről, kattints a legfelső, _Aktuális összeállítás_ dobozban a _Vetítés_, majd a _Két képernyő_ gombokra.
-  * Ha csak az _Egy képernyő_ és a _Két képernyő előnézettel_ opciók elérhetők, akkor ellenőrizd, hogy tényleg _Kiterjesztés_ módban van-e a kép.
+    * Ha csak az _Egy képernyő_ és a _Két képernyő előnézettel_ opciók elérhetők, akkor ellenőrizd, hogy tényleg _Kiterjesztés_ módban van-e a kép.
 
 ### Működtetés (dicsőítés közben)
 
@@ -42,7 +42,7 @@ A képernyőt a **K** billentyűvel sötétíted el (fekete mód), az Emmánuele
 1. Ha megnyomod, előjön a _Dal keresése_ ablak, és a kurzor a _Gyorskeresés_ mezőben villog.
 2. Felül, a _Mappa kiválasztása_ legördülő menüben ki tudod választani az énekeskönyvet, ha nem stimmel.
 3. A _Gyorskeresés_ mezőbe írd be az ének sorszámát 3 számjegyre kiegészítve, pl. `003`. (E-s énekeknél az E utáni számot 2 jegyre kell kiegészíteni, pl. `E05`.)
-  * (Tartsd észben, hogy a gyorskeresés az énekcímek **elejét** nézi a lenti listában. Például hiába tudod, hogy az _Örülj az Úrban, áldd az Ő nevét_ kezdetű éneket keresed, ha így keresel rá, nem fogja megtalálni, mert az ének címe: `024 Örülj az Úrban, áldd az Ő nevét.xml`. Ha teljes keresésre van szükséged, nyomd meg a Ctrl+F-et, de ez általában elég lassú.)
+    * (Tartsd észben, hogy a gyorskeresés az énekcímek **elejét** nézi a lenti listában. Például hiába tudod, hogy az _Örülj az Úrban, áldd az Ő nevét_ kezdetű éneket keresed, ha így keresel rá, nem fogja megtalálni, mert az ének címe: `024 Örülj az Úrban, áldd az Ő nevét.xml`. Ha teljes keresésre van szükséged, nyomd meg a Ctrl+F-et, de ez általában elég lassú.)
 4. Ha megvan az ének, kattints a _Hozzáad_ gombra (néha a sima Enter is működik).
 
 Ezután válts át normál módra, és szintén billentyűkkel tudsz váltani a versszakok között.
@@ -50,7 +50,7 @@ Ezután válts át normál módra, és szintén billentyűkkel tudsz váltani a 
 * A **fel/le nyilak** értelemszerűen az előző/következő versszakra ugranak.
 * A **balra/jobbra nyilak** az előző/következő énekközbe ugranak. (Két ének közé az OpenSong mindig automatikusan berak egy üres diát.)
 * Az **1, 2, 3, ...** gombokkal tudsz a megfelelő számú versszakra ugrani (V1, V2, V3, ...).
-  * Néha egy versszak több darabra van szétszedve (V1, V12), ilyenkor a **fel/le nyilakat** használd.
+    * Néha egy versszak több darabra van szétszedve (V1, V12), ilyenkor a **fel/le nyilakat** használd.
 * A **C** gomb a refrénre ugrik vissza (C = Chorus), a **B** pedig az átkötésre (B = Bridge).
 * (Van még a **T**, ami a codára, és a **P**, ami az előrefrénre ugrik, de ezeket nem használjuk a dalszövegekben.)
 * Az **Esc** gombbal lépsz ki az egész vetítésből.
