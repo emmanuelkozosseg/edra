@@ -6,13 +6,18 @@ Itt tároljuk az Emmánuel Közösség énekeit az OpenSong vetítőprogram form
 
 1. Töltsd le az OpenSongot [az opensong.org-ról](http://www.opensong.org/home/download).
 2. Töltsd le [az Emmánueles alapcsomagot](https://bitbucket.org/eckerg/emmet-enekek/downloads/OpenSong.zip), amibe már beletettünk:
-    * néhány képet, amit énekek között lehet vetíteni;
-    * illetve pár alapbeállítást, pl. az előtér és háttér színét, a szöveg elrendezését, az animációkat, stb.
-3. Töltsd le [az itteni énekeket egy csomagban](https://bitbucket.org/eckerg/emmet-enekek/get/88a6571d782d.zip), és tedd be az alapcsomag _Songs_ mappájába az _Emmánuel_ mappát.
+    * néhány képet, amit énekek között lehet vetíteni (pl. az ikont);
+    * illetve pár alapbeállítást (pl. az előtér és háttér színét, a szöveg elrendezését, stb.)
+3. Töltsd le [az itteni énekeket egy csomagban](https://bitbucket.org/eckerg/emmet-enekek/get/HEAD.zip), és tedd be az alapcsomag _Songs_ mappájába az _Emmánuel_ mappát.
+    * Az _Emmánuel_ mappa mellett találsz egy `README.md` és egy `emmet-songbooks.ini` fájlt, ezek nem kellenek az OpenSongnak.
 4. Indítsd el az OpenSongot, és add meg neki, hogy hova tetted a (most már teljes) alapcsomagot.
 
 > **Tipp:** Az alapértelmezett Arialnél egy kicsit jobban olvasható a [Mentone betűtípus](https://bitbucket.org/eckerg/emmet-enekek/downloads/mentone-semibold.otf).
 > Ha telepíted, akkor a _EM Fekete Mentone_ összeállításban fogod tudni használni.
+
+## Hogyan frissítsem?
+
+Törölj ki mindent a _Songs_ mappából, és töltsd le újra [az itteni énekeket](https://bitbucket.org/eckerg/emmet-enekek/get/HEAD.zip).
 
 ## Hogyan használjam?
 
@@ -22,7 +27,7 @@ Az összes vetítőprogram arra van felkészítve, hogy az esemény előtt össz
 
 1. Állítsd át az asztalod háttérképét sima feketére. (Windows 10-ben: jobb gomb az asztalon, _Személyre szabás_, és a középső, _Háttér_ legördülő menüben válaszd ki az _Egyszínű_ lehetőséget, a színek között pedig válaszd ki a feketét, ha nem eleve az van kiválasztva.)
 2. Kösd össze a projektort a géppel, és a _Windows+P_ billentyűkombinációval ellenőrizd, hogy a kép _Kiterjesztés_ módban legyen.
-3. Nyisd ki az OpenSongot, és menj át _Összeállítás mód_ba, ha még nem vagy ott.
+3. Nyisd ki az OpenSongot, és menj át _Összeállítás módba_, ha még nem vagy ott.
 4. Baloldalt felül az _Összeállítások_ listájából válaszd ki az _EM Fekete.xml_ vagy _EM Fekete Mentone.xml_ összeállítást (utóbbit akkor, ha telepítetted a Mentone betűtípust, lásd fent).
 5. Mivel nem tudunk semmit az énekekről, kattints a legfelső, _Aktuális összeállítás_ dobozban a _Vetítés_, majd a _Két képernyő_ gombokra.
     * Ha csak az _Egy képernyő_ és a _Két képernyő előnézettel_ opciók elérhetők, akkor ellenőrizd, hogy tényleg _Kiterjesztés_ módban van-e a kép.
@@ -60,7 +65,7 @@ Ezután válts át normál módra, és szintén billentyűkkel tudsz váltani a 
 * Érdemes _Két képernyő előnézettel_ vetítési módban játszani a programmal, amíg kitapasztalod, hogy hogyan működik.
 * Amikor egy ének véget ér, az **L** billentyűvel kitesszük a logót, és rögtön elő is hozzuk a _Dal keresése_ ablakot a **Q** gombbal, hogy amint kiderül a következő ének, gyorsan be lehessen tölteni.
 
-> **Figyelem:** vetítési módban nem lehet törölni éneket. Ha rossz éneket ütöttél be, simán csak hagyd ott.
+> **Figyelem:** Vetítési módban nem lehet törölni éneket. Ha rossz éneket ütöttél be, simán csak hagyd ott.
 
 ## Hogyan segíthetek?
 
@@ -73,6 +78,6 @@ Ebben az esetben két opciód van -- bár ha ismered a Gitet, akkor ezt valósz�
 
 ### Ha nem ismered a Gitet
 
-Ebben az esetben küldj egy hibajegyet: kattints baloldalt az _Issues_ linkre, ott kattints a _New Issue_ gombra, majd kövesd az ottani utasításokat.
+Ebben az esetben [küldj egy hibajegyet](https://bitbucket.org/eckerg/emmet-enekek/issues/new): kattints baloldalt az _Issues_ linkre, ott kattints a _New Issue_ gombra, majd kövesd az ottani utasításokat.
 
 A változtatásaidat magad is elvégezheted a letöltött énekeken az OpenSong Dal módjával, de nem muszáj, szívesen megcsináljuk mi is. Ilyenkor a megváltoztatott fájlokat hozzá tudod csatolni a hibajegyhez.
