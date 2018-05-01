@@ -4,7 +4,7 @@ Itt tároljuk az Emmánuel Közösség énekeit az OpenSong vetítőprogram form
 
 ## Hogyan telepítsem?
 
-1. Töltsd le az OpenSongot [az opensong.org-ról](http://www.opensong.org/home/download).
+1. Töltsd le és telepítsd az OpenSongot [az opensong.org-ról](http://www.opensong.org/home/download).
 2. Töltsd le [az Emmánueles alapcsomagot](https://bitbucket.org/eckerg/emmet-enekek/downloads/OpenSong.zip), amibe már beletettünk:
     * néhány képet, amit énekek között lehet vetíteni (pl. az ikont);
     * illetve pár alapbeállítást (pl. az előtér és háttér színét, a szöveg elrendezését, stb.)
