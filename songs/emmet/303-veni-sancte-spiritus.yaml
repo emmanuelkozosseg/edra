@@ -1,0 +1,34 @@
+books:
+  - id: emmet
+    number: '303'
+lyrics:
+  - lang: hu
+    title: Veni Sancte Spiritus
+    verses:
+      - name: c
+        lines:
+          - Veni Sancte Spiritus!
+          - Veni Sancte Spiritus!
+      - name: v1
+        lines:
+          - Jöjj tüzeddel,
+          - jöjj mutasd meg szeretetedet,
+          - jöjj a szomjunkat oltsd!
+          - Töltsd be életünk
+          - s a szívünk a Te fényeddel!
+          - Jöjj, hogy lángoljon a tűz!
+      - name: v2
+        lines:
+          - 'Jöjj, kegyelmeddel töltsél el:'
+          - tisztítsd a szívünk!
+          - Mosd meg, ami szennyezett!
+          - Jöjj, siess, a gyöngeségünkben
+          - Te adj erőt!
+          - Jöjj, hogy lángoljon a tűz!
+      - name: v3
+        lines:
+          - Jöjj, mutasd meg nekünk a Fiút
+          - és az Atyát! Éleszd újra a hitünk!
+          - Jöjj, ajándékaidat most
+          - bőkezűen oszd!
+          - Jöjj, hogy lángoljon a tűz!

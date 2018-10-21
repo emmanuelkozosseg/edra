@@ -1,0 +1,21 @@
+books:
+  - id: eeym17
+    number: P4
+lyrics:
+  - lang: en
+    title: Lord, we come to You as we are
+    verses:
+      - name: c
+        lines:
+          - Lord, we come to You as we are
+          - and with all we have.
+          - You, in lovem restore our lives
+          - on this path to holiness.
+      - name: v1
+        lines:
+          - We bring You gifts of bread and wine,
+          - transform them, loving God, so we may have life.
+      - name: v2
+        lines:
+          - We live for You; poor as we are,
+          - transform us, saving Lord, in this sacrifice.

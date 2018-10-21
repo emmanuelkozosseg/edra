@@ -1,0 +1,44 @@
+books:
+  - id: emmet
+    number: '32'
+lyrics:
+  - lang: hu
+    title: Gyertek az Urat dicsérni
+    verses:
+      - name: c
+        lines:
+          - Gyertek az Urat dicsérni, imádjuk Őt!
+          - Földünkre eljött megváltó Istenünk.
+          - Övé a mindenség.
+          - 'Vidáman énekelj, ujjongva áldjad:'
+          - Dicsőség!
+      - name: v1
+        lines:
+          - Az Ősi bűntől megváltani jött.
+          - Örülj! Zengjen az Úrnak dicsőség!
+          - Győzött az élet a halál fölött!
+          - Örülj! Zengjen az Úrnak dicsőség!
+      - name: v2
+        lines:
+          - Kegyelme által üdvözülhetünk.
+          - Örülj! Zengjen az Úrnak dicsőség!
+          - Irgalma által fölemeltetünk.
+          - Örülj! Zengjen az Úrnak dicsőség!
+      - name: v3
+        lines:
+          - Bilincseinkből kiszabadított.
+          - Örülj! Zengjen az Úrnak dicsőség!
+          - Jósága által életet adott.
+          - Örülj! Zengjen az Úrnak dicsőség!
+      - name: v4
+        lines:
+          - 'Ha hiszünk Benne: gyógyítja szívünk.'
+          - Örülj! Zengjen az Úrnak dicsőség!
+          - 'Szent Lelke éltet: Ő az örömünk.'
+          - Örülj! Zengjen az Úrnak dicsőség!
+      - name: v5
+        lines:
+          - 'Emmánuel: már velünk van az Úr.'
+          - Örülj! Zengjen az Úrnak dicsőség!
+          - 'Szent teste táplál: Ő a mi erőnk.'
+          - Örülj! Zengjen az Úrnak dicsőség!

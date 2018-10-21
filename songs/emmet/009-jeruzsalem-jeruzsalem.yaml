@@ -1,0 +1,76 @@
+books:
+  - id: emmet
+    number: '9'
+  - id: eeym17
+    number: '17'
+lyrics:
+  - lang: hu
+    title: Jeruzsálem, Jeruzsálem
+    verses:
+      - name: c
+        lines:
+          - Jeruzsálem, Jeruzsálem,
+          - Vesd le már a gyászruhádat!
+          - Jeruzsálem, Jeruzsálem,
+          - Táncolj és énekelj az Úrnak!
+      - name: v1
+        lines:
+          - Kelj fel, tündökölj,
+          - Hiszen a fényed eljött,
+          - Az Úr dicsősége rád ragyog.
+          - 'Emeld fel szemed, nézz a távolba:'
+          - Örömödben a szíved is megdobban.
+          - Mert a fiaid visszatérnek immár,
+          - S lányaidat az ölükben hozzák.
+      - name: v2
+        lines:
+          - Jönnek mind a népek
+          - A te fényeidhez, a te fényeidhez,
+          - És királyok a világosságodra.
+          - Dromedárok ezrei jönnek majd
+          - Tömjénnel és aranyakkal megrakva.
+          - Éfából és Sábából idejönnek,
+          - S hirdetik az Isten dicsőségét.
+      - name: v3
+        lines:
+          - Idegenek építik fel újra várad
+          - És királyok szolgálnak neked.
+          - Idegenek építik fel újra várad
+          - És királyok szolgálnak neked.
+          - Benned lelik örömüket mindnyájan,
+          - 'így neveznek: az Istennek hajléka.'
+          - Véget ér a gyász, véget ér a bánat,
+          - s megdicsőíted a nevemet.
+  - lang: en
+    title: Shine out and arise
+    verses:
+      - name: v1
+        lines:
+          - Shine out and arise for your light has come,
+          - God's own glory risen now upon you. (repeat)
+          - Though the nations still are in darkness now,
+          - Kings will hasten to the brightness of your light;
+          - Bringing richest gifts from their lands to you,
+          - Singing praises to the Lord of Hosts.
+      - name: c
+        lines:
+          - Jerusalem, Jerusalem,
+          - Cast off your sadness and your mourning,
+          - Jerusalem, Jerusalem,
+          - Dance and sing before your God.
+      - name: v2
+        lines:
+          - Who are these you see flying like a cloud?
+          - Like the doves returning to their home. (repeat)
+          - From the distant isles all your people come,
+          - Now the ships of Tarshish come to bring them home,
+          - See your sons assembling from far away,
+          - Children gently carried in their arms.
+      - name: v3
+        lines:
+          - Princes will accept your authority,
+          - Foreigners rebuild your ruined walls. (repeat)
+          - Lebanon will honour your holy name,
+          - Nations bring their riches to your sanctuary;
+          - All your days of grief will be changed to joy,
+          - Now your light proclaims me to the world.

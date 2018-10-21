@@ -1,0 +1,35 @@
+books:
+  - id: emmet
+    number: '243'
+lyrics:
+  - lang: hu
+    title: Szeretni szüntelenül
+    verses:
+      - name: c
+        lines:
+          - Szeretni szüntelenül,
+          - elégni szeretetből,
+          - így oszd szét mindenedet,
+          - és légy maga a szeretet.
+          - Most Rád bízom életem.
+      - name: v1
+        lines:
+          - Szóljak bár emberi szóval,
+          - vagy akár az angyalok nyelvén,
+          - ha nincs szeretet bennem,
+          - zengő érc vagyok csupán,
+          - vagy mint a pengő cimbalom hangja.
+      - name: v2
+        lines:
+          - Prófétálhatok akár,
+          - vagy megfejthetek minden titkot,
+          - legyen bár hitem erős,
+          - mely elmozdít nagy hegyeket,
+          - szeretet nélkül semmit sem érek.
+      - name: v3
+        lines:
+          - Pénzemet szétoszthatom
+          - a nélkülöző szegényeknek,
+          - testemet lángok között
+          - adhatom áldozatul,
+          - szeretet nélkül nem használ nékem.

@@ -1,0 +1,28 @@
+books:
+  - id: emmet
+    number: '602'
+lyrics:
+  - lang: hu
+    title: Kenyered és borod táplál
+    verses:
+      - name: v1
+        lines:
+          - Kenyered és borod táplál engem,
+          - Te gyógyítod szívem, hogyha fáj.
+          - Maradj velem, úgy kérlek Jézus,
+          - maradj velem!
+          - Tiéd vagyok, neked élek már.
+      - name: v2
+        lines:
+          - Amíg veled járok én az úton
+          - minden gondom messze-messze száll.
+          - Maradj velem, úgy kérlek Jézus,
+          - maradj velem!
+          - Tiéd vagyok, neked élek már.
+      - name: v3
+        lines:
+          - Leborulva hálát adok Néked.
+          - Ajkamról a hála dala száll.
+          - Maradj velem, úgy kérlek Jézus,
+          - maradj velem!
+          - Tiéd vagyok, neked élek már.

@@ -1,0 +1,37 @@
+books:
+  - id: eeym17
+    number: '29'
+lyrics:
+  - lang: en
+    title: Come, Spirit of Power
+    verses:
+      - name: c
+        lines:
+          - Come Spirit come.
+          - Come Spirit of power.
+          - Come fill our hearts with your fire.
+          - Come Spirit come.
+      - name: v1
+        lines:
+          - O Spirit You know our hearts.
+          - O Spirit You guide our path.
+          - You love us despite our sin.
+          - Spirit fill our life.
+      - name: v2
+        lines:
+          - O Spirit console our grief,
+          - O Breath of God heal our lives.
+          - You give us true hope and peace.
+          - Spirit fill our life.
+      - name: v3
+        lines:
+          - Spirit give us your strength.
+          - Come Spirit of holiness.
+          - Come name of the Father’s love
+          - Spirit fill our life.
+      - name: v4
+        lines:
+          - O Spirit you give us light.
+          - O Spirit dispel the night.
+          - You teach us to choose what’s right
+          - Spirit fill our life.

@@ -1,0 +1,53 @@
+books:
+  - id: eeym17
+    number: '53'
+lyrics:
+  - lang: en
+    title: Te Deum
+    verses:
+      - name: v1
+        lines:
+          - 'You are God: we worship you;'
+          - We acclaim You as the Lord.
+          - Everlasting Father,
+          - the world bows down before You, Lord.
+          - All the angels sing your praise.
+          - The powers of heaven worship You,
+          - The cherubim and seraphim
+          - 'call out to You in joyful song:'
+      - name: c
+        lines:
+          - Holy, holy holy Lord,
+          - holy holy holy Lord,
+          - holy holy holy Lord, God of power and might!
+          - Heaven and earth are full of your glory! (x3)
+      - name: v2
+        lines:
+          - Worshipping advance the apostles,
+          - Striding forward prophets and saints,
+          - White robed martyrs strong like an army,
+          - All bow down before your throne.
+          - On the earth your Church acclaims You,
+          - Father majesty unbounded,
+          - Only Son, our Lord Jesus Christ,
+          - Holy Spirit advocate and guide.
+      - name: v3
+        lines:
+          - Christ You are the king of all glory,
+          - Sign of God’s eternal love,
+          - You became man for our salvation,
+          - From a virgin’s womb You were born.
+          - You defeated death in the tomb,
+          - opened up the gates of heaven,
+          - Seated at the right of the Father,
+          - You will judge the living and the dead.
+      - name: v4
+        lines:
+          - By the precious gift of your blood,
+          - Save your people, hear our call.
+          - Keep us free from sin and stain,
+          - Grant a place for us with the saints,
+          - Be our ruler, be our Lord,
+          - we have placed our hope in You,
+          - May we stand before your throne,
+          - Giving glory for eternity!

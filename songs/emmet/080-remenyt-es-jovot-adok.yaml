@@ -1,0 +1,31 @@
+books:
+  - id: emmet
+    number: '80'
+lyrics:
+  - lang: hu
+    title: Reményt és jövőt adok
+    verses:
+      - name: c
+        lines:
+          - Reményt és jövőt adok néktek,
+          - így szól az Úr, az Isten.
+          - Ne félj, mert veled vagyok,
+          - én népem, örökké.
+      - name: v1
+        lines:
+          - Hívjuk most segítségül
+          - és Isten válaszol.
+          - Mindenkor Őt imádjuk,
+          - 'mert hozzánk így szól:'
+      - name: v2
+        lines:
+          - Hű szívvel keressük már,
+          - mert nem rejtőzik el.
+          - Hagyja, hogy rátaláljunk,
+          - vigasztal minket.
+      - name: v3
+        lines:
+          - 'Istenünk, kérve kérünk:'
+          - országod jöjjön el.
+          - Fordítsad jóra sorsunk,
+          - szenteld meg néped!

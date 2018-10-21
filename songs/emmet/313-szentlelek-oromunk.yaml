@@ -1,0 +1,13 @@
+books:
+  - id: emmet
+    number: '313'
+lyrics:
+  - lang: hu
+    title: Szentlélek, örömünk
+    verses:
+      - name: v1
+        lines:
+          - Szentlélek, Örömünk, töltsd be a szívünk!
+          - Életünk Te vezesd, mutasd meg az erőd!
+          - Szentlélek, Örömünk, töltsd be a szívünk!
+          - Tanúid hadd legyünk, ma téged kérlelünk.

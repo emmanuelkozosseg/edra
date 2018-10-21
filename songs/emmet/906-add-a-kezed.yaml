@@ -1,0 +1,22 @@
+books:
+  - id: emmet
+    number: '906'
+lyrics:
+  - lang: hu
+    title: Add a kezed
+    verses:
+      - name: v1
+        lines:
+          - Add a kezed, hogy zengjünk az Úrnak,
+          - zengjünk az Úrnak alleluját!
+          - Add a kezed, hogy zengjünk az Úrnak,
+          - zengjünk az Úrnak alleluját!
+      - name: c
+        lines:
+          - /:Alleluja, alleluja, alleluja, alleluja:/
+      - name: v2
+        lines:
+          - Kitárt karokkal mindenki áldja,
+          - mindenki áldja az élet Urát!
+          - Ujjongó szívvel zengjünk az úrnak,
+          - zengjünk az Úrnak alleluját!

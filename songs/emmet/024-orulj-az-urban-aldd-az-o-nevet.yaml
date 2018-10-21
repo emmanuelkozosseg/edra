@@ -1,0 +1,22 @@
+books:
+  - id: emmet
+    number: '24'
+lyrics:
+  - lang: hu
+    title: Örülj az Úrban, áldd az Ő nevét
+    verses:
+      - name: c
+        lines:
+          - '/: Örülj az Úrban, áldd az Ő nevét,'
+          - örülj az Úrban, zengd dicséretét! :/
+          - Örülj, örülj, örülj, örülj az Úrban!
+      - name: v1
+        lines:
+          - Magasztalás és szent öröm,
+          - hálaadás az én erőm.
+          - Zengeni örökre énekét,
+          - Jézus Krisztus, áldott légy!
+      - name: v2
+        lines:
+          - Mert él az Úr, a feltámadt király!
+          - Jézus, Jézus!

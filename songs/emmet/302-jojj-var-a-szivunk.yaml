@@ -1,0 +1,24 @@
+books:
+  - id: emmet
+    number: '302'
+lyrics:
+  - lang: hu
+    title: Jöjj, vár a szívünk
+    verses:
+      - name: c
+        lines:
+          - Jöjj, vár a szívünk,
+          - oh jöjj, Szentlélek!
+          - Jöjj és a hitünket éleszd fel!
+      - name: v1
+        lines:
+          - Küldd el a Te fényed életünkbe,
+          - mert örömöd éltet bennünket!
+      - name: v2
+        lines:
+          - Mind a sebeinket szent kenettel,
+          - és szereteteddel gyógyítsd meg!
+      - name: v3
+        lines:
+          - Szent tüzedet gyújtsad lángra bennünk,
+          - hogy a Te erődben élhessünk!

@@ -1,0 +1,25 @@
+books:
+  - id: emmet
+    number: '234'
+lyrics:
+  - lang: hu
+    title: Közel jön az Isten
+    verses:
+      - name: c
+        lines:
+          - Közel jön az Isten, halld szavát,
+          - csendben figyelj Reá
+          - Keressed a békét és az Úr megáld,
+          - Jó Atyánk újra visszavár.
+      - name: v1
+        lines:
+          - Szólítsd a csendben,
+          - hogyha hívod átölel az Úr szeretetben
+      - name: v2
+        lines:
+          - Őrizd a lámpád, égni lássa,
+          - hogyha jő az Úr, akit várunk
+      - name: v3
+        lines:
+          - Bízzál az Úrban és betölti életed
+          - az Ő örömével

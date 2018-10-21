@@ -1,0 +1,16 @@
+books:
+  - id: emmet
+    number: '258'
+lyrics:
+  - lang: hu
+    title: Jézus véred megtisztít
+    verses:
+      - name: v1
+        lines:
+          - Jézus véred megtisztít
+          - Véred ad új életet
+          - Véred tesz ma szabaddá
+          - Értem folyt e drága vér
+          - Így a lelkem fehér,
+          - Mint a hó, mint a hó
+          - Úr Jézus, Te szelíd Bárány

@@ -1,0 +1,13 @@
+books:
+  - id: emmet
+    number: '221'
+lyrics:
+  - lang: hu
+    title: Jöjj, vár az Úr
+    verses:
+      - name: v1
+        lines:
+          - Jöjj, vár az Úr! Jöjj, imádjuk Őt!
+          - Szálljon fel hozzá az ének!
+          - Bízz, téged hív, irgalommal vár.
+          - Dicséret áldja a mindenség Urát!

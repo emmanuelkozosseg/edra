@@ -1,0 +1,32 @@
+books:
+  - id: emmet
+    number: '236'
+lyrics:
+  - lang: hu
+    title: Ó, jöjj Istenem
+    verses:
+      - name: c1
+        lines:
+          - Oh jöjj, Istenem, Rád vágyom én.
+          - Lelkem szomjazik,
+          - mint a puszta száraz földje.
+          - Oh jöjj, Istenem, Rád vágyom én.
+      - name: c2
+        lines:
+          - A te házadban hadd lássam dicsőséged!
+          - Hiszen többet ér a te szereteted,
+          - mint az élet, Istenem!
+          - 'Hiszen többet ér a te szereteted:'
+          - mindörökké hirdetem!
+      - name: v1
+        lines:
+          - Mindenkor téged áldlak én,
+          - feléd tárom imára két kezem.
+          - Lelkem eltöltöd jelenléteddel,
+          - ezért ujjongva áld az énekem.
+      - name: v2
+        lines:
+          - Rád gondolok álmomban is.
+          - Kora hajnalban hozzád száll imám.
+          - A Te szárnyadnak árnyékába rejtesz
+          - és a jobbod fenntart örökké.

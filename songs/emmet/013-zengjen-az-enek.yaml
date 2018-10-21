@@ -1,0 +1,40 @@
+books:
+  - id: emmet
+    number: '13'
+lyrics:
+  - lang: hu
+    title: Zengjen az ének
+    verses:
+      - name: c
+        lines:
+          - Zengjen az ének az Úr nevének!
+          - Velünk az Isten, Ő a nagy Király.
+          - Összegyűjt minket szeretetében.
+          - Átadjuk életünket, jóságos Atyánk!
+      - name: v1
+        lines:
+          - 'Amikor félek, a hegyre nézek:'
+          - Honnan jön segítség,
+          - mit oly rég várok én?
+          - Csakis az Úrtól jön a segítség.
+          - Nem alszik Ő soha, az Úr az őrizőm.
+      - name: v2
+        lines:
+          - Hogyha a bajban kiáltok hozzá,
+          - Ő nyomban fut felém,
+          - s megmenti életem.
+          - Egyetlen szóval teremtett engem,
+          - velem van mindenütt és fogja a kezem.
+      - name: v3
+        lines:
+          - Amikor hívom,lehajol hozzám.
+          - Isten az erőm, és Ő biztos menedék.
+          - Imádom éjjel, dicsérem nappal,
+          - mert nála lel a szívem békét örökké.
+      - name: v4
+        lines:
+          - Most a szívünket adjuk az Úrnak,
+          - 'mert gondot visel ránk:'
+          - Ő irgalmas Atyánk.
+          - Könyörül rajtunk, ezért ne féljünk!
+          - Ő most és mindörökké tárt karokkal vár.

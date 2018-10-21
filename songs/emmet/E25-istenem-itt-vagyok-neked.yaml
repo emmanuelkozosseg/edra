@@ -1,0 +1,29 @@
+books:
+  - id: emmet
+    number: E25
+lyrics:
+  - lang: hu
+    title: Istenem itt vagyok neked
+    verses:
+      - name: v1
+        lines:
+          - Istenem, itt vagyok Neked!
+          - Istenem Te rám nézel,
+          - s én áldalak, áldalak, Atyám!
+      - name: v2
+        lines:
+          - /:Tekinteted megnyugszik rajtam:/
+          - s én áldalak, áldalak, Atyám!
+      - name: v3
+        lines:
+          - Istenem, Te rám nézel,
+          - én is a Te Arcod keresem,
+          - s áldalak, áldalak, Atyám!
+      - name: v4
+        lines:
+          - Istenem, Te rám nézel,
+          - én Istenem Rád nézek,
+          - s áldalak, áldalak, Atyám!
+      - name: c
+        lines:
+          - Te Rám nézel, Te rám nézel.

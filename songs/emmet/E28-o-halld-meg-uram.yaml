@@ -1,0 +1,13 @@
+books:
+  - id: emmet
+    number: E28
+lyrics:
+  - lang: hu
+    title: Ó, halld meg Uram
+    verses:
+      - name: v1
+        lines:
+          - Ó, halld meg Uram, ó halld meg imám,
+          - hívlak jöjj, válaszolj.
+          - Ó, halld meg Uram, ó halld meg imám,
+          - jöjj és figyelj reám.

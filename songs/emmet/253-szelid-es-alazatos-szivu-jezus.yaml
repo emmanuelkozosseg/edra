@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '253'
+lyrics:
+  - lang: hu
+    title: Szelíd és alázatos szívű Jézus
+    verses:
+      - name: v1
+        lines:
+          - Szelíd és alázatos szívű Jézus,
+          - alakítsd szívünket
+          - a Te szent szíved szerint.

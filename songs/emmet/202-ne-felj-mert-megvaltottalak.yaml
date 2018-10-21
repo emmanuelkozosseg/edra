@@ -1,0 +1,31 @@
+books:
+  - id: emmet
+    number: '202'
+lyrics:
+  - lang: hu
+    title: Ne félj, mert megváltottalak
+    verses:
+      - name: c
+        lines:
+          - Ne félj, mert megváltottalak,
+          - Neveden szólítottalak,
+          - Karjaimba zártalak!
+          - Örökre enyém vagy.
+      - name: v1
+        lines:
+          - Viruló réteken át hűs forrás felé vezetlek,
+          - Pásztorod vagyok,
+          - elveszni senkit nem hagyok,
+          - karom feléd tárom, kiárad áldásom.
+          - Nem rejtőzöm el,
+          - szívem a szívednek felel,
+          - amikor úgy érzed, nyomaszt az élet.
+      - name: v2
+        lines:
+          - Nem taszítalak el, amikor vétkezel.
+          - Irgalmat lelsz a szívemben.
+          - Örök feléd a hűségem,
+          - amerre jársz, védlek,nyomodban lépek.
+          - Nem rejtőzöm el,szeretetlángom átölel.
+          - Ne félj, ha éjben jársz,
+          - hidd, hogy a fény vár rád!

@@ -1,0 +1,31 @@
+books:
+  - id: eeym17
+    number: '14'
+lyrics:
+  - lang: en
+    title: In our darkness is risen a light
+    verses:
+      - name: c
+        lines:
+          - In our darkness is risen a light,
+          - the new light of Christ has dawned.
+          - It will shine for all eyes to see,
+          - it will live in every heart.
+      - name: v1
+        lines:
+          - Let the desert blossom once more,
+          - let it ring with songs of great joy;
+          - for the springs and the fountains
+          - bring new life to the barren land.
+      - name: v2
+        lines:
+          - You shall see the glory of God,
+          - and the majesty of the Lord;
+          - Say to all the faint hearts,
+          - do not fear, our God has come to save.
+      - name: v3
+        lines:
+          - He has come to bring us new life,
+          - let your hearts receive him in joy,
+          - For God loves us so much,
+          - he has come to ransom us from death.

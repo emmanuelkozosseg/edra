@@ -1,0 +1,19 @@
+books:
+  - id: emmet
+    number: '265'
+lyrics:
+  - lang: hu
+    title: Irgalom Istene nézd
+    verses:
+      - name: v1
+        lines:
+          - Irgalom Istene nézd,
+          - Néked ajánlom a szívem
+          - Az életem Nélküled oly nehéz
+          - Mindenem mindene légy!
+      - name: v2
+        lines:
+          - Mária hű szava hív
+          - Golgota újra az oltár
+          - Testem, lelkemet éri a vér és víz
+          - Jézus én bízom, a szívem áld

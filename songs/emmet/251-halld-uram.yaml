@@ -1,0 +1,32 @@
+books:
+  - id: emmet
+    number: '251'
+lyrics:
+  - lang: hu
+    title: Halld Uram
+    verses:
+      - name: c
+        lines:
+          - Halld, Uram,
+          - A szívem csendes rejtekén
+          - Neked átadom életem!
+      - name: v1
+        lines:
+          - Szeretetedben hadd maradjak Nálad,
+          - Kicsiként, mint a gyermek!
+      - name: v2
+        lines:
+          - A békességre, Istenem, taníts!
+          - Jöjj, és a csendemet töltsd be!
+      - name: v3
+        lines:
+          - Az életem két kezedben van,
+          - Így akarom Neked adni!
+      - name: v4
+        lines:
+          - A legfőbb vágyam, Uram, Istenem,
+          - Hogy felajánljam mindenem Neked!
+      - name: v5
+        lines:
+          - 'Ó, Szűzanyám, őrizd utamat:'
+          - Bízzam az Úrra, és óvja szeretet.

@@ -1,0 +1,13 @@
+books:
+  - id: emmet
+    number: A3
+lyrics:
+  - lang: hu
+    title: Szent vagy
+    verses:
+      - name: v1
+        lines:
+          - Szent vagy, szent vagy, szent vagy,
+          - szent vagy mindenség Ura, Istene!
+          - Dicsőséged betölti a mennyet és a földet.
+          - Hozsanna a magasságban!

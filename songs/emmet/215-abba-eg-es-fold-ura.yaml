@@ -1,0 +1,27 @@
+books:
+  - id: emmet
+    number: '215'
+lyrics:
+  - lang: hu
+    title: Abba! Ég és föld Ura
+    verses:
+      - name: v1
+        lines:
+          - Abba! Ég és föld Ura, Istene!
+          - Abba! Zengem dicséretedet.
+      - name: v2
+        lines:
+          - Amit elrejtettél az okosak elől,
+          - Atyám, elmondtad mindezt a
+          - kicsinyeknek tetszésed szerint.
+      - name: v3
+        lines:
+          - Igen, boldogok, akik látják, amit ti.
+          - De sok próféta és király
+          - akarta látni, amit ti láttok.
+      - name: v4
+        lines:
+          - Jöjjetek hozzám mind,
+          - akik terhet hordoztok!
+          - És én benneteket megkönnyítelek,
+          - mert szelíd vagyok.

@@ -1,0 +1,41 @@
+books:
+  - id: eeym17
+    number: '3'
+lyrics:
+  - lang: en
+    title: Alleluia, let all the world acclaim You
+    verses:
+      - name: v1
+        lines:
+          - Let all the world acclaim You,
+          - And with full voice sing praise.
+          - Your misery He’s taken,
+          - And on the Cross He’s raised.
+          - The God of all your fathers,
+          - Who fights for you this day,
+          - Let all the world acclaim You,
+          - 'Sing out in joyful praise:'
+      - name: c
+        lines:
+          - Alleluia, alleluia,
+          - Alleluia, alleluia.
+      - name: v2
+        lines:
+          - He’s worked so many wonders,
+          - Almighty God is He,
+          - Forever faithful His love,
+          - His chosen children we.
+          - At the blast of the trumpet,
+          - All instruments as one,
+          - The world exults in glory,
+          - 'And praises Him in song:'
+      - name: v3
+        lines:
+          - He is King of all peoples,
+          - And in the world He reigns.
+          - I place my hope in His Word,
+          - To free me from my chains.
+          - Let the sea and its creatures,
+          - The mountains and the plains,
+          - Forever sing His glory
+          - 'And repeat in refrain:'

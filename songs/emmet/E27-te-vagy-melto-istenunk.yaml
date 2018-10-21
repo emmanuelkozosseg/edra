@@ -1,0 +1,20 @@
+books:
+  - id: emmet
+    number: E27
+lyrics:
+  - lang: hu
+    title: Te vagy méltó Istenünk
+    verses:
+      - name: c
+        lines:
+          - Te vagy méltó Istenünk,
+          - hogy Téged dicsérjünk!
+          - Mert csak Te vagy méltó,
+          - hisz minden Rólad szól,
+          - és felmagasztal Téged.
+      - name: v1
+        lines:
+          - Minden szent és angyal
+          - trónodhoz borul.
+          - Minden vén most hódol
+          - 'az Isten Báránya előtt és énekli:'

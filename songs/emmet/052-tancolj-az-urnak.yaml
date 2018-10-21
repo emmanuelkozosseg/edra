@@ -1,0 +1,29 @@
+books:
+  - id: emmet
+    number: '52'
+lyrics:
+  - lang: hu
+    title: Táncolj az Úrnak
+    verses:
+      - name: c
+        lines:
+          - Táncolj az Úrnak, dicsérjed nevét!
+          - Ujjongj, hisz Ő a te Megváltód!
+      - name: v1
+        lines:
+          - Mint Dávid az Úr ládája előtt,
+          - táncoljunk Istennek!
+          - Az Ő országa már köztünk van,
+          - daloljon ajkunk ujjongva!
+      - name: v2
+        lines:
+          - Mint Mária Erzsébet házában,
+          - ujjong a bensőm hálával.
+          - A Lélek a szívemet eltölti,
+          - alleluja, így zengi!
+      - name: v3
+        lines:
+          - Kik kedvesek az Úrnak, dicsérik Őt,
+          - hűségükkel szolgálnak!
+          - Mint betlehemi nyájak pásztorai,
+          - hódoljunk színe előtt!

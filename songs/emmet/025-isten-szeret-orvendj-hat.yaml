@@ -1,0 +1,27 @@
+books:
+  - id: emmet
+    number: '25'
+lyrics:
+  - lang: hu
+    title: Isten szeret, örvendj hát
+    verses:
+      - name: c
+        lines:
+          - Isten szeret örvendj hát,
+          - szabadulj fel Szentlelkében!
+          - Isten szeret örvendj hát, szíved járja át!
+          - Isten szeret örvendj hát,
+          - ünnepeljed nevét tánccal!
+          - Isten szeret örvendj hát, Ő tesz teljessé!
+      - name: v1
+        lines:
+          - Elhívásunk Tőle kaptuk,
+          - két kezével őriz minket.
+          - És ha megtart, el is hordoz,
+          - szeretetében.
+      - name: v2
+        lines:
+          - Istenünk jó, vezet minket,
+          - ereje formál bennünket.
+          - Eggyé tesz majd Lelke által,
+          - szeretetében.

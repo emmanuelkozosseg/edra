@@ -1,0 +1,51 @@
+books:
+  - id: emmet
+    number: '604'
+lyrics:
+  - lang: hu
+    title: Oh mily boldog
+    verses:
+      - name: c
+        lines:
+          - Oh mily boldog,
+          - ki az Úr igéjét hallgatja!
+          - De még boldogabb,
+          - aki megcselekszi azt!
+      - name: v1
+        lines:
+          - Boldogok a lélekben szegények,
+          - mert övék a mennyek országa.
+          - Boldogok, akik szomorúak,
+          - mert majd megvigasztalják őket.
+      - name: v2
+        lines:
+          - Boldogok a szelídek,
+          - mert övék lesz a föld.
+          - Boldogok, akik éhezik
+          - és szomjazzák az igazságot,
+          - mert majd eltelnek vele.
+      - name: v3
+        lines:
+          - Boldogok az irgalmasok,
+          - mert majd nekik is irgalmaznak.
+          - Boldogok a tiszta szívűek,
+          - mert meglátják az Istent.
+      - name: v4
+        lines:
+          - Boldogok a békét teremtők,
+          - mert Isten fiainak hívják majd őket.
+          - Boldogok,akik üldözést
+          - szenvednek az igazságért,
+          - mert övék a mennyek országa.
+      - name: v5
+        lines:
+          - És Boldogok lesztek, ha énmiattam
+          - gyaláznak és üldöznek benneteket,
+          - és hazudozva minden rosszat rátok
+          - fognak énmiattam.
+      - name: v6
+        lines:
+          - 'Akkor, ujjongjatok, és mind örüljetek:'
+          - az égben nagy lesz a jutalmatok.
+          - 'Hát, ujjongjatok, és mind örüljetek:'
+          - az égben nagy lesz a jutalmatok.

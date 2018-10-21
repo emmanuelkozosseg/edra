@@ -1,0 +1,51 @@
+books:
+  - id: emmet
+    number: I2
+lyrics:
+  - lang: hu
+    title: Pierre Goursat ima
+    verses:
+      - name: v1
+        lines:
+          - Úr Jézus, kérünk Téged
+          - Pierre Goursat boldoggá avatásáért!
+          - Élő vágy égett benne a lelkek
+          - megmentéséért és nagy szeretet
+          - az Egyház iránt.
+      - name: v2
+        lines:
+          - Hittel és reménységgel szolgálta
+          - az Egyház lelki és missziós megújulását.
+          - Az ő közbenjárására kérünk Urunk,hogy
+          - mindig teljesen Rád tudjuk bízni magunkat,
+      - name: v3
+        lines:
+          - nagylelkűen szolgáljunk és megtegyük
+          - akaratodat. Adj nekünk
+          - a Szentségimádásra nyitott szívet,
+          - mély együttérzést minden ember iránt
+      - name: v4
+        lines:
+          - és éleszd fel bennünk szereteted tüzét
+          - a világ evangelizációjáért! Isten szolgájának,
+          - Pierre Goursatnak közbenjárására
+          - állhatatosan kérünk Téged,
+      - name: v5
+        lines:
+          - árassz el minket minden jóval
+          - és kegyelemmel, hogy segítségére
+          - lehessünk a szegényeknek, azoknak,
+          - akiket az élet különösen megsebzett;
+      - name: v6
+        lines:
+          - hogy vigasztalni tudjuk a szomorúakat,
+          - megerősítsük a gyengéket
+          - és gyógyítsuk a betegeket!
+          - (személyes imaszándékok felsorolása..)
+      - name: v7
+        lines:
+          - Úr Jézus kérünk Téged, hogy mutasd
+          - meg szelíd és alázatos szíved végtelen
+          - szeretetét mindazoknak, akik távol
+          - vannak Tőled, vagy még nem ismernek
+          - Téged! AMEN

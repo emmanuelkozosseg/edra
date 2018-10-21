@@ -1,0 +1,15 @@
+books:
+  - id: emmet
+    number: E8
+lyrics:
+  - lang: hu
+    title: Szent vagy szent vagy
+    verses:
+      - name: v1
+        lines:
+          - Szent vagy! Szent vagy! Szent vagy!
+          - Mindenség Ura, Istene,
+          - Dicsőséged betölti a mennyet és a földet,
+          - Hozsanna a magasságban!
+          - Áldott aki jön az Úr nevében!
+          - Hozsanna a magasságban!

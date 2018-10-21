@@ -1,0 +1,35 @@
+books:
+  - id: emmet
+    number: '806'
+lyrics:
+  - lang: hu
+    title: Christus idem
+    verses:
+      - name: v1
+        lines:
+          - Christus idem heri hodie et semper,
+          - Christo gloria nunc et in secula!
+      - name: v2
+        lines:
+          - Quis nos separabit a caritate Christi?
+          - Si Deus pro nobis est quis erit contra nos?
+      - name: v3
+        lines:
+          - H. Ki választhat el minket Krisztus szeretetétől?
+          - Hogyha velünk van az Isten, ki lehet ellenünk?
+      - name: v4
+        lines:
+          - GB. Who will separate us from Jesus’ love that saves us?
+          - Who will be against us if the Lord is by our side?
+      - name: v5
+        lines:
+          - I. Chi dal suo amore potrà mai separarci?
+          - È con noi il Cristo; chi contro noi sarà?
+      - name: v6
+        lines:
+          - F. Qui nous privera de l’amour dont Dieu nous aime?
+          - Si Dieu lui-même est pour nous, qui sera contre nous?
+      - name: v7
+        lines:
+          - D. Was kann uns noch trennen von Gottes großer Liebe?
+          - Wenn Gott selber für uns ist, wer wird gegen uns sein?

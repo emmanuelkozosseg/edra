@@ -1,0 +1,31 @@
+books:
+  - id: eeym17
+    number: '30'
+lyrics:
+  - lang: en
+    title: In the upper room
+    verses:
+      - name: v1
+        lines:
+          - In the upper room, gathered here with Mary
+          - We lift up our eyes to You, Lord.
+          - Pour your glory down, fill us with your splendour,
+          - Set our hearts alight with your fire.
+      - name: c
+        lines:
+          - Come, Spirit of God,
+          - O breath come from the Most High.
+          - Descend on us, flame of his love;
+          - O come, burn always in us.
+      - name: v2
+        lines:
+          - To our sinful souls, come Creator Spirit,
+          - Come and fill our hearts with your grace.
+          - Give your seven gifts, loose our tongues to praise You,
+          - Let us tell the world of your love!
+      - name: v3
+        lines:
+          - Fill our hearts with love for our brothers round us;
+          - Make of us one body on earth.
+          - Take our humble praise, change it by your power,
+          - Let us be renewed in your joy.

@@ -1,0 +1,49 @@
+books:
+  - id: emmet
+    number: '38'
+lyrics:
+  - lang: hu
+    title: Szeretet Istene
+    verses:
+      - name: c
+        lines:
+          - Szeretet Istene, dicsérünk szüntelen,
+          - ki nekünk egyszülött Fiadat küldted el,
+          - hogy aki Benne hisz, az sose vesszen el,
+          - hanem Őáltala legyen a gyermeked.
+      - name: v1
+        lines:
+          - Angyalok serege ünnepel,
+          - arcodat szemléli szüntelen.
+          - 'Most velük dicsérjen énekünk:'
+          - nevedet áldjuk, Istenünk.
+      - name: v2
+        lines:
+          - Jó Atyánk, örök Alkotónk,
+          - Téged áldanak a csillagok.
+          - Létrehoztad a földeket,
+          - s emberekre bíztad a művedet.
+      - name: v3
+        lines:
+          - És mikor engedetlenül
+          - elhagyott, ellened szegült,
+          - Újra hívtad a népeket,
+          - megmutattad a Te szereteted.
+      - name: v4
+        lines:
+          - Így mikor az idő betelt,
+          - egyszülött Fiadat küldted el.
+          - Testet öltött a Végtelen,
+          - életét adta, ki bűntelen.
+      - name: v5
+        lines:
+          - Jézus él, Krisztus újra él,
+          - életünkben Ő ad új reményt.
+          - Benne nyer erőt a csüggedő,
+          - Ő az Úr, a mi Üdvözítőnk.
+      - name: v6
+        lines:
+          - Jó Atyánk, örök Istenünk,
+          - Szent Fiaddal együtt tisztelünk.
+          - 'Véled áldjuk a Lelkedet:'
+          - 'mind, aki él zengi: szent a neved.'

@@ -1,0 +1,40 @@
+books:
+  - id: emmet
+    number: '409'
+lyrics:
+  - lang: hu
+    title: Ó Mária Te az Úrnak...
+    verses:
+      - name: c
+        lines:
+          - Ó Mária, Te az Úrnak anyja lettél.
+          - A mi Istenünk a Te igened
+          - által lett emberré
+          - Örök Isten legyen úgy,
+          - ahogy szeretnéd!
+          - Lélek Istenünk töltsd be
+          - életünk jöjj, légy velünk!
+      - name: v1
+        lines:
+          - Íme Gábor angyal lép házadba,
+          - 'hozza már a hírt: hogy a méhedben fog'
+          - megfoganni Jézus.
+          - A Szentlélek száll rád a mennyből
+          - 'és erő tölt el,a gyermek, akit szülsz:'
+          - Emmánuel.
+      - name: v2
+        lines:
+          - Az élet útján kísérsz minket és vigyázol ránk.
+          - Hited által mondod bátorítva nékünk,
+          - hogy az Istenünk jó,
+          - megtesz mindent, hogyha kérjük Őt,
+          - és a gyengeségünket legyőzi bennünk.
+      - name: v3
+        lines:
+          - Téged ó Atyánk most
+          - Máriával kérve kérünk,
+          - hogy a félelmünket
+          - vedd el végleg tőlünk!
+          - A te szent erőddel formáld át most
+          - régi életünk és a bátorságnak
+          - Lelkét add meg nékünk!

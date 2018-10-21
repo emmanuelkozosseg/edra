@@ -1,0 +1,31 @@
+books:
+  - id: emmet
+    number: '11'
+lyrics:
+  - lang: hu
+    title: Megújul a szívünk
+    verses:
+      - name: c
+        lines:
+          - Megújul a szívünk, megáldja életünk
+          - Ő, aki él. Alleluja!
+          - Megújul a szívünk, megáldja életünk
+          - Ő, aki él. Alleluja!
+      - name: v1
+        lines:
+          - Jézus adta a fényt szívünkbe,
+          - s arra kér, hogy adjuk tovább.
+          - Mert e fény, ha a földre árad
+          - újra éled e szép világ.
+      - name: v2
+        lines:
+          - 'Ím az éjszaka véget ért már:'
+          - itt a nappali fényesség.
+          - Menjünk el a világ végéig,
+          - s adjuk hírül, hogy Jézus él!
+      - name: v3
+        lines:
+          - Téged áld az imánk, oh Jézus,
+          - s néked adjuk az életünk.
+          - Száll a háladalunk most hozzád,
+          - mert Te megszabadítottál.

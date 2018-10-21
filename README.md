@@ -2,14 +2,16 @@
 
 Itt tároljuk az Emmánuel Közösség énekeit az OpenSong vetítőprogram formátumában.
 
+**_Ez az oldal az énekek használatáról és a vetítésről szól._**
+_Az Emmet.yaml énekformátumról és a technikai részletekről lásd a [bin/README.md](bin/README.md) fájlt._
+
 ## Hogyan telepítsem?
 
 1. Töltsd le és telepítsd az OpenSongot [az opensong.org-ról](http://www.opensong.org/home/download).
-2. Töltsd le [az Emmánueles alapcsomagot](https://bitbucket.org/eckerg/emmet-enekek/downloads/OpenSong.zip), amibe már beletettünk:
+2. Töltsd le [az Emmánueles alapcsomagot](https://bitbucket.org/eckerg/emmet-enekek/downloads/alapcsomag.zip), amibe már beletettünk:
     * néhány képet, amit énekek között lehet vetíteni (pl. az ikont);
     * illetve pár alapbeállítást (pl. az előtér és háttér színét, a szöveg elrendezését, stb.)
-3. Töltsd le [az itteni énekeket egy csomagban](https://bitbucket.org/eckerg/emmet-enekek/get/HEAD.zip), és tedd be az alapcsomag _Songs_ mappájába az _Emmánuel_ mappát.
-    * Az _Emmánuel_ mappa mellett találsz egy `README.md` és egy `emmet-songbooks.ini` fájlt, ezek nem kellenek az OpenSongnak.
+3. Töltsd le [az itteni énekeket egy csomagban](https://bitbucket.org/eckerg/emmet-enekek/downloads/opensong.zip), és tömörítsd ki az alapcsomag _Songs_ mappájába.
 4. Indítsd el az OpenSongot, és add meg neki, hogy hova tetted a (most már teljes) alapcsomagot.
 
 > **Tipp:** Az alapértelmezett Arialnél egy kicsit jobban olvasható a [Mentone betűtípus](https://bitbucket.org/eckerg/emmet-enekek/downloads/mentone-semibold.otf).
@@ -17,7 +19,7 @@ Itt tároljuk az Emmánuel Közösség énekeit az OpenSong vetítőprogram form
 
 ## Hogyan frissítsem?
 
-Törölj ki mindent a _Songs_ mappából, és töltsd le újra [az itteni énekeket](https://bitbucket.org/eckerg/emmet-enekek/get/HEAD.zip).
+Törölj ki mindent a _Songs_ mappából, és töltsd le újra [az itteni énekeket](https://bitbucket.org/eckerg/emmet-enekek/downloads/opensong.zip).
 
 ## Hogyan használjam?
 
@@ -46,24 +48,26 @@ A képernyőt a **K** billentyűvel sötétíted el (fekete mód), az Emmánuele
 
 1. Ha megnyomod, előjön a _Dal keresése_ ablak, és a kurzor a _Gyorskeresés_ mezőben villog.
 2. Felül, a _Mappa kiválasztása_ legördülő menüben ki tudod választani az énekeskönyvet, ha nem stimmel.
-3. A _Gyorskeresés_ mezőbe írd be az ének sorszámát 3 számjegyre kiegészítve, pl. `003`. (E-s énekeknél az E utáni számot 2 jegyre kell kiegészíteni, pl. `E05`.)
-    * (Tartsd észben, hogy a gyorskeresés az énekcímek **elejét** nézi a lenti listában. Például hiába tudod, hogy az _Örülj az Úrban, áldd az Ő nevét_ kezdetű éneket keresed, ha így keresel rá, nem fogja megtalálni, mert az ének címe: `024 Örülj az Úrban, áldd az Ő nevét.xml`. Ha teljes keresésre van szükséged, nyomd meg a Ctrl+F-et, de ez általában elég lassú.)
-4. Ha megvan az ének, kattints a _Hozzáad_ gombra (néha a sima Enter is működik).
+3. A _Gyorskeresés_ mezőbe írd be az ének sorszámát 3 számjegyre kiegészítve, pl. `003`. ("Betűs" énekeknél a betű utáni számot 2 jegyre kell kiegészíteni, pl. `E05`.)
+    * Tartsd észben, hogy a gyorskeresés az énekcímek **elejét** nézi a lenti listában. Például hiába tudod, hogy az _Örülj az Úrban, áldd az Ő nevét_ kezdetű éneket keresed, ha így keresel rá, nem fogja megtalálni, mert az ének címe: `024 Örülj az Úrban, áldd az Ő nevét.xml`. Ha teljes keresésre van szükséged, nyomd meg a Ctrl+F-et, de ez általában elég lassú.
+    * Az imádságok is be vannak számozva, **I** betűvel kezdődnek.
+    * Az új énekek, amik nem szerepelnek az Emmánueles füzetben, szintén kaptak számot, és **N** betűvel kezdődnek.
+4. Ha megvan az ének, kattints a _Hozzáad_ gombra (vagy üss Entert, de a numerikus billentyűzet Entere nem működik).
 
-Ezután válts át normál módra, és szintén billentyűkkel tudsz váltani a versszakok között.
+Ezután válts át normál módba, és szintén billentyűkkel tudsz váltani a versszakok között.
 
 * A **fel/le nyilak** értelemszerűen az előző/következő versszakra ugranak.
 * A **balra/jobbra nyilak** az előző/következő énekközbe ugranak. (Két ének közé az OpenSong mindig automatikusan berak egy üres diát.)
 * Az **1, 2, 3, ...** gombokkal tudsz a megfelelő számú versszakra ugrani (V1, V2, V3, ...).
-    * Néha egy versszak több darabra van szétszedve (V1, V12), ilyenkor a **fel/le nyilakat** használd.
+    * Néha egy versszak több darabra van szétszedve; ilyenkor **nyomd meg újra** a versszak számát, vagy használd a **fel/le nyilakat**.
 * A **C** gomb a refrénre ugrik vissza (C = Chorus), a **B** pedig az átkötésre (B = Bridge).
 * (Van még a **T**, ami a codára, és a **P**, ami az előrefrénre ugrik, de ezeket nem használjuk a dalszövegekben.)
 * Az **Esc** gombbal lépsz ki az egész vetítésből.
 
 ### Tippek
 
-* Érdemes _Két képernyő előnézettel_ vetítési módban játszani a programmal, amíg kitapasztalod, hogy hogyan működik.
-* Amikor egy ének véget ér, az **L** billentyűvel kitesszük a logót, és rögtön elő is hozzuk a _Dal keresése_ ablakot a **Q** gombbal, hogy amint kiderül a következő ének, gyorsan be lehessen tölteni.
+* Érdemes először nyugodt körülmények között, _Két képernyő előnézettel_ vetítési módban játszani a programmal, amíg kitapasztalod, hogy hogyan működik.
+* Amikor egy ének véget ér, az **L** billentyűvel ki szoktuk tenni a logót, és rögtön elő is szoktuk hozni a _Dal keresése_ ablakot a **Q** gombbal, hogy amint kiderül a következő ének, gyorsan be lehessen tölteni.
 
 > **Figyelem:** Vetítési módban nem lehet törölni éneket. Ha rossz éneket ütöttél be, simán csak hagyd ott.
 
@@ -75,6 +79,8 @@ Ebben az esetben két opciód van -- bár ha ismered a Gitet, akkor ezt valósz�
 
 * Kérj hozzáférést a repóhoz Ecker Gábortól (ecker pont gabor kukac gmail pont com), klónozd le a repót, változtasd meg az énekeket kézzel vagy az OpenSong Dal módjával, majd a változtatásaidat pushold vissza.
 * Forkold le a repót, változtasd meg, amit szeretnél, pushold vissza a privát repódba, majd küldj egy pull requestet.
+
+Az énekeket egy saját, egyedi formátumban tároljuk (Emmet.yaml), aminek a leírását a [bin/README.md](bin/README.md) fájlban olvashatod el.
 
 ### Ha nem ismered a Gitet
 

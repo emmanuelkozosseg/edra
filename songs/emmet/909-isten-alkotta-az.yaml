@@ -1,0 +1,29 @@
+books:
+  - id: emmet
+    number: '909'
+lyrics:
+  - lang: hu
+    title: Isten alkotta az...
+    verses:
+      - name: v1
+        lines:
+          - Isten alkotta az oroszlánokat,
+          - a medvét, a kengurut.
+          - Isten alkotta tevéket is,
+          - a tehenet, a tigrist.
+      - name: c
+        lines:
+          - /:Minden, amit alkotott jó:/
+          - Az Ő műve mind.
+      - name: v2
+        lines:
+          - Isten alkotta a füleimet is,
+          - a szemeim, s az orrom.
+          - Isten alkotta az ujjaimat mind,
+          - A térdem, s a lábam.
+      - name: v3
+        lines:
+          - Emeld fel kezed, álljál fél lábra
+          - mosolyogj az Úrnak!
+          - Csípd meg orrodat, görbítsd az ujjadat,
+          - 'Fordulj körbe és zengd:'

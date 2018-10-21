@@ -1,0 +1,37 @@
+books:
+  - id: eeym17
+    number: '41'
+lyrics:
+  - lang: en
+    title: Into your hands
+    verses:
+      - name: c
+        lines:
+          - Into your hands I commend my spirit,
+          - God my only strength;
+          - Throughout the night guard me
+          - With your watchful power.
+      - name: v1
+        lines:
+          - Hide me in the shadow of your outstretched wings,
+          - Keep me safe as the apple of your own eye.
+      - name: v2
+        lines:
+          - When the light of day is hidden from my eyes,
+          - Shelter me always in your presence, my Lord.
+      - name: v3
+        lines:
+          - May your Spirit light the path before my steps,
+          - In my heart keep the flame of love burning still.
+      - name: v4
+        lines:
+          - Let not night conceal my grievous sin from me,
+          - Spread your peace over me till morning is come.
+      - name: v5
+        lines:
+          - Come, my refuge, come the shelter of my soul,
+          - Take my thoughts, bind them to your service, o Lord.
+      - name: v6
+        lines:
+          - When the dawn comes may I still enjoy your grace,
+          - I will sing, I will praise your glorious name.

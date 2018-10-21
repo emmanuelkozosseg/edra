@@ -1,0 +1,24 @@
+books:
+  - id: emmet
+    number: '247'
+lyrics:
+  - lang: hu
+    title: Uram az én szívem
+    verses:
+      - name: v1
+        lines:
+          - Uram az én szívem
+          - nem nagyravágyó,
+          - szememben sincsen kérkedés.
+          - Nekem már nem kell nagy csoda sem.
+      - name: c
+        lines:
+          - Csak bízz Izrael, és remélj az Úrban
+          - mostantól mindörökké,
+          - hát bízz Izrael, és remélj az Úrban
+          - mostantól mindörökké.
+      - name: v2
+        lines:
+          - Békére és csendre intettem szívem,
+          - és már a lelkem úgy pihen bennem,
+          - amint a gyermek anyja ölén.

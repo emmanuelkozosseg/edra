@@ -1,0 +1,16 @@
+books:
+  - id: emmet
+    number: E7
+lyrics:
+  - lang: hu
+    title: A szentlélek leszáll
+    verses:
+      - name: v1
+        lines:
+          - A Szentlélek leszáll
+          - és minden megváltozik.
+          - Megnyílik szemed.
+          - A Szentlélek leszáll,
+          - és új emberré leszel.
+          - Meglátod Őt, aki szeret.
+          - '/: Meglátod Őt, Jézust. :/'

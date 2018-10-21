@@ -1,0 +1,13 @@
+books:
+  - id: emmet
+    number: '64'
+lyrics:
+  - lang: hu
+    title: Masithi!
+    verses:
+      - name: v1
+        lines:
+          - Masithi! Amen, siyakudumisa
+          - Masithi! Amen, siyakudumisa
+          - Masithi! Amen bawo,
+          - Amen bawo,amen syakudumisa.

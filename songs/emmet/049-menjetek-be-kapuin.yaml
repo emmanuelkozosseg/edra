@@ -1,0 +1,13 @@
+books:
+  - id: emmet
+    number: '49'
+lyrics:
+  - lang: hu
+    title: Menjetek be kapuin
+    verses:
+      - name: v1
+        lines:
+          - '/: Menjetek be kapuin hálaadással,'
+          - tornácain át dicséretekkel! :/
+          - '/: Mert jó az Úr, örökkévaló kegyelme,'
+          - és hűsége megmarad mindörökre! :/

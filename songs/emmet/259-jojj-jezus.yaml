@@ -1,0 +1,42 @@
+books:
+  - id: emmet
+    number: '259'
+lyrics:
+  - lang: hu
+    title: Jöjj Jézus
+    verses:
+      - name: v1
+        lines:
+          - Jöjj Jézus!
+          - Jöjj el hozzám, várok Rád!
+          - Jöjj el hozzám, várok Rád!
+          - Jöjj el hozzám, várok Rád!
+          - Jöjj el hozzám!
+      - name: v2
+        lines:
+          - Érints meg!
+          - Jöjj el hozzám, várok Rád!
+          - Jöjj el hozzám, várok Rád!
+          - Jöjj el hozzám, várok Rád!
+          - Jöjj el hozzám!
+      - name: v3
+        lines:
+          - Tisztíts meg!
+          - Jöjj el hozzám, várok Rád!
+          - Jöjj el hozzám, várok Rád!
+          - Jöjj el hozzám, várok Rád!
+          - Jöjj el hozzám!
+      - name: v4
+        lines:
+          - Gyógyíts meg!
+          - Jöjj el hozzám, várok Rád!
+          - Jöjj el hozzám, várok Rád!
+          - Jöjj el hozzám, várok Rád!
+          - Jöjj el hozzám!
+      - name: v5
+        lines:
+          - Újíts meg!
+          - Jöjj el hozzám, várok Rád!
+          - Jöjj el hozzám, várok Rád!
+          - Jöjj el hozzám, várok Rád!
+          - Jöjj el hozzám!

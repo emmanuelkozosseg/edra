@@ -1,0 +1,15 @@
+books:
+  - id: emmet
+    number: '66'
+lyrics:
+  - lang: hu
+    title: Isten, Ő az erőm
+    verses:
+      - name: v1
+        lines:
+          - Isten, Ő az erőm,
+          - és Ő a mindenség Ura!
+          - 'Üdvözítőm, ma néki énekelem:'
+          - Oly csodálatos a neved!
+          - Mivel Te megváltottál már.
+          - Hallja meg a föld s az ég, hogy...

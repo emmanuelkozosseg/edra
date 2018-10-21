@@ -1,0 +1,15 @@
+books:
+  - id: emmet
+    number: A4
+lyrics:
+  - lang: hu
+    title: Isten báránya
+    verses:
+      - name: v1
+        lines:
+          - '/: Isten báránya,'
+          - Te elveszed a világ bűneit,
+          - irgalmazz, irgalmazz nekünk! :/
+          - Isten báránya,
+          - Te elveszed a világ bűneit,
+          - adj nekünk, adj nekünk békét!

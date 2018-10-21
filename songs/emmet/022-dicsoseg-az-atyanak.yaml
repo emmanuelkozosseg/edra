@@ -1,0 +1,18 @@
+books:
+  - id: emmet
+    number: '22'
+lyrics:
+  - lang: hu
+    title: Dicsőség az Atyának
+    verses:
+      - name: v1
+        lines:
+          - Dicsőség az Atyának,
+          - a Fiúnak, a Szentléleknek!
+          - Miképpen kezdetben,
+          - most és mindörökké! (Ámen.)
+      - name: v2
+        lines:
+          - Mint éltető harmat
+          - vagy napfény a völgyre,
+          - szálljon úgy ránk az isteni béke!

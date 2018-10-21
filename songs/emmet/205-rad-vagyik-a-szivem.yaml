@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '205'
+lyrics:
+  - lang: hu
+    title: Rád vágyik a szívem
+    verses:
+      - name: v1
+        lines:
+          - Rád vágyik a szívem, örök Isten.
+          - Add nékem örömöd s a békédet,
+          - mert csak Te vagy erőm és énekem.

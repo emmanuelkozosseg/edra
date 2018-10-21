@@ -1,0 +1,53 @@
+books:
+  - id: emmet
+    number: '803'
+lyrics:
+  - lang: hu
+    title: Áldjad én lelkem az Úr nevét!
+    verses:
+      - name: c
+        lines:
+          - Áldjad én lelkem az Úr nevét!
+      - name: v1
+        lines:
+          - Magasztalja lelkem az Urat,
+          - És szívem ujjong üdvözítő Istenemben.
+      - name: v2
+        lines:
+          - Tekintetre méltatta alázatos szolgáló leányát,
+          - Íme, ezentúl boldognak hirdet az összes nemzedék.
+      - name: v3
+        lines:
+          - 'Mert nagyot művelt velem Ő, aki Hatalmas:'
+          - Ő, akit Szentnek hívunk.
+      - name: v4
+        lines:
+          - Nemzedékről nemzedékre megmarad irgalma azokon,
+          - Akik istenfélők.
+      - name: v5
+        lines:
+          - 'Csodát művelt erős karjával:'
+          - A kevélykedőket széjjelszórta.
+      - name: v6
+        lines:
+          - Hatalmasokat elűzött trónjukról,
+          - Kicsinyeket pedig felmagasztalt.
+      - name: v7
+        lines:
+          - Az éhezőket minden jóval betölti,
+          - A gazdagokat elbocsátja üres kézzel.
+      - name: v8
+        lines:
+          - Gondjába vette gyermekét, Izraelt,
+          - Megemlékezett irgalmáról,
+      - name: v9
+        lines:
+          - Melyet atyáinknak hajdan megígért,
+          - Ábrahámnak és utódainak mindörökké.
+      - name: v10
+        lines:
+          - Dicsőség az Atyának, a Fiúnak
+          - És a Szentlélek Istennek,
+          - Miképpen kezdetben,
+          - most és mindenkor
+          - És mindörökkön örökké. Ámen.

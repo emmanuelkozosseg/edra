@@ -1,0 +1,13 @@
+books:
+  - id: emmet
+    number: E22
+lyrics:
+  - lang: hu
+    title: Ne félj, ne aggódj
+    verses:
+      - name: v1
+        lines:
+          - Ne félj, ne aggódj! Ne sírj, ne bánkódj!
+          - Ha tiéd Isten, tiéd már minden.
+          - Ne félj, ne aggódj! Ne sírj, ne bánkódj!
+          - Elég Ő néked!

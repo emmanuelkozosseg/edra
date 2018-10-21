@@ -1,0 +1,28 @@
+books:
+  - id: emmet
+    number: '44'
+lyrics:
+  - lang: hu
+    title: Zengd velünk
+    verses:
+      - name: c
+        lines:
+          - Alleluja, alleluja, alleluja!
+      - name: v1
+        lines:
+          - Zengd velünk, örökké jó az Úr!
+          - Énekeld szeretetét!
+          - Izrael háza is mondja hát,
+          - zengje hát nagy örömét!
+      - name: v2
+        lines:
+          - Az Úr velünk, ki lehet ellenünk.
+          - Rettegést nem ismerünk.
+          - Jobb az Úr ereje énnekem,
+          - jobb is, mint az emberé.
+      - name: v3
+        lines:
+          - Ő az én teremtő Istenem,
+          - Istenem, ki nem hagy el.
+          - Benne én ujjongva járhatok,
+          - élhetek a tenyerén.

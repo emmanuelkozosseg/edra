@@ -1,0 +1,37 @@
+books:
+  - id: eeym17
+    number: '10'
+lyrics:
+  - lang: en
+    title: Give praise to God’s holy name!
+    verses:
+      - name: c
+        lines:
+          - Give praise to God’s holy name!
+          - Give praise, you servants of the Lord!
+          - Praise the Lord, for he is good!
+          - Celebrate the gentleness of God!
+      - name: v1
+        lines:
+          - Come ring out all our joy! Here is our Lord!
+          - Hail the Lord God our rock, true salvation He brings!
+          - Let us come unto Him, give Him our thanks,
+          - With our song and our dance, offer praise to the King!
+      - name: v2
+        lines:
+          - God is mighty and strong, He is our Lord.
+          - King above all the gods, all the mountains are his.
+          - In his hands are the depths, all of the earth,
+          - And the land and the sea by his own hand were made.
+      - name: v3
+        lines:
+          - Let us enter his house, bow and bend low.
+          - Let us kneel before Him, He alone is our God.
+          - To his pasture we come, He is our guide,
+          - We belong to the flock that is led by his hand.
+      - name: v4
+        lines:
+          - Hear the word of the Lord! Ponder his law!
+          - Do not harden your hearts, listen now to his voice!
+          - Keep us close to You, Lord, steadfast and true,
+          - 'Strengthen us in our faith: all our hope is in You!'

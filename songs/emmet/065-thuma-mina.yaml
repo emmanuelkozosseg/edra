@@ -1,0 +1,11 @@
+books:
+  - id: emmet
+    number: '65'
+lyrics:
+  - lang: hu
+    title: Thuma mina
+    verses:
+      - name: v1
+        lines:
+          - Thuma Mina, Thuma Mina
+          - Thuma Mina Somandla

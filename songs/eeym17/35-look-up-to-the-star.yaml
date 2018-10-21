@@ -1,0 +1,42 @@
+books:
+  - id: eeym17
+    number: '35'
+lyrics:
+  - lang: en
+    title: Look up to the star
+    verses:
+      - name: v1
+        lines:
+          - If the wind brings darker news of temptation.
+          - If you’re cast upon the rocks of your cares.
+          - If you cannot fight the waves of ambition,
+          - And the storms of passion drown of your prayers.
+      - name: c
+        lines:
+          - Look up to the star, call Mary by name,
+          - Follow her voice, be not afraid.
+          - Look up to the star, call Mary by name,
+          - Trust, she will lead you on the way.
+      - name: v2
+        lines:
+          - When in anguish and in doubt you lose your way,
+          - When the darkness of despair covers you.
+          - When you're faced with memories of all your faults,
+          - And the thought of being judged tortures you.
+      - name: v3
+        lines:
+          - If your soul is overcome with avarice,
+          - Overwhelmed by what it sees jealously.
+          - If your heart is swallowed up and all is lost,
+          - And you're drowned beneath your own misery.
+      - name: v4
+        lines:
+          - Shining out across the sea as our guiding Star,
+          - Showing from afar the port that you seek.
+          - For her rays shine pure and strong over all the Earth,
+          - In the Heavens high above, in the deep.
+          - 'Coda:'
+          - Follow her voice, you will never stray.
+          - Call on her name, she will strengthen you.
+          - Be not afraid, with you she will stay.
+          - True to the port, she is guiding you.

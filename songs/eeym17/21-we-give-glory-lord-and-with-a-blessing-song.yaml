@@ -1,0 +1,34 @@
+books:
+  - id: eeym17
+    number: '21'
+lyrics:
+  - lang: en
+    title: We give glory, Lord, And with a blessing song
+    verses:
+      - name: c
+        lines:
+          - We give glory, Lord,
+          - And with a blessing song,
+          - Little children sure
+          - Of their Father’s love,
+          - We proclaim our hope,
+          - Voices joined as one,
+          - Together honour your name.
+      - name: v1
+        lines:
+          - Holy Lord, You stretch out your hand,
+          - Giving life and hope to the earth.
+          - In the night, the true light shines out,
+          - Word of God, the lamp of our path!
+      - name: v2
+        lines:
+          - Let the peoples sing out their joy,
+          - Let the nations follow your ways,
+          - 'Let the priests proclaim your decrees:'
+          - Bless, o Lord, this people of praise.
+      - name: v3
+        lines:
+          - As the earth has yielded its fruit,
+          - So our God has blessed us once more.
+          - From the dawn to setting of sun,
+          - Let the nations come to adore.

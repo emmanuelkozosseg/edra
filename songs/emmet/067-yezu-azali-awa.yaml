@@ -1,0 +1,31 @@
+books:
+  - id: emmet
+    number: '67'
+lyrics:
+  - lang: hu
+    title: Yezu azali awa
+    verses:
+      - name: c
+        lines:
+          - Alleluia, Alleluia
+          - Alleluia na Yezu.
+      - name: v1
+        lines:
+          - Yezu azali awa,
+          - Yezu azali awa,
+          - yezu azali awa na biso.
+      - name: v2
+        lines:
+          - Biso tokosetela,
+          - biso tokosetela,
+          - Biso tokosetela na Yezu.
+      - name: v3
+        lines:
+          - Biso tokoligana,
+          - biso tokoligana,
+          - Biso tokoligana na Yezu.
+      - name: v4
+        lines:
+          - Biso tokomona ye,
+          - biso tokomona ye,
+          - Biso tokomona ye, na Lola.

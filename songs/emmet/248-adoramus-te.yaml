@@ -1,0 +1,98 @@
+books:
+  - id: emmet
+    number: '248'
+  - id: eeym17
+    number: '38'
+lyrics:
+  - lang: hu
+    title: Adoramus te
+    verses:
+      - name: c
+        lines:
+          - Adoramus te, Krisztus Király,
+          - magasztalunk és imádunk Téged!
+          - Adoramus te, királyok Királya,
+          - szent Fölséged áldjuk örökké!
+      - name: v1
+        lines:
+          - Jézus, az Atya fénye,
+          - minden nép reménye,
+          - Jézus élet szerzője,
+          - Adoramus te!
+          - 
+          - Emberré lett Isten,
+          - hívek örök kincse,
+          - békesség Istene,
+          - Adoramus te!
+      - name: v2
+        lines:
+          - Jézus, szegények Atyja,
+          - betegek gyógyítója,
+          - Boldogságos Szűz Fia,
+          - Adoramus te!
+          - 
+          - Engedelmes Jézus,
+          - alázatos szívű,
+          - szelídségnek példája,
+          - Adoramus te!
+      - name: v3
+        lines:
+          - Jézus, élő Isten,
+          - Egyház reménysége,
+          - Jézus utunk, életünk,
+          - Adoramus te!
+          - 
+          - Csodálatos Jézus,
+          - erények példaképe,
+          - dicsőségnek Királya,
+          - Adoramus te!
+      - name: v4
+        lines:
+          - Jézus, bölcsességünk,
+          - Örök fényességünk,
+          - Tanítónk és Mesterünk,
+          - Adoramus te!
+          - 
+          - Jézus, erős Isten,
+          - igazságnak napja,
+          - Megváltónk és pártfogónk,
+          - Adoramus te!
+  - lang: en
+    title: Adoramus te!
+    verses:
+      - name: c
+        lines:
+          - Adoramus te! We worship You, Lord!
+          - Jesus Christ, our Saviour and Messiah!
+          - Adoramus te! We worship you, Lord!
+          - We adore You, Jesus Christ, our Lord!
+      - name: v1
+        lines:
+          - Jesus, Son of God, Saviour of the world,
+          - Image of the Father, Adoramus te!
+          - Jesus God and man, Mary’s only Son,
+          - King of kings and Lord of lords, Adoramus te!
+      - name: v2
+        lines:
+          - Jesus, sinners' friend, brother of the poor,
+          - Jesus, shepherd of the flock, Adoramus te!
+          - Healer of the weak, comforter of souls,
+          - Jesus, everlasting love, Adoramus te!
+      - name: v3
+        lines:
+          - Jesus, living Word, ready in our need,
+          - Jesus, source of holiness, Adoramus te!
+          - Jesus, risen one, Saviour of our souls,
+          - You are way and truth and life, Adoramus te!
+      - name: v4
+        lines:
+          - Jesus, Prince of Peace, teacher of our hearts,
+          - Fullness of the father's love. Adoramus te!
+          - Jesus, Lamb of God, faithful unto death,
+          - Hope of all who trust in you. Adoramus te!
+      - name: v5
+        lines:
+          - Jesus, king of heav'n, joy of all the saints,
+          - Food of pilgrims, Bread of Life, Adoramus te!
+          - Glory of the Church, Holy one of God, Jesus,
+          - Risen from the dead, Adoramus te!

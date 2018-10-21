@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '607'
+lyrics:
+  - lang: hu
+    title: Ízleld és lásd
+    verses:
+      - name: v1
+        lines:
+          - Ízleld, és lásd, hogy jó az Úr!
+          - Ó ízleld és lásd, hogy az Úr jó!
+          - '/: Boldog ember az, ki benne bízik! :/'

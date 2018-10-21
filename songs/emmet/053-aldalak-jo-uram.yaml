@@ -1,0 +1,15 @@
+books:
+  - id: emmet
+    number: '53'
+lyrics:
+  - lang: hu
+    title: Áldalak jó Uram
+    verses:
+      - name: v1
+        lines:
+          - Áldalak jó Uram, teljes szívemből.
+          - Hirdetem majd csodás tetteid,
+          - és énekelek Rólad.
+          - Áldalak jó Uram, teljes szívemből.
+          - Boldoggá tesz, hogy
+          - Hozzád tartozom, alleluja!

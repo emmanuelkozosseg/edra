@@ -1,0 +1,18 @@
+books:
+  - id: emmet
+    number: '227'
+lyrics:
+  - lang: hu
+    title: Teremts bennem...
+    verses:
+      - name: v1
+        lines:
+          - Teremts bennem tiszta szívet,
+          - ó Uram!
+          - Az erős lelket újítsd meg bennem!
+      - name: v2
+        lines:
+          - Ne vess el engem a Te orcád elől!
+          - Szentlelkedet ne vond meg tőlem!
+          - Támogass az engedelmesség lelkével!
+          - Szabadításod örömét add nekem!

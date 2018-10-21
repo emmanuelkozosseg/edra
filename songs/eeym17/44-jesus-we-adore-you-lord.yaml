@@ -1,0 +1,37 @@
+books:
+  - id: eeym17
+    number: '44'
+lyrics:
+  - lang: en
+    title: Jesus, we adore you, Lord
+    verses:
+      - name: c
+        lines:
+          - Jesus, we adore you, Lord,
+          - Jesus, we adore you, Lord,
+          - Jesus, we adore you, Lord,
+          - We adore you.
+      - name: v1
+        lines:
+          - For life has made itself known.
+          - In the dark of our sin, light has shown,
+          - The Son of God, given for us
+          - We come to worship and adore.
+      - name: v2
+        lines:
+          - Jesus, true God and true man.
+          - You became one of us, Mary’s child.
+          - Emmanuel, God-is-with-us,
+          - You make your dwelling in our midst.
+      - name: v3
+        lines:
+          - Jesus, the Lamb who was slain,
+          - Let us gaze on your heart, pierced for us.
+          - Spirit of God flows from the cross,
+          - Water of life that makes us whole.
+      - name: v4
+        lines:
+          - Jesus, from out of the tomb,
+          - You have overcome death, God of life!
+          - Body of Christ, broken for us,
+          - We come to worship and adore.

@@ -1,0 +1,43 @@
+books:
+  - id: eeym17
+    number: '11'
+lyrics:
+  - lang: en
+    title: Glory to You, o Christ
+    verses:
+      - name: c
+        lines:
+          - Glory to You, o Christ,
+          - The Church’s one true Shepherd!
+          - You are the true and joyful
+          - Light that gives us life!
+      - name: v1
+        lines:
+          - Star of evening shining bright,
+          - In the glory of the Father,
+          - In your light we see the Light
+          - And in You we have our being!
+      - name: v2
+        lines:
+          - Let our voices praise your name
+          - And proclaim You to the nations.
+          - You are true God from true God
+          - Come to lead us to the Father!
+      - name: v3
+        lines:
+          - Send your Spirit on us, Lord.
+          - Let your grace shine down upon us.
+          - Take our world of dark and sin;
+          - Make of it a new creation!
+      - name: v4
+        lines:
+          - As we lift our hands on high
+          - And we offer You our praises,
+          - Take our hearts, our hope, our lives,
+          - And transform us for your glory!
+      - name: v5
+        lines:
+          - Lord, accept our evensong
+          - As the incense fills the temple,
+          - As we bow before your throne,
+          - Only Son, one with the Father!

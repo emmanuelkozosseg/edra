@@ -1,0 +1,29 @@
+books:
+  - id: emmet
+    number: '240'
+lyrics:
+  - lang: hu
+    title: Fogadd el Uram
+    verses:
+      - name: v1
+        lines:
+          - Fogadd el, Uram, szabadságomat,
+          - fogadd el egészen.
+          - Vedd értelmemet, akaratomat
+          - és emlékezésem.
+          - 
+          - Mindazt, amim van, és ami vagyok,
+          - Te adtad ingyen.
+          - Visszaadok Uram, visszaadok
+          - egyszerre mindent.
+      - name: v2
+        lines:
+          - Legyen fölöttünk korlátlan Úr
+          - rendelkezésed,
+          - 'csak egyet hagyj meg ajándékodul:'
+          - szeretnem Téged.
+          - 
+          - Csak a szeretet maradjon enyém
+          - a kegyelemmel,
+          - minden, de minden gazdagság enyém,
+          - más semmi nem kell.

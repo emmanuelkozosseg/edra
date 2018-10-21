@@ -1,0 +1,26 @@
+books:
+  - id: emmet
+    number: '903'
+lyrics:
+  - lang: hu
+    title: Kopp, kopp, kopp
+    verses:
+      - name: c
+        lines:
+          - Kopp, kopp, kopp, ki kopog az ajtón?
+          - Kopp, kopp, kopp, ki van odakint?
+      - name: v1
+        lines:
+          - Az ördög, ő akar bejönni.
+          - Nem! Nem! Nem!
+          - Zárva a szívem!
+      - name: v2
+        lines:
+          - Mária, ő akar bejönni.
+          - Igen! Igen! Igen!
+          - Jöjj, segíts nekem!
+      - name: v3
+        lines:
+          - Ő Jézus, ő akar bejönni.
+          - Igen! Igen! Igen!
+          - Nyitva a szívem!

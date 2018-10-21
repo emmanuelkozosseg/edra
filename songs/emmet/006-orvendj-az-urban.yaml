@@ -1,0 +1,30 @@
+books:
+  - id: emmet
+    number: '6'
+lyrics:
+  - lang: hu
+    title: Örvendj az úrban
+    verses:
+      - name: c
+        lines:
+          - Örvendj az Úrban, áldjad Istenedet,
+          - Őt, ki életet ad,
+          - és az útjaidat megáldja!
+      - name: v1
+        lines:
+          - Tőle jön eső a földre,
+          - Napsugár, mi minket éltet.
+          - És a föld gyümölcsöt ád.
+          - Áldd az ég Urát, Istenedet!
+      - name: v2
+        lines:
+          - Tőle kaptuk életünket,
+          - Öröm tölti be szívünket,
+          - Mert az Úr szeret, velünk
+          - Áldd az ég Urát, Istenedet!
+      - name: v3
+        lines:
+          - Áldjuk Őt, amíg csak élünk!
+          - Szüntelen hiszünk, remélünk.
+          - Angyali sereg, velünk
+          - Áldd az ég Urát, Istenedet!

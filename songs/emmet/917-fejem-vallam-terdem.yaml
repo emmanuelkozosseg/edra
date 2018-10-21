@@ -1,0 +1,13 @@
+books:
+  - id: emmet
+    number: '917'
+lyrics:
+  - lang: hu
+    title: Fejem, vállam, térdem...
+    verses:
+      - name: v1
+        lines:
+          - Fejem, vállam, térdem, talpam,
+          - térdem, talpam, térdem, talpam,
+          - fejem, vállam, térdem, talpam
+          - mind az Úrnak szolgálnak.

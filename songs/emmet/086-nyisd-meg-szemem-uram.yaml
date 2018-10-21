@@ -1,0 +1,33 @@
+books:
+  - id: emmet
+    number: '86'
+lyrics:
+  - lang: hu
+    title: Nyisd meg szemem Uram
+    verses:
+      - name: c
+        lines:
+          - Nyisd meg szemem, Uram,
+          - hadd lássak én!
+          - Jézus, így kiáltok feléd.
+          - Szentlelked vezesse lépteimet,
+          - életem Ura Te légy!
+      - name: v1
+        lines:
+          - Fogva tartott engem a halál, a sötétség,
+          - kiáltásom hallván kezed nyújtottad felém.
+          - Meggyógyítottál, a halál nem árthat már,
+          - mert lelkem a te békédben él.
+      - name: v2
+        lines:
+          - Téged dicsér ajkam, Uram, hűség Istene,
+          - jóságodat ünnepelve áldom szent neved.
+          - Benned bízom, Jézus, minden öröm forrása,
+          - és hálával zengem tetteid.
+      - name: v3
+        lines:
+          - Nem kell félnem,tudom,
+          - Isten soha nem hagy el.
+          - Megvigasztal engem, mikor hordom terhemet.
+          - A mindenségnek Alkotója hallja az imám,
+          - Ő mindenkor gondot visel rám.

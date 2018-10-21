@@ -1,0 +1,74 @@
+books:
+  - id: emmet
+    number: '90'
+  - id: eeym17
+    number: '1'
+lyrics:
+  - lang: hu
+    title: Dicsérd lelkem
+    verses:
+      - name: c
+        lines:
+          - Dicsérd, lelkem, az Úr nevét,
+          - végtelen kegyelmét.
+          - Dicsérd, lelkem, az Úr nevét,
+          - szüntelen áldd az életért,
+          - szüntelen áldd az életért!
+      - name: v1
+        lines:
+          - Áldjanak téged a nemzetek,
+          - ujjongva zengjék szent neved!
+          - 'Dicsőítsen énekük:'
+          - Hűséges vagy, Istenünk!
+      - name: v2
+        lines:
+          - Föld és ég is téged áld,
+          - ünnepelnek, nagy Király!
+          - Ki lehet most már ellenünk?
+          - Hatalmas vagy, Istenünk!
+      - name: v3
+        lines:
+          - Erős kézzel megmentesz,
+          - átsegítesz mindenen,
+          - visszaadtad életem,
+          - új dal zeng a lelkemben.
+      - name: v4
+        lines:
+          - Hozzád visszatérhetünk,
+          - a te örömödben élhetünk.
+          - Jöjj, Te lakj a szívünkben,
+          - legyél Úr a lelkünkben!
+  - lang: en
+    title: All my soul
+    verses:
+      - name: c
+        lines:
+          - All my soul, all my heart and being,
+          - Praise the Lord, without end!
+          - All my soul, all my heart and being,
+          - Praise the Lord, praise his Holy Name,
+          - Without end, praise his Holy Name!
+      - name: v1
+        lines:
+          - Nations cry out with joy and sing!
+          - 'Come and rejoice: the Lord is King!'
+          - Great is the glory of his name,
+          - Faithful and mighty is his reign.
+      - name: v2
+        lines:
+          - For all your wonders we give praise.
+          - You've overcome your enemies.
+          - All of the earth bows down to You,
+          - King of all ages, just and true.
+      - name: v3
+        lines:
+          - You lead us through the deadly sea,
+          - Singing a new song, “We are free”.
+          - By your right hand and mighty arm,
+          - You keep us safe from every harm.
+      - name: v4
+        lines:
+          - We will return and dwell with You,
+          - Telling the world your Name is true.
+          - All of our joy by You is giv'n,
+          - Reign in our hearts, Lord King of heav'n!

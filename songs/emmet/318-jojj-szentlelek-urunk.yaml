@@ -1,0 +1,64 @@
+books:
+  - id: emmet
+    number: '318'
+  - id: eeym17
+    number: '28'
+lyrics:
+  - lang: hu
+    title: Jöjj, Szentlélek, Urunk
+    verses:
+      - name: v1
+        lines:
+          - Jöjj, Szentlélek, Urunk,
+          - hozz vigasztalást!
+          - Jöjj, Szentlélek, Urunk,
+          - Te vezess az éjen át!
+      - name: c
+        lines:
+          - Jöjj, Lélek, add a fényedet
+          - És add a szereteted!
+          - Adj új hitet és új erőt,
+          - Jöjj, Éltetőnk!
+          - Jöjj, Szentlélek, szállj le ránk!
+          - Jöjj, Szentlélek, szállj le ránk!
+      - name: v2
+        lines:
+          - Jöjj, Szentlélek, Urunk,
+          - hozz gyógyulást!
+          - Jöjj, Szentlélek, Urunk,
+          - Szállj le ránk, égi Láng!
+      - name: v3
+        lines:
+          - Jöjj, Szentlélek, Urunk,
+          - Jöjj, égi Tűz!
+          - Jöjj, Szentlélek, Urunk,
+          - Alakítsd a szívünk!
+  - lang: en
+    title: Come, Holy Spirit, Comforter
+    verses:
+      - name: v1
+        lines:
+          - Come, Holy Spirit,
+          - Comforter of our souls.
+          - Come, Holy Spirit,
+          - Urge us on, urge us on!
+      - name: c
+        lines:
+          - Come bring your light, reveal the truth,
+          - Pour out your healing love.
+          - Increase our faith, renew our joy,
+          - Give strength from above,
+          - And come, Holy Spirit, come,
+          - And come, Holy Spirit, come.
+      - name: v2
+        lines:
+          - Come, Holy Spirit,
+          - Promised guide of our souls.
+          - Come, Holy Spirit,
+          - Show the way, show the way!
+      - name: v3
+        lines:
+          - Come, Holy Spirit,
+          - Love poured in our hearts.
+          - Come, Holy Spirit,
+          - Mould our hearts, mould our hearts!

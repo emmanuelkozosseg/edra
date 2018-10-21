@@ -1,0 +1,37 @@
+books:
+  - id: eeym17
+    number: '54'
+lyrics:
+  - lang: en
+    title: You have made your home among us, Lord
+    verses:
+      - name: c
+        lines:
+          - You have placed your body in our hands.
+          - Humble servant, least among all men,
+          - Holy One of God and poorest of the poor,
+          - You have made your home among us, Lord.
+      - name: v1
+        lines:
+          - The bread you give to eat,
+          - the wine you give to drink,
+          - Is your body and blood.
+          - You offer up your life,
+          - your heart is pierced for us.
+          - You have made your home among us, Lord.
+      - name: v2
+        lines:
+          - In this communion, Lord,
+          - you come to dwell in us,
+          - Burning furnace of love.
+          - The heart that loved so
+          - much is thirsty for our hearts.
+          - You have made your home among us, Lord.
+      - name: v3
+        lines:
+          - The life we have received
+          - 'transforms our hearts of stone:'
+          - Tabernacles of Christ.
+          - You send us to the world
+          - to reach out to the lost.
+          - You have made your home among us, Lord.

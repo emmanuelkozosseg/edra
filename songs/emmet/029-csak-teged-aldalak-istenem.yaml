@@ -1,0 +1,37 @@
+books:
+  - id: emmet
+    number: '29'
+lyrics:
+  - lang: hu
+    title: Csak téged áldalak Istenem
+    verses:
+      - name: c
+        lines:
+          - Csak Téged áldalak, Istenem
+          - én minden időben,
+          - mert jól tudom, annyira szeretsz,
+          - és hű vagy örökre.
+      - name: v1
+        lines:
+          - Uram, Istenem, Te vagy életem,
+          - Te vagy éltető reményem.
+          - A Te szent Neved dicsérem.
+          - Glória!
+      - name: v2
+        lines:
+          - Veled, oh Uram, bátran indulok,
+          - mivel elkísérsz, velem jársz.
+          - Tart a két kezed szilárdan.
+          - Glória!
+      - name: v3
+        lines:
+          - Te vagy, Jézusunk, a mi Pásztorunk,
+          - és mi hallgatunk szavadra.
+          - Béke vár tenálad.
+          - Glória!
+      - name: v4
+        lines:
+          - Hű vagy, Istenünk, veled élhetünk.
+          - Közel vagy ahhoz, ki szólít,
+          - és Te válaszolsz imánkra.
+          - Glória!

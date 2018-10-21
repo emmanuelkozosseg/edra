@@ -1,0 +1,35 @@
+books:
+  - id: emmet
+    number: '204'
+lyrics:
+  - lang: hu
+    title: Oh áldjad lelkem...
+    verses:
+      - name: c
+        lines:
+          - Oh áldjad, lelkem, Istened,
+          - és jóságát el ne feledd!
+      - name: v1
+        lines:
+          - Oh áldjad én lelkem az ég Urát!
+          - Oly nagy vagy, én Üdvözítőm!
+          - Oh dicsérjed, lelkem Istened,
+          - és áldd nevét mindörökre!
+      - name: v2
+        lines:
+          - Csak benned bízik a lelkem,
+          - mert Nálad békére lel.
+          - Kegyelmed betölti életem!
+          - Áldott légy, Istenem!
+      - name: v3
+        lines:
+          - Most háladalt éneklek néked,
+          - s míg élek, én Téged dicsérlek.
+          - Úgy kedvelem a Te Igédet,
+          - és hirdetem hűségedet.
+      - name: v4
+        lines:
+          - Ím két kezem feléd kitárom,
+          - oly irgalmas vagy, Istenem!
+          - Már semmi sem választhat tőled el,
+          - mert végtelen szereteted.

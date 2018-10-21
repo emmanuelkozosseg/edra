@@ -1,0 +1,15 @@
+books:
+  - id: emmet
+    number: '225'
+lyrics:
+  - lang: hu
+    title: Mert Te Uram
+    verses:
+      - name: v1
+        lines:
+          - Mert Te Uram,
+          - fenséges vagy a földön,
+          - és felmagasztaltattál
+          - minden isten fölött!
+          - '/: Imádunk Téged, imádunk Téged!'
+          - Imádunk Téged, ó Urunk! :/

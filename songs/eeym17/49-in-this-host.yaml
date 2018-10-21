@@ -1,0 +1,43 @@
+books:
+  - id: eeym17
+    number: '49'
+lyrics:
+  - lang: en
+    title: In this host
+    verses:
+      - name: v1
+        lines:
+          - Behold, beloved of the Father,
+          - Son He has given up to save the world;
+          - In our midst, He became man like us,
+          - Jesus Christ, the Lamb of God.
+      - name: c
+        lines:
+          - In this host, receive Christ the Saviour,
+          - God concealed in form of bread.
+          - Blessed servants of the living Lord,
+          - Rest only on his Heart, learn everything from Him.
+      - name: v2
+        lines:
+          - In love You took our human weakness,
+          - 'Took the condition of a slave for us:'
+          - King of kings, but You knelt before your servants
+          - To wash the feet of men.
+      - name: v3
+        lines:
+          - How great this mystery, O Master!
+          - How may my heart receive your endless love?
+          - Though I sin in my body and my soul,
+          - You have come to dwell in me.
+      - name: v4
+        lines:
+          - On You alone my hope is founded;
+          - Wash not my feet alone but cleanse my soul.
+          - From your heart pour the Spirit on my dryness;
+          - The water of new life.
+      - name: v5
+        lines:
+          - You call me, Lord, to be your servant,
+          - Yet in my weakness I depend on You.
+          - May my heart be a dwelling-place for You,
+          - Ever burning with your love.

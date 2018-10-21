@@ -1,0 +1,11 @@
+books:
+  - id: emmet
+    number: '603'
+lyrics:
+  - lang: hu
+    title: Jöjj hozzám
+    verses:
+      - name: v1
+        lines:
+          - Jöjj hozzám, így szól az Úr, mert
+          - nélkülem semmit nem tudsz tenni.

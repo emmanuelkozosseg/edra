@@ -1,0 +1,53 @@
+books:
+  - id: eeym17
+    number: P5
+lyrics:
+  - lang: en
+    title: Lord, You Know Me
+    verses:
+      - name: v1
+        lines:
+          - Lord, you know me, and you search the secrets of my heart.
+          - Sometimes I run and try to hide
+          - though you're here by my side.
+          - My aching heart, this weary pain,
+          - Lord, I call your holy name.
+          - You know when I sit and when I rise,
+          - tender love shining from your eyes.
+      - name: c
+        lines:
+          - 'And you say:'
+          - I know. I know.
+          - I died for you, I rose for you,
+          - my Spirit I gave to you.
+      - name: v2
+        lines:
+          - Lord, you know me, and you search the secrets of my heart.
+          - Sometimes I run and try to hide
+          - though you're here by my side.
+          - You don't condemn but you guide,
+          - darkness can't hide from love divine.
+          - Oh, Spirit of power, on me descend;
+          - my sinful soul, you be friend.
+      - name: v3
+        lines:
+          - Lord, you know me, and you search the secrets of my heart.
+          - Sometimes I run and try to hide
+          - though you're here by my side.
+          - Eternal life, I purely seek,
+          - Open my heart when I am weak
+          - so if my steps should go astray;
+          - lead me in your eternal way.
+      - name: v32
+        lines:
+          - For I shall not be afraid,
+          - I'm wonderfully made.
+          - Wonderfully made, wonderfully made,
+          - wonderfully made am I.
+          - Wonderfully made, wonderfully made,
+          - wonderfully made am I.
+      - name: c2
+        lines:
+          - "'Cause I know. I know."
+          - You died for me. You rose for me.
+          - Your Spirit sets me free.

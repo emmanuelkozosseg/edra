@@ -1,0 +1,15 @@
+books:
+  - id: emmet
+    number: '920'
+lyrics:
+  - lang: hu
+    title: Az Úrnak szüksége van rád
+    verses:
+      - name: v1
+        lines:
+          - Az Úrnak szüksége van rád,
+          - oly nagyon szüksége van rád!
+          - /:Fontosabb vagy te mint az égbolt,
+          - fontosabb vagy te mint a föld,
+          - fontosabb vagy te mint a tenger,
+          - nagyon fontos vagy te!:/

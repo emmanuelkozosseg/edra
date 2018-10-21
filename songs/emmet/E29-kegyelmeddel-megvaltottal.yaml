@@ -1,0 +1,35 @@
+books:
+  - id: emmet
+    number: E29
+lyrics:
+  - lang: hu
+    title: Kegyelmeddel megváltottál
+    verses:
+      - name: c
+        lines:
+          - Kegyelmeddel megváltottál,
+          - irgalmaddal új életre hívtál.
+          - Átölel mindennap szerelmed.
+          - Hűséged megújul minden reggel,
+          - elárasztasz békeséggel.
+          - Átölel mindennap szerelmed.
+      - name: v1
+        lines:
+          - Arcod fénye rám ragyog,
+          - teljesen Tiéd vagyok!
+          - Felkelek és hirdetem dicsőséged!
+          - Azért élek, hogy áldjalak,
+          - nagy Király, Élő Isten Fia!
+      - name: v2
+        lines:
+          - Arcod fénye rám ragyog,
+          - teljesen Tiéd vagyok!
+          - Felkelek és hirdetem dicsőséged!
+          - Azért élek, hogy áldjalak,
+          - nagy Király Élő Isten.
+          - 'Angyalaid a trón körül zengik:'
+          - Szent Vagy! Egyetlen hatalmas Úr,
+          - 'éneklik: Halleluja!'
+      - name: b
+        lines:
+          - Halleluja! Halleluja! Halleluja!

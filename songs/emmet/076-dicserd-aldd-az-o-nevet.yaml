@@ -1,0 +1,31 @@
+books:
+  - id: emmet
+    number: '76'
+lyrics:
+  - lang: hu
+    title: Dicsérd, áldd az Ő nevét
+    verses:
+      - name: c
+        lines:
+          - Dicsérd, áldd az Ő nevét,
+          - Jézus az Úr, a Szabadítónk,
+          - Dicsérd, áldd az Ő nevét,
+          - mivel az Úr az Alkotónk!
+      - name: v1
+        lines:
+          - Áldjátok Istennek dicső nevét,
+          - járuljon mindenki színe elé!
+          - Ujjongó énekszó szálljon felé,
+          - zengjétek mindenkor szeretetét!
+      - name: v2
+        lines:
+          - Mindenség Istene áldott legyél,
+          - Úr vagy Te mindenkor s minden tiéd.
+          - 'Országod köztünk van, él a remény:'
+          - nem hagysz el soha, a szívünkben élsz.
+      - name: v3
+        lines:
+          - Ég és föld áldjanak, egek Ura,
+          - dicsérjen mennyeknek égi kara!
+          - Háromszor szent Isten Téged dicsér
+          - mindenki fölséges tetteidért.

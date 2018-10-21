@@ -1,0 +1,27 @@
+books:
+  - id: emmet
+    number: '907'
+lyrics:
+  - lang: hu
+    title: Kicsiny kis fényemmel
+    verses:
+      - name: v1
+        lines:
+          - /:Kicsiny kis fényemmel
+          - világítani fogok. :/ 3X
+          - Áldom Őt minden nap és mindenhol.
+      - name: v2
+        lines:
+          - /:Elrejtsem-e fényemet? (NEM!)
+          - világítani fogok.:/ 3X
+          - Áldom Őt minden nap és mindenhol.
+      - name: v3
+        lines:
+          - /:A sátán sem állíthat meg! (NEM)
+          - világítani fogok.:/ 3X
+          - Áldom Őt minden nap és mindenhol.
+      - name: v4
+        lines:
+          - /:Így teszek míg Jézus jön! (IGEN)
+          - világítani fogok.:/ 3X
+          - Áldom Őt minden nap és mindenhol.

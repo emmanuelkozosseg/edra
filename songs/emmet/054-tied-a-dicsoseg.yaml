@@ -1,0 +1,23 @@
+books:
+  - id: emmet
+    number: '54'
+lyrics:
+  - lang: hu
+    title: Tied a dicsőség
+    verses:
+      - name: v1
+        lines:
+          - Tied a dicsőség és imádás,
+          - felemeljük kezeinket,
+          - így dicsérjük szent neved.
+      - name: c
+        lines:
+          - Ó Hatalmas,
+          - kezed nagy csodákat tesz,
+          - Veled senki nem ér fel,
+          - Veled senki nem ér fel.
+      - name: v2
+        lines:
+          - Tied a dicsőség és imádás,
+          - felajánljuk a szívünket
+          - így dicsérjük szent neved.

@@ -1,0 +1,39 @@
+books:
+  - id: emmet
+    number: '27'
+lyrics:
+  - lang: hu
+    title: Áldott légy Istenünk
+    verses:
+      - name: c
+        lines:
+          - Áldott légy, Istenünk!
+          - Ó, ég és föld Ura,
+          - Hozsanna száll Hozzád,
+          - Mert Te vagy, jó Urunk
+          - 'a megváltó Király:'
+          - legyőzted végleg a halált.
+      - name: v1
+        lines:
+          - Véget ért az éjjel,
+          - most a fényre jöjjetek!
+          - Szívetek betölti
+          - az Úr Szentlelkével.
+      - name: v2
+        lines:
+          - Jöjjetek ki hozzá,
+          - mert Ő a Szegletkő,
+          - Akit félredobtak,
+          - de kedves az Úr előtt.
+      - name: v3
+        lines:
+          - Éljetek az Úrral,
+          - mivel Ő a biztos Vár.
+          - Szent Igéje által
+          - örök üdvösséget ád.
+      - name: v4
+        lines:
+          - Szeressétek egymást,
+          - 'ahogy Ő szeret minket:'
+          - Miképpen Atyátok,
+          - ti is szentek legyetek!

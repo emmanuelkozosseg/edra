@@ -1,0 +1,14 @@
+books:
+  - id: emmet
+    number: '919'
+lyrics:
+  - lang: hu
+    title: Gloria
+    verses:
+      - name: v1
+        lines:
+          - Gloria /4x/
+          - /:Gloria Hosanna,
+          - Hosanna, Hosanna:/
+          - /:Alleluja Jézusnak, alleluja:/
+          - /:Sanctus Dominus, Deus Sabaoth:/

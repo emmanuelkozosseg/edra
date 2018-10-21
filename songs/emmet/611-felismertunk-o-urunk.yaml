@@ -1,0 +1,96 @@
+books:
+  - id: emmet
+    number: '611'
+  - id: eeym17
+    number: P7
+lyrics:
+  - lang: hu
+    title: Felismertünk, ó Urunk
+    verses:
+      - name: v1
+        lines:
+          - Felismertünk ó Urunk az oltáriszentségben...
+          - Hogyha hozzád eljövünk a szívünk ünnepel
+          - Növeld a hitünk ó Krisztus a szentáldozásban
+          - Tégy minket egy testté és egy lélekké!
+      - name: v2
+        lines:
+          - Így szólsz:"ezt cselekedjétek az emlékezetemre"
+          - Így lesz testté a kenyér a bor így lesz szent vér.
+          - Veled egyesülünk, ó Krisztus a szentáldozásban.
+          - Bűnünktől megtisztít e szent áldozat.
+      - name: v3
+        lines:
+          - Eljöttünk, hogy imádjunk téged a megváltót.
+          - Hogy meglássuk arcodat tehozzád járulunk.
+          - A mi szívünkbe térsz ó Krisztus a szentáldozásban!
+          - Alakítsd a szívünk Szent Szíved szerint.
+      - name: v4
+        lines:
+          - Nem vagyok én méltó, hogy házamba térj,
+          - hanem csak egy szóval mondd és lelkem újra él.
+          - Te vagy életem ó Krisztus a szentáldozásban!
+          - Megváltó, jó Pásztor, Jézus, örök örömöm.
+  - lang: en
+    title: Only then when He broke the bread
+    verses:
+      - name: v1
+        lines:
+          - Only then when He broke the bread,
+          - we recognized the Lord.
+          - Did our hearts not burn within,
+          - as He revealed us his word?
+          - Build us up in our faith, O Christ,
+          - in this communion feast,
+          - Visit us, make us one,
+          - renewed in a single heart.
+      - name: v2
+        lines:
+          - You have told us to do these things
+          - 'in memory of You:'
+          - Consecrated bread and wine
+          - 'became a sign of your love:'
+          - They convey us your life, O Christ,
+          - in this communion feast,
+          - Blood poured out, body pierced,
+          - to save sinners from their sin.
+      - name: v3
+        lines:
+          - We have come to adore You, Lord,
+          - sharing the bread You give.
+          - You are the shepherd, You are King,
+          - Redeemer Jesus our Lord!
+          - Show your glory to us, O Christ,
+          - in this communion feast,
+          - Guide us home by the way
+          - that leads safely to your heart.
+      - name: v4
+        lines:
+          - By your Spirit we learn to know
+          - your body in this bread.
+          - In your holy Eucharist,
+          - your very presence concealed.
+          - You are here in our hands, O Christ,
+          - in this communion feast,
+          - Jesus Lord, Saviour God,
+          - my life and my only joy.
+      - name: v5
+        lines:
+          - We the hungry look up to You,
+          - helpless without your grace;
+          - We behold You break the bread,
+          - the bread which gives us new life.
+          - You yourself are our food, O Christ,
+          - in this communion feast,
+          - Lead us to our delight,
+          - the gift promised to the saints.
+      - name: v6
+        lines:
+          - Joy in heaven and joy on earth,
+          - all find their source in You.
+          - That we might return to God,
+          - his Son has taken our flesh.
+          - You're the joy of the saints, O Christ,
+          - in this communion feast,
+          - Stay with us, dwell in us,
+          - remain always in our hearts.

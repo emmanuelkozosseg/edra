@@ -1,0 +1,37 @@
+books:
+  - id: emmet
+    number: '14'
+lyrics:
+  - lang: hu
+    title: Íme az Úr feltámadott
+    verses:
+      - name: c
+        lines:
+          - Íme, az Úr feltámadott!
+          - Legyőzte a halált.
+          - A sír üres, mivel Jézus Krisztus él!
+      - name: v1
+        lines:
+          - Mert nincsen másik név,
+          - amelyben győzhetek,
+          - csak Jézus Krisztus szent neve.
+      - name: v2
+        lines:
+          - Mind együtt áldjuk Őt,
+          - aki elküldte Fiát,
+          - Mert többé már nem úr a halál.
+      - name: v3
+        lines:
+          - A megfeszített Jézust
+          - feltámasztotta
+          - már mindenható szent Atyánk!
+      - name: v4
+        lines:
+          - Most forduljatok el minden
+          - hamis istentől,
+          - mert Jézus a mi Üdvözítőnk!
+      - name: v5
+        lines:
+          - Az Ő szeretete erősebb,
+          - mint a halál,
+          - és szent uralma már szilárdan áll.

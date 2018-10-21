@@ -1,0 +1,25 @@
+books:
+  - id: emmet
+    number: '913'
+lyrics:
+  - lang: hu
+    title: Nekem, nekem, nekem
+    verses:
+      - name: v1
+        lines:
+          - Nekem, nekem, nekem, Ő a mindenem.
+          - Segít, ha elfáradok, vígasztal, ha sírok.
+          - 'Nekem, nekem, nekem, Ő a mindenem:'
+          - Jézus, barátom, nekem, nekem, nekem.
+      - name: v2
+        lines:
+          - Neked, neked, neked, Ő a mindened.
+          - Segít, ha elfáradsz, vígasztal, ha sírsz.
+          - 'Neked, neked, neked, Ő a mindened:'
+          - Jézus barátod, neked, neked, neked.
+      - name: v3
+        lines:
+          - Nekünk, nekünk, nekünk, Ő a mindenünk.
+          - Segít, ha elfáradunk, vígasztal, ha sírunk.
+          - 'Nekünk, nekünk, nekünk, Ő a mindenünk:'
+          - Jézus barátunk, nekünk, nekünk, nekünk.

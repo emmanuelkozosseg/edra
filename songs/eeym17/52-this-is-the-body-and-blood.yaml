@@ -1,0 +1,37 @@
+books:
+  - id: eeym17
+    number: '52'
+lyrics:
+  - lang: en
+    title: This is the body and blood
+    verses:
+      - name: c
+        lines:
+          - This is the body and blood of our Lord.
+          - The cup of our salvation and the bread of life.
+          - Eternal God gives Himself as our food
+          - That all who believe in Him may have life.
+      - name: v1
+        lines:
+          - Just before the Lord went to the Father
+          - He took bread and wine, broke it for us.
+          - Through the gift of His blood and His body,
+          - We know we will not hunger again.
+      - name: v2
+        lines:
+          - Jesus shares Himself for all the nations,
+          - He is the bread of life for the world.
+          - And through Him we are now all God’s children.
+          - In His sacrifice He’s glorified.
+      - name: v3
+        lines:
+          - With the eyes of our Faith we see Jesus,
+          - Truly here in the bread and the wine.
+          - By His dying and rising we’re now free,
+          - To give all of our life to our King!
+      - name: v4
+        lines:
+          - Let us sing out our praises unending,
+          - For the marvels that He’s done for us.
+          - Through His body and blood which is given,
+          - Jesus pours His own love in our hearts.

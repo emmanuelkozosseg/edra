@@ -1,0 +1,23 @@
+books:
+  - id: emmet
+    number: '256'
+lyrics:
+  - lang: hu
+    title: Jézus áldott legyél
+    verses:
+      - name: v1
+        lines:
+          - Jézus, áldott legyél,
+          - áldott legyél mindörökké,
+          - áldott legyél, áldott legyél,
+          - Amíg csak élek,
+          - dicsérlek én, dicsérlek én,
+          - mindörökké, mindörökké,Áldott legyél!
+      - name: v2
+        lines:
+          - Jézus, mindenki áldjon, Uram,
+          - minden ember dicsérjen Téged.
+          - Dicsérjék neved a földön,
+          - dicsérjék neved a mennyben,
+          - minden ember Néked zengjen
+          - dicsőítő, szent éneket!

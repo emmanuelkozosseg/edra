@@ -1,0 +1,31 @@
+books:
+  - id: eeym17
+    number: '55'
+lyrics:
+  - lang: en
+    title: Silent Night
+    verses:
+      - name: v1
+        lines:
+          - Silent night, holy night!
+          - All is calm, all is bright.
+          - Round yon Virgin, Mother and Child.
+          - Holy infant so tender and mild,
+          - Sleep in heavenly peace,
+          - Sleep in heavenly peace
+      - name: v2
+        lines:
+          - Silent night, holy night!
+          - Shepherds quake at the sight.
+          - Glories stream from heaven afar
+          - Heavenly hosts sing Alleluia,
+          - Christ the Savior is born!
+          - Christ the Savior is born
+      - name: v3
+        lines:
+          - Silent night, holy night!
+          - Son of God love's pure light.
+          - Radiant beams from Thy holy face
+          - With dawn of redeeming grace,
+          - Jesus Lord, at Thy birth
+          - Jesus Lord, at Thy birth

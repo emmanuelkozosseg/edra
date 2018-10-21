@@ -1,0 +1,29 @@
+books:
+  - id: emmet
+    number: E24
+lyrics:
+  - lang: hu
+    title: Igazságban szellemben...
+    verses:
+      - name: v1
+        lines:
+          - Igazságban, szellemben életem átadom
+          - Szerelmemnek olaját, s teljes hódolatom
+          - Mindent átadok Neked, fogadd el Istenem
+          - Oltárodra hadd tegyem, itt van megtört szívem
+      - name: c1
+        lines:
+          - Jézus, hű, jó barát, mondd, mit adhatok?
+          - Szerető nagy király, vajon mit hozhatok?
+          - Mit mondhatnék Neked, miről szóljon dalom?
+      - name: c2
+        lines:
+          - Neved dicséretét hozom ajkaimon
+          - Hálám elmondani minden szó szegény
+          - Hiszen oly nagy szeretettel tartozom Neked én
+      - name: v2
+        lines:
+          - Értem adtad életed, Tiéd vagyok ma már
+          - Meghaltál a keresztfán, ez volt értem az ár
+          - Ott győzted le bűneim, lemostad szégyenem
+          - A Mennybe ajtót nyitottál és behívtál engem

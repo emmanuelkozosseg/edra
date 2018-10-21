@@ -1,0 +1,40 @@
+books:
+  - id: emmet
+    number: '808'
+lyrics:
+  - lang: hu
+    title: A mennyben fenn...
+    verses:
+      - name: v1
+        lines:
+          - A mennyben fenn a trónusnál,
+          - a Krisztus értem közbenjár,
+          - nagy főpap, égi kezesem,
+          - örökre biztos védelmem.
+          - 
+          - Markába véste nevemet,
+          - szívébe írta, nem feled,
+          - örökké Ő lesz pártfogóm,
+          - '/: elnémul minden vádolóm. :/'
+      - name: v2
+        lines:
+          - Mikor a sátán megkísért,
+          - és vádol megbánt bűnökért,
+          - Jézusra nézek, áldom Őt,
+          - a bűneimből megmentőt.
+          - 
+          - Ő halt meg minden vétkemért,
+          - a bűntelen a bűnösért,
+          - Isten a bíró fölmentett,
+          - '/: Krisztusra nézve engedett. :/'
+      - name: v3
+        lines:
+          - Íme a bárány, Ő van ott,
+          - feltámadt és üdvöt hozott,
+          - Ő mondta, megváltód vagyok,
+          - nem vonja vissza, mit adott.
+          - 
+          - A bárány vére volt az ár,
+          - Őnála többé nincs halál,
+          - Krisztusban üdvöm készen vár,
+          - '/: Ott fenn az Isten trónjánál. :/'

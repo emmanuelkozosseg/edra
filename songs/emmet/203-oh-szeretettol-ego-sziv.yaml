@@ -1,0 +1,13 @@
+books:
+  - id: emmet
+    number: '203'
+lyrics:
+  - lang: hu
+    title: Oh szeretettől égő szív
+    verses:
+      - name: v1
+        lines:
+          - Oh, szeretettől égő Szív,
+          - kérünk, Szentlelked küldd le ránk!
+          - És a szívünket alakítsd,
+          - Oh Jézus, Szent Szíved szerint!

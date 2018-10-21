@@ -1,0 +1,40 @@
+books:
+  - id: emmet
+    number: '88'
+lyrics:
+  - lang: hu
+    title: Irgalmas Istenem
+    verses:
+      - name: c
+        lines:
+          - Irgalmas Istenem,
+          - Téged áldlak szüntelen.
+          - Meghívtál jó Atyám, megváltoztattál.
+          - Bensőmben szól szavad,
+          - hűséges vagy, ó, Uram.
+          - Add, hogy ma megtegyem akaratodat!
+      - name: v1
+        lines:
+          - Életemre áraszd minden percben fényedet!
+          - Jöjj, Te légy vezérem,
+          - benned bízom, Istenem.
+          - 'Add, hogy érted éljek:'
+          - tisztán, szentként hű legyek,
+          - és amit parancsolsz, azt mind megtegyem!
+      - name: v2
+        lines:
+          - Téged áld a lelkem,
+          - mert gyöngéden felkarolsz,
+          - béke vár tenálad, benned mindig bízhatom.
+          - Téged énekemmel hálás szívvel áldalak.
+          - 'Oly csodálatos vagy:'
+          - velem élsz minden nap.
+      - name: v3
+        lines:
+          - Add, hogy azt, amit kérsz,
+          - érted mindig megtegyem,
+          - el ne tévelyedjem, védjed, óvjad életem!
+          - Így, ha szólítasz majd,
+          - 'könnyű szívvel mondhatom:'
+          - kész vagyok s tudom
+          - vár odafönt otthonom.

@@ -1,0 +1,20 @@
+books:
+  - id: emmet
+    number: '922'
+lyrics:
+  - lang: hu
+    title: Jézus itt jár
+    verses:
+      - name: v1
+        lines:
+          - '/: Jézus itt jár és minket megérint. :/'
+          - 'Ha Ő jelen van átalakul minden:'
+          - oda a rosszkedvünk,
+          - s vidámság lesz bennünk.
+          - 'Ha Ő jelen van, átalakul minden:'
+          - nekem is, neked is Jézus vidám szívet ad.
+      - name: v2
+        lines:
+          - /:Hogyha áthalad közöttünk a názáreti Jézus:/4x
+          - /:Ő téged is megérint, Ő téged is megérint.:/3x
+          - Ő téged is megérint, és áldását adja rád.

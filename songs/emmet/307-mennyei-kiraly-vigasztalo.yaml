@@ -1,0 +1,23 @@
+books:
+  - id: emmet
+    number: '307'
+lyrics:
+  - lang: hu
+    title: Mennyei Király, Vigasztaló
+    verses:
+      - name: v1
+        lines:
+          - Mennyei Király, Vigasztaló,
+          - igazságnak Lelke,
+          - ki mindenütt jelen vagy,
+          - és mindeneket betöltesz.
+      - name: v2
+        lines:
+          - Minden jónak Kútfeje,
+          - és az életnek megadója,
+          - jöjj el és lakozzál mibennünk.
+      - name: v3
+        lines:
+          - És tisztíts meg minket minden
+          - szennytől, és üdvözítsd,
+          - Jóságos, a mi lelkünket!

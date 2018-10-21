@@ -1,0 +1,23 @@
+books:
+  - id: emmet
+    number: '211'
+lyrics:
+  - lang: hu
+    title: Én Uram, én Istenem
+    verses:
+      - name: v1
+        lines:
+          - Én Uram, én Istenem,
+          - vedd el tőlem mindenem,
+          - ami gátol feléd.
+          - Én Uram, én Istenem,
+          - fogadd el az életem,
+          - hadd legyek egészen a tiéd.
+      - name: v2
+        lines:
+          - Én Uram, én Istenem,
+          - add meg nekem mindenem,
+          - ami segít feléd.
+          - Én Uram, én Istenem,
+          - fogadd el az életem,
+          - hadd legyek egészen a tiéd.

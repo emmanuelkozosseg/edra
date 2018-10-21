@@ -1,0 +1,31 @@
+books:
+  - id: emmet
+    number: '301'
+lyrics:
+  - lang: hu
+    title: Szentlélek jöjj, lobogó
+    verses:
+      - name: c
+        lines:
+          - Szentlélek jöjj, lobogó Láng!
+          - Szentlélek jöjj, a világ vár!
+          - Szentlélek jöjj, viharos Szél!
+          - Jöjj, áradj szét!
+      - name: v1
+        lines:
+          - Jöjj el Élővíz-forrás,
+          - Jöjj, a szívünk Téged vár!
+          - Jöjj, ki fényt adsz lelkünknek,
+          - Jöjj, úgy várunk Rád!
+      - name: v2
+        lines:
+          - Jöjj igazság Forrása,
+          - Jöjj, imádunk mindnyájan!
+          - Jöjj, reményünk éleszd fel!
+          - Jöjj kegyelmeddel!
+      - name: v3
+        lines:
+          - Jöjj, a néped gyűjtsd egybe,
+          - Jöjj, az alvót ébreszd fel!
+          - Jöjj, a bűntől tisztíts meg,
+          - Bátoríts minket!

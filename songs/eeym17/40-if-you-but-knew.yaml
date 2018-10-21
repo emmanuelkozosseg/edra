@@ -1,0 +1,43 @@
+books:
+  - id: eeym17
+    number: '40'
+lyrics:
+  - lang: en
+    title: If you but knew
+    verses:
+      - name: c
+        lines:
+          - If you but knew all that God gives,
+          - You would be asking for water from me.
+          - I am your God, source of your life.
+          - Come now and rest on my heart.
+      - name: v1
+        lines:
+          - I am the God who has made you.
+          - I shaped you and formed you in your mother’s womb.
+          - I give you all what you need
+          - For each day of your life. There is no need to fear.
+      - name: v2
+        lines:
+          - If you should pass through deep waters,
+          - Encountering death, I will always be there.
+          - You are my chosen one, Israel.
+          - I take you by the hand. I am with you.
+      - name: v3
+        lines:
+          - I am the God of your Fathers, the Saviour,
+          - Creator of all that was made.
+          - I set the stars in the heavens,
+          - Established the universe. I am your God.
+      - name: v4
+        lines:
+          - I march in front of you, challenge the mighty
+          - And throw down their high city walls.
+          - I break the chains that have bound you.
+          - I level the mountains and trace you a path.
+      - name: v5
+        lines:
+          - I open to you the treasures that come from my kingdom,
+          - Unknown to the wise.
+          - People of Israel, worship me humbly,
+          - Acknowledge that I am your God.

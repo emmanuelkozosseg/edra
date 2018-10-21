@@ -1,0 +1,39 @@
+books:
+  - id: emmet
+    number: '10'
+lyrics:
+  - lang: hu
+    title: Néked dicséret, áldás...
+    verses:
+      - name: c
+        lines:
+          - Néked dicséret, áldás,
+          - Néked örök imádás,
+          - Téged dicsér a föld és ég mindenkor.
+      - name: v1
+        lines:
+          - Értünk adta magát,
+          - Értünk adta magát,
+          - Az isteni Bárány,
+          - Az isteni Bárány,
+          - Vére értünk folyt,
+          - Vére értünk folyt,
+          - hogy megmentsen.
+      - name: v2
+        lines:
+          - És az Atyaisten
+          - És az Atyaisten
+          - felmagasztalta Őt.
+          - felmagasztalta Őt.
+          - És az Ő nevénél,
+          - És az Ő nevénél,
+          - dicsőbb nem volt.
+      - name: v3
+        lines:
+          - Mennyben és a földön,
+          - Mennyben és a földön,
+          - és az alvilágban
+          - és az alvilágban
+          - hirdeti minden nyelv
+          - 'hirdeti minden nyelv:'
+          - Jézus az Úr!

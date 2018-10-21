@@ -1,0 +1,14 @@
+books:
+  - id: emmet
+    number: '912'
+lyrics:
+  - lang: hu
+    title: Állj fel és kiálts
+    verses:
+      - name: v1
+        lines:
+          - Állj fel és kiáltsd,
+          - hogy szereted az Urat!
+          - Állj fel és kiáltsd, hogy szereted Őt!
+          - Tudni akarom, igen, tudni akarom,
+          - hogy szereted, szereted Őt.

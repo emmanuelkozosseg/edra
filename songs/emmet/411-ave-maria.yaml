@@ -1,0 +1,17 @@
+books:
+  - id: emmet
+    number: '411'
+lyrics:
+  - lang: hu
+    title: Ave Maria
+    verses:
+      - name: v1
+        lines:
+          - Ave Maria, gratia plena,
+          - Dominus tecum,
+          - benedicta tu in mulieribus.
+          - Et benedictus fructus ventris tui,
+          - Jesus. Sancta Maria, Mater Dei,
+          - ora pro nobis, peccatoribus,
+          - nunc, et in hora mortis nostrae!
+          - Amen.   Ave Maria

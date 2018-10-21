@@ -1,0 +1,40 @@
+books:
+  - id: emmet
+    number: '310'
+lyrics:
+  - lang: hu
+    title: Jöjj Szentlélek, töltsd be szívünk
+    verses:
+      - name: c
+        lines:
+          - Jöjj, Szentlélek, töltsd be a szívünk,
+          - gyöngeségünkben Te légy a Támasz!
+          - Jöjj, Szentlélek, légy az Örömünk,
+          - Szereteted éljen újra bennünk!
+      - name: v1
+        lines:
+          - Jöjj el, alkotó Lélek éltető erőddel,
+          - jöjj, ragyogd be a szívünk lángoló tüzeddel!
+          - Jöjj, kegyelmedet áraszd,
+          - híveid szívébe,
+          - tiszta, hűsítő Forrás,
+          - gyógyító kenettel
+      - name: v2
+        lines:
+          - Égi jó Atyánk küldött,
+          - hogy belőled éljünk,
+          - benned így leszünk eggyé,
+          - mind, akik ma kérünk.
+          - 'Általad kiált ajkunk: Abba,'
+          - Istenünk, áldunk!
+          - Egyszülött Fiad által szüntelen imádunk.
+      - name: v3
+        lines:
+          - Oszd ki hét ajándékod,
+          - bátorítsd a lelkünk!
+          - Nyisd meg újra az ajkunk,
+          - néked énekeljünk!
+          - Jöjj, Te szólj a szívünkhöz,
+          - 'mondjad újra bennünk:'
+          - Jézus, Ő a Megváltónk,
+          - Életünk, Reményünk.

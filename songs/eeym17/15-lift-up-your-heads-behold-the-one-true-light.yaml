@@ -1,0 +1,25 @@
+books:
+  - id: eeym17
+    number: '15'
+lyrics:
+  - lang: en
+    title: Lift up your heads, behold the one true light
+    verses:
+      - name: c
+        lines:
+          - Lift up your heads, behold the one true light –
+          - here is the Christ, here is the Prince of Peace.
+          - Lift up your hearts, receive the gift of mercy.
+          - Our Savior comes, our Savior dwells with us.
+      - name: v1
+        lines:
+          - Jesus Christ, the Son of God made Man
+          - among his own, comes to make a home.
+          - Come and see, behold Emmanuel,
+          - He is with us, the Word of God made flesh.
+      - name: v2
+        lines:
+          - Come o Lord! Your temple is made ready.
+          - Your word is food, our hearts will take their fill.
+          - Speak o Lord! Your servants come to hear,
+          - Your children Lord, your children Lord are we.

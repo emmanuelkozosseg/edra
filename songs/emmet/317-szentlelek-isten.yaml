@@ -1,0 +1,32 @@
+books:
+  - id: emmet
+    number: '317'
+lyrics:
+  - lang: hu
+    title: Szentlélek Isten
+    verses:
+      - name: c
+        lines:
+          - Szentlélek Isten,
+          - jöjj, és lobbantsd lángra szívünk!
+          - Szentlélek Isten töltsd be életünk!
+      - name: v1
+        lines:
+          - Éleszd fel hitünk
+          - és növeld szeretetünk,
+          - Ó jöjj, mert vár Terád a föld!
+      - name: v2
+        lines:
+          - Jöjj el éltetőnk,
+          - adj békét és erőt,
+          - Ó jöjj, mert vár Terád a föld!
+      - name: v3
+        lines:
+          - Jöjj Vigasztaló,
+          - jöjj új reményt hozó,
+          - Ó jöjj, mert vár Terád a föld!
+      - name: v4
+        lines:
+          - Rád hagyatkozunk,
+          - csak jöjj, mutasd utunk,
+          - Ó jöjj, mert vár Terád a föld!

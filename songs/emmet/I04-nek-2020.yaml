@@ -1,0 +1,30 @@
+books:
+  - id: emmet
+    number: I4
+lyrics:
+  - lang: hu
+    title: NEK 2020
+    verses:
+      - name: v1
+        lines:
+          - Mennyei Atyánk, minden élet forrása!
+          - Küldd el Szentlelkedet,
+          - hogy az önmagát értünk feláldozó
+          - és az  Oltáriszentségben
+          - velünk levő Krisztust felismerjük
+          - és egyre jobban szeressük!
+      - name: v2
+        lines:
+          - Ő Urunk és Mesterünk,
+          - barátunk és táplálékunk,
+          - orvosunk és békességünk.
+          - Adj bátorságot, hogy az ő erejét
+          - és örömét elvigyük minden emberhez!
+      - name: v3
+        lines:
+          - Add, hogy a készület ideje
+          - és az Eucharisztikus Kongresszus
+          - ünneplése
+          - egész hívő közösségünk, fővárosunk,
+          - népünk, Európa és a világ
+          - lelki megújulására szolgáljon! Ámen.

@@ -1,0 +1,60 @@
+books:
+  - id: emmet
+    number: '40'
+  - id: eeym17
+    number: '7'
+lyrics:
+  - lang: hu
+    title: Atya, áldott legyél
+    verses:
+      - name: c
+        lines:
+          - Atya, áldott legyél!
+          - Fiú, téged imádjon a föld és az ég!
+          - Lélek áradj reánk!
+          - Örök Istenünk, Téged áld az imánk.
+      - name: v1
+        lines:
+          - Jó Atyánk, örök Alkotónk,
+          - Legyen meg az akaratod!
+          - Amint a mennyben a te szentjeid,
+          - dicsérünk Téged itt a földön is.
+      - name: v2
+        lines:
+          - Jézusunk, a mi Pártfogónk,
+          - Te vagy a mi Szabadítónk,
+          - Egyszülött, kit nekünk ad az Atya,
+          - 'Jöjj, Urunk, ma hívunk: Marana tha!'
+      - name: v3
+        lines:
+          - Szállj le ránk, Lélekistenünk!
+          - Az utunkon légy velünk!
+          - Jöjj, vezess, Te vagy az Éltetőnk!
+          - Ha fáradunk, kérünk adj erőt!
+  - lang: en
+    title: Father glory be to your name
+    verses:
+      - name: c
+        lines:
+          - Father glory be to your name,
+          - Jesus glory to You the Saviour of all.
+          - Holy Spirit, glory to You.
+          - Honour glory and praise, blessed Trinity.
+      - name: v1
+        lines:
+          - Father of all, God of kindness and love,
+          - You fill us with your grace and your gifts.
+          - We’re made for You so we give You our hearts,
+          - we bless You O Lord, to You all honour and praise.
+      - name: v2
+        lines:
+          - Jesus our Lord, Son of God the most high,
+          - We long to give You honour and thanks
+          - Jesus, your heart, open for all the world,
+          - Reveals the great love of God the Father for all.
+      - name: v3
+        lines:
+          - Spirit of God, heal and purify us,
+          - And lead us to the fulness of truth.
+          - Come visit us and enlighten our souls
+          - And open the doors so we'll proclaim the Good News.

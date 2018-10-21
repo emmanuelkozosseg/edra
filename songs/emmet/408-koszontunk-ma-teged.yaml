@@ -1,0 +1,43 @@
+books:
+  - id: emmet
+    number: '408'
+lyrics:
+  - lang: hu
+    title: Köszöntünk ma Téged
+    verses:
+      - name: c
+        lines:
+          - Köszöntünk ma téged,
+          - oh áldott Boldogasszony.
+          - Zsámolyod a hold és ékesít a nap,
+          - Csillagok az égben koronáznak téged.
+          - Üdvösségünk Hajnala általad jött el.
+      - name: v1
+        lines:
+          - Mária, új, dicső Éva, Jézusunk szülője
+          - Benned alkotott testet az Isten küldötte.
+          - Általad kitárult ajtaja a kertnek.
+          - Jöjj, vezess Te az úton,
+          - Oh Hajnalcsillagunk!
+      - name: v2
+        lines:
+          - Mária hű maradsz mindig
+          - és imádkozol értünk.
+          - Óvjad életünk, kérünk,
+          - hogy célhoz érhessünk!
+          - 
+          - Szánd meg, oh Anyánk,
+          - néped, lépteink vezéreld!
+          - Szent Fiad nyomán járjunk,
+          - hogy ne vesszünk el.
+      - name: v3
+        lines:
+          - Bűntelen Királynőnk,
+          - éltető Reménység.
+          - Nem veted meg Oh, Szűz,
+          - ki bízva Téged kér.
+          - 
+          - Mert mi bármilyen bajban
+          - futhatunk tehozzád!
+          - Istenünk előtt állva,
+          - Te értünk közbenjársz.

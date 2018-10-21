@@ -1,0 +1,16 @@
+books:
+  - id: emmet
+    number: '47'
+lyrics:
+  - lang: hu
+    title: Együtt fog ujjongni
+    verses:
+      - name: v1
+        lines:
+          - Együtt fog ujjongni fiatal és öreg is,
+          - és örömében táncot lejt a lány.
+          - Láj...láj...láj...láj...
+          - Gyászunkat ünnepre fordítom,
+          - és nem búsulnak ezután.
+          - '/: Vidámmá teszem a szívüket,'
+          - hogy örvendezzenek a bánatuk helyett. :/

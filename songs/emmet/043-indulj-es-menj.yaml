@@ -1,0 +1,25 @@
+books:
+  - id: emmet
+    number: '43'
+lyrics:
+  - lang: hu
+    title: Indulj és menj
+    verses:
+      - name: v1
+        lines:
+          - Indulj és menj, hirdesd szavam,
+          - népemhez küldelek én!
+          - Tövis és gaz, vér és panasz,
+          - meddig hallgassam még én?
+      - name: c
+        lines:
+          - Küldelek én s megáldlak én,
+          - csak menj és hirdesd szavam.
+          - Küldelek én s megáldlak én,
+          - csak menj és hirdesd szavam.
+      - name: v2
+        lines:
+          - Tüzessé teszem ajkaidat,
+          - gyémánttá homlokodat.
+          - Népemnek őrévé rendellek én,
+          - Lelkemet adom melléd.

@@ -1,0 +1,25 @@
+books:
+  - id: emmet
+    number: '33'
+lyrics:
+  - lang: hu
+    title: Emmánuel, velünk az Úr
+    verses:
+      - name: c
+        lines:
+          - Emmánuel, velünk az Úr,
+          - Emmánuel, velünk az Isten.
+          - Emmánuel, velünk az Úr,
+          - Emmánuel, az Isten velünk, áldjuk Őt!
+      - name: v1
+        lines:
+          - Gyermek született, Fiú adatott nékünk,
+          - 'és a neve lészen: Emmánuel.'
+          - Az Atya küldte Őt, és engedelmes lett,
+          - és értünk adta életét.
+      - name: v2
+        lines:
+          - A harmadik napon Ő feltámadott,
+          - és az Élet legyőzte a halált.
+          - Ímé a nap, a győzelem napja,
+          - ó, Jézus, Te vagy a Király.

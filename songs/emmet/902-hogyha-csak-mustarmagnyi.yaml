@@ -1,0 +1,20 @@
+books:
+  - id: emmet
+    number: '902'
+lyrics:
+  - lang: hu
+    title: Hogyha csak mustármagnyi
+    verses:
+      - name: v1
+        lines:
+          - Hogyha csak mustármagnyi hitetek
+          - is volna... - ezt mondotta a mi Urunk.
+      - name: v2
+        lines:
+          - '/:És ha így szóltok a nagy hegyekhez:'
+          - mozduljatok, mozduljatok, :/
+          - /:akkor a hegyek megindulnak,
+          - megindulnak, megindulnak :/ 4X
+      - name: v3
+        lines:
+          - Jöjj el, jöjj el, ó jöjj el, Szentlélek!

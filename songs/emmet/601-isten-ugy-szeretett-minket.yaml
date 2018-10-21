@@ -1,0 +1,46 @@
+books:
+  - id: emmet
+    number: '601'
+lyrics:
+  - lang: hu
+    title: Isten úgy szeretett minket
+    verses:
+      - name: c
+        lines:
+          - Isten úgy szeretett minket,
+          - hogy Egyszülöttjét adta nekünk.
+          - Nem elítélni akart bennünket,
+          - hanem hogy éljen mind, aki hisz.
+      - name: v1
+        lines:
+          - Én vagyok az élet kenyere.
+          - /Aki ebből a kenyérből eszik,
+          - örökké él. Aki eszi az én testemet
+          - és issza az én véremet, /
+          - Bennem marad és én őbenne.
+      - name: v2
+        lines:
+          - Én vagyok a világ világossága.
+          - /Aki engem követ nem jár sötétben,
+          - hanem övé lesz az élet világossága./
+          - Az Atya tanúskodik rólam,
+          - aki engem küldött.
+      - name: v3
+        lines:
+          - Én vagyok az ajtó a juhok számára.
+          - /Ha valaki rajtam keresztül
+          - megy be, üdvözül.
+          - Azért jöttem, hogy életük legyen,/
+          - És bőségben legyen.
+      - name: v4
+        lines:
+          - Én vagyok a Jó Pásztor.
+          - /Ismerem juhaimat, és juhaim ismernek
+          - engem. Életemet adom juhaimért./
+          - És senki el nem veheti tőlem.
+      - name: v5
+        lines:
+          - Én vagyok a feltámadás.
+          - /Aki hisz bennem,még ha meghal is él.
+          - És aki úgy él, hogy hisz bennem, /
+          - Nem hal meg örökké.

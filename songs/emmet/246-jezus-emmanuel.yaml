@@ -1,0 +1,13 @@
+books:
+  - id: emmet
+    number: '246'
+lyrics:
+  - lang: hu
+    title: Jézus, Emmanuel
+    verses:
+      - name: v1
+        lines:
+          - Jézus, Jézus, Jézus, Jézus!
+          - Emmanuel, Emánuel, Emmanuel,
+          - Jézus, Jézus, Jézus!
+          - Emmanuel, Emmanuel, Emmanuel!

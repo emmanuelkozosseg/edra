@@ -1,0 +1,31 @@
+books:
+  - id: emmet
+    number: '249'
+lyrics:
+  - lang: hu
+    title: A mi hazánk
+    verses:
+      - name: c
+        lines:
+          - A mi hazánk ott fenn a mennyben vár,
+          - Látjuk majd a Bárány mennyasszonyát,
+          - Az Isten fényében tündökölve áll,
+          - A mennyei Jeruzsálem.
+      - name: v1
+        lines:
+          - Ott nem lesz éjsötét soha már,
+          - Mert Isten fénye járja át.
+          - 'Nem kell a hold se napsütés:'
+          - Maga a Bárány lesz a fény.
+      - name: v2
+        lines:
+          - 'Egy harsány hang kiáltja felénk:'
+          - Halljátok, eljön Üdvözítőnk.
+          - Letörli könnyeinket az Úr,
+          - Nem lesz több gyász se fájdalom.
+      - name: v3
+        lines:
+          - Ujjong a föld és örvend az ég,
+          - Újjá lesz minden, él a remény.
+          - Hát zengje énekét a világ,
+          - Mert él az Úr, ki minket haza vár.

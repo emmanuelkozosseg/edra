@@ -1,0 +1,35 @@
+books:
+  - id: emmet
+    number: '262'
+lyrics:
+  - lang: hu
+    title: Szeretem örökké
+    verses:
+      - name: v1
+        lines:
+          - Eléd lépek jó Uram,
+          - Hol béke és nyugalom vár.
+          - Várom, hogy érints lelkeddel,
+          - Hogy múljék, ami fáj!
+          - 
+          - Hiszem, hogy itt vagy közöttünk,
+          - És halkan szelíden hívsz,
+          - És mi társaid leszünk örökké,
+          - Hol boldog dalát zengi minden szív.
+      - name: c
+        lines:
+          - Áldom az Urat, míg élek
+          - És szeretem örökké
+          - Örömmel mondok hálát
+          - A világon mindenért
+      - name: v2
+        lines:
+          - Közénk térdelsz jó Urunk
+          - Féltő szeretettel,
+          - És egy új életnek boldogsága
+          - Érző szívre lel.
+          - 
+          - Én tudom, hogy itt vagy közöttünk
+          - És halkan szelíden hívsz,
+          - És mi társaid leszünk örökké,
+          - Hol boldog dalát zengi minden szív.

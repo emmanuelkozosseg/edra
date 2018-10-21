@@ -1,0 +1,38 @@
+books:
+  - id: emmet
+    number: '410'
+lyrics:
+  - lang: hu
+    title: Méhedben hordoztad...
+    verses:
+      - name: c
+        lines:
+          - Méhedben hordoztad az ég Urát.
+          - Tőled nyert testet az égi Király.
+          - Megnyílt a Mennyország ajtaja már,
+          - jó Anyánk, nézz le ránk!
+      - name: v1
+        lines:
+          - Rád tekintett Istenünk,
+          - ó, áldott Szűz,
+          - Mert a szíved tiszta volt és mindig hű.
+      - name: v2
+        lines:
+          - 'Gábor angyal így köszönt:'
+          - Ó, üdvöz légy!
+          - Általad lesz Istenünk emberré.
+      - name: v3
+        lines:
+          - Ím a Lélektől fogansz
+          - Istengyermeket.
+          - 'Üdvözítőnk jön közénk: Emmánuel.'
+      - name: v4
+        lines:
+          - Szívedet tőr járta át
+          - fenn a Golgotán!
+          - Hol fiad miérettünk halt kínhalált.
+      - name: v5
+        lines:
+          - Fenn a mennyben ad Fiad szép koronát.
+          - Szűzanyánk,
+          - ma kér imánk, hű Pátrónánk!

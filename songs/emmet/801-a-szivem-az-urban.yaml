@@ -1,0 +1,47 @@
+books:
+  - id: emmet
+    number: '801'
+lyrics:
+  - lang: hu
+    title: A szívem az Úrban
+    verses:
+      - name: c
+        lines:
+          - A szívem az Úrban szüntelen örvend,
+          - ujjong a lelkem Istenben.
+      - name: v1
+        lines:
+          - Mert az üdvösség ruhájába öltöztetett,
+          - s az igaz élet köntösébe burkolt,
+          - mint a vőlegényt, aki koszorút visel,
+          - és mint a menyasszonyt,
+          - aki ékszerekkel díszíti magát.
+      - name: v2
+        lines:
+          - Amint a föld megtermi növényeit,
+          - és a kert kisarjasztja a veteményeket,
+          - úgy sarjasztja ki az Úr
+          - az igazságosságot, és a magasztalást,
+          - minden nép színe előtt.
+      - name: v3
+        lines:
+          - Sion miatt nem hallgathatok, és
+          - Jeruzsálem miatt nem nyugszom,
+          - míg föl nem ragyog igazsága,
+          - mint a hajnal, és szabadulása,
+          - mint a fáklya, nem tündököl.
+      - name: v4
+        lines:
+          - Meglátják majd a népek igazságodat,
+          - és a királyok dicsőségedet.
+          - Új néven hívnak majd,
+          - amellyel az Úr ajka nevez el.
+          - A dicsőség koronája leszel
+          - az Úr kezében,
+          - királyi fejdísz Istened kezében.
+      - name: v5
+        lines:
+          - Dicsőség az Atyának,
+          - a Fiúnak és a Szentléleknek
+          - miképpen kezdetben
+          - most és mindörökké. Ámen.

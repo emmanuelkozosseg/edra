@@ -1,0 +1,26 @@
+books:
+  - id: emmet
+    number: '238'
+  - id: eeym17
+    number: '43'
+lyrics:
+  - lang: hu
+    title: Jézus, Jézus én Uram
+    verses:
+      - name: v1
+        lines:
+          - Jézus, Jézus, én Uram imádlak,
+          - Jézus, Jézus fogadd el imámat!
+          - Téged áldalak angyalok énekével,
+          - Jézus, Jézus, én Uram, Istenem.
+  - lang: en
+    title: Jesus, I want to adore You
+    verses:
+      - name: v1
+        lines:
+          - Jesus, Jesus,
+          - I want to adore You.
+          - Jesus, Jesus,
+          - I bow down before You.
+          - Jesus, o Jesus, Saints and angels around You!
+          - Jesus, Jesus, we worship You.

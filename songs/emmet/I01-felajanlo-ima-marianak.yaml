@@ -1,0 +1,27 @@
+books:
+  - id: emmet
+    number: I1
+lyrics:
+  - lang: hu
+    title: Felajánló ima Máriának
+    verses:
+      - name: v1
+        lines:
+          - Ó Mária, az egész mennyei udvar
+          - jelenlétében ma Anyánknak és
+          - Királynőnknek választunk.
+      - name: v2
+        lines:
+          - Átadjuk és Neked szenteljük teljes
+          - alávetettségben és szeretetben
+          - testünket és lelkünket,
+          - belső és külső javainkat,
+          - a múlt, jelen- és jövendőbeli
+          - jócselekedeteink értékét.
+      - name: v3
+        lines:
+          - Tetszésed szerint rendelkezz
+          - velünk és kivétel nélkül mindennel,
+          - ami hozzánk tartozik,
+          - Isten nagyobb dicsőségére,
+          - időben és örökkévalóságban. Ámen

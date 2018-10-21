@@ -1,0 +1,32 @@
+books:
+  - id: emmet
+    number: '34'
+lyrics:
+  - lang: hu
+    title: Csak Jézusnak szolgálok
+    verses:
+      - name: c
+        lines:
+          - Csak Jézusnak szolgálok,
+          - az Ő országát várom, mert eljön Ő,
+          - az Üdvözítő, ó, Jézus,
+          - feltámadt Király.
+      - name: v1
+        lines:
+          - Áldjad lelkem Őt! Dicsérd Teremtőd!
+          - Most és mindörökké. Ámen.
+          - Áldja minden nép!
+          - Dicsérd szent nevét!
+          - Most és mindörökké. Ámen.
+      - name: v2
+        lines:
+          - Hálát adjatok, áldást mondjatok!
+          - Most és mindörökké. Ámen.
+          - Egyházad dicsér nagy jóságodért.
+          - Most és mindörökké. Ámen.
+      - name: v3
+        lines:
+          - Áldott légy, Atya egyszülött Fia!
+          - Most és mindörökké. Ámen.
+          - Éltető Lélek, Téged dicsérlek.
+          - Most és mindörökké. Ámen.

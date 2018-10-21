@@ -1,0 +1,17 @@
+books:
+  - id: eeym17
+    number: '36'
+lyrics:
+  - lang: en
+    title: Queen of the heavens
+    verses:
+      - name: v1
+        lines:
+          - Queen of the heavens,
+          - sing for joy; Alleluia!
+          - For He whom you bore
+          - in your womb, Alleluia!
+          - From the dead He rose,
+          - as He promised that He would;
+          - Pray for us all,
+          - Alleluia, Alleluia, Alleluia!

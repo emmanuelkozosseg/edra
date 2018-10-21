@@ -1,0 +1,58 @@
+books:
+  - id: emmet
+    number: '1'
+lyrics:
+  - lang: hu
+    title: Alleluját zengj az Úrnak
+    verses:
+      - name: c
+        lines:
+          - Alleluját zengj az Úrnak!
+          - Minden nemzet áldja Őt!
+          - Örvendezve ünnepeljük,
+          - Mert jóságos és dicső!
+      - name: v1
+        lines:
+          - Angyali kar, mennyei kórus,
+          - Égi nép,
+          - Együtt áldjuk szent Nevét!
+      - name: v2
+        lines:
+          - Nappali fény, hold ragyogása
+          - Csillagos ég,
+          - Együtt áldjuk szent Nevét!
+      - name: v3
+        lines:
+          - Záporeső, hajnali harmat,
+          - Északi szél,
+          - Együtt áldjuk szent Nevét!
+      - name: v4
+        lines:
+          - Nagy hideg, tűz és hőség,
+          - Hó és jég,
+          - Együtt áldjuk szent Nevét!
+      - name: v5
+        lines:
+          - Források, tó és tenger,
+          - Föld és ég,
+          - Együtt áldjuk szent Nevét!
+      - name: v6
+        lines:
+          - Égi madár, erdei állat,
+          - Sok vízi lény,
+          - Együtt áldjuk szent Nevét!
+      - name: v7
+        lines:
+          - Férfiak, asszonyok, lányok,
+          - Minden nép,
+          - Együtt áldjuk szent Nevét!
+      - name: v8
+        lines:
+          - Izrael, szent papi rendek,
+          - Szent maradék,
+          - Együtt áldjuk szent Nevét!
+      - name: v9
+        lines:
+          - Glória szálljon az égbe
+          - Mindörökké!
+          - Együtt áldjuk szent Nevét!

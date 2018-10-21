@@ -1,0 +1,31 @@
+books:
+  - id: eeym17
+    number: '18'
+lyrics:
+  - lang: en
+    title: Strong, mighty and holy
+    verses:
+      - name: v1
+        lines:
+          - It is good to acknowledge that your love is true
+          - And proclaim that our love comes from you.
+          - All our being we offer to you we belong,
+          - 'We, a people of praise, sing this song:'
+      - name: c
+        lines:
+          - Strong, mighty and holy,
+          - Is your great name.
+          - 'May praise ring out before You:'
+          - Endless is your reign.
+      - name: v2
+        lines:
+          - You have filled us with treasures that come from your hand,
+          - For the hungry who dwell in this land.
+          - We give thanks for your goodness, the gifts that you send,
+          - 'So our voices proclaim without end:'
+      - name: v3
+        lines:
+          - All your signs and your wonders; your power revealed,
+          - We proclaim to the world we are healed.
+          - We come into your presence and humbly adore.
+          - You are worthy of praise evermore.

@@ -1,0 +1,62 @@
+books:
+  - id: emmet
+    number: '91'
+  - id: eeym17
+    number: '19'
+lyrics:
+  - lang: hu
+    title: Te vagy az Út...
+    verses:
+      - name: c
+        lines:
+          - Te vagy az Út,
+          - Te vagy az Igazság,
+          - Te vagy az élet örökké.
+          - Győztél a keresztfán,
+          - A néped ezért áld,
+          - Te vagy az Úr, dicső király!
+      - name: v1
+        lines:
+          - Ha Veled járom az utam,
+          - Kitől is féljek Uram?
+          - Megyek az úton, nincsen akadály
+          - Velem vagy Jézus, nem kell más.
+      - name: v2
+        lines:
+          - Amikor bajba kerülünk,
+          - Szorosan fogjad a kezünk!
+          - Te vagy a mester, őrizd a hitünk,
+          - Hogy a nevedben élhessünk!
+      - name: v3
+        lines:
+          - Lelkünkbe írod szavadat,
+          - Szeretetedre tanítasz.
+          - Ragyogjon fel hát szívünkben a fény,
+          - 'Vigyük a jó hírt: Krisztus él!'
+  - lang: en
+    title: To You, o Lord
+    verses:
+      - name: c
+        lines:
+          - To You, o Lord, we sing with all our hearts,
+          - In You the victory is won.
+          - We fix our eyes on You, we contemplate your cross,
+          - You are the Lamb, God’s only Son.
+      - name: v1
+        lines:
+          - You clear a path when all is dark,
+          - Our hope is born again in You.
+          - We have no fear, we follow where You lead,
+          - You are our peace and You are true.
+      - name: v2
+        lines:
+          - In all our struggles and our woes,
+          - For us your victory is won.
+          - Even in danger, Father, we believe,
+          - Through Jesus Christ, your only Son.
+      - name: v3
+        lines:
+          - Deep in the secret of our hearts,
+          - Make of your truth our one desire.
+          - Teach us, o Lord, the wisdom of your ways,
+          - And with your love set us on fire!

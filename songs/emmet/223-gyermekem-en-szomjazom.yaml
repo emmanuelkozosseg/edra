@@ -1,0 +1,35 @@
+books:
+  - id: emmet
+    number: '223'
+lyrics:
+  - lang: hu
+    title: Gyermekem, én szomjazom
+    verses:
+      - name: c
+        lines:
+          - Gyermekem, én szomjazom,
+          - vágyom a szíved után.
+      - name: v1
+        lines:
+          - Maradj mindig énbennem,
+          - nézd szívemet!
+          - Maradj mindig énbennem,
+          - lásd hűségem!
+      - name: v2
+        lines:
+          - Maradj mindig énbennem,
+          - békére lelsz!
+          - Maradj mindig énbennem,
+          - igaz lesz életed!
+      - name: v3
+        lines:
+          - Maradj mindig énbennem,
+          - figyeld igémet!
+          - Maradj mindig énbennem,
+          - szeresd testvéred!
+      - name: v4
+        lines:
+          - Ne aggódj, és ne félj már,
+          - bízz énbennem!
+          - Felüdítem lelkedet,
+          - add át életed!

@@ -1,0 +1,35 @@
+books:
+  - id: 'eeym17'
+    number: P3
+lyrics:
+  - lang: en
+    title: Lord, in your mercy, guide us home
+    verses:
+      - name: c
+        lines:
+          - Lord in your mercy guide us home.
+          - Your Word, a light along our path.
+          - Keep us together as one in love;
+          - a people of healing and peace.
+      - name: v1
+        lines:
+          - Weighed down with sin, Lord, we hid in fear,
+          - but in our shame you were near.
+          - You took our burdens, you set us free, Lord,
+          - and forever we'll sing of your love.
+      - name: v2
+        lines:
+          - 'Amazing love that you have for us:'
+          - such love that conquered sin and death.
+          - Upon that cross, Lord, water and blood poured;
+          - from your side you had fashioned the Church!
+      - name: v3
+        lines:
+          - Your mighty deeds will be known to all;
+          - and so the splendour of your reign.
+          - For by your victory, filled with your Spirit
+          - we go out and proclaim the Good News!
+      - name: b
+        lines:
+          - You are the way. You are the truth. You are the life.
+          - You are the way. You are the truth. You are the life.

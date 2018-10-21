@@ -1,0 +1,41 @@
+books:
+  - id: eeym17
+    number: '20'
+lyrics:
+  - lang: en
+    title: Wake and arise
+    verses:
+      - name: c
+        lines:
+          - Wake and arise, come to the light, people of God.
+          - Jesus the Lord has been born for us all.
+          - Glory to God, peace to the earth,
+          - sing to the Lord, bow adore Him now.
+      - name: v1
+        lines:
+          - Our Redeemer and Lord, who was promised to us, brings us
+          - fullness of life. Let's acclaim the king, Jesus our Lord.
+      - name: v2
+        lines:
+          - Your great love is so strong,
+          - Even stronger than death.
+          - You have saved us from sin,
+          - Let's acclaim the king, Jesus our Lord.
+      - name: v3
+        lines:
+          - God the Father of all,
+          - Sent his Son, Jesus Christ,
+          - He became man like us,
+          - Let's acclaim the king, Jesus our Lord.
+      - name: v4
+        lines:
+          - God our rock and strength,
+          - Source of life and of hope,
+          - Came to us as a child,
+          - Let's acclaim the king, Jesus our Lord.
+      - name: v5
+        lines:
+          - Throughout all of the world,
+          - A great light shines on us,
+          - God is here with us now,
+          - Let's acclaim the king, Jesus our Lord.

@@ -1,0 +1,31 @@
+books:
+  - id: emmet
+    number: '78'
+lyrics:
+  - lang: hu
+    title: Dicsérje ének Istenünk
+    verses:
+      - name: c
+        lines:
+          - Dicsérje ének Istenünk,
+          - mert Ő az Alkotónk.
+          - Mindenki Őt imádja ma,
+          - az élet Istenét!
+      - name: v1
+        lines:
+          - Dicsérjétek Őt dicsőséges szent helyén!
+          - Dicsérjétek Őt az ég boltozatában!
+          - Dicsérjétek Őt, hatalmas tetteiért!
+          - Dicsérjétek Őt az Ő hatalmáért!
+      - name: v2
+        lines:
+          - Dicsérjétek Őt kürttel, harsonával!
+          - Dicsérjétek Őt dobbal és körtánccal!
+          - Dicsérjétek Őt lanttal, fuvolával!
+          - Dicsérjétek Őt lapssal, citerával!
+      - name: v3
+        lines:
+          - Dicsérjétek Őt zengő cintányérral!
+          - Dicsérjétek Őt csengő muzsikával!
+          - Mindaz, aki él, néki zengje énekét!
+          - Áldjuk az Urat, alleluja!

@@ -1,0 +1,45 @@
+books:
+  - id: eeym17
+    number: 'P1'
+lyrics:
+  - lang: en
+    title: Closer to You my God
+    verses:
+      - name: c
+        lines:
+          - Closer to You, my God,
+          - I long to dwell in You,
+          - my creator and Lord,
+          - You made me for yourself
+          - and my heart's without rest,
+          - until it finds rest in You.
+      - name: v1
+        lines:
+          - Who but You can fulfill,
+          - the desires of my heart,
+          - satisfying search
+          - for an all perfect love?
+          - Who if not You O Lord,
+          - God of goodness and grace
+          - You the absoolute love
+          - that has been for all time?
+      - name: v2
+        lines:
+          - May You show me your love,
+          - all the days of my life.
+          - Without You by my side,
+          - I just stumble and fall.
+          - May your Spirit of love,
+          - fill my heart with your fire,
+          - may I learn how to give
+          - love and always forgive.
+      - name: v3
+        lines:
+          - At the end of my life
+          - may You welcome me Lord,
+          - in your heart full of love
+          - in the Father's own house.
+          - May I see You O Lord,
+          - contemplate You with joy,
+          - live in heaven with You
+          - in your love without end.

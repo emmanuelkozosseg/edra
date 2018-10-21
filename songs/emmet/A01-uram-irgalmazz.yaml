@@ -1,0 +1,13 @@
+books:
+  - id: emmet
+    number: A1
+lyrics:
+  - lang: hu
+    title: Uram irgalmazz
+    verses:
+      - name: v1
+        lines:
+          - Uram irgalmazz, Uram irgalmazz!
+          - Krisztus kegyelmezz,
+          - Krisztus kegyelmezz!
+          - Uram irgalmazz, Uram irgalmazz!

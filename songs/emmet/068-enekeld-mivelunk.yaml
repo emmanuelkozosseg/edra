@@ -1,0 +1,42 @@
+books:
+  - id: emmet
+    number: '68'
+lyrics:
+  - lang: hu
+    title: Énekeld mivelünk
+    verses:
+      - name: c
+        lines:
+          - Énekeld mivelünk
+          - a mi Urunk dicsőségét!
+          - Allelu, allelu, alleluja, alleluja
+      - name: v1
+        lines:
+          - Isten ma bekötöz minden sebet,
+          - gyógyítja megtört szívünk.
+          - Mert jóságos az Úr, benne hiszünk.
+          - Mind neki örvendünk.
+      - name: v2
+        lines:
+          - Mindenkor, mindenért,
+          - mindenhol Istennek
+          - adjunk hálát, mert megsegít az Úr,
+          - Ő a Király. Alleluja.
+      - name: v3
+        lines:
+          - Áldani akarom Istenemet
+          - életem minden napján.
+          - Csak neki dalolok szüntelenül.
+          - Nála az élet vár.
+      - name: v4
+        lines:
+          - Zúgjon a harsona, szóljon a dob,
+          - trombita hangja áldja!
+          - Hirdesse a gitár, zengjen a kürt,
+          - cimbalom és a hárfa.
+      - name: v5
+        lines:
+          - Isten a mi erőnk, Üdvözítőnk.
+          - Megszabadított minket.
+          - 'Ő a mi örömünk, bátorítónk:'
+          - Jézus a Megváltónk.

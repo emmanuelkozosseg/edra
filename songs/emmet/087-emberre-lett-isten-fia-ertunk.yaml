@@ -1,0 +1,80 @@
+books:
+  - id: emmet
+    number: '87'
+  - id: eeym17
+    number: '12'
+lyrics:
+  - lang: hu
+    title: Emberré lett Isten fia értünk
+    verses:
+      - name: c
+        lines:
+          - Emberré lett Isten Fia értünk,
+          - Emmánuel a neve!
+          - Emberré lett Isten Fia értünk,
+          - Alleluja!
+      - name: v1
+        lines:
+          - Bár a bűn rabjai voltunk,
+          - és mi sokszor elbotoltunk,
+          - 'ám az Úr lehajolt hozzánk:'
+          - Ó, Emmánuel!
+      - name: v2
+        lines:
+          - Szent Fiát az Atya küldte,
+          - s testet ölt a Szűzi méhben,
+          - 'Ő a béke fejedelme:'
+          - Ó Emmánuel!
+      - name: v3
+        lines:
+          - Jó az Úr, szeret az Isten,
+          - eltörölte bűneinket.
+          - 'Nála vár az örök élet:'
+          - Ó, Emmánuel!
+      - name: v4
+        lines:
+          - Krisztus, Isten egyszülöttje,
+          - király vagy Te mindörökre!
+          - 'Angyalok serege zengje:'
+          - Ó, Emmánuel!
+  - lang: en
+    title: God's own Son
+    verses:
+      - name: c
+        lines:
+          - God's own Son
+          - Came down from heaven.
+          - He is called Emmanuel.
+          - God's own Son
+          - Came down from heaven.
+          - Alleluia!
+      - name: v1
+        lines:
+          - Jesus Christ, You are our Saviour.
+          - Son of God and king eternal.
+          - As a man, You came to save us.
+          - You are God with us.
+      - name: v2
+        lines:
+          - Jesus when You came among us,
+          - You were placed into a manger.
+          - Stripped of all your heav'nly glory,
+          - You are God with us.
+      - name: v3
+        lines:
+          - God from God and light from true light.
+          - Truly one with God the Father,
+          - With no end, with no beginning,
+          - He is God with us.
+      - name: v4
+        lines:
+          - Jesus is the light to follow.
+          - Shining forth for all the nations
+          - Jesus takes away our worries,
+          - He is God with us.
+      - name: v5
+        lines:
+          - When our hearts are feeling heavy,
+          - Burdened with life's care and worries
+          - Jesus, You are there to lead us,
+          - You are God with us.

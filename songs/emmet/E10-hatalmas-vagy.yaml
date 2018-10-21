@@ -1,0 +1,14 @@
+books:
+  - id: emmet
+    number: E10
+lyrics:
+  - lang: hu
+    title: Hatalmas vagy
+    verses:
+      - name: v1
+        lines:
+          - Hatalmas vagy, erős Isten,
+          - Szent és dicső senki más nincsen!
+          - Feltámadtál és Te győztél,
+          - a halálon uralmat vettél.
+          - '/: Alleluja, örvendezzünk hát! :/'

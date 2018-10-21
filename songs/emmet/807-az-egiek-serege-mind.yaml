@@ -1,0 +1,31 @@
+books:
+  - id: emmet
+    number: '807'
+lyrics:
+  - lang: hu
+    title: Az égiek serege mind
+    verses:
+      - name: c
+        lines:
+          - Az égiek serege mind,
+          - 'most énekli himnuszait:'
+          - Téged dicsérve áld,
+          - és leborul előtted, égi Király.
+      - name: v1
+        lines:
+          - 'Az Úr dicsőségét láttam:'
+          - Ő áll mindenek felett.
+          - 'Őelőtte hangzik a végtelen dicséret:'
+          - Szent, szent, szent az Úr!
+      - name: v2
+        lines:
+          - És megjelent a Fiú,
+          - aki fénybe öltözött.
+          - Minden ember általa nyer új életet.
+          - Szent, szent, szent az Úr!
+      - name: v3
+        lines:
+          - És láttam, ahogy az égből
+          - a Szentlélek leszállt.
+          - Ő az éltetőnk, aki által zeng imánk.
+          - Szent, szent, szent az Úr!

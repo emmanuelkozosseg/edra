@@ -1,0 +1,64 @@
+books:
+  - id: emmet
+    number: '85'
+lyrics:
+  - lang: hu
+    title: Szeret az Úr...
+    verses:
+      - name: c
+        lines:
+          - Szeret az Úr, zengje föld és az ég,
+          - dicséri Istent, aki féli őt.
+          - Itt van az ország, ami várt miránk.
+          - Eljött a szabadulás.
+      - name: v1
+        lines:
+          - Szüntelen áldom az örök Atyát
+          - Ujjong a lelkünk és áldja a szánk.
+          - Dicsérjük Istent, aki végtelen,
+          - Ő lehajol s felemel.
+      - name: v2
+        lines:
+          - Dicsérjük együtt az egek Urát
+          - hiszen ha hívjuk, ő hallja imánk.
+          - Megszabadít, hogyha kérjük őt
+          - Isten a védelmezőnk.
+      - name: v3
+        lines:
+          - Istenre nézünk és fénye betölt.
+          - Vége az éjnek, hisz Ő jön elénk.
+          - Aki csak hívja az Úr nevét,
+          - megérzi szeretetét.
+      - name: v4
+        lines:
+          - Boldog az ember aki keresi őt,
+          - Ki benne hisz, mivel Ő ad erőt.
+          - Halld a szavát, s tedd meg akaratát!
+          - S lelkedre béke vár.
+  - lang: en
+    title: Cry out with joy
+    verses:
+      - name: c
+        lines:
+          - Cry out with joy all you children of God,
+          - All you who thirst, all you humble of heart!
+          - Open your eyes, see the kingdom is here.
+          - Welcome your Saviour and Lord.
+      - name: v1
+        lines:
+          - All of my life, I will sing to the Lord.
+          - Always his praise will remain on my lips.
+          - With all my heart, I will honour the Lord.
+          - Let all the humble rejoice!
+      - name: v2
+        lines:
+          - Turn to the Lord, fix your eyes on his face.
+          - Hope in our God, he will free you from shame.
+          - Happy the poor for he answers their prayer.
+          - He rescues them from distress!
+      - name: v3
+        lines:
+          - Join me in praise, tell the wonders of God.
+          - Let us exult in his glorious name.
+          - I seek the Lord and he answers my call,
+          - He sets me free from my fears!

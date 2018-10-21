@@ -1,0 +1,40 @@
+books:
+  - id: eeym17
+    number: P8
+lyrics:
+  - lang: en
+    title: Stay Silent
+    verses:
+      - name: c
+        lines:
+          - Stay silent,
+          - unless what you have to say
+          - is greater than the beauty
+          - of the silence of the Lord.
+          - Stay silent,
+          - unless what you have to say
+          - is greater than the silence of the Lord.
+      - name: v1
+        lines:
+          - Draw me Jesus to the silence of your heart;
+          - take me away from my fears.
+          - Many worries of the world hinder me;
+          - here in your presence they leave me.
+      - name: v2
+        lines:
+          - All my being finds itself in Your truth.
+          - I see the scars of my sins, Lord;
+          - revelation of my woundednature.
+          - All of my heart longs for You, Lord.
+      - name: v3
+        lines:
+          - Help me Jesus find my true desires,
+          - settle the storm of my emo tions.
+          - Enlighten my mind with Your wisdom di vine,
+          - to know Your will for my life, Lord.
+      - name: v4
+        lines:
+          - Here you look with so much love upon me;
+          - Your love and mercy sets me free.
+          - I lift my eyes adoring to your face,
+          - and see the beauty of Your grace.

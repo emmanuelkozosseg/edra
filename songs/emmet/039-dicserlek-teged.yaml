@@ -1,0 +1,68 @@
+books:
+  - id: emmet
+    number: '39'
+  - id: eeym17
+    number: '13'
+lyrics:
+  - lang: hu
+    title: Dicsérlek Téged...
+    verses:
+      - name: c
+        lines:
+          - Dicsérlek Téged, áldlak Istenem,
+          - Tehozzád vágyom,
+          - s zengem szent neved!
+          - 'Irgalmad éltet:'
+          - most és mindörökké hirdetem.
+      - name: v1
+        lines:
+          - Jó az Úr, és a szeretetét
+          - hirdetem örökké.
+          - Irgalma soha véget nem ér,
+          - megkegyelmez annak,
+          - aki benne remél.
+      - name: v2
+        lines:
+          - Fenntartja az Úr a botladozót,
+          - felkarol, ha elesel.
+          - Felsegíti akit megaláztak.
+          - Bekötözi Ő a sebeidet.
+      - name: v3
+        lines:
+          - Istenem, fölséged végtelen,
+          - téged áld a lelkem.
+          - Jóságod mindenkor hirdetem,
+          - végtelen a szereteted!
+      - name: v4
+        lines:
+          - 'Mindazok, akik félik őt:'
+          - megteszik az akaratát.
+          - És az Úr meghallja hangjukat,
+          - megsegíti azt, ki hozzá kiált.
+  - lang: en
+    title: Great is your mercy
+    verses:
+      - name: c
+        lines:
+          - Great is your mercy, wonderful your love!
+          - Great is your mercy, infinite your love!
+          - God of compassion,
+          - I will never cease to sing your praise!
+      - name: v1
+        lines:
+          - You, o Lord, are a merciful God,
+          - Your compassion is true.
+          - Slow to anger and faithful in love,
+          - You seek for the lost to save them from sin.
+      - name: v2
+        lines:
+          - All the poor fix their eyes upon you.
+          - You give hope in despair.
+          - To the needy, you open your hands.
+          - You fill them, o Lord, with life to the full.
+      - name: v3
+        lines:
+          - All my heart offers thanks to my God,
+          - Worships his holy name.
+          - I will tell of his marvellous deeds,
+          - A new song of praise each day of my life.

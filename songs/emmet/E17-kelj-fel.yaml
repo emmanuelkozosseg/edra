@@ -1,0 +1,15 @@
+books:
+  - id: emmet
+    number: E17
+lyrics:
+  - lang: hu
+    title: Kelj fel
+    verses:
+      - name: v1
+        lines:
+          - '/: Kelj fel, mert a Fény eljött,'
+          - íme eljött világosságod! :/
+          - Az Úr dicsősége rajtad feltámadt,
+          - az Ő fénye benned ég.
+          - Az Úr dicsősége rajtad
+          - feltámadt és ragyog örökké!

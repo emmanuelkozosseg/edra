@@ -1,0 +1,26 @@
+books:
+  - id: eeym17
+    number: 'P2'
+lyrics:
+  - lang: en
+    title: Holy Spirit, Come And Enflame Our Hearts
+    verses:
+      - name: c
+        lines:
+          - Holy Spirit come and
+          - enflame our hearts,
+          - Holy Spirit come!
+          - Holy Spirit come and
+          - renew the face of earth!
+      - name: v1
+        lines:
+          - Holy Spirit, fill our lives,
+          - Holy Spirit, set us on fire.
+          - Lead us on the path of life
+          - Holy Spirit, purify our hearts.
+      - name: v2
+        lines:
+          - Holy Spirit, mould us anew,
+          - Lord of life, come strengthen our souls.
+          - Love of Christ, enlighten our minds
+          - Give us joy that never ends.

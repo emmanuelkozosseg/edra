@@ -1,0 +1,29 @@
+books:
+  - id: emmet
+    number: '72'
+lyrics:
+  - lang: hu
+    title: Földek az Istent dicsérjétek
+    verses:
+      - name: c
+        lines:
+          - Alleluja, Alleluja,
+          - Alleluja, Alleluja!
+      - name: v1
+        lines:
+          - Földek az Istent dicsérjétek!
+          - Örvendezve szolgáljátok őt!
+          - Menjetek színe elé énekelve!
+          - Mert végtelen a szeretete!
+      - name: v2
+        lines:
+          - Tudjátok meg, az Úr az Isten,
+          - 'És mi az övéi vagyunk:'
+          - Nyája és kiválasztott népe,
+          - mert végtelen a szeretete!
+      - name: v3
+        lines:
+          - Lépjetek elé háladallal,
+          - Őt dicsérjétek udvarában!
+          - Mily jó az Úr, zengjétek szüntelen,
+          - mert végtelen a szeretete!

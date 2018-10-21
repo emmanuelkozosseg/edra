@@ -1,0 +1,39 @@
+books:
+  - id: emmet
+    number: '75'
+lyrics:
+  - lang: hu
+    title: Alleluja, Alleluja feltámadott
+    verses:
+      - name: c
+        lines:
+          - Alleluja! Alleluja! Feltámadott!
+          - Alleluja!
+          - És Jézus eltörölte végleg a halált!
+          - Alleluja! Alleluja! Feltámadott!
+          - Alleluja!
+          - 'Ujjongva énekeljük hát: Alleluja!'
+      - name: v1
+        lines:
+          - Eljött, hogy megmentsen minket az Úr
+          - amikor már nem volt több remény.
+          - És harmadnap hajnalban feltámadott!
+          - Alleluja, Jézus él!
+      - name: v2
+        lines:
+          - Istentől semmi sem választhat el,
+          - sem halál, sem fájdalom, se gyász.
+          - Mert nem hagy el minket, a szívünkben él.
+          - Alleluja, Jézus él
+      - name: v3
+        lines:
+          - Feltámadt Jézus az örök Király.
+          - Ő az Úr kit áld a nagyvilág.
+          - 'Most hirdessed bátran, és semmit ne félj:'
+          - Alleluja, Jézus él!
+      - name: v4
+        lines:
+          - Hálát és áldást zeng néked Urunk
+          - föld és ég, már most és örökké.
+          - 'A szentek és angyalok zengik velünk:'
+          - Alleluja, Jézus él!

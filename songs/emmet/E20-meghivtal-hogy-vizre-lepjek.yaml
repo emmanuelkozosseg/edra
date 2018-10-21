@@ -1,0 +1,69 @@
+books:
+  - id: emmet
+    number: E20
+  - id: eeym17
+    number: '24'
+lyrics:
+  - lang: hu
+    title: Meghívtál, hogy vízre lépjek
+    verses:
+      - name: v1
+        lines:
+          - Meghívtál, hogy vízre lépjek,
+          - hol nélküled elsüllyedek.
+          - Ott is megtalállak téged,
+          - a mélységben megtart hitem.
+      - name: c
+        lines:
+          - Nagy neved hívom én,
+          - és felnézek a vizek fölé
+          - Ott látlak én
+          - A lelkem benned megpihen.
+          - Enyém vagy és én tied.
+      - name: v2
+        lines:
+          - A mélységnél nagyobb kegyelmed,
+          - mely elvezet és tart engem.
+          - Ha elbuknék és nagyon félnék,
+          - Te nem hagysz el és nem inogsz meg.
+      - name: b
+        lines:
+          - Lélek add, hogy benned teljesen megbízzak
+          - A vízen bátran veled járjak,
+          - Hogy bárhová hívsz menjek
+          - Vigyél tovább mint a lábam tudna menni
+          - Taníts teljes hittel járni,
+          - jelenlétedben élni
+  - lang: en
+    title: Oceans
+    verses:
+      - name: v1
+        lines:
+          - You call me out upon the waters
+          - The great unknown where feet may fail
+          - And there I find You in the mystery
+          - In oceans deep
+          - My faith will stand
+          - And I will call upon Your name
+          - And keep my eyes above the waves
+          - When oceans rise, my soul will rest in Your embrace
+          - For I am Yours and You are mine
+      - name: v2
+        lines:
+          - Your grace abounds in deepest waters
+          - Your sovereign hand
+          - Will be my guide
+          - Where feet may fail and fear surrounds me
+          - You've never failed and You won't start now
+          - So I will call upon Your name
+          - And keep my eyes above the waves
+          - When oceans rise, my soul will rest in Your embrace
+          - For I am Yours and You are mine
+      - name: b
+        lines:
+          - Spirit lead me where my trust is without borders
+          - Let me walk upon the waters
+          - Wherever You would call me
+          - Take me deeper than my feet could ever wander
+          - And my faith will be made stronger
+          - In the presence of my Savior

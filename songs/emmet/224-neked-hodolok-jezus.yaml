@@ -1,0 +1,11 @@
+books:
+  - id: emmet
+    number: '224'
+lyrics:
+  - lang: hu
+    title: Néked hódolok, Jézus
+    verses:
+      - name: v1
+        lines:
+          - /:Néked hódolok Jézus, dicső Király!:/
+          - /:Ujjongj, dalolj szívem és imádjad Őt!:/

@@ -1,0 +1,26 @@
+books:
+  - id: emmet
+    number: '220'
+  - id: eeym17
+    number: '31'
+lyrics:
+  - lang: hu
+    title: Jézus, megígérted
+    verses:
+      - name: v1
+        lines:
+          - Jézus, megígérted azt,
+          - hogy elküldöd nekünk
+          - Szent Lelkedet.
+          - Ó, jöjj, hadd vigyük a fényedet,
+          - és mindig áldjuk szent neved.
+  - lang: en
+    title: Jesus, send your Spirit
+    verses:
+      - name: v1
+        lines:
+          - Jesus, send your Spirit,
+          - Lord, as you promised us,
+          - We are asking You, o Lord,
+          - Pour out your fire on earth,
+          - Jesus, my life is in your hands.

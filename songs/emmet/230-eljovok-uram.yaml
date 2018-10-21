@@ -1,0 +1,33 @@
+books:
+  - id: emmet
+    number: '230'
+lyrics:
+  - lang: hu
+    title: Eljövök Uram
+    verses:
+      - name: c
+        lines:
+          - Eljövök, Uram,
+          - mindent megteszek, mit kérsz.
+          - Történjék velem szent szavaid szerint!
+      - name: v1
+        lines:
+          - Hálát adok Neked teljes szívemből,
+          - meghallgattad ajkam sóhaját.
+          - Téged áldalak az angyalok karával.
+      - name: v2
+        lines:
+          - Hálát adok Neked szeretetedért,
+          - irgalmadért és szent igazságodért,
+          - hiszen mindig meghallgattál engem.
+      - name: v3
+        lines:
+          - Hálát adok Neked szövetségedért.
+          - Megőrzöd a lelkem,
+          - hogyha szorongatnak,
+          - és a jobbod megszabadít engem.
+      - name: v4
+        lines:
+          - Hálát adok Neked dicsőségedért.
+          - A föld minden népe téged ünnepel.
+          - Neked zengik a hála énekét.

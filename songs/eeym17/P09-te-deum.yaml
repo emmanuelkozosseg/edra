@@ -1,0 +1,13 @@
+books:
+  - id: eeym17
+    number: P9
+lyrics:
+  - lang: en
+    title: Te Deum
+    verses:
+      - name: v1
+        lines:
+          - The heavens and the earth
+          - are ablaze with your glory;
+          - the heavens and the earth
+          - are ablaze with your glory!

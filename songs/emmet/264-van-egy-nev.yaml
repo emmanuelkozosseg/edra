@@ -1,0 +1,19 @@
+books:
+  - id: emmet
+    number: '264'
+lyrics:
+  - lang: hu
+    title: Van egy név
+    verses:
+      - name: v1
+        lines:
+          - Van egy név nincsen más
+          - Meghajol a föld s az ég
+          - A király szent nevét
+          - Igen áldja minden név
+      - name: v2
+        lines:
+          - Minden nyelv megvallja, hogy Ő
+          - Minden nyelv megvallja, hogy Ő
+          - Minden nyelv megvallja,
+          - Hogy Jézus az Üdvözítő

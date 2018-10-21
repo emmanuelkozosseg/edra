@@ -1,0 +1,25 @@
+books:
+  - id: emmet
+    number: '404'
+lyrics:
+  - lang: hu
+    title: Ím' Gábor angyal
+    verses:
+      - name: c
+        lines:
+          - Ím Gábor angyal megjelent és
+          - 'így köszönté Máriát:'
+          - Te Istengyermeket fogansz,
+          - 'kinek neve lesz: Emmánuel.'
+      - name: v1
+        lines:
+          - Mindent az Úrtól kaptam én,
+          - és Őt szolgáltam eddig is.
+          - Történjék szavaid szerint
+          - velem örök időkön át!
+      - name: v2
+        lines:
+          - Gyermekként jött az Úr közénk,
+          - kit ím szűzen szült Mária.
+          - 'Mindnyájunk életét ismeri:'
+          - örömünk és bánatunk.

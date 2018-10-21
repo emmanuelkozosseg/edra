@@ -1,0 +1,22 @@
+books:
+  - id: emmet
+    number: '402'
+lyrics:
+  - lang: hu
+    title: Salve Regina
+    verses:
+      - name: v1
+        lines:
+          - 'Salve Regina, Mater misericordie:'
+          - Vita, dulcedo, et spes nostra, salve.
+          - Ad te clamamus, exsules, filii Hevé.
+          - Ad te suspiramus, gementes et flentes
+      - name: v2
+        lines:
+          - In hac lacrimarum valle.
+          - Eia ergo, Advocata nostra,
+          - illos tuos misericordes oculos
+          - ad nos converte.
+          - Et Jesum, benedictum fructum ventris tui,
+          - nobis post hoc exsilium ostende.
+          - O, clemens, o, pia,o, dulcis Virgo Maria.

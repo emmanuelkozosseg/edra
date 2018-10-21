@@ -1,0 +1,43 @@
+books:
+  - id: eeym17
+    number: '23'
+lyrics:
+  - lang: en
+    title: Hosanna
+    verses:
+      - name: v1
+        lines:
+          - I see the King of glory
+          - Coming on the clouds with fire
+          - The whole earth shakes
+          - The whole earth shakes
+          - I see His love and mercy
+          - Washing over all our sin
+          - The people sing
+          - The people sing
+      - name: c
+        lines:
+          - Hosanna Hosanna
+          - Hosanna in the highest
+          - Hosanna Hosanna
+          - Hosanna in the highest
+      - name: v2
+        lines:
+          - I see a generation
+          - Rising up to take their place
+          - With selfless faith
+          - With selfless faith
+          - I see a near revival
+          - Stirring as we pray and seek
+          - We’re on our knees
+          - We’re on our knees
+      - name: b
+        lines:
+          - Heal my heart and make it clean
+          - Open up my eyes to the things unseen
+          - Show me how to love
+          - Like You have loved me
+          - Break my heart for what breaks Yours
+          - Everything I am
+          - For Your kingdom’s cause
+          - As I walk from earth into eternity

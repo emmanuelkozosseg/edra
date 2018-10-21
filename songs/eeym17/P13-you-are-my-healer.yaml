@@ -1,0 +1,41 @@
+books:
+  - id: eeym17
+    number: P13
+lyrics:
+  - lang: en
+    title: You are my healer
+    verses:
+      - name: v1
+        lines:
+          - I cry to you Father Your Spirit within.
+          - And though I am weak, your mercy I seek,
+          - to wash me from all of my sins.
+          - My Jesus, my Saviour, my Lord and my God,
+          - my heart's true desire is Your heavenly fire,
+          - to be with you for ever more.
+      - name: v2
+        lines:
+          - I'll live by the spirit to be filled with grace.
+          - O Lord cleanse my soul and come make me whole.
+          - I long for Your loving embrace.
+          - I know you are faithful, yet Father I fear.
+          - Oh when will I see Your power in me?
+          - And yet I know You're always near.
+      - name: c
+        lines:
+          - '"You are my healer", with the heavens I sing.'
+          - "\"Hosanna\", I'll praise You, my God and my King."
+          - Glory and power to Your most holy name.
+      - name: b
+        lines:
+          - Our God saves, and his greatness I'll proclaim.
+          - Lord we are precious of worth in Your eyes.
+          - Sonship you gave us by Your sacrifice.
+          - And in our night, we see Your light
+          - as grace pours into our lives.
+      - name: c2
+        lines:
+          - '"You are my healer", with the heavens I sing.'
+          - "\"Hosanna\", I'll praise You, my God and my King."
+          - Glory and power to Your most holy name.
+          - Our God saves, and his greatness I'll proclaim.

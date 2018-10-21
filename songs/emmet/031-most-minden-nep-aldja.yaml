@@ -1,0 +1,43 @@
+books:
+  - id: emmet
+    number: '31'
+lyrics:
+  - lang: hu
+    title: Most minden nép áldja
+    verses:
+      - name: c
+        lines:
+          - Most minden nép áldja az élet Urát!
+          - 'Ujjongjunk: eljött a nagy Király!'
+          - Most minden nép áldja az élet Urát!
+          - Örvendjünk, zengjünk alleluját!
+      - name: v1
+        lines:
+          - Gyermek született nekünk,
+          - íme Fiú adatott nekünk,
+          - 'Béke Fejedelme a neve:'
+          - Isten Ő mindörökre.
+      - name: v2
+        lines:
+          - 'Istent nem látta senki:'
+          - az Ő Fiában jelent meg itt.
+          - 'Nékünk mutatta meg jóságát:'
+          - elküldte örök Fiát!
+      - name: v3
+        lines:
+          - A mi üdvösségünkért,
+          - és hogy megmentse, mi elveszett,
+          - 'Hogy a földünkön béke legyen:'
+          - testté lett már az Ige.
+      - name: v4
+        lines:
+          - Mikor az idő betelt,
+          - Isten Máriára letekintett.
+          - És mint kisgyermek jött el közénk,
+          - ki Isten mindörökké.
+      - name: v5
+        lines:
+          - Velünk az Úr örökké,
+          - köztünk lakik, a szívünkben él.
+          - 'Menjünk, hirdessük szeretetét:'
+          - Emmánuel, Jézus él!

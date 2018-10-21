@@ -1,0 +1,37 @@
+books:
+  - id: emmet
+    number: '69'
+lyrics:
+  - lang: hu
+    title: Jöjj, zengd velem
+    verses:
+      - name: c
+        lines:
+          - Jöjj, zengd velem az Úr nevét!
+          - Hirdesd szeretetét!
+          - Jöjj, add neki az életed,
+          - és ne félj, csak Benne remélj!
+      - name: v1
+        lines:
+          - Lelkem áldja az Urat,
+          - mert rám tekintett.
+          - Úgy betöltött javaival,
+          - s a szívem ujjong Benne!
+      - name: v2
+        lines:
+          - Íme boldognak nevez
+          - az összes nemzedék,
+          - 'Mert nagy dolgot tett velem:'
+          - övé a dicsőség!
+      - name: v3
+        lines:
+          - Mert az Isten eltöröl
+          - minden hatalmast,
+          - Ám a szegény éhezőt
+          - Ő jóllakatja.
+      - name: v4
+        lines:
+          - Hűséges az Istenünk
+          - minden időben!
+          - Óvja, védi híveit,
+          - kik Benne remélnek.

@@ -1,0 +1,24 @@
+books:
+  - id: emmet
+    number: I3
+lyrics:
+  - lang: hu
+    title: Tagsági elköteleződés
+    verses:
+      - name: v1
+        lines:
+          - Mennyei Atyánk!
+          - Hálát adok Neked, hogy meghívtál
+          - az Emmánuel Közösségbe!
+          - Köszönöm Neked ezt az utat,
+          - melyet szabadon választottam,
+          - melyen törekszem a legjobb
+          - tudásom és képességem szerint járni.
+      - name: v2
+        lines:
+          - Kérlek, add nekem kegyelmedet az
+          - elkövetkező egy évre, hogy
+          - -naponta dicsőíthesselek Téged,
+          - -hosszas adorációban töltekezhessek;
+          - -tudjak részt venni napi szentmisén,
+          - -éljen bennem a vágy a

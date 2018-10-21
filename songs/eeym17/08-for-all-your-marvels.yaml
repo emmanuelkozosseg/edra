@@ -1,0 +1,33 @@
+books:
+  - id: eeym17
+    number: '8'
+lyrics:
+  - lang: en
+    title: For all your marvels
+    verses:
+      - name: c
+        lines:
+          - For all your marvels,
+          - I want to sing your Name,
+          - Tell of your wonders to the world.
+          - In You I put my trust,
+          - In You and You alone,
+          - You are the Saviour I adore.
+      - name: v1
+        lines:
+          - For when I call You in grief or sadness,
+          - You hear my cry, You draw close to me.
+          - With your right hand You comfort and protect me.
+          - In your embrace You hold me safely.
+      - name: v2
+        lines:
+          - Into your hands Lord, I give my spirit,
+          - And I abandon myself to You.
+          - Who else can save and pardon our transgression?
+          - Only from You comes true salvation.
+      - name: v3
+        lines:
+          - Far from your presence I cannot live, Lord.
+          - But let your face shine always on me.
+          - Don't disappoint the hope I have in You, Lord.
+          - Forever I will sing your praises.

@@ -1,0 +1,38 @@
+books:
+  - id: emmet
+    number: '908'
+lyrics:
+  - lang: hu
+    title: A vak ember
+    verses:
+      - name: v1
+        lines:
+          - /:Az úton a vak ember ül és kiált:/3X
+          - Oh, oh, oh hol van az út,
+          - hol van a fény, az igazság,
+          - ami haza visz oh, o, oh, o, o.
+      - name: v2
+        lines:
+          - A béna is az úton ül és kiált:/3X
+          - Oh, oh, oh hol van az út,
+          - hol van a fény, az igazság,
+          - ami haza visz oh, o, oh, o, o.
+      - name: v3
+        lines:
+          - A néma is az úton ül és kiált:/3X
+          - Oh, oh, oh hol van az út,
+          - hol van a fény, az igazság,
+          - ami haza visz oh, o, oh, o, o.
+      - name: v4
+        lines:
+          - S mi mind csak ülünk
+          - és a szívünk kiált:/3X
+          - Oh, oh, oh hol van az út,
+          - hol van a fény, az igazság,
+          - ami haza visz oh, o, oh, o, o.
+      - name: v5
+        lines:
+          - De Jézus is ott ül velünk s kiált:/3X
+          - Én vagyok az út, az igazság
+          - és az élet ami haza visz
+          - oh, o, oh, o, o. Jézus.

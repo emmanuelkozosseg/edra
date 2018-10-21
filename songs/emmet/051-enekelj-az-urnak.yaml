@@ -1,0 +1,28 @@
+books:
+  - id: emmet
+    number: '51'
+lyrics:
+  - lang: hu
+    title: Énekelj az Úrnak
+    verses:
+      - name: c
+        lines:
+          - Énekelj az Úrnak új éneket!
+          - Énekelj az Úrnak egész föld!
+          - Énekelj az Úrnak új éneket!
+          - Énekelj az Úrnak egész föld!
+      - name: v1
+        lines:
+          - Énekelj az Úrnak, áldjad nagy Nevét!
+          - Hirdesd napról napra
+          - az Ő dicsőségét!
+      - name: v2
+        lines:
+          - Ékesség és fenség van Ő előtte.
+          - Tisztesség és méltóság
+          - az Ő szent helyén.
+      - name: v3
+        lines:
+          - Ujjongjon az ég, örvendjen a föld!
+          - Harsogjon a tenger
+          - és minden benne élő!

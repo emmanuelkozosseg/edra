@@ -1,0 +1,15 @@
+books:
+  - id: emmet
+    number: E15
+lyrics:
+  - lang: hu
+    title: Jézus, térdet hajtunk
+    verses:
+      - name: v1
+        lines:
+          - Jézus, térdet hajtunk,
+          - Te vagy a Királyunk,
+          - énekünk magasba emel,
+          - foglald el királyi trónod!
+          - '/: Úgy várunk, jöjj, tiéd a trón! /3x'
+          - Jöjj, Úr Jézus, Te légy Urunk!

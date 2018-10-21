@@ -1,0 +1,23 @@
+books:
+  - id: emmet
+    number: '263'
+lyrics:
+  - lang: hu
+    title: Szívem telve van Veled
+    verses:
+      - name: v1
+        lines:
+          - Szívem telve van Veled,
+          - Drága Jézus, hű megváltóm,
+          - Hálát érzek mindazért,
+          - Mit értem tettél, drága Jézus,
+          - Hogy elhívtál és befogadtál,
+          - Nincsen más otthonom.
+      - name: v2
+        lines:
+          - Karod óv és átölel,
+          - Nálad van lakhelyem,
+          - 'Jöjj közel hát, és ölelj most át:'
+          - Szükségem van Rád,
+          - Szükségem van Rád,
+          - Szükségem van Rád!

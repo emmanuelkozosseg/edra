@@ -1,0 +1,67 @@
+books:
+  - id: emmet
+    number: '314'
+lyrics:
+  - lang: hu
+    title: Jöjj, Szentlélek, szállj le ránk
+    verses:
+      - name: v1
+        lines:
+          - Jöjj, Szentlélek, szállj le ránk,
+          - oszd a Mennyből, égi Láng,
+          - fényességed sugarát!
+          - Veni Sancte Spiritus!
+      - name: v2
+        lines:
+          - Jöjj, ki árvák Atyja vagy,
+          - jöjj,  ki szívek Lángja vagy,
+          - ajándékos Jóbarát!
+          - Veni Sancte Spiritus!
+      - name: v3
+        lines:
+          - Jöjj, te vagy a Vigasztalás,
+          - drága vendég, lelki Társ,
+          - mindig édes enyhülés!
+          - Veni Sancte Spiritus!
+      - name: v4
+        lines:
+          - Gondok között nyugalom,
+          - hőség ellen oltalom,
+          - zokogásban könnyülés!
+          - Veni Sancte Spiritus!
+      - name: v5
+        lines:
+          - Jöjj és töltsd be híveid
+          - titkos mélyű szíveit,
+          - boldogító égi Tűz!
+          - Veni Sancte Spiritus!
+      - name: v6
+        lines:
+          - Semmi, semmi nélküled
+          - az emberben nem lehet,
+          - semmi tiszta, semmi szűz!
+          - Veni Sancte Spiritus!
+      - name: v7
+        lines:
+          - Mosd meg, amit a szenny belep,
+          - öntözd azt, ami eleped,
+          - seb fájását csillapítsd!
+          - Veni Sancte Spiritus!
+      - name: v8
+        lines:
+          - Ami dermedt, élesztgesd,
+          - ami fagyos melengesd,
+          - ami hibás, igazítsd!
+          - Veni Sancte Spiritus!
+      - name: v9
+        lines:
+          - Benned minden bizalom,
+          - osszad, osszad pazaron
+          - hét szent ajándékodat!
+          - Veni Sancte Spiritus!
+      - name: v10
+        lines:
+          - Adj érdemre jobbulást,
+          - üdvösséges kimúlást,
+          - örök vigasságot adj!
+          - Veni Sancte Spiritus!

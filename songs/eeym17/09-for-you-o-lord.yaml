@@ -1,0 +1,37 @@
+books:
+  - id: eeym17
+    number: '9'
+lyrics:
+  - lang: en
+    title: For You, o Lord
+    verses:
+      - name: c
+        lines:
+          - For You, o Lord, I sing my song of joy;
+          - How great You are, o my God!
+          - With all my heart, I give You honour and thanks,
+          - I offer You endless praise.
+      - name: v1
+        lines:
+          - See I stand before You Lord,
+          - Prepared to follow your way.
+          - In your hand I put my trust;
+          - Take me Lord!
+      - name: v2
+        lines:
+          - Lord, I lift my hands on high,
+          - I praise your glorious name ;
+          - You have taught my lips to sing
+          - Of your praise!
+      - name: v3
+        lines:
+          - For your glory, Lord, is great,
+          - And great your marvels for me;
+          - By your light You have dispelled
+          - All my fears!
+      - name: v4
+        lines:
+          - I will never cease to praise,
+          - Proclaim and honour You Lord;
+          - For your glory I will sing,
+          - Holy Lord!

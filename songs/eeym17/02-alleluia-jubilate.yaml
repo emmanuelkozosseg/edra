@@ -1,0 +1,37 @@
+books:
+  - id: eeym17
+    number: '2'
+lyrics:
+  - lang: en
+    title: Alleluia Jubilate
+    verses:
+      - name: v1
+        lines:
+          - Praise the Lord for He is good, alleluia
+          - And his love, it has no end, alleluia!
+          - To the East and to the West, alleluia
+          - Let us proclaim unending love, alleluia!
+      - name: c
+        lines:
+          - Alleluia! Alleluia,
+          - Jubilate Deo!
+          - Alleluia! Alleluia,
+          - Jubilate, alleluia!
+      - name: v2
+        lines:
+          - The Father longed to send his Son, alleluia
+          - Out of love for everyone, alleluia!
+          - Mary said, "Let it be done", alleluia
+          - So Christ the Lord came to be born, alleluia!
+      - name: v3
+        lines:
+          - Jesus came to set us free, alleluia
+          - From our sin and from our strife, alleluia!
+          - Victory comes from his cross, alleluia
+          - He feeds us with the Bread of Life, alleluia!
+      - name: v4
+        lines:
+          - Jesus is alive today, alleluia
+          - His own heart, true source of love, alleluia!
+          - Spirit-filled, we go our way, alleluia
+          - To tell the world that God is Love, alleluia!

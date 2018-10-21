@@ -1,0 +1,15 @@
+books:
+  - id: emmet
+    number: '910'
+lyrics:
+  - lang: hu
+    title: Áldott legyen az Úr neve
+    verses:
+      - name: v1
+        lines:
+          - /:Az Ő neve bástya, erős vár,
+          - az igaz hozzá fut és megmenekül.:/
+          - /:Áldott legyen az Úr neve,
+          - áldott legyen az Úr neve,
+          - áldott legyen az Úr neve örökké:/
+          - örökké!

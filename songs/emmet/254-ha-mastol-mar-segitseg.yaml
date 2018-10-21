@@ -1,0 +1,31 @@
+books:
+  - id: emmet
+    number: '254'
+lyrics:
+  - lang: hu
+    title: Ha mástól már segítség...
+    verses:
+      - name: v1
+        lines:
+          - Ha mástól már segítség nem jő,
+          - Messzünnen hív téged Ő.
+          - '/: Jöjj szennyesen, méltatlanul:'
+          - Úgy, ahogy vagy, vár az Úr! :/
+      - name: v2
+        lines:
+          - Ő megbocsátott, s ez elég.
+          - Két karját nyújtja feléd.
+          - '/: Fogadd el hát azt a kezet,'
+          - Melyet átütöttek a szegek! :/
+      - name: v3
+        lines:
+          - Mert érted od'adta az Úr
+          - Önmagát áldozatul.
+          - '/: Életed szégyenét elmosta már.'
+          - Csak légy az Övé, arra vár! :/
+      - name: v4
+        lines:
+          - Mert leomlanak a hegyek,
+          - S a halmok megrendülnek,
+          - '/: De hűsége soha meg nem inog,'
+          - Mindörökké élni fog. :/

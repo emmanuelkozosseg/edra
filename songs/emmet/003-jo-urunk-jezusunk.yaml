@@ -1,0 +1,37 @@
+books:
+  - id: emmet
+    number: '3'
+lyrics:
+  - lang: hu
+    title: Jó Urunk, Jézusunk
+    verses:
+      - name: c
+        lines:
+          - Jó Urunk, Jézusunk,
+          - Megváltottál már,
+          - Irgalmas,nagy Király,
+          - Ajkunk Téged áld.
+      - name: v1
+        lines:
+          - Irgalmas az Isten és szeret.
+          - Áldjátok, s örvendezzetek!
+          - Egyszülött Fiában, Jézusban
+          - az Élet diadalt arat.
+      - name: v2
+        lines:
+          - A Szentlélek által földre szállt,
+          - Őrá várt az egész világ.
+          - Szent Keresztje árán megváltott,
+          - Bűnünkből kiszabadított.
+      - name: v3
+        lines:
+          - Kiüresítette önmagát,
+          - S vállalta a kereszthalált.
+          - Feltámadt a sírból harmadnap.
+          - Jöjj el már, szeretet Ura!
+      - name: v4
+        lines:
+          - Áldjuk az Atyát, az ég Urát,
+          - 'És Jézust: egyszülött Fiát,'
+          - S a Szentlélek Istent minden nap!
+          - Ámen. Alleluja.

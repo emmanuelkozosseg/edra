@@ -1,0 +1,34 @@
+books:
+  - id: emmet
+    number: '255'
+lyrics:
+  - lang: hu
+    title: Vágyom arcod Isten
+    verses:
+      - name: v1
+        lines:
+          - Vágyom arcod Isten
+          - Szívem lüktet érted
+          - Téged szomjaz lelkem
+          - Mint száraz föld a záport
+      - name: c
+        lines:
+          - Ha nyugszom is Te jársz eszembe,
+          - Röpülnék hozzád a fénybe,
+          - Mit tehetnék mást életem vagy.
+          - Hozzád kötődöm örökre,
+          - Megérintenélek végre,
+          - Csak szárnyad alatt van oltalom.
+      - name: v2
+        lines:
+          - Tiéd lenni vágyom
+          - Te vagy boldogságom
+          - Téged formáz ajkam
+          - Magasztallak életemmel
+          - Míg itt a földön utam járom
+      - name: v3
+        lines:
+          - Mert Te vagy én oltalmam
+          - Te vagy védő fészkem
+          - Uram csak Benned bízom
+          - Te vagy menedékem

@@ -1,0 +1,15 @@
+books:
+  - id: emmet
+    number: E23
+lyrics:
+  - lang: hu
+    title: Te vagy méltó, ó Istenünk
+    verses:
+      - name: v1
+        lines:
+          - Te vagy méltó, ó Istenünk,
+          - Neked hódolunk, és Téged tisztelünk.
+          - Magasztalásunk illata szálljon fel,
+          - mennyei tróntermedet töltse be!
+          - Áldunk Téged, imádunk Téged,
+          - hűséges Megváltó, Te vagy az Úr!

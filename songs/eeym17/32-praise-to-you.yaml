@@ -1,0 +1,43 @@
+books:
+  - id: eeym17
+    number: '32'
+lyrics:
+  - lang: en
+    title: Praise to you
+    verses:
+      - name: c
+        lines:
+          - Praise to you, let me sing of your love,
+          - Spirit of fire, my Lord.
+          - 'Glory to you, the world is full of your light:'
+          - Gloria, alleluia.
+      - name: v1
+        lines:
+          - Spirit, come! Pour out your rays of light,
+          - Let them fill me with your love.
+          - Come to me, come quickly, come visit my soul;
+          - Spirit, come! Enter my heart!
+      - name: v2
+        lines:
+          - Spirit, come! Precious gift from on high,
+          - Come console me with your love.
+          - Come and cure the wounds of my soul, heal me Lord;
+          - Spirit, come! Enter my heart!
+      - name: v3
+        lines:
+          - Spirit, come! Wash away all my fears,
+          - Fill me with new life in You.
+          - Clear the path before me, keep me from all sin;
+          - Spirit, come! Enter my heart!
+      - name: v4
+        lines:
+          - Spirit, come! Holy fire from above,
+          - Come and change my heart of stone.
+          - Make it burn with love for You, Spirit of truth;
+          - Spirit, come! Enter my heart!
+      - name: v5
+        lines:
+          - Spirit, come! Come and give me your peace,
+          - Take my life, set me ablaze,
+          - Fill me with your joy, let me sing to your name;
+          - Spirit, come! Enter my heart!

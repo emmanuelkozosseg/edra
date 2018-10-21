@@ -1,0 +1,37 @@
+books:
+  - id: eeym17
+    number: '47'
+lyrics:
+  - lang: en
+    title: Only by grace
+    verses:
+      - name: v1
+        lines:
+          - All my being searches,
+          - From where will my help come?
+          - From my Lord and Saviour,
+          - The Fathers only Son.
+          - In all my distresses,
+          - He comes to set me free.
+          - He is ever faithful,
+          - For all eternity.
+      - name: c
+        lines:
+          - Only by grace,
+          - Can I approach your holy throne.
+          - Only by grace,
+          - Can I be welcomed home.
+          - You paid the price,
+          - A new creation comes to be.
+          - Through your rising from the dead,
+          - You set your people free.
+      - name: v2
+        lines:
+          - You know all my thoughts, Lord,
+          - And You know all my fears.
+          - Even from the womb, Lord,
+          - Yes, You were always near.
+          - You forgive the sinner,
+          - Unbounded love you give.
+          - Wonderful you mercy,
+          - In your light I shall live.

@@ -1,0 +1,77 @@
+books:
+  - id: eeym17
+    number: '48'
+lyrics:
+  - lang: en
+    title: Our God is Love.
+    verses:
+      - name: c
+        lines:
+          - Our God is Love.
+          - He makes all things new.
+          - Our God is Love.
+          - He makes all things new in you.
+          - Our God is Love.
+          - He makes all things new.
+          - Open your heart to Him.
+          - Open your heart to Him.
+      - name: v1
+        lines:
+          - I loved you from the start,
+          - when I created you.
+          - You were in my heart
+          - since the dawn of time.
+          - To you, I give the earth,
+          - the flowers and the fields.
+          - Subdue and make them your joy,
+          - for love of me.
+      - name: v2
+        lines:
+          - When you hid from my face
+          - and ran away from me,
+          - When you fled from me
+          - to a distant land,
+          - I came to look for you;
+          - I called you by your name.
+          - Come home, I am your father,
+          - come back to me!
+      - name: v3
+        lines:
+          - For God so loved the world,
+          - He gave his only Son,
+          - So that we might believe
+          - and be made new.
+          - There is no greater love,
+          - than to lay down your life.
+          - For us Christ gave up his life,
+          - unto the cross.
+      - name: v4
+        lines:
+          - Behold this heart of mine,
+          - which loves the world so much
+          - But in return gets coldness
+          - and contempt.
+          - This heart burns for all men,
+          - especially for you.
+          - 'This is the love you long for:'
+          - you need not fear!
+      - name: v5
+        lines:
+          - I praise and thank you Lord,
+          - for your great love for me.
+          - I put my life entirely
+          - in your hands!
+          - Make my heart like your own,
+          - enflame it with your love.
+          - Receive my heart, I'm ready,
+          - I trust in you!
+      - name: v6
+        lines:
+          - Enlighten me, o Lord.
+          - Help me to understand
+          - The breadth, the height
+          - and depth of your true love.
+          - Lord set my heart on fire
+          - and send me on the way
+          - To tell the world of your love,
+          - o send me Lord!

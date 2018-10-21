@@ -1,0 +1,43 @@
+books:
+  - id: emmet
+    number: '41'
+lyrics:
+  - lang: hu
+    title: Dicsérje föld és az ég
+    verses:
+      - name: c
+        lines:
+          - Dicsérje föld és az ég, dalolja mind,
+          - aki él, Isten szeretetét!
+          - Ma újra hallva szavát,
+          - imádd az élet Urát! Zengj alleluját!
+      - name: v1
+        lines:
+          - Isten úgy szeret minket,
+          - hogy nekünk Fiát küldte.
+          - Hogy aki Benne hisz,
+          - éljen Vele most és mindörökre!
+      - name: v2
+        lines:
+          - Jézus, Ő a jó Pásztor,
+          - ismeri övéit,
+          - és ha elveszett egy is,
+          - elmegy érte, megkeresni.
+      - name: v3
+        lines:
+          - Jézus, Ő a mi Fényünk,
+          - Benne van reményünk.
+          - Új szívet teremt bennünk,
+          - és a Lelket adja nékünk
+      - name: v4
+        lines:
+          - Jézus, Ő a Megváltónk,
+          - nem ítélni jött hozzánk.
+          - Mert kereszthalálával
+          - a halál legyőzetett már!
+      - name: v5
+        lines:
+          - '"Mondd, Uram, hová mennénk?"'
+          - Nálad életet leltünk.
+          - 'Szent Igéd: örök élet.'
+          - Benne szüntelen remélünk.

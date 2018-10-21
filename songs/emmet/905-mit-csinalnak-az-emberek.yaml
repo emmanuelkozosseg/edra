@@ -1,0 +1,19 @@
+books:
+  - id: emmet
+    number: '905'
+lyrics:
+  - lang: hu
+    title: Mit csinálnak az emberek
+    verses:
+      - name: v1
+        lines:
+          - Lalalala Lalalalalala
+          - 1. Mit csinálnak az emberek?
+          - Dicsérik Istenük!
+          - Alleluja, alleluja,
+          - Dicsőség néked, Istenünk!
+          - Alleluja, alleluja, Dicsőség Neked!
+          - 2. Mit csinálnak az asszonyok?
+          - 3. Mit csinálnak a férfiak?
+          - 4. Mit csinálnak a gyermekek?
+          - 5. Mit csinálnak a papok?

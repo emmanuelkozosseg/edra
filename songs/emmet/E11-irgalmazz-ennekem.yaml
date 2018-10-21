@@ -1,0 +1,21 @@
+books:
+  - id: emmet
+    number: E11
+lyrics:
+  - lang: hu
+    title: Irgalmazz énnekem
+    verses:
+      - name: v1
+        lines:
+          - Irgalmazz énnekem,
+          - jó Atyám, Istenem,
+          - irgalmazz énnekem..
+      - name: v2
+        lines:
+          - Kegyelmezz Jézusom,
+          - megváltó Krisztusom,
+          - kegyelmezz Jézusom.
+      - name: v3
+        lines:
+          - Szentlélek Istenünk!
+          - Irgalmazz minekünk!

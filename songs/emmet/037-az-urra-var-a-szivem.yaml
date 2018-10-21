@@ -1,0 +1,31 @@
+books:
+  - id: emmet
+    number: '37'
+lyrics:
+  - lang: hu
+    title: Az Úrra vár a szívem
+    verses:
+      - name: c
+        lines:
+          - Az Úrra vár a szívem,
+          - mert Ő az erőm s az Üdvözítőm,
+          - Ki meghalt a bűneimért.
+          - A lelkem ezért Benne remél.
+      - name: v1
+        lines:
+          - Te látod minden utam,
+          - És ismered jól gondjaimat.
+          - Én bánom bűneimet,
+          - És újra betölt szereteted.
+      - name: v2
+        lines:
+          - Ma Téged hívlak, Uram,
+          - Ki hallod imám, hallod szavam.
+          - 'Te látod: gyenge vagyok,'
+          - De irgalmadat megmutatod.
+      - name: v3
+        lines:
+          - Oh, mentsd meg életemet,
+          - És fordítsd felém tekinteted!
+          - A Lelked vezessen el
+          - Az égig, Uram, ösvényeden!

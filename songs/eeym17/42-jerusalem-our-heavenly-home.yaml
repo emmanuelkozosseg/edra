@@ -1,0 +1,31 @@
+books:
+  - id: eeym17
+    number: '42'
+lyrics:
+  - lang: en
+    title: Jerusalem, our heavenly home
+    verses:
+      - name: c
+        lines:
+          - I saw the Holy City come from God,
+          - Bride of the Lamb, and Glory of the Lord.
+          - 'I saw the Holy City come from God:'
+          - Jerusalem, our heaven’ly home.
+      - name: v1
+        lines:
+          - The glory of the Lord shall give light,
+          - No further need of sun or of moon.
+          - The night is past and will be no more.
+          - The Lamb will be the light that they need.
+      - name: v2
+        lines:
+          - Behold God’s dwelling is in our midst.
+          - He will wipe every tear from our eyes
+          - And death and mourning will be no more.
+          - All former things have come to an end.
+      - name: v
+        lines:
+          - Salvation, pow’r and glory to God!
+          - The Lord our God, the Almighty reigns!
+          - Let us rejoice, exult and give praise!
+          - This is the wedding feast of the Lamb!

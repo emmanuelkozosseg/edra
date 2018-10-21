@@ -1,0 +1,10 @@
+image: python:3.7.0
+
+pipelines:
+  custom:
+    deploy:
+      - step:
+          name: Build and deploy
+          script:
+            - pip install ruamel.yaml --upgrade
+            - bash bin/build.sh

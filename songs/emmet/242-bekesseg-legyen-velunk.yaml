@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '242'
+lyrics:
+  - lang: hu
+    title: Békesség legyen velünk
+    verses:
+      - name: v1
+        lines:
+          - Békesség legyen velünk,
+          - itt van Jézus köztünk!
+          - Békesség, békesség legyen velünk!

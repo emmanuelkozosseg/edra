@@ -1,0 +1,13 @@
+books:
+  - id: eeym17
+    number: '25'
+lyrics:
+  - lang: en
+    title: Our God is an awesome God
+    verses:
+      - name: v1
+        lines:
+          - Our God is an awesome God
+          - He reigns from heaven above
+          - With wisdom, power, and love
+          - Our God is an awesome God

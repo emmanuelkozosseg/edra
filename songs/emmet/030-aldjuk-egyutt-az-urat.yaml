@@ -1,0 +1,43 @@
+books:
+  - id: emmet
+    number: '30'
+lyrics:
+  - lang: hu
+    title: Áldjuk együtt az Urat
+    verses:
+      - name: c
+        lines:
+          - Áldjuk együtt az Urat!
+          - Benne van reményünk.
+          - Velünk van Ő és sosem hagy el.
+          - Jézus a mi örömünk.
+      - name: v1
+        lines:
+          - Dicsérjük Istenünk,
+          - zengjen az énekünk
+          - Megváltja életünk,
+          - Ő a mi reményünk.
+      - name: v2
+        lines:
+          - 'Mert Isten úgy szeret:'
+          - értünk adta Fiát.
+          - 'Győzött a Golgotán:'
+          - él a mi Urunk már!
+      - name: v3
+        lines:
+          - Lelkét küldi reánk,
+          - benne minket megáld.
+          - Az úton Ő vezet
+          - hű szeretetével.
+      - name: v4
+        lines:
+          - Hívjuk az Úr nevét,
+          - s karját nyújtja felénk.
+          - Mert Ő a Pártfogónk,
+          - Ő a Szabadítónk.
+      - name: v5
+        lines:
+          - Dicsérjük az Atyát
+          - és Jézust, szent Fiát,
+          - és a Szentlelket is mindörökké!
+          - Ámen.

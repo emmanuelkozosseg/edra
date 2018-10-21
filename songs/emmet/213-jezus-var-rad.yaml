@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '213'
+lyrics:
+  - lang: hu
+    title: Jézus vár rád
+    verses:
+      - name: v1
+        lines:
+          - Jézus vár rád. Jöjj, térj be hozzá!
+          - Megkönnyíti lelkedet.
+          - Békét ad neked.
