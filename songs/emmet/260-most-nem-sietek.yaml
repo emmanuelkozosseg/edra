@@ -1,9 +1,10 @@
 books:
   - id: emmet
     number: '260'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Most nem sietek
+    title: Ha nem teszek semmit sem
     verses:
       - name: v1
         lines:

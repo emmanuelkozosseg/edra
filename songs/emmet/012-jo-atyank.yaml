@@ -1,31 +1,32 @@
 books:
   - id: emmet
     number: '12'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Jó Atyánk...
+    title: Jó Atyánk, néked minden dicsőség
     verses:
       - name: c
         lines:
-          - Jó Atyánk, Néked minden dicsőség,
-          - Jó Atyánk, tisztelet és bölcsesség,
+          - Jó Atyánk, néked minden dicsőség!
+          - Jó Atyánk, tisztelet és bölcsesség!
           - Jó Atyánk, hatalom és ékesség
           - örök időkön át!
       - name: v1
         lines:
           - Angyalok és minden égi szent
           - trónodon dicsérnek szüntelen.
-          - 'Mind imád, és így kiáltanak:'
-          - Ámen! Alleluja!
+          - 'Mind imád és így kiáltanak:'
+          - ámen, alleluja!
       - name: v2
         lines:
           - Bölcs az Úr, amikor ítél.
           - Boldog az, ki Őbenne remél,
-          - S mind akit a menyegzőre vár.
-          - Ámen! Alleluja!
+          - s mind, akit a menyegzőre vár.
+          - Ámen, alleluja!
       - name: v3
         lines:
-          - Jó az Úr, a Mindenható!
-          - Szent neve örökkévaló.
-          - Vár reánk az égi lakoma.
-          - Ámen! Alleluja!
+          - Jó az Úr, a Mindenható,
+          - szent neve örökkévaló.
+          - Vár reánk az égi lakoma,
+          - ámen, alleluja!

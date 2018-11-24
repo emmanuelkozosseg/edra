@@ -1,9 +1,10 @@
 books:
   - id: emmet
     number: '801'
+    lang: hu
 lyrics:
   - lang: hu
-    title: A szívem az Úrban
+    title: A szívem az Úrban szüntelen örvend
     verses:
       - name: c
         lines:
@@ -12,36 +13,33 @@ lyrics:
       - name: v1
         lines:
           - Mert az üdvösség ruhájába öltöztetett,
-          - s az igaz élet köntösébe burkolt,
-          - mint a vőlegényt, aki koszorút visel,
-          - és mint a menyasszonyt,
+          - az igaz élet köntösébe burkolt,
+          - mint a vőlegény, aki koszorút visel,
+          - mint a menyasszony,
           - aki ékszerekkel díszíti magát.
       - name: v2
         lines:
-          - Amint a föld megtermi növényeit,
-          - és a kert kisarjasztja a veteményeket,
-          - úgy sarjasztja ki az Úr
-          - az igazságosságot, és a magasztalást,
-          - minden nép színe előtt.
+          - Amint a föld megtermi gyümölcseit,
+          - a kert kisarjasztja a veteményeket,
+          - úgy sarjasztja ki az Úr az igazságot,
+          - és a magasztalást minden nép színe előtt.
       - name: v3
         lines:
-          - Sion miatt nem hallgathatok, és
-          - Jeruzsálem miatt nem nyugszom,
-          - míg föl nem ragyog igazsága,
-          - mint a hajnal, és szabadulása,
-          - mint a fáklya, nem tündököl.
+          - Sion miatt nem hallgathatok,
+          - és Jeruzsálem miatt nem nyugszom,
+          - míg föl nem ragyog igazsága, mint a hajnal,
+          - és szabadulása, mint a fáklya, nem tündököl.
       - name: v4
         lines:
           - Meglátják majd a népek igazságodat,
           - és a királyok dicsőségedet.
           - Új néven hívnak majd,
           - amellyel az Úr ajka nevez el.
-          - A dicsőség koronája leszel
-          - az Úr kezében,
+          - A dicsőség koronája leszel az Úr kezében,
           - királyi fejdísz Istened kezében.
       - name: v5
         lines:
-          - Dicsőség az Atyának,
-          - a Fiúnak és a Szentléleknek
-          - miképpen kezdetben
+          - Dicsőség az Atyának, a Fiúnak
+          - és a Szentléleknek
+          - miképpen kezdetben,
           - most és mindörökké. Ámen.

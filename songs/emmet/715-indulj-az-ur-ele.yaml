@@ -1,0 +1,18 @@
+books:
+  - id: emmet
+    number: '715'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Indulj az Úr elé
+    verses:
+      - name: v1
+        lines:
+          - Indulj az Úr elé,
+          - borulj le színe előtt!
+          - ""
+          - Az Úr színe elé,
+          - borulj le színe előtt!
+          - ""
+          - Az Úr színe elé,
+          - a színe előtt!

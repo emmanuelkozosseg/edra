@@ -1,8 +1,10 @@
 books:
   - id: emmet
     number: E16
+    lang: hu
   - id: eeym17
     number: '22'
+    lang: en
 lyrics:
   - lang: hu
     title: Eljött hozzám
@@ -12,22 +14,25 @@ lyrics:
           - Eljött hozzám,
           - mikor még bűnben éltem,
           - felnyitotta szemem.
-          - Szolgává lett, magát megalázva
+          - Szolgává lett,
+          - magát megalázva
           - bűneimért szenvedett.
       - name: c
         lines:
           - Eljöttem, hogy áldjam,
           - csodáljam, imádjam
           - azt, ki értem adta önmagát.
-          - Csodálatos Isten, dicsőséges Bárány,
+          - Csodálatos Isten,
+          - dicsőséges Bárány,
           - fogadd el szívem imádatát!
       - name: v2
         lines:
           - Sosem fogom megtudni azt,
-          - Milyen nagy volt az áldozat.
+          - milyen nagy volt az áldozat.
       - name: b
         lines:
-          - Hívd segítségül nevét, és megmenekülsz!
+          - Hívd segítségül nevét,
+          - és megmenekülsz!
   - lang: en
     title: Here I am to worship
     verses:

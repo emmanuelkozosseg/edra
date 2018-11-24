@@ -1,0 +1,14 @@
+books:
+  - id: emmet
+    number: '713'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Jöjj el, Marana tha!
+    verses:
+      - name: v1
+        lines:
+          - Jöjj el, Marana tha!
+          - Jöjj el, jöjj el, Marana tha!
+          - Jöjj el, jöjj el, Marana tha!
+          - Jöjj el!

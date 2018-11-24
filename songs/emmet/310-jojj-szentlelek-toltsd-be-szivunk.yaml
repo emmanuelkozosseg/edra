@@ -1,33 +1,36 @@
 books:
   - id: emmet
     number: '310'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Jöjj Szentlélek, töltsd be szívünk
+    title: Jöjj, Szentlélek, töltsd be szívünk
     verses:
       - name: c
         lines:
           - Jöjj, Szentlélek, töltsd be a szívünk,
-          - gyöngeségünkben Te légy a Támasz!
-          - Jöjj, Szentlélek, légy az Örömünk,
-          - Szereteted éljen újra bennünk!
+          - gyöngeségünkben Te légy a támasz!
+          - Jöjj, Szentlélek, légy az örömünk,
+          - szereteted éljen újra bennünk!
       - name: v1
         lines:
-          - Jöjj el, alkotó Lélek éltető erőddel,
-          - jöjj, ragyogd be a szívünk lángoló tüzeddel!
-          - Jöjj, kegyelmedet áraszd,
+          - Jöjj el, Alkotó Lélek
+          - éltető erőddel!
+          - Jöjj, ragyogd be a szívünk
+          - lángoló tüzeddel!
+          - Jöjj, kegyelmedet áraszd
           - híveid szívébe,
           - tiszta, hűsítő Forrás,
-          - gyógyító kenettel
+          - gyógyító Kenettel!
       - name: v2
         lines:
           - Égi jó Atyánk küldött,
-          - hogy belőled éljünk,
-          - benned így leszünk eggyé,
+          - hogy Belőled éljünk,
+          - Benned így leszünk eggyé
           - mind, akik ma kérünk.
-          - 'Általad kiált ajkunk: Abba,'
-          - Istenünk, áldunk!
-          - Egyszülött Fiad által szüntelen imádunk.
+          - 'Általad kiált ajkunk:'
+          - „Abba, Istenünk, áldunk,
+          - és a Szent Fiad által szüntelen imádunk!”
       - name: v3
         lines:
           - Oszd ki hét ajándékod,
@@ -36,5 +39,5 @@ lyrics:
           - néked énekeljünk!
           - Jöjj, Te szólj a szívünkhöz,
           - 'mondjad újra bennünk:'
-          - Jézus, Ő a Megváltónk,
-          - Életünk, Reményünk.
+          - „Jézus, Ő a Megváltónk,
+          - Életünk, Reményünk!”

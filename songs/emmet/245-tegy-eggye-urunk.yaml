@@ -1,9 +1,10 @@
 books:
   - id: emmet
     number: '245'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Tégy eggyé Urunk
+    title: Tégy eggyé, Urunk!
     verses:
       - name: v1
         lines:
@@ -11,4 +12,4 @@ lyrics:
           - Tégy eggyé, Urunk!
           - Megláthassa a világ,
           - hogy eljöttél,
-          - Tégy eggyé, Urunk!
+          - tégy eggyé, Urunk!

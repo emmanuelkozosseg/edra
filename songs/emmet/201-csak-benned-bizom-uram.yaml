@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '201'
+    lang: hu
 lyrics:
   - lang: hu
     title: Csak benned bízom Uram
@@ -10,10 +11,10 @@ lyrics:
           - Csak benned bízom, Uram,
           - én Istenem.
           - Csak benned remél a szívem,
-          - én Mindenem.
+          - én mindenem.
       - name: v2
         lines:
           - Ezért nem félek, Uram,
           - mert csak benned hiszek.
           - Ezért nem félek, Uram,
-          - mert bennem élsz, ó Istenem.
+          - mert bennem élsz, ó, Istenem.

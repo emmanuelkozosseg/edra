@@ -1,19 +1,20 @@
 books:
   - id: emmet
     number: '57'
+    lang: hu
 lyrics:
   - lang: hu
     title: Hálát adok az esti órán
     verses:
       - name: v1
         lines:
-          - Hálát adok, az esti órán,
+          - Hálát adok az esti órán,
           - hálát adok, hogy itt az éj.
-          - Hálát adok, hogy szívem
-          - mélyén hála dala kél.
+          - Hálát adok, hogy szívem mélyén
+          - hála dala kél.
       - name: v2
         lines:
-          - Hálát, adok a csillagfényért,
+          - Hálát adok a csillagfényért,
           - hálát a sűrű éjjelért.
           - Hálát adok, hogy nem vagy messze,
           - most is küldesz fényt.
@@ -23,3 +24,27 @@ lyrics:
           - társként, aki ma mellém állt.
           - Hálát adok, hogy megengedted
           - azt is, ami fájt.
+      - name: v4
+        lines:
+          - Hálát adok, hogy Tested táplált,
+          - hálát, hogy ma is szólt szavad.
+          - Hálát adok, hogy lelkem biztos
+          - cél felé halad.
+      - name: v5
+        lines:
+          - Hálát adok, hogy mellém álltál,
+          - hálát, hogy szép az otthonom.
+          - Hálát, hogy munkám elvégeztem,
+          - s békén alhatom.
+      - name: v6
+        lines:
+          - Hálát adok a sok-sok jóért,
+          - hálát adok, hogy megbocsátsz.
+          - Hálát adok, hogy el nem hagytál,
+          - s újabb útra vársz.
+      - name: v7
+        lines:
+          - Hálát adok, hogy szemed rajtam,
+          - hálát adok, hogy reményt adsz.
+          - Hálát adok, hogy biztos eljössz,
+          - mint a virradat.

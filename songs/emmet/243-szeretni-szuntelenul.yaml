@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '243'
+    lang: hu
 lyrics:
   - lang: hu
     title: Szeretni szüntelenül
@@ -11,7 +12,6 @@ lyrics:
           - elégni szeretetből,
           - így oszd szét mindenedet,
           - és légy maga a szeretet.
-          - Most Rád bízom életem.
       - name: v1
         lines:
           - Szóljak bár emberi szóval,

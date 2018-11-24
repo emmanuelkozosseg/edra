@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '45'
+    lang: hu
 lyrics:
   - lang: hu
     title: Magasztaljon téged minden
@@ -9,5 +10,5 @@ lyrics:
         lines:
           - Magasztaljon Téged minden nyelv!
           - Dicsérje és áldja szent neved!
-          - Áldott légy Uram, áldott!
+          - Áldott légy, Uram, áldott!
           - Nagyságod előtt most hódolunk.

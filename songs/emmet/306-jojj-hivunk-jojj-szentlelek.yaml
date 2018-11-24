@@ -1,9 +1,10 @@
 books:
   - id: emmet
     number: '306'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Jöjj, hívunk jöjj, Szentlélek
+    title: Jöjj, hívunk, jöjj
     verses:
       - name: v1
         lines:

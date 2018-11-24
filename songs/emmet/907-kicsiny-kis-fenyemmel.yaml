@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '907'
+    lang: hu
 lyrics:
   - lang: hu
     title: Kicsiny kis fényemmel

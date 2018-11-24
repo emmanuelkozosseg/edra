@@ -1,9 +1,10 @@
 books:
   - id: emmet
     number: '29'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Csak téged áldalak Istenem
+    title: Csak téged áldalak, Istenem
     verses:
       - name: c
         lines:
@@ -19,7 +20,7 @@ lyrics:
           - Glória!
       - name: v2
         lines:
-          - Veled, oh Uram, bátran indulok,
+          - Veled, ó, Uram, bátran indulok,
           - mivel elkísérsz, velem jársz.
           - Tart a két kezed szilárdan.
           - Glória!
@@ -31,7 +32,7 @@ lyrics:
           - Glória!
       - name: v4
         lines:
-          - Hű vagy, Istenünk, veled élhetünk.
-          - Közel vagy ahhoz, ki szólít,
+          - Hű vagy, Istenünk, veled élhetünk,
+          - közel vagy ahhoz, ki szólít,
           - és Te válaszolsz imánkra.
           - Glória!

@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '241'
+    lang: hu
 lyrics:
   - lang: hu
     title: Az Úr jósága

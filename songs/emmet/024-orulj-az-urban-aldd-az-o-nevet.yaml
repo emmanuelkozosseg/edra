@@ -1,9 +1,10 @@
 books:
   - id: emmet
     number: '24'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Örülj az Úrban, áldd az Ő nevét
+    title: Örülj az Úrban
     verses:
       - name: c
         lines:

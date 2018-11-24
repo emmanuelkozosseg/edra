@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: E6
+    lang: hu
 lyrics:
   - lang: hu
     title: Téged elküldött az Atya
@@ -19,9 +20,9 @@ lyrics:
         lines:
           - Jézus Krisztus,
           - Te eljöttél hozzánk,
-          - Hogy hívjad a bűnös embereket
+          - hogy hívjad a bűnös embereket.
       - name: v3
         lines:
           - Jézus Krisztus,
           - Te az Atya jobbján ülsz,
-          - Hogy értünk örökre közbenjárj.
+          - hogy értünk örökre közbenjárj.

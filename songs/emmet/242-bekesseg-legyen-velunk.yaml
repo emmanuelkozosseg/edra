@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '242'
+    lang: hu
 lyrics:
   - lang: hu
     title: Békesség legyen velünk

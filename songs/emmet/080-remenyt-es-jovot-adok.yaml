@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '80'
+    lang: hu
 lyrics:
   - lang: hu
     title: Reményt és jövőt adok
@@ -26,6 +27,6 @@ lyrics:
       - name: v3
         lines:
           - 'Istenünk, kérve kérünk:'
-          - országod jöjjön el.
+          - országod jöjjön el!
           - Fordítsad jóra sorsunk,
           - szenteld meg néped!

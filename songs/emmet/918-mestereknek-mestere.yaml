@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '918'
+    lang: hu
 lyrics:
   - lang: hu
     title: Mestereknek mestere

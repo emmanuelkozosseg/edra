@@ -1,0 +1,30 @@
+books:
+  - id: emmet
+    number: '207'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Erőt adsz minden helyzetben
+    verses:
+      - name: v1
+        lines:
+          - Erőt adsz minden helyzetben,
+          - Te vagy a kincsem, életem,
+          - Te vagy a mindenem.
+          - Kereslek, mert oly drága vagy,
+          - nincs mivel pótolhatnálak,
+          - Te vagy a mindenem.
+      - name: c
+        lines:
+          - Jézus, hű Bárány,
+          - áldom szent Neved!
+          - Jézus, hű Bárány,
+          - áldom szent Neved!
+      - name: v2
+        lines:
+          - Elvetted bűnöm, szégyenem,
+          - köszönöm, hogy újjá lettem,
+          - Te vagy a mindenem.
+          - Felemelsz, hogyha elbukom,
+          - Szentlelked betölt, jól tudom,
+          - Te vagy a mindenem.

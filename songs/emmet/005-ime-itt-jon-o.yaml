@@ -1,32 +1,30 @@
 books:
   - id: emmet
     number: '5'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Íme itt jön Ő...
+    title: Íme, itt jön Ő
     verses:
       - name: c
         lines:
-          - Íme itt jön Ő, átkel a hegyen.
+          - Íme, itt jön Ő, átkel a hegyen.
           - A dombon át szalad felém a kedvesem.
       - name: v1
         lines:
-          - Hát jöjj, Uram, lásd, tiéd a szívem,
-          - A kerted Téged vár,
-          - s a szőlőd is terem.
+          - Hát jöjj, Uram, lásd, Tiéd a szívem,
+          - a kerted Téged vár, s a szőlőd is terem.
           - A szív dalol, zengi énekét,
-          - A lelkem ég, ó, Istenem, szerelmedért.
+          - a lelkem ég, ó, Istenem, szerelmedért.
       - name: v2
         lines:
           - Ó, vágyom, Uram, ünnepelni veled!
-          - Megrészegít a bor s a méz,
-          - mit adsz nekem.
+          - Megrészegít a bor s a méz, mit adsz nekem.
           - Ha elfogadod minden kincsemet,
-          - 'én átadom: az életem tiéd legyen!'
+          - én átadom, az életem tiéd legyen!
       - name: v3
         lines:
-          - Az Úr elé együtt indulunk.
+          - Az Úr elé együtt indulunk,
           - Ő mindig újra vár miránk, ha elbukunk.
           - A nász idején ünnepeljetek,
-          - hisz itt a Vőlegény,
-          - ki minket úgy szeret!
+          - hisz itt a Vőlegény, ki minket úgy szeret.

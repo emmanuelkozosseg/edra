@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '223'
+    lang: hu
 lyrics:
   - lang: hu
     title: Gyermekem, én szomjazom

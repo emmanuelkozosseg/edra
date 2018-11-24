@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '706'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Áldjon téged minden nép
+    verses:
+      - name: c
+        lines:
+          - Áldjon téged minden nép,
+          - ó, Uram!

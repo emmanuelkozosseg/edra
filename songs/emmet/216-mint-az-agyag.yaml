@@ -1,29 +1,30 @@
 books:
   - id: emmet
     number: '216'
+    lang: hu
 lyrics:
   - lang: hu
     title: Mint az agyag
     verses:
       - name: v1
         lines:
-          - Mint az agyag, mely puha még
-          - A fazekas kezében alakul,
+          - Mint az agyag, mely puha még,
+          - a fazekas kezében alakul,
           - úgy alakítsd a szívemet,
-          - csak erre vágyom Uram, Istenem.
+          - csak erre vágyom, Uram, Istenem!
       - name: c
         lines:
-          - Jövök hozzád, Jézus.
-          - Jövök hozzád, Jézus.
+          - '/: Jövök hozzád, Jézus,'
+          - jövök hozzád, Jézus! :/
       - name: v2
         lines:
           - Mint száraz föld, ha szomjazik,
           - úgy vágyik szívem élő vizedre,
-          - mert Istenem, Te vagy a Forrás.
-          - Ki benned hisz, az nem szomjazik már.
+          - mert Istenem, Te vagy a Forrás,
+          - ki Benned hisz, az nem szomjazik már.
       - name: v3
         lines:
           - Mint éjjeli őr várja a hajnalt,
-          - Úgy remél lelkem a Te szavadban.
+          - úgy remél lelkem a Te szavadban.
           - Mert az Igéd lámpás az úton,
-          - Lobogó mécs a lábaim előtt.
+          - lobogó mécs a lábaim előtt.

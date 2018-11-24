@@ -1,0 +1,32 @@
+books:
+  - id: emmet
+    number: '84'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Téged áldalak, szeretet Istene
+    verses:
+      - name: c
+        lines:
+          - Téged áldalak, szeretet Istene.
+          - Dicsérjen téged az énekem!
+          - Te vagy életem, örömöm, ó, Uram.
+          - Ámen, alleluja!
+      - name: v1
+        lines:
+          - Nekem üdvöm és fényem az Isten,
+          - aki védi és óvja a léptem.
+          - Az Ő házában lakhatom én
+          - mostantól mindörökké.
+      - name: v2
+        lines:
+          - Lelkem ujjongva áldja az Istent,
+          - hiszen nem hagy el, Ő vezet engem.
+          - Vele ébredek és vele fekszem,
+          - erősen tart a keze.
+      - name: v3
+        lines:
+          - Minden ember szerte a földön,
+          - és az angyali kar fenn az égben
+          - 'zengje: boldog, ki Istenben bízik,'
+          - boldog, ki hozzá kiált.

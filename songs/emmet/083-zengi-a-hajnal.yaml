@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '83'
+    lang: hu
 lyrics:
   - lang: hu
     title: Zengi a hajnal...
@@ -9,29 +10,29 @@ lyrics:
         lines:
           - Zengi a hajnal azt, hogy él az Úr,
           - feltámadott és üres a sír.
-          - 'Alleluja, íme igaz a hír:'
-          - Jézus Krisztus él.
+          - 'Alleluja, íme, igaz a hír:'
+          - Jézus Krisztus él!
       - name: v1
         lines:
-          - Hogyha körbevesz az éj
-          - 'Íme felragyog a fény:'
-          - 'Múlik az éjsötét:'
+          - Hogyha körbevesz az éj,
+          - íme felragyog a fény,
+          - 'múlik az éjsötét:'
           - Jézus Krisztus él!
       - name: v2
         lines:
           - Angyalok serege áldja
-          - És dicsérje Istenét.
+          - és dicsérje Istenét.
           - 'Győzött a Golgotán:'
           - Jézus Krisztus él!
       - name: v3
         lines:
           - Végtelen szeretetét
-          - 'Így mutatta meg az Ég:'
-          - 'Hála néki mindenért:'
+          - így mutatta meg az Ég.
+          - Hála néki mindenért!
           - Jézus Krisztus él!
       - name: v4
         lines:
-          - 'Jézus ő: az út, az élet'
-          - Boldog az, ki vele él
+          - Jézus, Ő az út, az élet,
+          - boldog az, ki Vele él.
           - Hogyha hívod, megsegít!
           - Jézus Krisztus él!

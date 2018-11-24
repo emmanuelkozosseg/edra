@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '708'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Ó, Uram, a te Igéd lámpás
+    verses:
+      - name: c
+        lines:
+          - Ó, Uram, a te Igéd lámpás,
+          - utamon a fényforrás.

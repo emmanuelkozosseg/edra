@@ -1,31 +1,32 @@
 books:
   - id: emmet
     number: E1
+    lang: hu
 lyrics:
   - lang: hu
-    title: Lelkem áldd az Urat
+    title: Lelkem, áldd az Urat
     verses:
       - name: c
         lines:
-          - Lelkem áldd az Urat, áldd az Urat,
+          - Lelkem, áldd az Urat, áldd az Urat!
           - Egyedül Őt imádd!
           - Zengj úgy, mint soha még, Őt dicsérd!
-          - A lelkem csak Téged áld.
+          - A lelkem csak Téged áld!
       - name: v1
         lines:
           - Egy új nap kél, és már ébred minden,
-          - Itt az idő, hogy áldjalak,
-          - És bármi ér ma, bármit rejt az út előttem,
-          - Hadd zengjek este is majd hálával!
+          - itt az idő, hogy áldjalak,
+          - és bármi ér ma, bármit rejt az út előttem,
+          - hadd zengjek este is majd hálával!
       - name: v2
         lines:
-          - Kegyelmed nagy, és türelmed hosszú,
-          - Szerelmed mély, az égig ér,
-          - Nem szűnök énekelni jóságodról,
-          - Tízezer okom van, hogy zengjek még.
+          - Kegyelmed nagy és türelmed hosszú,
+          - szerelmed mély, és az égig ér,
+          - nem szűnök énekelni jóságodról,
+          - tízezer okom van, hogy zengjek még.
       - name: v3
         lines:
           - Ha egy nap majd ez a test elgyengül,
-          - Erőm elhagy, s utam véget ér,
-          - A lelkem mégis Téged áld vég nélkül,
-          - Tízezer évig és mindörökké.
+          - erőm elhagy, utam véget ér,
+          - a lelkem mégis Téged áld vég nélkül,
+          - tízezer évig és mindörökké.

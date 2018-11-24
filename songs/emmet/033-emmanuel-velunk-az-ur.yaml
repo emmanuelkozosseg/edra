@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '33'
+    lang: hu
 lyrics:
   - lang: hu
     title: Emmánuel, velünk az Úr

@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '68'
+    lang: hu
 lyrics:
   - lang: hu
     title: Énekeld mivelünk
@@ -9,19 +10,19 @@ lyrics:
         lines:
           - Énekeld mivelünk
           - a mi Urunk dicsőségét!
-          - Allelu, allelu, alleluja, alleluja
+          - Allelu, allelu, alleluja, alleluja!
       - name: v1
         lines:
           - Isten ma bekötöz minden sebet,
           - gyógyítja megtört szívünk.
-          - Mert jóságos az Úr, benne hiszünk.
-          - Mind neki örvendünk.
+          - Mert jóságos az Úr, Benne hiszünk.
+          - Mind neki örvendjünk!
       - name: v2
         lines:
-          - Mindenkor, mindenért,
-          - mindenhol Istennek
-          - adjunk hálát, mert megsegít az Úr,
-          - Ő a Király. Alleluja.
+          - Mindenkor, mindenért, mindenhol
+          - Istennek adjunk hálát,
+          - mert jóságos az Úr,
+          - Ő a Király. Alleluja!
       - name: v3
         lines:
           - Áldani akarom Istenemet

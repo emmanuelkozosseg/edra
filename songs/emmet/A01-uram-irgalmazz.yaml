@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: A1
+    lang: hu
 lyrics:
   - lang: hu
     title: Uram irgalmazz

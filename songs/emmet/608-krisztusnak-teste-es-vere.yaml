@@ -1,25 +1,27 @@
 books:
   - id: emmet
     number: '608'
+    lang: hu
 lyrics:
   - lang: hu
     title: Krisztusnak teste és vére
     verses:
       - name: c
         lines:
-          - Krisztusnak teste s vére lett az ételünk
+          - Krisztusnak teste s vére lett az ételünk.
           - Őt fogadjuk most, ki megszabadít.
       - name: v1
         lines:
           - A kenyér, amit eszünk, már nem kenyér,
-          - a bor, amit iszunk már nem bor.
+          - a bor, amit iszunk, már nem bor.
           - Ez valóban a feltámadott Krisztus
-          - teste és vére, ki annyira szeret minket,
+          - teste és vére,
+          - ki annyira szeret minket,
           - hogy ételül adja magát.
       - name: v2
         lines:
-          - Isten, akit szolgálunk nem távollevő.
-          - Isten, akit magunkhoz veszünk
+          - Isten, akit szolgálunk, nem távollevő.
+          - Isten, akit magunkhoz veszünk,
           - nem könyörtelen.
           - Ő igazán gyöngéd és szerető Isten,
           - ki oly közeli, hogy bennünk akar lakni.
@@ -28,11 +30,11 @@ lyrics:
           - Én vagyok az élet kenyere.
           - Atyáitok mannát ettek és meghaltak.
           - Ez a mennyből alászállt kenyér,
-          - hogy együnk és ne haljunk meg.
+          - hogy együk és ne haljunk meg.
       - name: v4
         lines:
-          - Én vagyok a mennyből
-          - alászállott élő kenyér.
+          - Én vagyok a mennyből alászállott
+          - élő kenyér.
           - Örökké fog élni, ki ebből eszik.
           - A kenyér amelyet én adok,
           - az én testem a világ életéért.
@@ -40,7 +42,7 @@ lyrics:
         lines:
           - Aki eszi az én testemet
           - és issza az én véremet,
-          - bennem marad és én őbenne.
-          - Amint én az atya által élek,
-          - aki engem küldött, ugyanúgy,
-          - aki engem eszik, általam él.
+          - bennem marad, és én őbenne.
+          - Amint én az Atya által élek,
+          - aki engem küldött,
+          - ugyanúgy, aki engem eszik, általam él.

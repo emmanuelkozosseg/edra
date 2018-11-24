@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '720'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Akik könnyek közt vetnek
+    verses:
+      - name: c
+        lines:
+          - Akik könnyek közt vetnek,
+          - majd ujjongva aratnak.

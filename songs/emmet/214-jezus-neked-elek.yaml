@@ -1,13 +1,14 @@
 books:
   - id: emmet
     number: '214'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Jézus neked élek
+    title: Jézus, neked élek
     verses:
       - name: v1
         lines:
-          - Jézus, Neked élek,
+          - Jézus, neked élek,
           - mert csak Te tudod, mi jó nekem.
           - Szent kezedbe ajánlom lelkem.
           - Történjék szavad szerint velem!

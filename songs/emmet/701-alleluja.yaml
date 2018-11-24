@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '701'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Alleluja
+    verses:
+      - name: c
+        lines:
+          - Alleluja! Alleluja!
+          - Alleluja! Alleluja!

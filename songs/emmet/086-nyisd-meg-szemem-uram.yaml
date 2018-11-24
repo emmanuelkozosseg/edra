@@ -1,14 +1,14 @@
 books:
   - id: emmet
     number: '86'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Nyisd meg szemem Uram
+    title: Nyisd meg szemem, Uram
     verses:
       - name: c
         lines:
-          - Nyisd meg szemem, Uram,
-          - hadd lássak én!
+          - Nyisd meg szemem, Uram, hadd lássak én!
           - Jézus, így kiáltok feléd.
           - Szentlelked vezesse lépteimet,
           - életem Ura Te légy!
@@ -26,8 +26,7 @@ lyrics:
           - és hálával zengem tetteid.
       - name: v3
         lines:
-          - Nem kell félnem,tudom,
-          - Isten soha nem hagy el.
+          - Nem kell félnem, tudom, Isten soha nem hagy el.
           - Megvigasztal engem, mikor hordom terhemet.
           - A mindenségnek Alkotója hallja az imám,
           - Ő mindenkor gondot visel rám.

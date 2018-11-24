@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '239'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Jézus, Jézus (kánon)
+    verses:
+      - name: v1
+        lines:
+          - Jézus, Jézus, Jézus, Jézus.
+          - Jézus, Jézus, Jézus, Jézus.

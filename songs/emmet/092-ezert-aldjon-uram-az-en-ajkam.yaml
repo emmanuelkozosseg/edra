@@ -1,0 +1,108 @@
+books:
+  - id: emmet
+    number: '92'
+    lang: hu
+  - id: eeym17
+    number: '4'
+    lang: en
+lyrics:
+  - lang: hu
+    title: Ezért áldjon, Uram, az én ajkam
+    verses:
+      - name: v1
+        lines:
+          - Megmented lelkünket, életre hívsz,
+          - ezért áldjon, Uram, az én ajkam.
+          - Védelmünk, oltalmunk Te vagy, Urunk,
+          - ezért áldjon, Uram, az én ajkam.
+          - Szívünket örömmel Te töltöd el,
+          - ezért áldjon, Uram, az én ajkam.
+          - Csak Benned bízunk és Benned hiszünk,
+          - ezért áldjon, Uram, az én ajkam.
+      - name: c
+        lines:
+          - Áldott légy, Uram, nagyságodért,
+          - áldott légy a szeretetért!
+          - 'Zengje énekünk, győztes Király:'
+          - Neked él az egész világ!
+          - Ezért áldjon, Uram, az én ajkam.
+      - name: v2
+        lines:
+          - Fényeddel messzire űzted az éjt,
+          - ezért áldjon, Uram, az én ajkam.
+          - Utunkon lámpás lett a Te igéd,
+          - ezért áldjon, Uram, az én ajkam.
+          - Megfáradt lelkünknek Te adsz erőt,
+          - ezért áldjon, Uram, az én ajkam.
+          - Szívünk is békére Nálad talál,
+          - ezért áldjon, Uram, az én ajkam.
+      - name: v3
+        lines:
+          - Megmented mindazt ki Téged keres,
+          - ezért áldjon, Uram, az én ajkam.
+          - Eltévedt bárányod nem veszhet el,
+          - ezért áldjon, Uram, az én ajkam.
+          - Meghallod hangját, ha kiált feléd,
+          - ezért áldjon, Uram, az én ajkam.
+          - Házadba térhet, ki Benned remél,
+          - ezért áldjon, Uram, az én ajkam.
+      - name: v4
+        lines:
+          - Ég és föld Istene, Te vagy az Úr,
+          - ezért áldjon, Uram, az én ajkam.
+          - Énekkel áldunk és magasztalunk,
+          - ezért áldjon, Uram, az én ajkam.
+          - Mindenkor érezzük oltalmadat,
+          - ezért áldjon, Uram, az én ajkam.
+          - Mindenkor hirdetjük irgalmadat,
+          - ezért áldjon, Uram, az én ajkam.
+  - lang: en
+    title: And my mouth will sing your praise
+    verses:
+      - name: v1
+        lines:
+          - You Lord, alone, are the source of our life;
+          - And my mouth will sing your praise forever.
+          - You are our rampart, our fortress, our strength
+          - And my mouth will sing your praise forever.
+          - From You we draw all the joy of our hearts
+          - And my mouth will sing your praise forever.
+          - We place our trust in your most holy name
+          - And my mouth will sing your praise forever.
+      - name: c
+        lines:
+          - Praise to You, o Lord, great is your name.
+          - Praise to You for all that you give.
+          - For your victory, glory to You,
+          - For your love poured into our hearts.
+          - And my mouth will sing your praise forever.
+      - name: v2
+        lines:
+          - Lord, You have lifted the dark of our night,
+          - And my mouth will sing your praise forever.
+          - You are a guide and a lamp for our path,
+          - And my mouth will sing your praise forever.
+          - You give us strength for the battle to come,
+          - And my mouth will sing your praise forever.
+          - Lord, You alone are the source of our faith,
+          - And my mouth will sing your praise forever.
+      - name: v3
+        lines:
+          - You gather in all the lost and the strayed,
+          - And my mouth will sing your praise forever.
+          - All those whose hope lies in your love alone,
+          - And my mouth will sing your praise forever.
+          - They call to You in their anguish of heart,
+          - And my mouth will sing your praise forever.
+          - Lord you respond to the cry of their need,
+          - And my mouth will sing your praise forever.
+      - name: v4
+        lines:
+          - From those who hate me You rescue me, Lord,
+          - And my mouth will sing your praise forever.
+          - You give me victory over my foes,
+          - And my mouth will sing your praise forever.
+          - To all the nations I sing out your praise,
+          - And my mouth will sing your praise forever.
+          - I never cease to give thanks to your name,
+          - And my mouth will sing your praise forever.

@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: I4
+    lang: hu
 lyrics:
   - lang: hu
     title: NEK 2020

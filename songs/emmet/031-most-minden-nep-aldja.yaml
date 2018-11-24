@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '31'
+    lang: hu
 lyrics:
   - lang: hu
     title: Most minden nép áldja
@@ -14,7 +15,7 @@ lyrics:
       - name: v1
         lines:
           - Gyermek született nekünk,
-          - íme Fiú adatott nekünk,
+          - íme, Fiú adatott nekünk,
           - 'Béke Fejedelme a neve:'
           - Isten Ő mindörökre.
       - name: v2
@@ -27,13 +28,13 @@ lyrics:
         lines:
           - A mi üdvösségünkért,
           - és hogy megmentse, mi elveszett,
-          - 'Hogy a földünkön béke legyen:'
+          - 'hogy a földünkön béke legyen:'
           - testté lett már az Ige.
       - name: v4
         lines:
           - Mikor az idő betelt,
-          - Isten Máriára letekintett.
-          - És mint kisgyermek jött el közénk,
+          - Isten Máriára letekintett,
+          - és mint kisgyermek jött el közénk,
           - ki Isten mindörökké.
       - name: v5
         lines:

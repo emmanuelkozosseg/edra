@@ -1,26 +1,38 @@
 books:
   - id: emmet
     number: '305'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Jöjj Szentlélek, jöjj közénk
+    title: Jöjj, Szentlélek, jöjj közénk
     verses:
       - name: c
         lines:
-          - Jöjj Szentlélek, jöjj közénk,
+          - Jöjj, Szentlélek, jöjj közénk,
           - jöjj el, Fényességünk!
           - Jöjj, tüzes Lélek,
           - lobbantsd lángra szívünk!
       - name: v1
         lines:
           - Jöjj, Atyánk Lelke, hozz fényt nekünk!
-          - Küldd el a mennyből lelked nagy erejét!
+          - Küldd el a mennyből Lelked nagy erejét!
       - name: v2
         lines:
-          - Jöjj életünkbe, hozz gyógyulást,
-          - szívünk és a testünk égi kenetre vár!
+          - Jöjj életünkbe, hozz gyógyulást!
+          - Szívünk és a testünk égi kenetre vár.
       - name: v3
         lines:
-          - Igaz tanú, Lélek, magaddal ragadsz.
-          - Hirdessük a földön,
-          - hogy Jézus velünk maradt!
+          - Örömteli Lélek, Egyház öröme,
+          - fakaszd ki szívünkből a Bárány üzenetét!
+      - name: v4
+        lines:
+          - Ismertesd meg vélünk Atyánk szeretetét,
+          - tárd fel előttünk Krisztus tekintetét!
+      - name: v5
+        lines:
+          - Mindent betöltő fény, életvíz-forrás,
+          - általad kiáltson a néped alleluját!
+      - name: v6
+        lines:
+          - Igaz tanú, Lélek, magaddal ragadsz,
+          - hirdessük a földön, Jézus velünk marad!

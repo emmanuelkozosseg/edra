@@ -1,0 +1,24 @@
+books:
+  - id: emmet
+    number: '226'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Ó, Uram, néked zeng szavam
+    verses:
+      - name: c
+        lines:
+          - '/: Ó, Uram,'
+          - néked zeng szavam,
+          - Téged áldalak, :/
+          - ó, Uram!
+      - name: v1
+        lines:
+          - Ahová a kezed ér,
+          - ott gyümölcs sarjad,
+          - amit megérintesz, életre fakad.
+      - name: v2
+        lines:
+          - Közelséged felüdít
+          - és megvigasztal engem,
+          - Szent Igéd megújítja lelkem.

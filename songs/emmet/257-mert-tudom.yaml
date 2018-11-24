@@ -1,21 +1,22 @@
 books:
   - id: emmet
     number: '257'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Mert tudom
+    title: Mert tudom, semmi nem szakaszthat el
     verses:
       - name: v1
         lines:
           - Mert tudom, semmi nem szakaszthat el
-          - Az én Uram szerelmétől.
+          - az én Uram szerelmétől.
           - Sem élet, sem halál nem választ el,
-          - Sem ma, sem holnap.
+          - sem ma, sem holnap.
       - name: v2
         lines:
           - Mert az angyalok visznek Őhozzá,
-          - S a pokol erői sem állítnak meg.
+          - s a pokol erői sem állítnak meg.
           - Nem számít, ha hegytetőn állok meg,
-          - Vagy a sík tenger partján.
+          - vagy a sík tenger partján.
           - Mert az Úr alkotta mindezt,
-          - És minden az övé.
+          - és minden az övé.

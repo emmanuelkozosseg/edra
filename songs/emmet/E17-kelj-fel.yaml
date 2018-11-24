@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: E17
+    lang: hu
 lyrics:
   - lang: hu
     title: Kelj fel

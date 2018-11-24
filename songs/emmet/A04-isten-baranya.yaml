@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: A4
+    lang: hu
 lyrics:
   - lang: hu
     title: Isten báránya

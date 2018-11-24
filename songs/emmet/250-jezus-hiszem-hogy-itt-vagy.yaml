@@ -1,12 +1,15 @@
 books:
   - id: emmet
     number: '250'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Jézus hiszem, hogy itt vagy
+    title: Jézus, hiszem, hogy itt vagy
     verses:
       - name: v1
         lines:
-          - Jézus, hiszem, hogy itt vagy (4x)
-          - Benned bízom, Benned remélek (4x)
+          - Jézus, hiszem, hogy itt vagy! (4x)
+          - ""
+          - Benned bízom, Benned remélek. (4x)
+          - ""
           - Jézus, formáld a szívem! (4x)

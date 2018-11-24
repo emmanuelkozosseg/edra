@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '913'
+    lang: hu
 lyrics:
   - lang: hu
     title: Nekem, nekem, nekem

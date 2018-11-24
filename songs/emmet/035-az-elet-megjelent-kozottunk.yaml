@@ -1,16 +1,17 @@
 books:
   - id: emmet
     number: '35'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Az élet megjelent közöttünk
+    title: Az Élet megjelent közöttünk
     verses:
       - name: v1
         lines:
-          - Ó áldott légy Istenem,
+          - Ó, áldott légy, én Istenem,
           - mert megváltottad népedet
-          - és eljöttél, -mert úgy szeretsz-,
-          - hogy megmentsed a lelkeket.
+          - és eljöttél, mert úgy szeretsz,
+          - hogy megmentsed a lelkeket!
           - 
           - Kik éjben jártunk oly sokan
           - és nem láttunk napfényt soha,
@@ -19,8 +20,8 @@ lyrics:
       - name: c
         lines:
           - Az Élet megjelent közöttünk,
-          - az élet, ki az Atyához vezet,
-          - Az élet megjelent közöttünk,
+          - az Élet, ki az Atyához vezet.
+          - Az Élet megjelent közöttünk,
           - és hirdetjük, hogy Isten így szeret!
       - name: v2
         lines:
@@ -29,16 +30,16 @@ lyrics:
           - hogy mindannak, ki benne hisz,
           - ne ártson többé a halál!
           - 
-          - Mert nem ítélni jött közénk,
+          - Ő nem ítélni jött közénk,
           - hogy megbüntessen népeket,
           - de emberré lett az Ige,
           - hogy megmentse, mi elveszett.
       - name: v3
         lines:
           - Most azt hirdetjük mindenütt,
-          - 'Kit érintett a két kezünk:'
-          - Ő Élet, Út, és Igazság
-          - Ki által megszűnt a halál.
+          - 'kit érintett a két kezünk:'
+          - Ő Élet, Út, és Igazság,
+          - ki által megszűnt a halál.
           - 
           - Ő Jézus, róla mondatott,
           - hogy feltámad harmadnapon,

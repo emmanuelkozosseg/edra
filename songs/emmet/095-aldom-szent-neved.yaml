@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '95'
+    lang: hu
 lyrics:
   - lang: hu
     title: Áldom szent Neved
@@ -9,36 +10,39 @@ lyrics:
         lines:
           - Áldom szent neved
           - a mézzel folyó földeken,
-          - Hol nincs hiányom semmiben,
+          - hol nincs hiányom semmiben,
           - áldom nevedet.
           - 
           - Áldom szent neved,
           - ha az út a pusztán át vezet,
-          - A száraz, kietlen földeken áldom nevedet.
+          - a száraz, kietlen földeken
+          - áldom nevedet.
+          - 
           - Minden áldást dicséretté formál szívem,
-          - 'S ha körülzár a sötétség azt mondom én:'
+          - 's ha körülzár a sötétség, azt mondom én:'
       - name: c
         lines:
           - Hogy áldott legyen az Úr neve,
-          - Áldom nevedet!
+          - áldom nevedet!
           - Áldott legyen az Úr neve,
-          - Áldott legyen hatalmas neved!
+          - áldott legyen hatalmas neved!
       - name: v2
         lines:
           - Áldom szent neved,
-          - Ha éppen minden rendben megy,
-          - Ha napfényes az életem,
+          - ha éppen minden rendben megy,
+          - ha napfényes az életem,
           - áldom nevedet.
           - 
           - Áldom szent neved
           - a szenvedések útján is,
-          - Bár könnyek között áldozom,
+          - bár könnyek között áldozom,
           - áldom nevedet.
+          - 
           - Minden áldást dicséretté formál szívem,
-          - 'S ha körülzár a sötétség azt mondom én:'
+          - 's ha körülzár a sötétség, azt mondom én:'
       - name: b
         lines:
           - Te adsz és elveszel,
           - Te adsz és elveszel!
-          - 'A szívem így felel:'
-          - Hogy áldom szent Neved!
+          - A szívem így felel,
+          - hogy áldom szent Neved!

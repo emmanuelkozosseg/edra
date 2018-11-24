@@ -1,13 +1,14 @@
 books:
   - id: emmet
     number: E12
+    lang: hu
 lyrics:
   - lang: hu
     title: Annak, ki a trónon ül
     verses:
       - name: v1
         lines:
-          - '/: Annak, ki a trónon ül'
-          - És a Báránynak! :/
+          - '/: Annak, ki a trónon ül,'
+          - és a Báránynak! :/
           - '/: Legyen áldás és dicsőség,'
-          - Tisztelet és hatalom örökké! :/
+          - tisztelet és hatalom örökké! :/

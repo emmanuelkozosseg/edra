@@ -1,0 +1,26 @@
+books:
+  - id: emmet
+    number: '60'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Alleluja, Krisztus az Úr
+    verses:
+      - name: c
+        lines:
+          - Alleluja, allelu, alleluja,
+          - alleluja, alleluja!
+          - Alleluja, allelu, alleluja,
+          - alleluja, alleluja!
+      - name: v1
+        lines:
+          - Krisztus az Úr, erő s hatalom övé,
+          - 'bátran bízz Benne, hisz mondta:'
+          - „Ki újra kopog, annak ajtót nyitnak majd.”
+          - Alleluja, alleluja!
+      - name: v2
+        lines:
+          - Sótlan a föld, könnybe fúlnak dalai,
+          - meg kell ma váltani újra.
+          - Tedd, amit kell, s mindent megadnak hozzá!
+          - Alleluja, alleluja!

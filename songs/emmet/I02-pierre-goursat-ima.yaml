@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: I2
+    lang: hu
 lyrics:
   - lang: hu
     title: Pierre Goursat ima

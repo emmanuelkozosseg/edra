@@ -1,15 +1,16 @@
 books:
   - id: emmet
     number: '267'
+    lang: hu
 lyrics:
   - lang: hu
     title: Ó, áldott, ki jő
     verses:
       - name: v1
         lines:
-          - Ó, áldott, ki jő,
-          - A Megváltó, Jó Pásztor,
-          - Az Úr, győztes Király,
-          - A Kezdet és a Vég.
+          - 'Ó, áldott, ki jő:'
+          - a Megváltó, Jó Pásztor.
+          - Az Úr, győztes király,
+          - a kezdet és a vég.
           - Áldás és hódolat a Báránynak,
-          - '/: Aki szent, igaz Isten, Amen. :/'
+          - '/: aki szent, igaz Isten, amen! :/'

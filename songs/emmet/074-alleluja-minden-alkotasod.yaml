@@ -1,0 +1,27 @@
+books:
+  - id: emmet
+    number: '74'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Alleluja, minden alkotásod
+    verses:
+      - name: c
+        lines:
+          - Alle, alleluja,
+          - alle, alleluja!
+      - name: v1
+        lines:
+          - Minden alkotásod oly nagy, Uram,
+          - mily gyönyörű szép, ha járom utad!
+          - Nincs oly bölcs, mint a te szavad!
+      - name: v2
+        lines:
+          - Ki ne félne Téged, Istenem?
+          - 'Ki ne zengené ma: szent a neved?'
+          - Hálás szívvel énekelek.
+      - name: v3
+        lines:
+          - Minden nemzet eljön színed elé,
+          - leborulva áldnak műveidért,
+          - látják mind, hogy bölcsen ítélsz.

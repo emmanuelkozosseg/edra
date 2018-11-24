@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '906'
+    lang: hu
 lyrics:
   - lang: hu
     title: Add a kezed

@@ -1,8 +1,10 @@
 books:
   - id: emmet
     number: E20
+    lang: hu
   - id: eeym17
     number: '24'
+    lang: en
 lyrics:
   - lang: hu
     title: Meghívtál, hogy vízre lépjek
@@ -16,9 +18,9 @@ lyrics:
       - name: c
         lines:
           - Nagy neved hívom én,
-          - és felnézek a vizek fölé
-          - Ott látlak én
-          - A lelkem benned megpihen.
+          - és felnézek a vizek fölé.
+          - Ott látlak én,
+          - a lelkem Benned megpihen.
           - Enyém vagy és én tied.
       - name: v2
         lines:
@@ -28,12 +30,14 @@ lyrics:
           - Te nem hagysz el és nem inogsz meg.
       - name: b
         lines:
-          - Lélek add, hogy benned teljesen megbízzak
-          - A vízen bátran veled járjak,
-          - Hogy bárhová hívsz menjek
-          - Vigyél tovább mint a lábam tudna menni
-          - Taníts teljes hittel járni,
-          - jelenlétedben élni
+          - Lélek, add, hogy benned
+          - teljesen megbízzak,
+          - a vízen bátran veled járjak,
+          - és bárhová hívsz, menjek!
+          - Vigyél tovább,
+          - mint a lábam tudna menni,
+          - taníts teljes hittel járni,
+          - jelenlétedben élni!
   - lang: en
     title: Oceans
     verses:

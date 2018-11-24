@@ -1,49 +1,56 @@
 books:
   - id: emmet
     number: '62'
+    lang: hu
 lyrics:
   - lang: hu
     title: Szívemből ünnepi ének árad
     verses:
-      - name: v1
+      - name: c1
         lines:
           - Szívemből ünnepi ének árad,
           - háladalt éneklek az ég Urának.
           - Ujjongva tör fel a hála bennem,
           - jósága körülvesz szárnyként engem.
-          - /:Adjatok hálát az Istennek.:/
-      - name: v2
+          - '/: Adjatok hálát az Istennek! :/'
+      - name: c2
         lines:
-          - Ő a mi Teremtőnk, Királyunk,
+          - Ő a mi teremtő Királyunk,
           - alle-alleluja, alleluja, allelluja!
-          - Hála legyen, hála legyen, hála,
-          - áldott az Úr!
-      - name: v3
+          - Hála legyen, hála legyen,
+          - hála, áldott az Úr!
+      - name: v1
         lines:
-          - Oly jó áldani az Urat.
+          - Oly jó áldani az Urat!
           - Ujjongóan jó Istennek
           - zengeni zsoltárokat!
-          - Már kora reggelen, jóságát,
+      - name: v2
+        lines:
+          - Már kora reggelen jóságát,
           - éjszakákon át hirdetem
-          - szüntelen nagy irgalmát
-      - name: v4
+          - szüntelen nagy irgalmát!
+      - name: v3
         lines:
           - Pengő hangszeren, lantokon,
           - ujjongóan jó lelkesen
-          - zengeni hálaszót.
+          - zengeni a hálaszót!
+      - name: v4
+        lines:
           - Az öröm hangjai szóljanak,
-          - gitár Húrjain magasztalom
+          - gitár húrjain magasztalom
           - ujjongva csodáidat!
       - name: v5
         lines:
           - Uram, jó voltál énhozzám,
-          - életemben nagydolgokat
-          - műveltél sok év során.
-          - Sziklám, oltalmam te voltál,
-          - oly irgalmasan gondoskodó
-          - Istenem, égi Atyám!
+          - életemben nagy dolgokat
+          - műveltél sok év során!
       - name: v6
         lines:
+          - Sziklám, oltalmam Te voltál,
+          - oly irgalmasan jó, gondoskodó
+          - Istenem, égi Atyám!
+      - name: v7
+        lines:
           - Hála, dicsőség nevednek,
-          - most és mindörökké
-          - az égben, a földön. Ámen.
+          - most és örökké az égben,
+          - a földön! Ámen.

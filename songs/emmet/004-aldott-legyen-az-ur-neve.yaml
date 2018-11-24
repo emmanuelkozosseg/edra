@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '4'
+    lang: hu
 lyrics:
   - lang: hu
     title: Áldott legyen az Úr neve
@@ -8,19 +9,22 @@ lyrics:
       - name: c
         lines:
           - Áldott legyen az Úr neve,
-          - Mindörökké áldott legyen!
+          - mindörökké áldott legyen!
       - name: v1
         lines:
           - Dicséret szálljon az égbe,
-          - Mert útjai egyenesek,
-          - És bölcsen ítél az Úr minden időben.
+          - mert útjai egyenesek,
+          - és bölcsen ítél az Úr
+          - minden időben.
       - name: v2
         lines:
           - Ismeri gondolatunkat,
-          - S bár bűnünk mélybe taszít,
-          - Irgalmas szeretete a fényre hív.
+          - bár bűnünk a mélybe taszít,
+          - irgalmas szeretete
+          - a fényre hív.
       - name: v3
         lines:
-          - Zengjen a dicséret Néki, mert
-          - Meghallgat minden imát.
-          - Annak, ki hozzá kiált örömet ád.
+          - Zengjen a dicséret néki,
+          - mert meghallgat minden imát.
+          - Annak, ki hozzá kiált,
+          - örömet ád.

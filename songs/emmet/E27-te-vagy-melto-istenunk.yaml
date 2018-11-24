@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: E27
+    lang: hu
 lyrics:
   - lang: hu
     title: Te vagy méltó Istenünk

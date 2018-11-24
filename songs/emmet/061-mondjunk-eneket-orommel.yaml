@@ -1,29 +1,30 @@
 books:
   - id: emmet
     number: '61'
+    lang: hu
 lyrics:
   - lang: hu
     title: Mondjunk éneket örömmel
     verses:
       - name: c
         lines:
-          - '/:Mondjunk éneket örömmel:'
-          - zengjen Halleuja!:/ 4x
+          - '/: Mondjunk éneket örömmel:'
+          - zengjen alleluja! :/
       - name: v1
         lines:
           - Széles, kacagó jókedvében
           - táncra perdül a lélek.
-          - Pengő húrokon dobpergésben
+          - Pengő húrokon, dobpergésben
           - éled hálaének.
       - name: v2
         lines:
-          - A szentek kórusa velünk együtt
+          - Szentek kórusa velünk együtt
           - szívét dalokba önti,
-          - Szárnyas sípokon velünk együtt
+          - szárnyas sípokon velünk együtt
           - Istenét köszönti.
       - name: v3
         lines:
           - 'Vígság kútfeje, boldog Isten:'
-          - Atya, Fiú és Lélek.
-          - Öröm nélküle sehol sincsen,
-          - áldás szent nevének.
+          - Atya, Fiú és Lélek,
+          - öröm nélküle sehol sincsen,
+          - áldás szent nevének!

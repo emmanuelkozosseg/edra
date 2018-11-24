@@ -1,0 +1,14 @@
+books:
+  - id: emmet
+    number: '702'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Énekeljünk dalt az Úrnak
+    verses:
+      - name: c
+        lines:
+          - Énekeljünk dalt az Úrnak,
+          - mert kegyelme végtelen.
+          - Nemzedékről nemzedékre
+          - Őt dicsérjük szüntelen!

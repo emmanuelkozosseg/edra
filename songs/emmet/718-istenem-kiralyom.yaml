@@ -1,0 +1,13 @@
+books:
+  - id: emmet
+    number: '718'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Istenem, Királyom
+    verses:
+      - name: c
+        lines:
+          - Istenem, Királyom,
+          - szent nevedet áldom
+          - most és mindenkor!

@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '16'
+    lang: hu
 lyrics:
   - lang: hu
     title: Hozsanna, hozsanna
@@ -8,15 +9,15 @@ lyrics:
       - name: v1
         lines:
           - Hozsanna, hozsanna,
-          - hozsanna Dávid Fiának!
+          - hozsanna Dávid fiának!
           - Hozsanna, hozsanna,
-          - hozsanna Dávid Fiának!
+          - hozsanna Dávid fiának!
       - name: c
         lines:
           - Hozzád száll énekünk,
-          - Szívünkből szeretünk,
+          - szívünkből szeretünk!
           - Nincsen kívüled senki más,
-          - Csak Te vagy a mi Istenünk.
+          - csak Te vagy a mi Istenünk!
       - name: v2
         lines:
           - Hozsanna, hozsanna,
@@ -25,7 +26,7 @@ lyrics:
           - Jézus, Isten Báránya!
       - name: v3
         lines:
-          - Jézus, Jézus, Jézus,
-          - Isten Báránya.
-          - Jézus, Jézus, Jézus,
-          - Isten Báránya.
+          - Jézus, Jézus,
+          - Jézus, Isten Báránya!
+          - Jézus, Jézus,
+          - Jézus, Isten Báránya!

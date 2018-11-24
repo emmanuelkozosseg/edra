@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: A3
+    lang: hu
 lyrics:
   - lang: hu
     title: Szent vagy

@@ -1,13 +1,14 @@
 books:
   - id: emmet
     number: '259'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Jöjj Jézus
+    title: Jöjj, Jézus
     verses:
       - name: v1
         lines:
-          - Jöjj Jézus!
+          - Jöjj, Jézus!
           - Jöjj el hozzám, várok Rád!
           - Jöjj el hozzám, várok Rád!
           - Jöjj el hozzám, várok Rád!

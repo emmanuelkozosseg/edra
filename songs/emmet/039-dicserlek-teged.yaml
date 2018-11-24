@@ -1,19 +1,21 @@
 books:
   - id: emmet
     number: '39'
+    lang: hu
   - id: eeym17
     number: '13'
+    lang: en
 lyrics:
   - lang: hu
-    title: Dicsérlek Téged...
+    title: Dicsérlek Téged
     verses:
       - name: c
         lines:
-          - Dicsérlek Téged, áldlak Istenem,
+          - Dicsérlek Téged, áldlak, Istenem!
           - Tehozzád vágyom,
-          - s zengem szent neved!
+          - zengem szent neved!
           - 'Irgalmad éltet:'
-          - most és mindörökké hirdetem.
+          - most és mindörökké hirdetem!
       - name: v1
         lines:
           - Jó az Úr, és a szeretetét
@@ -32,12 +34,12 @@ lyrics:
           - Istenem, fölséged végtelen,
           - téged áld a lelkem.
           - Jóságod mindenkor hirdetem,
-          - végtelen a szereteted!
+          - végtelen a szereteted.
       - name: v4
         lines:
-          - 'Mindazok, akik félik őt:'
-          - megteszik az akaratát.
-          - És az Úr meghallja hangjukat,
+          - Mindazok, akik félik Őt,
+          - megteszik akaratát,
+          - és az Úr meghallja hangjukat,
           - megsegíti azt, ki hozzá kiált.
   - lang: en
     title: Great is your mercy

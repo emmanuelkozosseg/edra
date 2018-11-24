@@ -1,8 +1,10 @@
 books:
   - id: emmet
     number: '220'
+    lang: hu
   - id: eeym17
     number: '31'
+    lang: en
 lyrics:
   - lang: hu
     title: Jézus, megígérted
@@ -10,10 +12,9 @@ lyrics:
       - name: v1
         lines:
           - Jézus, megígérted azt,
-          - hogy elküldöd nekünk
-          - Szent Lelkedet.
+          - hogy elküldöd nekünk Szentlelkedet.
           - Ó, jöjj, hadd vigyük a fényedet,
-          - és mindig áldjuk szent neved.
+          - és mindig áldjuk szent neved!
   - lang: en
     title: Jesus, send your Spirit
     verses:

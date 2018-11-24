@@ -1,13 +1,15 @@
 books:
   - id: emmet
     number: E14
+    lang: hu
 lyrics:
   - lang: hu
     title: Kiáltok az Úrhoz
     verses:
       - name: v1
         lines:
-          - Kiáltok az Úrhoz,
-          - Mert méltó, hogy Őt dicsérjük./2x/
-          - Szabaddá tesz engem /3x/
-          - Az ellenségtől.
+          - '/: Kiáltok az Úrhoz,'
+          - mert méltó, hogy Őt dicsérjük! :/
+          - Szabaddá tesz engem,
+          - szabaddá tesz engem
+          - az ellenségtől!

@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '311'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Urunk, küldd el a Szentlelket
+    verses:
+      - name: v1
+        lines:
+          - Urunk, küldd el a Szentlelket,
+          - aki megújítja a földnek színét!

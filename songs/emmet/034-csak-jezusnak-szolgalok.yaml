@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '34'
+    lang: hu
 lyrics:
   - lang: hu
     title: Csak Jézusnak szolgálok
@@ -13,20 +14,20 @@ lyrics:
           - feltámadt Király.
       - name: v1
         lines:
-          - Áldjad lelkem Őt! Dicsérd Teremtőd!
-          - Most és mindörökké. Ámen.
-          - Áldja minden nép!
-          - Dicsérd szent nevét!
-          - Most és mindörökké. Ámen.
+          - Áldjad lelkem Őt, dicsérd Teremtőd
+          - most és mindörökké, ámen!
+          - Áldja minden nép,
+          - dicsérd szent nevét
+          - most és mindörökké, ámen!
       - name: v2
         lines:
-          - Hálát adjatok, áldást mondjatok!
-          - Most és mindörökké. Ámen.
-          - Egyházad dicsér nagy jóságodért.
-          - Most és mindörökké. Ámen.
+          - Hálát adjatok, áldást mondjatok
+          - most és mindörökké, ámen!
+          - Egyházad dicsér nagy jóságodért
+          - most és mindörökké, ámen!
       - name: v3
         lines:
-          - Áldott légy, Atya egyszülött Fia!
-          - Most és mindörökké. Ámen.
-          - Éltető Lélek, Téged dicsérlek.
-          - Most és mindörökké. Ámen.
+          - Áldott légy, Atya egyszülött Fia
+          - most és mindörökké, ámen!
+          - Éltető Lélek, Téged dicsérlek
+          - most és mindörökké, ámen!

@@ -1,8 +1,10 @@
 books:
   - id: emmet
     number: '40'
+    lang: hu
   - id: eeym17
     number: '7'
+    lang: en
 lyrics:
   - lang: hu
     title: Atya, áldott legyél
@@ -11,26 +13,26 @@ lyrics:
         lines:
           - Atya, áldott legyél!
           - Fiú, téged imádjon a föld és az ég!
-          - Lélek áradj reánk!
-          - Örök Istenünk, Téged áld az imánk.
+          - Lélek, áradj reánk!
+          - Örök Istenünk, Téged áld az imánk!
       - name: v1
         lines:
           - Jó Atyánk, örök Alkotónk,
-          - Legyen meg az akaratod!
+          - legyen meg az akaratod!
           - Amint a mennyben a te szentjeid,
-          - dicsérünk Téged itt a földön is.
+          - dicsérünk Téged itt a földön is!
       - name: v2
         lines:
-          - Jézusunk, a mi Pártfogónk,
-          - Te vagy a mi Szabadítónk,
+          - Jézusunk, a mi pártfogónk,
+          - Te vagy a mi Szabadítónk!
           - Egyszülött, kit nekünk ad az Atya,
-          - 'Jöjj, Urunk, ma hívunk: Marana tha!'
+          - 'jöjj, Urunk, ma hívunk: Marana Tha!'
       - name: v3
         lines:
-          - Szállj le ránk, Lélekistenünk!
-          - Az utunkon légy velünk!
-          - Jöjj, vezess, Te vagy az Éltetőnk!
-          - Ha fáradunk, kérünk adj erőt!
+          - Szállj le ránk, Lélek, Istenünk,
+          - az utunkon légy velünk!
+          - Jöjj, vezess, Te vagy az éltetőnk,
+          - ha fáradunk, kérünk, adj erőt!
   - lang: en
     title: Father glory be to your name
     verses:

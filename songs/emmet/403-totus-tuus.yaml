@@ -1,0 +1,14 @@
+books:
+  - id: emmet
+    number: '403'
+    lang: la
+lyrics:
+  - lang: la
+    title: Totus tuus
+    verses:
+      - name: v1
+        lines:
+          - Totus Tuus Maria.
+          - Gratia plena, Dominus tecum.
+          - Totus Tuus, ora pro nobis,
+          - Maria, Maria.

@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '922'
+    lang: hu
 lyrics:
   - lang: hu
     title: Jézus itt jár

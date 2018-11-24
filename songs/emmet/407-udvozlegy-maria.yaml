@@ -1,0 +1,21 @@
+books:
+  - id: emmet
+    number: '407'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Üdvözlégy Mária
+    verses:
+      - name: v1
+        lines:
+          - Üdvözlégy, Mária, malaszttal teljes,
+          - az Úr van teveled.
+          - Áldott vagy te az asszonyok között,
+          - és áldott a te méhednek gyümölcse, Jézus.
+      - name: v2
+        lines:
+          - Asszonyunk, Szűz Mária,
+          - Istennek szent anyja,
+          - imádkozz érettünk bűnösökért
+          - most és halálunk óráján.
+          - Ámen, ámen, alleluja.

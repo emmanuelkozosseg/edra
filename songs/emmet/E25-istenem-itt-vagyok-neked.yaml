@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: E25
+    lang: hu
 lyrics:
   - lang: hu
     title: Istenem itt vagyok neked

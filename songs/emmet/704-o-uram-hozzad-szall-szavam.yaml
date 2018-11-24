@@ -1,0 +1,13 @@
+books:
+  - id: emmet
+    number: '704'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Ó, Uram, hozzád száll szavam
+    verses:
+      - name: c
+        lines:
+          - Ó, Uram, hozzád száll szavam!
+          - Minden nap téged dicsérlek,
+          - téged áldalak!

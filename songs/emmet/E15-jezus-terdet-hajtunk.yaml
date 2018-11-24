@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: E15
+    lang: hu
 lyrics:
   - lang: hu
     title: Jézus, térdet hajtunk

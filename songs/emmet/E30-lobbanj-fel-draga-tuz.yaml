@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: E30
+    lang: hu
 lyrics:
   - lang: hu
     title: Lobbanj fel drága tűz
@@ -8,12 +9,12 @@ lyrics:
       - name: v1
         lines:
           - Felkél Isten, elszélednek ellenségei,
-          - Mind elfutnak Őelőle az Ő gyűlölői!
+          - mind elfutnak Őelőle az Ő gyűlölői!
           - Mint a füst, úgy elszélednek, ha rájuk lehel.
           - Mint a tűz előtt a viasz, úgy olvadnak el!
       - name: c
         lines:
           - Lobbanj fel, drága tűz,
-          - Forró lángod járjon át!
+          - forró lángod járjon át!
           - Gerjeszd fel szívemben
-          - Az Élet világosságát!
+          - az Élet világosságát!

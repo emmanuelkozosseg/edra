@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: E8
+    lang: hu
 lyrics:
   - lang: hu
     title: Szent vagy szent vagy

@@ -1,0 +1,48 @@
+books:
+  - id: emmet
+    number: '502'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Mindenszentek miséje
+    verses:
+      - name: v1
+        label: Kyrie
+        lines:
+          - Kyrie eleison.
+          - Christe eleison.
+          - Kyrie eleison.
+      - name: v2
+        label: Alleluja
+        lines:
+          - Alleluja, alleluja,
+          - alleluja, alleluja,
+          - alleluja, alleluja!
+      - name: v3
+        label: Sanctus / R
+        lines:
+          - Sanctus, Sanctus Dominus,
+          - Dominus Deus Sabaoth,
+          - Sanctus, Sanctus Dominus!
+      - name: v4
+        label: Sanctus / 1
+        lines:
+          - Pleni sunt caeli et terra
+          - gloria tua.
+          - ""
+          - Hosanna in excelsis!
+      - name: v5
+        label: Sanctus / 2
+        lines:
+          - Benedictus qui venit
+          - in nomine Domini.
+          - ""
+          - Hosanna in excelsis!
+      - name: v6
+        label: Agnus Dei
+        lines:
+          - Agnus Dei, qui tollis peccata mundi,
+          - miserere nobis.
+          -
+          - Agnus Dei, qui tollis peccata mundi,
+          - dona nobis pacem.

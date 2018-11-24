@@ -1,0 +1,20 @@
+books:
+  - id: emmet
+    number: '218'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Ároni áldás
+    verses:
+      - name: v1
+        lines:
+          - Áldjon meg téged az Úr,
+          - áldjon meg téged az Úr,
+          - és őrizzen meg tégedet!
+      - name: v2
+        lines:
+          - Világosítsa meg az Úr
+          - az Ő orcáját terajtad,
+          - és könyörüljön terajtad!
+          - '/: Fordítsa az Úr az Ő orcáját rád, :/'
+          - '/: és adjon békét tenéked! :/'

@@ -1,0 +1,14 @@
+books:
+  - id: emmet
+    number: '711'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Kelj fel, ki alszol
+    verses:
+      - name: c
+        lines:
+          - Kelj fel, ki alszol, álmodból,
+          - és Krisztus fénye rád ragyog.
+          - Az Isten Lelke benned él
+          - üdvösség zálogaként.

@@ -1,0 +1,39 @@
+books:
+  - id: emmet
+    number: '612'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Fogadd tőlünk, égi Atyánk (offertorium)
+    verses:
+      - name: v1
+        lines:
+          - Fogadd tőlünk, égi Atyánk,
+          - mindenható Isten,
+          - ezt az örök áldozatot,
+          - melyet Fiad itt lenn,
+          - szeplőtlen adományul
+          - valóságra váltott,
+          - mellyel a mi bűneinkért
+          - hozzád felkiáltott.
+      - name: v2
+        lines:
+          - Bántásaink, mulasztásaink
+          - árát megfizette,
+          - minden igaz keresztényért
+          - színed elé tette.
+          - Élőkért és megholtakért,
+          - hogy üdvükre váljon,
+          - és hogy minden emberlélek
+          - hozzád eltaláljon.
+      - name: v3
+        lines:
+          - Fölajánljuk néked, Uram,
+          - üdvösségünk kelyhét,
+          - jóságodhoz esedezünk,
+          - vedd el bűnünk terhét!
+          - Illatozva szálljon hozzád
+          - üdvösségünk ára,
+          - Fölségednek trónja elé,
+          - Istenséged színe elé
+          - egyházunk javára.

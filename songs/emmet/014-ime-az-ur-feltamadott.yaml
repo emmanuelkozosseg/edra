@@ -1,9 +1,10 @@
 books:
   - id: emmet
     number: '14'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Íme az Úr feltámadott
+    title: Íme, az Úr feltámadott
     verses:
       - name: c
         lines:
@@ -19,12 +20,12 @@ lyrics:
         lines:
           - Mind együtt áldjuk Őt,
           - aki elküldte Fiát,
-          - Mert többé már nem úr a halál.
+          - mert többé már nem úr a halál.
       - name: v3
         lines:
           - A megfeszített Jézust
-          - feltámasztotta
-          - már mindenható szent Atyánk!
+          - feltámasztotta már
+          - mindenható szent Atyánk!
       - name: v4
         lines:
           - Most forduljatok el minden

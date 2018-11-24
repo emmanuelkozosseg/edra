@@ -1,0 +1,90 @@
+books:
+  - id: emmet
+    number: '89'
+    lang: hu
+  - id: eeym17
+    number: '16'
+    lang: en
+lyrics:
+  - lang: hu
+    title: Atyánk, jöjjön el az országod
+    verses:
+      - name: c
+        lines:
+          - Atyánk, jöjjön el az országod
+          - és legyen meg akaratod
+          - amint a mennyben, úgy a földön!
+          - Szenteltessék meg a Neved!
+          - És Szentlelked áraszd
+          - a földre mindenkor!
+          - Add égi fényedet,
+          - a békéd szívünk töltse el!
+      - name: v1
+        lines:
+          - Minket ki választhat el
+          - a te szeretetedtől végleg?
+          - Minket ki szakíthat el
+          - a Te irgalmadtól?
+      - name: v2
+        lines:
+          - Téged dicsér énekünk
+          - és az imánk Téged szólít.
+          - A Te jelenléted hív,
+          - neked él minden szív.
+      - name: b
+        lines:
+          - Bocsásd meg a mi vétkeink,
+          - kísértésbe ne vígy!
+          - De szabadíts meg a gonosztól,
+          - irgalmad üdvözít!
+          - Te erősítsd a mi hitünket,
+          - békédet ad nekünk!
+          - A néped úgy várja már
+          - Jézusnak eljöttét!
+      - name: v3
+        lines:
+          - A mi fényünk Te vagy
+          - és az éjnek már vége.
+          - Nem lesz könny, se fájdalom,
+          - sem gyász, sem halál.
+  - lang: en
+    title: May your kingdom come
+    verses:
+      - name: c
+        lines:
+          - May your kingdom come,
+          - May your name be always praised,
+          - Here on earth as in heav’n,
+          - May your will be done today.
+          - The Spirit of truth
+          - Like a torrent pour on us,
+          - Pour your holiness on us,
+          - Build our faith, our hope, our love.
+      - name: v1
+        lines:
+          - Who could come between us, Lord,
+          - And the love that you have for us?
+          - Who could turn away from You,
+          - From your tenderness, o Lord?
+      - name: v2
+        lines:
+          - In our praise you come to dwell.
+          - You inspire us in our prayer.
+          - Lord, you draw us near to You.
+          - In your presence we are one.
+      - name: b
+        lines:
+          - From evil Lord, set us free,
+          - Grant us your peace in our day !
+          - Deliver us, from our sin ;
+          - Show us your mercy and grace !
+          - Protect us, Lord, from all fear ;
+          - We wait in joy and in hope !
+          - 'Your reign on earth is at hand :'
+          - The coming of Jesus Christ.
+      - name: v3
+        lines:
+          - So the Lord will be our light
+          - And dispel the night forever.
+          - On our lips will be his name
+          - And our tears will be no more.

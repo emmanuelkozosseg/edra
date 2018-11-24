@@ -1,19 +1,21 @@
 books:
   - id: emmet
     number: '17'
+    lang: hu
 lyrics:
   - lang: hu
     title: Nézz testvér fel
     verses:
       - name: c
         lines:
-          - Nézz testvér fel, az Úr van itt,
+          - Nézz, testvér, fel, az Úr van itt,
           - lángoljon a szívünk!
-          - Közel van már az üdvösségünk.
-          - Jöjj el Jézusunk, jöjj el Jézusunk!
+          - Közel van már az üdvösségünk,
+          - jöjj el, Jézusunk,
+          - jöjj el, Jézusunk!
       - name: v1
         lines:
-          - Kerestem arcodat Uram,
+          - Kerestem arcodat, Uram,
           - lehajoltál énhozzám.
           - Félelmek, bűnök téptek,
           - de Te meggyógyítottál.
@@ -28,4 +30,4 @@ lyrics:
           - Jöjjön, ki szomjas, és igyék,
           - aki hisz, élni fog.
           - Szívének rejtett mélyéből
-          - az élő víz felbuzog!
+          - az élő víz felbuzog.

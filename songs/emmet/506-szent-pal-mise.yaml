@@ -1,0 +1,60 @@
+books:
+  - id: emmet
+    number: '506'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent Pál mise
+    verses:
+      - name: v1
+        label: Kyrie
+        lines:
+          - Kyrie eleison,
+          - Kyrie eleison,
+          - Kyrie eleison.
+          - 
+          - Christe eleison,
+          - Christe eleison,
+          - Christe eleison.
+          - 
+          - Kyrie eleison,
+          - Kyrie eleison,
+          - Kyrie eleison.
+      - name: v2
+        label: Alleluja
+        lines:
+          - Alleluja, alleluja!
+          - Alleluja, alleluja!
+      - name: v3
+        label: Sanctus / R
+        lines:
+          - Sanctus, sanctus sanctus Dominus!
+          - Dominus Deus Sabaoth!
+      - name: v31
+        label: Sanctus / 1
+        lines:
+          - Pleni sunt caeli et terra
+          - gloria tua.
+          - ""
+          - Hosanna in excelsis,
+          - hosanna in excelsis!
+      - name: v32
+        label: Sanctus / 2
+        lines:
+          - Benedictus qui venit
+          - in nomine Domini.
+          - ""
+          - Hosanna in excelsis,
+          - hosanna in excelsis!
+      - name: v4
+        label: Agnus Dei
+        lines:
+          - Agnus Dei,
+          - qui tollis peccata mundi,
+          - miserere nobis,
+          - miserere nobis.
+          -
+          - Agnus Dei,
+          - qui tollis peccata mundi,
+          - dona nobis pacem,
+          - dona nobis pacem.

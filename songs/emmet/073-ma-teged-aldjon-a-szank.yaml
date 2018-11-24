@@ -1,25 +1,26 @@
 books:
   - id: emmet
     number: '73'
+    lang: hu
 lyrics:
   - lang: hu
     title: Ma Téged áldjon a szánk
     verses:
       - name: c
         lines:
-          - Ma téged áldjon a szánk!
-          - Dicsérjen, égi Atyánk!
+          - Ma téged áldjon a szánk,
+          - dicsérjen, égi Atyánk!
           - Ég s a föld is zengje néked háladalát!
       - name: v1
         lines:
           - Téged ünnepelünk, Néked énekelünk,
           - mert Te végtelenül szeretsz minket, Istenünk.
           - Téged ünnepelünk, Néked énekelünk,
-          - jó Atyánk, égi Édesapánk.
+          - jó Atyánk, égi Édesapánk!
       - name: v2
         lines:
           - 'Jézus a mi erőnk, a mi Üdvözítőnk:'
-          - Értünk adta magát és legyőzte a halált!
+          - értünk adta magát és legyőzte a halált!
           - Jézus a mi erőnk, a mi Üdvözítőnk!
           - Gyertek, áldjuk ma szüntelen Őt!
       - name: v3

@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '917'
+    lang: hu
 lyrics:
   - lang: hu
     title: Fejem, vállam, térdem...

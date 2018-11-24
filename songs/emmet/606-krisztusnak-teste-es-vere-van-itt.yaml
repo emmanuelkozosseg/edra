@@ -1,0 +1,32 @@
+books:
+  - id: emmet
+    number: '606'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Krisztusnak teste és vére van itt
+    verses:
+      - name: c
+        lines:
+          - 'Krisztusnak teste és vére van itt:'
+          - az élet kenyere és az üdvösség kelyhe.
+          - Testével, vérével táplál az Úr,
+          - hogy az örök életre jussunk.
+      - name: v1
+        lines:
+          - Mikor eljött az óra, hogy Jézus
+          - a mi üdvünkért adja magát,
+          - 'kenyeret és bort adott, majd így szólt:'
+          - ez az én testem és az én vérem.
+      - name: v2
+        lines:
+          - Eme kenyérben és borban hisszük,
+          - hogy az Isten van köztünk jelen.
+          - Jézus asztalhoz ültetett minket,
+          - hogy a testével táplálja lelkünk.
+      - name: v3
+        lines:
+          - A Szentostyát magunkhoz véve
+          - a mi szívünkbe fogadjuk Jézust,
+          - aki meghalt, de feltámadt értünk.
+          - Ezt hirdetjük, míg el nem jő.

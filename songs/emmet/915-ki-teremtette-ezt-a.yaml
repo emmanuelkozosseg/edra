@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '915'
+    lang: hu
 lyrics:
   - lang: hu
     title: Ki teremtette ezt a...

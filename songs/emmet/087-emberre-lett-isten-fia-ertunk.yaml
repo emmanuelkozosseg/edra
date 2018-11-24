@@ -1,8 +1,10 @@
 books:
   - id: emmet
     number: '87'
+    lang: hu
   - id: eeym17
     number: '12'
+    lang: en
 lyrics:
   - lang: hu
     title: Emberré lett Isten fia értünk
@@ -12,31 +14,31 @@ lyrics:
           - Emberré lett Isten Fia értünk,
           - Emmánuel a neve!
           - Emberré lett Isten Fia értünk,
-          - Alleluja!
+          - alleluja!
       - name: v1
         lines:
           - Bár a bűn rabjai voltunk,
           - és mi sokszor elbotoltunk,
           - 'ám az Úr lehajolt hozzánk:'
-          - Ó, Emmánuel!
+          - ó, Emmánuel!
       - name: v2
         lines:
           - Szent Fiát az Atya küldte,
-          - s testet ölt a Szűzi méhben,
+          - testet ölt a szűzi méhben,
           - 'Ő a béke fejedelme:'
-          - Ó Emmánuel!
+          - ó, Emmánuel!
       - name: v3
         lines:
           - Jó az Úr, szeret az Isten,
           - eltörölte bűneinket.
           - 'Nála vár az örök élet:'
-          - Ó, Emmánuel!
+          - ó, Emmánuel!
       - name: v4
         lines:
           - Krisztus, Isten egyszülöttje,
           - király vagy Te mindörökre!
           - 'Angyalok serege zengje:'
-          - Ó, Emmánuel!
+          - ó, Emmánuel!
   - lang: en
     title: God's own Son
     verses:

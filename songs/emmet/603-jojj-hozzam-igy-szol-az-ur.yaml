@@ -1,0 +1,59 @@
+books:
+  - id: emmet
+    number: '603'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Jöjj hozzám, így szól az Úr
+    verses:
+      - name: c
+        lines:
+          - Jöjj hozzám, így szól az Úr,
+          - mert nélkülem semmit nem tudsz tenni.
+      - name: v1
+        lines:
+          - Én vagyok az igazi szőlőtő,
+          - Atyám a szőlőműves.
+          - Minden szőlővesszőt, mely terem, megtisztít,
+          - hogy még többet teremjen.
+      - name: v2
+        lines:
+          - Amint a szőlővessző nem teremhet egymaga,
+          - csak ha a szőlőtőn marad,
+          - úgy ti sem,
+          - ha nem maradtok énbennem.
+      - name: v3
+        lines:
+          - Ha bennem maradtok,
+          - és a tanításom is bennetek marad,
+          - akkor bármit akartok,
+          - kérjetek, és meg fogjátok kapni.
+          - Azáltal dicsőül meg Atyám,
+          - hogy bő termést hoztok,
+          - és a tanítványaim lesztek.
+      - name: v4
+        lines:
+          - Amint engem szeret az Atya,
+          - úgy szeretlek én is titeket.
+          - Maradjatok meg szeretetemben.
+          - Ha teljesítitek parancsaimat,
+          - megmaradtok szeretetemben.
+      - name: v5
+        lines:
+          - 'Íme, ez az én parancsom:'
+          - szeressétek egymást,
+          - amint én szerettelek titeket.
+          - Senki sem szeret jobban,
+          - mint az, aki életét adja barátaiért.
+      - name: v6
+        lines:
+          - Nem nevezlek többé szolgámnak benneteket,
+          - hanem barátaimnak mondalak titeket.
+          - Mert amit hallottam Atyámtól,
+          - azt mind tudtul adtam néktek.
+      - name: v7
+        lines:
+          - Nem ti választottatok engem,
+          - hanem én választottalak titeket,
+          - hogy elmenvén gyümölcsöt hozzatok,
+          - maradandó gyümölcsöt.

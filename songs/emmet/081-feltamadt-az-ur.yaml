@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '81'
+    lang: hu
 lyrics:
   - lang: hu
     title: Feltámadt az Úr
@@ -13,18 +14,18 @@ lyrics:
       - name: v1
         lines:
           - Hogyha Krisztus még halott,
-          - Mit sem ér hitünk.
-          - Ám feltámadt és él az Úr!
-          - S mind vele élhetünk.
+          - mit sem ér hitünk.
+          - Ám feltámadt és él az Úr,
+          - s mind vele élhetünk.
       - name: v2
         lines:
-          - 'Íme véget ért már az éj:'
-          - Ébredj, te, aki alszol!
+          - 'Íme, véget ért már az éj:'
+          - ébredj álmodból!
           - Mert Krisztus fénye rád ragyog,
-          - Érezd szeretetét!
+          - érezd szeretetét!
       - name: v3
         lines:
           - 'Ő az élet, a mi életünk:'
           - Benne remélünk.
-          - 'Hisz nincs üdvösség senki másban:'
-          - 'Íme: ez a hitünk.'
+          - Hisz nincs üdvösség senki másban,
+          - íme, ez a hitünk.

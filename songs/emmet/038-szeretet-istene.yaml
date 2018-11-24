@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '38'
+    lang: hu
 lyrics:
   - lang: hu
     title: Szeretet Istene

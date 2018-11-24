@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '221'
+    lang: hu
 lyrics:
   - lang: hu
     title: Jöjj, vár az Úr

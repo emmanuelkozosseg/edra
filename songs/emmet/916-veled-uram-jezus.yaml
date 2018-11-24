@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '916'
+    lang: hu
 lyrics:
   - lang: hu
     title: Veled, Uram Jézus

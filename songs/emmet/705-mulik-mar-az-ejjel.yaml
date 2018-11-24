@@ -1,0 +1,13 @@
+books:
+  - id: emmet
+    number: '705'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Múlik már az éjjel
+    verses:
+      - name: v1
+        lines:
+          - Múlik a sötét, eljön szabadítónk!
+          - Múlik már az éjjel, íme eljön szabadítónk!
+          - Múlik az éj, a sötét, eljön már!

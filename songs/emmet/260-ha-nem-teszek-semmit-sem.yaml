@@ -1,0 +1,40 @@
+books:
+  - id: emmet
+    number: '260'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Ha nem teszek semmit sem
+    verses:
+      - name: v1
+        lines:
+          - Most nem sietek, most nem rohanok,
+          - most nem tervezek,
+          - most nem akarok, most nem teszek
+          - semmit sem,
+          - '/: csak engedem, hogy szeressen :/'
+          - az Isten.
+      - name: v2
+        lines:
+          - Most megnyugszom, most elpihenek
+          - békén, szabadon,
+          - mint gyenge gyerek, és nem teszek
+          - semmit sem,
+          - '/: csak engedem, hogy szeressen :/'
+          - az Isten.
+      - name: v3
+        lines:
+          - S míg ölel a fény és ölel a csend,
+          - és árad belém,
+          - és újjáteremt, míg nem teszek
+          - semmit sem,
+          - '/: csak engedem, hogy szeressen :/'
+          - az Isten.
+      - name: v4
+        lines:
+          - Új gyümölcs terem, másoknak terem,
+          - érik csendesen
+          - erő, győzelem, ha nem teszek
+          - semmit sem,
+          - '/: csak engedem, hogy szeressen :/'
+          - az Isten.

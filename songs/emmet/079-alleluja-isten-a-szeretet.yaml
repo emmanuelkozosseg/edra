@@ -1,0 +1,34 @@
+books:
+  - id: emmet
+    number: '79'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Alleluja, Isten a szeretet
+    verses:
+      - name: c
+        lines:
+          - Alleluja, allelu, alleluja,
+          - alleluja, alleluja!
+          - Alleluja, allelu, alleluja,
+          - alleluja, alleluja!
+      - name: v1
+        lines:
+          - Isten a szeretet. Ő lett az örömöm!
+          - Irgalma végtelen, Őbenne remélek.
+      - name: v2
+        lines:
+          - Hű az én Istenem, mert fogja két kezem.
+          - 'Elmondom mindenhol: Ő a Szabadítóm.'
+      - name: v3
+        lines:
+          - Törvénye mindenkor óvott az utamon.
+          - Békét az Úr adott, Ő a Királyom.
+      - name: v4
+        lines:
+          - Mindenkor mindenért énekkel áldom Őt.
+          - Isten az én erőm, Ő a segítőm.
+      - name: v5
+        lines:
+          - Dicsérlek, Istenem, áldalak szüntelen.
+          - Jóságod hirdetem életemmel.

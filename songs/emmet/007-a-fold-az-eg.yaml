@@ -1,24 +1,25 @@
 books:
   - id: emmet
     number: '7'
+    lang: hu
 lyrics:
   - lang: hu
-    title: A föld az ég
+    title: A föld, az ég és minden nép
     verses:
       - name: v1
         lines:
-          - A föld, az ég és minden nép,
-          - Most vég nélkül zengje,
-          - Hogy szeret az Úr!
+          - A föld, az ég és minden nép
+          - most vég nélkül zengje,
+          - hogy szeret az Úr!
       - name: c
         lines:
-          - Alleluja, alleluja, alleluja, alleluja
+          - Alleluja, alleluja,
+          - alleluja, alleluja!
       - name: v2
         lines:
-          - Zengj új éneket
-          - a mindenség Urának, és hirdesd,
-          - hogy itt jön a Szabadító!
+          - Zengj új éneket a mindenség Urának,
+          - és hirdesd, hogy itt jön a Szabadító!
       - name: v3
         lines:
-          - 'A hárfa dalol és trombita kiált:'
-          - hogy íme már eljött a szabadulás.
+          - A hárfa dalol és trombita kiált,
+          - hogy íme, már eljött a szabadulás!

@@ -1,23 +1,24 @@
 books:
   - id: emmet
     number: '210'
+    lang: hu
 lyrics:
   - lang: hu
     title: Uram, tehozzád futok
     verses:
       - name: v1
         lines:
-          - Uram, Tehozzád futok,
+          - Uram, tehozzád futok,
           - élő vízre szomjazom,
-          - közelséged ó, mily jó énnékem.
+          - közelséged ó, mily jó énnekem.
           - Kérlek, ne menj el tőlem,
           - légy mindig segítségem,
-          - úgy kívánlak Téged, Istenem.
+          - úgy kívánlak téged, Istenem.
       - name: v2
         lines:
           - Én pedig szüntelen remélek,
-          - egyre jobban dicsérlek.
-          - Ajkam beszéli a Te igazságodat.
+          - egyre jobban dicsérlek,
+          - ajkam beszéli a Te igazságodat.
           - Hadd legyen most a dalom
           - jó illat oltárodon!
       - name: v3

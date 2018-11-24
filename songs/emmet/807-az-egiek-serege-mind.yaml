@@ -1,15 +1,16 @@
 books:
   - id: emmet
     number: '807'
+    lang: hu
 lyrics:
   - lang: hu
     title: Az égiek serege mind
     verses:
       - name: c
         lines:
-          - Az égiek serege mind,
+          - Az égiek serege mind
           - 'most énekli himnuszait:'
-          - Téged dicsérve áld,
+          - Téged dicsérve áld
           - és leborul előtted, égi Király.
       - name: v1
         lines:

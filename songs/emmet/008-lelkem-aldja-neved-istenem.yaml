@@ -1,0 +1,31 @@
+books:
+  - id: emmet
+    number: '8'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Lelkem áldja neved, Istenem
+    verses:
+      - name: c
+        lines:
+          - Lelkem áldja neved, Istenem,
+          - mert Te fény vagy a sötétben!
+          - 'El se tévedhetek, érzem:'
+          - szent Igéd vezérel,
+          - szent Igéd vezérel!
+      - name: v1
+        lines:
+          - Boldogok, kik készen állnak,
+          - bármit kérsz!
+          - Szívembe rejtem el a Te szavadat,
+          - de soha el ne hagyj, kérlek, Uram!
+      - name: v2
+        lines:
+          - Boldogok, kik rendelésed megtartják!
+          - Mert többet ér, mint az ezüst és arany,
+          - oly édes, mint a méz a Te szavad.
+      - name: v3
+        lines:
+          - Boldogok, kik bölcs igédre gondolnak!
+          - Megteszem, Istenem, akaratodat,
+          - mert minden örömöm Te vagy, Uram.

@@ -1,14 +1,15 @@
 books:
   - id: emmet
     number: '23'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Gyertek dicsérjük együtt
+    title: Gyertek, dicsérjük együtt
     verses:
       - name: v1
         lines:
-          - Gyertek, dicsérjük együtt,
-          - Izrael Szentjét, mert Ő a Megváltó.
+          - Gyertek, dicsérjük együtt
+          - Izrael Szentjét, mert Ő a Megváltó!
       - name: v2
         lines:
           - Emeld fel kezedet,
@@ -17,11 +18,11 @@ lyrics:
       - name: v3
         lines:
           - Gyertek, gyertek,
-          - menjünk fel az Úr hegyére
+          - menjünk fel az Úr hegyére,
           - vigassága lakhelyére.
       - name: v4
         lines:
           - Ujjongjunk Őelőtte,
-          - táncoljunk Őelőtte.
+          - táncoljunk Őelőtte!
           - 'Az Ő neve, az Ő neve:'
-          - '"Ott lakik az Úr".'
+          - „Ott lakik az Úr!”

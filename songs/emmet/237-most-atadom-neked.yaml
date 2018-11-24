@@ -1,26 +1,26 @@
 books:
   - id: emmet
     number: '237'
+    lang: hu
 lyrics:
   - lang: hu
     title: Most átadom néked
     verses:
       - name: v1
         lines:
-          - Most átadom néked az életemet
+          - Most átadom néked az életemet,
           - jó Atyám, örök Istenem.
           - Bármit is adsz, azt megköszönöm.
-          - Elfogadok mindent, Te vagy örömöm.
+          - Elfogadok mindent, Te vagy örömöm,
       - name: c
         lines:
           - Mivel benned bízom,
-          - oh, irgalmas Atyám,
+          - ó, irgalmas Atyám,
           - mivel benned bízom,
-          - oh áldott jó Atyám.
+          - ó, áldott jó Atyám.
       - name: v2
         lines:
           - Te általad élek és benned bízom én.
-          - Testem s lelkem is néked él.
-          - Nem vágyom másra,
-          - csak hogy veled éljek.
+          - Testem, lelkem is néked él.
+          - Nem vágyom másra, csak hogy Veled éljek.
           - Kezedbe teszem egész életem.

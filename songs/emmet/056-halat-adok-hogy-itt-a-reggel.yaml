@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '56'
+    lang: hu
 lyrics:
   - lang: hu
     title: Hálát adok, hogy itt a reggel
@@ -23,3 +24,21 @@ lyrics:
           - hálát adok, hogy fény ragyog.
           - Hálát adok, hogy lelkem fényes,
           - és boldog vagyok.
+      - name: v4
+        lines:
+          - Hálát adok a vidám percért,
+          - hálát, ha szomorú leszek.
+          - Hálát adok, hogy adsz elém célt,
+          - és kezed vezet.
+      - name: v5
+        lines:
+          - Hálát adok, hogy hallom hangod,
+          - hálát adok a jó hírért.
+          - Hálát adok, hogy tested adtad
+          - minden emberért.
+      - name: v6
+        lines:
+          - Hálát adok az üdvösségért,
+          - hálát adok, hogy várni fogsz.
+          - Hálát adok, hogy ma reggel még
+          - hálát adhatok.

@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '44'
+    lang: hu
 lyrics:
   - lang: hu
     title: Zengd velünk
@@ -16,13 +17,13 @@ lyrics:
           - zengje hát nagy örömét!
       - name: v2
         lines:
-          - Az Úr velünk, ki lehet ellenünk.
+          - Az Úr velünk, ki lehet ellenünk?
           - Rettegést nem ismerünk.
           - Jobb az Úr ereje énnekem,
-          - jobb is, mint az emberé.
+          - jobb is, mint az emberé!
       - name: v3
         lines:
           - Ő az én teremtő Istenem,
           - Istenem, ki nem hagy el.
           - Benne én ujjongva járhatok,
-          - élhetek a tenyerén.
+          - élhetek a tenyerén!

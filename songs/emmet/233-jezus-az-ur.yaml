@@ -1,17 +1,18 @@
 books:
   - id: emmet
     number: '233'
+    lang: hu
 lyrics:
   - lang: hu
     title: Jézus az Úr
     verses:
       - name: v1
         lines:
-          - Jézus az Úr, Krisztus a dicső király.
-          - Szálljon fel az ének trónod elé.
-          - Ó áldott légy, Téged a dalunk dicsér!
+          - Jézus az Úr, Krisztus a dicső király!
+          - Szálljon fel az ének trónod elé!
+          - Ó, áldott légy, Téged a dalunk dicsér!
       - name: v2
         lines:
-          - Jöjj hozd el a békét földünkre Jézus!
-          - Jöjj s a fényedet add, múljon az éjjel már.
-          - Jöjj el Urunk! Marana tha!
+          - Jöjj, hozd el a békét földünkre, Jézus!
+          - Jöjj, a fényedet add, múljon az éjjel már!
+          - Jöjj el, Urunk! Marana tha!

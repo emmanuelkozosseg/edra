@@ -1,33 +1,34 @@
 books:
   - id: emmet
     number: '19'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Gyönyörű vagy én Uram
+    title: Gyönyörű vagy, én Uram
     verses:
       - name: v1
         lines:
           - Gyönyörű vagy, én Uram,
-          - Szívem mélyéből áldalak.
-          - Szívem mélyéből áldalak.
+          - szívem mélyéből áldalak,
+          - szívem mélyéből áldalak.
       - name: c
         lines:
           - Alleluja, alleluja,
-          - Alleluja, alleluja,
-          - Alleluja, alleluja!
+          - alleluja, alleluja,
+          - alleluja, alleluja!
       - name: v2
         lines:
           - Megigézted szívemet,
+          - megérintetted bensőmet,
           - megérintetted bensőmet.
-          - Megérintetted bensőmet.
           - Táncot járva ámulok,
+          - megváltásomra gondolok,
           - megváltásomra gondolok.
-          - Megváltásomra gondolok.
       - name: v3
         lines:
           - Lelked betölti életem,
-          - Benned ujjong, dalol szívem.
-          - Benned ujjong, dalol szívem.
+          - benned ujjong, dalol szívem,
+          - benned ujjong, dalol szívem.
           - Tegyél szívedre pecsétül,
+          - örök életet adj végül,
           - örök életet adj végül.
-          - Örök életet adj végül.

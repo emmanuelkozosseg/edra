@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: E18
+    lang: hu
 lyrics:
   - lang: hu
     title: Mária isten anyja

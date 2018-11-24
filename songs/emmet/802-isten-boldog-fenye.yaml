@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '802'
+    lang: hu
 lyrics:
   - lang: hu
     title: Isten boldog fénye
@@ -9,27 +10,29 @@ lyrics:
         lines:
           - Isten boldog fénye,
           - el nem múló szépsége,
-          - szent és áldott Jézus Krisztus
+          - szent és áldott Jézus Krisztus!
       - name: v1
         lines:
-          - Napnyugtával szemlélve az esti fényt,
-          - Dicsőítjük az Atyát,
-          - a Fiút és Isten Szentlelkét.
+          - Napnyugtával
+          - szemlélve az esti fényt,
+          - dicsőítjük az Atyát, a Fiút
+          - és Isten Szentlelkét.
       - name: v2
         lines:
           - Uram, jöjj segítségemre,
           - halld meg szavamat, amikor hívlak Téged!
-          - Szálljon fel Hozzád imám, mint a tömjén füstje,
+          - Szálljon fel hozzád imám,
+          - mint a tömjén füstje,
           - kitárt kezem legyen esti áldozat!
       - name: v3
         lines:
-          - Méltó vagy rá, hogy minden
-          - időben dicsérjünk szent szóval.
+          - Méltó vagy rá, hogy minden időben
+          - dicsérjünk szent szóval.
           - Téged, Isten Fia, Életadó,
-          - Téged magasztal az egész világ.
+          - téged magasztal az egész világ!
       - name: v4
         lines:
-          - Éneklünk Néked, Mária Fia,
+          - Éneklünk néked, Mária Fia,
           - szeplőtelen Jegyesünk!
           - Magadra öltötted testünket,
           - Te a fénynek forrása vagy.
@@ -49,8 +52,8 @@ lyrics:
         lines:
           - Szállj le ránk, Szentlélek,
           - aki által szólítjuk az Atyát,
-          - Lobbantsa lángra szívünket,
-          - és növelje hitünket.
+          - lobbantsa lángra szívünket,
+          - és növelje hitünket!
       - name: v8
         lines:
           - Dicsőség az Atyának, a Fiúnak,

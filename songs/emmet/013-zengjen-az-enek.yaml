@@ -1,9 +1,10 @@
 books:
   - id: emmet
     number: '13'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Zengjen az ének
+    title: Zengjen az ének az Úr nevének
     verses:
       - name: c
         lines:
@@ -14,7 +15,7 @@ lyrics:
       - name: v1
         lines:
           - 'Amikor félek, a hegyre nézek:'
-          - Honnan jön segítség,
+          - honnan jön segítség,
           - mit oly rég várok én?
           - Csakis az Úrtól jön a segítség.
           - Nem alszik Ő soha, az Úr az őrizőm.
@@ -27,7 +28,7 @@ lyrics:
           - velem van mindenütt és fogja a kezem.
       - name: v3
         lines:
-          - Amikor hívom,lehajol hozzám.
+          - Amikor hívom, lehajol hozzám.
           - Isten az erőm, és Ő biztos menedék.
           - Imádom éjjel, dicsérem nappal,
           - mert nála lel a szívem békét örökké.

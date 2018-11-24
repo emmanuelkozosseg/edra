@@ -1,14 +1,33 @@
 books:
   - id: emmet
     number: '266'
+    lang: hu
 lyrics:
   - lang: hu
     title: Jézus, áldott légy
     verses:
-      - name: v1
+      - name: c
         lines:
           - Jézus, áldott légy!
           - Jézus, áldott légy!
           - Jézus, áldott légy!
           - Jézus, áldott légy!
           - Áldott örökké!
+      - name: v1
+        lines:
+          - Jóságodért, hűségedért,
+          - irgalmadért,
+          - szent testedért, szent véredért,
+          - jelenlétedért!
+      - name: v2
+        lines:
+          - Áldásodért, szentségedért,
+          - egyházadért,
+          - keresztedért, halálodért,
+          - az örök életért!
+      - name: v3
+        lines:
+          - A hitért, a reményért,
+          - a szeretetért,
+          - országodért, kegyelmedért,
+          - mindenért!

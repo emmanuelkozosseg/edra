@@ -1,32 +1,35 @@
 books:
   - id: emmet
     number: '309'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Lélek szállj le ránk
+    title: Lélek, szállj le ránk
     verses:
       - name: c
         lines:
-          - Lélek, szállj le ránk! Téged vár a világ.
-          - Jöjj, Örömünk, jöjj, ma töltsd be szívünk!
+          - Lélek, szállj le ránk!
+          - Téged vár a világ.
+          - Jöjj, örömünk, jöjj, ma töltsd be szívünk!
           - Néped vigasztald!
-          - Lélek, szállj le ránk! Téged vár a világ.
-          - Jöjj, és mutasd meg Isten szeretetét!
+          - Lélek, szállj le ránk!
+          - Téged vár a világ.
+          - Jöjj és mutasd meg Isten szeretetét!
       - name: v1
         lines:
           - Szállj le reánk, jöjj, ki hallod imánk,
-          - 'ki mindig velünk jársz:'
-          - Felemelőnk, hogyha elfogy erőnk,
-          - s Újjáteremtőnk!
+          - ki mindig velünk jársz,
+          - felemelőnk, hogyha elfogy erőnk,
+          - újjáteremtőnk!
       - name: v2
         lines:
-          - Életadó, jöjj, ki ismered jól,
+          - Életadó, jöjj, ki ismered jól
           - az Isten titkait!
-          - Ami igaz, ami szent,ami szép,
-          - arra megtaníts.
+          - Ami igaz, ami szent, ami szép,
+          - arra megtaníts!
       - name: v3
         lines:
-          - Békehozó, jöjj ma Bátorító,
-          - Jöjj, és adj reményt!
-          - Űzd el az éjt lelkünk rejtekén!
-          - Fényünk csak Te légy!
+          - Békehozó, jöjj ma, Bátorító,
+          - jöjj, és adj reményt!
+          - Űzd el az éjt lelkünk rejtekén,
+          - fényünk csak Te légy!

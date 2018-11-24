@@ -1,9 +1,10 @@
 books:
   - id: emmet
     number: '219'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Ó Te vagy Uram
+    title: Ó, Te vagy, Uram
     verses:
       - name: c
         lines:

@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '716'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Téged, Isten, dicsérlek
+    verses:
+      - name: c
+        lines:
+          - Téged, Isten, dicsérlek,
+          - és hálát adok mindenért!

@@ -1,8 +1,9 @@
 books:
   - id: emmet
     number: '65'
+    lang: za
 lyrics:
-  - lang: hu
+  - lang: za
     title: Thuma mina
     verses:
       - name: v1

@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '55'
+    lang: hu
 lyrics:
   - lang: hu
     title: Minden nap veled leszek
@@ -19,7 +20,7 @@ lyrics:
           - és én meghallgatom.
       - name: v3
         lines:
-          - Ne félj én népem,
-          - hisz tiéd az örökségem,
-          - ne félj és ne lankadj el,
+          - Hát ne félj én népem,
+          - hisz tiéd az örökségem!
+          - Ne félj és ne lankadj el,
           - hisz neked győznöd kell!

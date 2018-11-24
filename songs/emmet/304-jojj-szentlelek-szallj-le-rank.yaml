@@ -1,0 +1,48 @@
+books:
+  - id: emmet
+    number: '304'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Jöjj, Szentlélek, szállj le ránk
+    verses:
+      - name: c
+        lines:
+          - Jöjj, Szentlélek, szállj le ránk!
+          - Jöjj, Szentlélek, jöjj, Vigasztaló!
+      - name: v1
+        lines:
+          - Teremtő Lélek, szállj reánk,
+          - ragyogd be lelkünk, tiszta láng!
+          - Ki alkotsz, éltetsz szíveket,
+          - hozd nékik bő kegyelmedet!
+      - name: v2
+        lines:
+          - 'Kit úgy hívunk: Vigasztaló,'
+          - kit ád nekünk az Alkotó,
+          - te élő forrás, égi láng,
+          - szent kenet, égből szállj le ránk!
+      - name: v3
+        lines:
+          - Te, hét ajándék kútfeje,
+          - Atyának kegyelmes jobb keze,
+          - az Úr erős ígérete,
+          - sugalmas ajkak ihlete!
+      - name: v4
+        lines:
+          - Gyújtsd meg szemünkben fényedet,
+          - és szállj szívünkbe, Szeretet!
+          - Ha testünk gyarló s lankadunk,
+          - légy mindig éber gyámolunk!
+      - name: v5
+        lines:
+          - Ellenségünket messze űzd,
+          - szent békességed add nekünk;
+          - te járj, vezér, utunk előtt,
+          - veszélytől védjen szent erőd!
+      - name: v6
+        lines:
+          - Add, ismerjük meg az Atyát
+          - teáltalad, és egy Fiát,
+          - és kettejüknek Lelke, Te,
+          - örökre légy lelkünk hite!

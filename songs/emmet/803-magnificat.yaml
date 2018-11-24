@@ -1,0 +1,58 @@
+books:
+  - id: emmet
+    number: '803'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Magnificat
+    verses:
+      - name: c
+        lines:
+          - Áldjad én lelkem az Úr nevét!
+      - name: v1
+        lines:
+          - Magasztalja lelkem az Urat,
+          - és szívem ujjong üdvözítő Istenemben.
+      - name: v2
+        lines:
+          - Tekintetre méltatta
+          - alázatos szolgálóleányát,
+          - íme, ezentúl boldognak hirdet
+          - az összes nemzedék.
+      - name: v3
+        lines:
+          - Mert nagyot művelt velem
+          - 'Ő, aki Hatalmas:'
+          - Ő, akit Szentnek hívunk.
+      - name: v4
+        lines:
+          - Nemzedékről nemzedékre
+          - megmarad irgalma azokon,
+          - akik istenfélők.
+      - name: v5
+        lines:
+          - 'Csodát művelt erős karjával:'
+          - a kevélykedőket széjjelszórta;
+      - name: v6
+        lines:
+          - hatalmasokat elűzött trónjukról,
+          - kicsinyeket pedig felmagasztalt.
+      - name: v7
+        lines:
+          - Az éhezőket minden jóval betölti,
+          - a gazdagokat elbocsátja üres kézzel.
+      - name: v8
+        lines:
+          - 'Gondjába vette gyermekét, Izraelt:'
+          - megemlékezett irgalmáról,
+      - name: v9
+        lines:
+          - melyet atyáinknak hajdan megígért,
+          - Ábrahámnak és utódainak mindörökké.
+      - name: v10
+        lines:
+          - Dicsőség az Atyának, a Fiúnak
+          - és a Szentlélek Istennek,
+          - miképpen kezdetben,
+          - most és mindenkor
+          - es mindörökkön-örökké. Ámen.

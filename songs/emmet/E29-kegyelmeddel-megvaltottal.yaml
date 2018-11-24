@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: E29
+    lang: hu
 lyrics:
   - lang: hu
     title: Kegyelmeddel megváltottál
@@ -26,10 +27,11 @@ lyrics:
           - teljesen Tiéd vagyok!
           - Felkelek és hirdetem dicsőséged!
           - Azért élek, hogy áldjalak,
-          - nagy Király Élő Isten.
-          - 'Angyalaid a trón körül zengik:'
-          - Szent Vagy! Egyetlen hatalmas Úr,
-          - 'éneklik: Halleluja!'
+          - nagy Király, Élő Isten!
+          - Angyalaid a trón körül
+          - 'zengik: szent vagy!'
+          - Egyetlen hatalmas Úr,
+          - 'éneklik: Alleluja!'
       - name: b
         lines:
-          - Halleluja! Halleluja! Halleluja!
+          - Alleluja! Alleluja! Alleluja!

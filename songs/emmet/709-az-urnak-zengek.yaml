@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '709'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Az Úrnak zengek
+    verses:
+      - name: c
+        lines:
+          - Az Úrnak zengek,
+          - ereje örömöm forrása.

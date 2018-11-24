@@ -1,0 +1,44 @@
+books:
+  - id: emmet
+    number: '610'
+    lang: hu
+  - id: eeym17
+    number: '50'
+    lang: en
+lyrics:
+  - lang: hu
+    title: Atyaisten, a néped jön hozzád
+    verses:
+      - name: v1
+        lines:
+          - Atyaisten, a néped jön hozzád,
+          - és elhozza áldozatát,
+          - 'mely a munkánk s a földünk gyümölcse:'
+          - a színbor és a kenyér.
+      - name: v2
+        lines:
+          - Az oltárra tesszük most vélük
+          - a dicséret áldozatát,
+          - vigye angyalod hozzád az égbe
+          - fölséged színe elé.
+      - name: v3
+        lines:
+          - A te Szentlelked által lesz értünk
+          - ez a kenyér és bor ételünk.
+          - Az Oltáriszentségben Krisztus
+          - eljön és üdvözít.
+  - lang: en
+    title: Lord, accept now the gifts
+    verses:
+      - name: v1
+        lines:
+          - Lord, accept now the gifts that we offer.
+          - To your altar, we bring bread and wine.
+          - 'In this mystery, they are our salvation:'
+          - Body and blood of your Son.
+      - name: v2
+        lines:
+          - Now we offer our lives for your glory,
+          - In the offering of Jesus Your Son.
+          - Come transform us for love and self-giving.
+          - Make us a mirror of You.

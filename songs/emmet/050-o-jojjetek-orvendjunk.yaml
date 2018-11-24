@@ -1,14 +1,15 @@
 books:
   - id: emmet
     number: '50'
+    lang: hu
 lyrics:
   - lang: hu
     title: Ó jöjjetek, örvendjünk
     verses:
       - name: v1
         lines:
-          - Ó jöjjetek, örvendjünk,
+          - Ó, jöjjetek, örvendjünk,
           - lelkesen tapsoljunk,
           - énekeljünk az Úrnak!
-          - Isten küldötte el nékünk szabadítóját.
-          - A népek előtt megjelentette az Ő igazságát.
+          - Isten küldötte el nékünk szabadítóját,
+          - a népek előtt megjelentette az Ő igazságát.

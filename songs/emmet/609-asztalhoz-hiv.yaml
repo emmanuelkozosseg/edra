@@ -1,0 +1,32 @@
+books:
+  - id: emmet
+    number: '609'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Asztalhoz hív
+    verses:
+      - name: v1
+        lines:
+          - Asztalhoz hív minket Jézus,
+          - hol most értünk adja magát.
+          - Jöjjünk hozzá, adjuk néki
+          - a dicséret áldozatát!
+      - name: v2
+        lines:
+          - 'Íme, most az égi Bárány:'
+          - Jézus elveszi bűneink.
+          - Felajánljuk életünket,
+          - és Ő minket is átalakít.
+      - name: v3
+        lines:
+          - Krisztus testét s vérét vesszük,
+          - mert ő nékünk ételünk,
+          - Istenünkkel egyesülve
+          - nyerjük örök életünk.
+      - name: v4
+        lines:
+          - Én nem vagyok arra méltó,
+          - hogy házamba jöjj, Uram,
+          - hanem csak egy szóval mondjad,
+          - és a lelkem meggyógyul.

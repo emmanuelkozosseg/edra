@@ -1,0 +1,20 @@
+books:
+  - id: emmet
+    number: E21
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Te vagy szerelme
+    verses:
+      - name: c1
+        lines:
+          - Te vagy szerelme életemnek.
+          - Barát és társ vagy, ki szeret.
+          - Vágyom, hogy érints, lelkem kíván.
+          - Teljes szívemből szeretlek.
+      - name: c2
+        lines:
+          - Vonj most magadhoz még jobban,
+          - végy fel a karjaidba!
+          - Szíved dobbanását hadd halljam,
+          - '/: ó, Jézus, ó, Jézus! :/'

@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '42'
+    lang: hu
 lyrics:
   - lang: hu
     title: Áldjuk Őt, aki meghalt
@@ -8,30 +9,30 @@ lyrics:
       - name: c
         lines:
           - Áldjuk Őt, aki meghalt!
-          - Áldjuk Szabadítónkat
-          - Mert Ő visszajön újra!
+          - Áldjuk Szabadítónkat,
+          - mert Ő visszajön újra,
           - Krisztus Urunkat!
       - name: v1
         lines:
           - Üdvözítő Krisztusára várt a világ,
-          - És az Úr elküldte nékünk szent Fiát.
+          - és az Úr elküldte nékünk szent Fiát.
           - Meghalt, és legyőzte végre már a halált.
           - Lelkét árasztotta ránk.
       - name: v2
         lines:
           - Énekeljük Istenünk dicséretét,
-          - Hangszerekkel ünnepeljük szeretetét!
+          - hangszerekkel ünnepeljük szeretetét!
           - Örvendezve várjuk, amíg visszatér,
-          - És dicsérjük szent nevét.
+          - és dicsérjük szent nevét.
       - name: v3
         lines:
           - Tágra nyissuk most a szívünk és a fülünk,
-          - Mert az Úr ma újra hív, hogy vele legyünk.
+          - mert az Úr ma újra hív, hogy vele legyünk.
           - Ő Atyánk minékünk, és mi gyermekei,
           - Krisztusnak testvérei.
       - name: v4
         lines:
-          - Jézus, Ő az élet és az Igazság,
+          - Jézus, Ő az Élet és az Igazság,
           - Ő az Út, amelyen lelkünk égbe talál.
           - Mindaz, aki belé vetett hittel él,
-          - Nem hal meg mindörökké.
+          - nem hal meg mindörökké.

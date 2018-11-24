@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: I1
+    lang: hu
 lyrics:
   - lang: hu
     title: Felajánló ima Máriának

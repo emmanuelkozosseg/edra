@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '901'
+    lang: hu
 lyrics:
   - lang: hu
     title: Mindnyájan együtt...
@@ -14,9 +15,9 @@ lyrics:
       - name: v1
         lines:
           - '/: Isten szólt:'
-          - '"Noé! Hatalmas özönvíz jön! :/'
+          - '„Noé! Hatalmas özönvíz jön! :/'
           - Téged kérlek:kérlek,
-          - mentsed meg az Isten gyermekeit."
+          - mentsed meg az Isten gyermekeit.”
       - name: v2
         lines:
           - /:Noé meg tüstént elkezdett építeni.:/

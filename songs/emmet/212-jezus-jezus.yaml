@@ -1,0 +1,14 @@
+books:
+  - id: emmet
+    number: '212'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Jézus, Jézus
+    verses:
+      - name: v1
+        lines:
+          - Jézus, Jézus!
+          - Jézus, Jézus!
+          - Jézus, Jézus!
+          - Jézus, Jézus!

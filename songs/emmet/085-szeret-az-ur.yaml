@@ -1,27 +1,28 @@
 books:
   - id: emmet
     number: '85'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Szeret az Úr...
+    title: Szeret az Úr, zengje föld és az ég
     verses:
       - name: c
         lines:
           - Szeret az Úr, zengje föld és az ég,
-          - dicséri Istent, aki féli őt.
-          - Itt van az ország, ami várt miránk.
-          - Eljött a szabadulás.
+          - dicséri Istent, aki féli Őt.
+          - Itt van az ország, ami várt miránk,
+          - eljött a szabadulás.
       - name: v1
         lines:
-          - Szüntelen áldom az örök Atyát
-          - Ujjong a lelkünk és áldja a szánk.
-          - Dicsérjük Istent, aki végtelen,
+          - Szüntelen áldom az örök Atyát,
+          - ujjong a lelkünk és áldja a szánk.
+          - Dicsérjük Istent, aki végtelen!
           - Ő lehajol s felemel.
       - name: v2
         lines:
-          - Dicsérjük együtt az egek Urát
-          - hiszen ha hívjuk, ő hallja imánk.
-          - Megszabadít, hogyha kérjük őt
+          - Dicsérjük együtt az egek Urát,
+          - hiszen ha hívjuk, Ő hallja imánk.
+          - Megszabadít, hogyha kérjük Őt,
           - Isten a védelmezőnk.
       - name: v3
         lines:
@@ -31,10 +32,10 @@ lyrics:
           - megérzi szeretetét.
       - name: v4
         lines:
-          - Boldog az ember aki keresi őt,
-          - Ki benne hisz, mivel Ő ad erőt.
-          - Halld a szavát, s tedd meg akaratát!
-          - S lelkedre béke vár.
+          - Boldog az ember, aki keresi Őt,
+          - ki benne hisz, mivel Ő ad erőt.
+          - Halld a szavát, s tedd meg akaratát,
+          - s lelkedre béke vár.
   - lang: en
     title: Cry out with joy
     verses:

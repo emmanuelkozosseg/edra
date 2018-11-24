@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '235'
+    lang: hu
 lyrics:
   - lang: hu
     title: Feltekintek a hegyre
@@ -8,18 +9,18 @@ lyrics:
       - name: c
         lines:
           - Feltekintek a hegyre,
-          - 'mivel onnét várom őt:'
-          - '/:az ég s föld Teremtőjét:'
-          - igen, ő a segítőm.:/
+          - 'hiszen onnét várom Őt:'
+          - '/: az ég s föld Teremtőjét,'
+          - igen, Ő a segítőm. :/
       - name: v1
         lines:
           - Mindig virraszt éberen,
           - aki őrzi Izraelt.
-          - Mindig fogja két kezed,
+          - Isten fogja két kezed
           - és óvja léptedet.
       - name: v2
         lines:
           - Minden úton elkísér,
           - bajtól, rossztól féltve véd.
-          - 'Így szól hozzád: jöjj, ne félj!'
+          - 'Így szól hozzád: „Jöjj, ne félj!”'
           - Vele biztonságban élsz.

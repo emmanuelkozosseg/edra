@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '904'
+    lang: hu
 lyrics:
   - lang: hu
     title: Pillangó ha lehetnék

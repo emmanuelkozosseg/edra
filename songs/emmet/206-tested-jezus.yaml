@@ -1,0 +1,15 @@
+books:
+  - id: emmet
+    number: '206'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Tested, Jézus
+    verses:
+      - name: v1
+        lines:
+          - '/: Tested, Jézus,'
+          - értünk függött. :/
+          - ''
+          - '/: Véred, Jézus,'
+          - értünk ömlött. :/

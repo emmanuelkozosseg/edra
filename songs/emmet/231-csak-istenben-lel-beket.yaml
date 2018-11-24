@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '231'
+    lang: hu
 lyrics:
   - lang: hu
     title: Csak Istenben lel békét
@@ -19,15 +20,15 @@ lyrics:
           - Vele nem érhet már semmi baj.
       - name: v1
         lines:
-          - Ó, én népem vesd az Úrra gondodat.
-          - Hívjad, és Ő válaszol.
-          - Öntsd ki szíved Isten előtt
-          - és bízd Rá életed,
-          - mert Ő a támaszunk és a menedékünk.
+          - Népem, vesd az Úrra gondodat.
+          - Hívjad és Ő válaszol.
+          - Aki Istent bízva kéri,
+          - irgalmat talál.
+          - Ő mindig megsegít, óvja híveit.
       - name: v2
         lines:
-          - Ó, a kincs az csak csalóka biztonság,
-          - óvjátok tőle szívetek!
-          - Mivel Istennél a kincs semmit sem ér,
-          - ám ha kérjük, Ő mindig megsegít,
-          - óvja híveit.
+          - Lelkem békét Istennél talál,
+          - mindenkor Ő ad reményt,
+          - hisz az Úrnál van csak élet,
+          - üdvösség és áldás.
+          - Ő mindig visszavár, halld hívó szavát!

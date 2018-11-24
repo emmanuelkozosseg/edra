@@ -1,0 +1,11 @@
+books:
+  - id: emmet
+    number: '714'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Boldog, ki benned bízik
+    verses:
+      - name: c
+        lines:
+          - Boldog, ki benned bízik!

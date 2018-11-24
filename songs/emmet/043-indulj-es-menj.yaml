@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '43'
+    lang: hu
 lyrics:
   - lang: hu
     title: Indulj és menj
@@ -13,9 +14,9 @@ lyrics:
           - meddig hallgassam még én?
       - name: c
         lines:
-          - Küldelek én s megáldlak én,
+          - Küldelek én, megáldlak én,
           - csak menj és hirdesd szavam.
-          - Küldelek én s megáldlak én,
+          - Küldelek én, megáldlak én,
           - csak menj és hirdesd szavam.
       - name: v2
         lines:

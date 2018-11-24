@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '710'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Ó, Abba, Atyám
+    verses:
+      - name: c
+        lines:
+          - Ó, Abba, Atyám,
+          - Reád bízom a lelkemet!

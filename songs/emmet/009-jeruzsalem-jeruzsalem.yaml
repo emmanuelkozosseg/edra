@@ -1,8 +1,10 @@
 books:
   - id: emmet
     number: '9'
+    lang: hu
   - id: eeym17
     number: '17'
+    lang: en
 lyrics:
   - lang: hu
     title: Jeruzsálem, Jeruzsálem
@@ -10,37 +12,35 @@ lyrics:
       - name: c
         lines:
           - Jeruzsálem, Jeruzsálem,
-          - Vesd le már a gyászruhádat!
+          - vesd le már a gyászruhádat!
           - Jeruzsálem, Jeruzsálem,
-          - Táncolj és énekelj az Úrnak!
+          - táncolj és énekelj az Úrnak!
       - name: v1
         lines:
           - Kelj fel, tündökölj,
-          - Hiszen a fényed eljött,
-          - Az Úr dicsősége rád ragyog.
-          - 'Emeld fel szemed, nézz a távolba:'
-          - Örömödben a szíved is megdobban.
+          - hiszen a fényed eljött,
+          - az Úr dicsősége rád ragyog.
+          - Emeld fel szemed, nézz a távolba,
+          - örömödben a szíved is megdobban.
           - Mert a fiaid visszatérnek immár,
-          - S lányaidat az ölükben hozzák.
+          - lányaidat az ölükben hozzák.
       - name: v2
         lines:
           - Jönnek mind a népek
-          - A te fényeidhez, a te fényeidhez,
-          - És királyok a világosságodra.
+          - a Te fényeidhez,
+          - és királyok a világosságodra.
           - Dromedárok ezrei jönnek majd
-          - Tömjénnel és aranyakkal megrakva.
+          - tömjénnel és aranyakkal megrakva.
           - Éfából és Sábából idejönnek,
-          - S hirdetik az Isten dicsőségét.
+          - hirdetik az Isten dicsőségét.
       - name: v3
         lines:
           - Idegenek építik fel újra várad
-          - És királyok szolgálnak neked.
-          - Idegenek építik fel újra várad
-          - És királyok szolgálnak neked.
+          - és királyok szolgálnak neked.
           - Benned lelik örömüket mindnyájan,
-          - 'így neveznek: az Istennek hajléka.'
+          - 'úgy neveznek: az Istennek hajléka.'
           - Véget ér a gyász, véget ér a bánat,
-          - s megdicsőíted a nevemet.
+          - megdicsőíted a nevemet.
   - lang: en
     title: Shine out and arise
     verses:

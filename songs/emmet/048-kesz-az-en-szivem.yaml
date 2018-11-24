@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '48'
+    lang: hu
 lyrics:
   - lang: hu
     title: Kész az én szívem
@@ -8,10 +9,11 @@ lyrics:
       - name: v1
         lines:
           - Kész az én szívem,
-          - Uram, Néked zeng a dalom.
+          - ó, Uram, Néked zeng a dalom.
           - Elő hát hárfa, lant,
           - hadd keltsem fel a hajnalt!
-          - 
+      - name: c1
+        lines:
           - Szent az Úr, jó az Úr,
           - hirdetem a népek között,
           - mert az Ő kegyelme felhőkig ér!
@@ -21,7 +23,8 @@ lyrics:
           - igéd minden egyes szava.
           - Szívemben rejtem el,
           - soha el ne felejtsem!
-          - 
+      - name: c2
+        lines:
           - Szent az Úr, jó az Úr,
           - hirdetem a népek között,
           - mert az Ő hűsége az égig ér!

@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: A2
+    lang: hu
 lyrics:
   - lang: hu
     title: Dicsőség az Atyának

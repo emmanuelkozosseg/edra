@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '222'
+    lang: hu
 lyrics:
   - lang: hu
     title: Hálát adok Néked
@@ -9,35 +10,35 @@ lyrics:
         lines:
           - Hálát adok néked, végtelen Isten,
           - mert Tenálad lelhet békére a lelkem.
-          - Élő vizet adtál, hogy általa éljek.
-          - Egész életem kezedbe teszem.
+          - Élő vizet adtál, hogy általa éljek,
+          - egész életem kezedbe teszem.
       - name: v1
         lines:
-          - Isten, Te vagy Istenem, már hajnalban kereslek.
-          - Testem és a lelkem, csak téged áhít!
+          - Isten, Te vagy Istenem, már hajnalban kereslek,
+          - testem és a lelkem csak téged áhít.
           - Mint a puszta földje, mely esőre vágyik,
           - lelkem rád szomjazik.
       - name: v2
         lines:
-          - Add, hogy megjelenjek szentélyedben,
-          - Isten, hogy meglássam dicsőségedet!
-          - Mert irgalmad több is, mint az egész élet,
+          - Add, hogy megjelenjek szentélyedben, Isten,
+          - hogy meglássam dicsőségedet!
+          - Mert irgalmad többet ér, mint az egész élet,
           - lelkem rád szomjazik.
       - name: v3
         lines:
           - Magasztaljon ajkam szüntelenül Téged!
-          - Neked áldást mondok ameddig csak élek.
-          - Kezem feléd tárom segítséged várom.
+          - Néked áldást mondok, ameddig csak élek.
+          - Kezem feléd tárom, segítséged várom.
           - Lelkem rád szomjazik.
       - name: v4
         lines:
           - Mint dús lakomával teljék be a lelkem!
           - Szám neved áldja, dicsőítsen Téged!
-          - Hajnalig csak rólad elmélkedem, Isten.
-          - Lelkem rád szomjazik.
+          - Hajnalig csak rólad elmélkedem, Isten,
+          - lelkem rád szomjazik.
       - name: v5
         lines:
-          - Mint dús lakomával teljék be a lelkem!
-          - Szám neved áldja, dicsőítsen Téged!
-          - Hajnalig csak rólad elmélkedem, Isten.
+          - Szárnyad árnyékában örvendezik lelkem,
+          - védelmezőm lettél, örök Istenem.
+          - Engem a Te jobbod szilárdan tart mindig.
           - Lelkem rád szomjazik.

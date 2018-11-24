@@ -1,13 +1,14 @@
 books:
   - id: emmet
     number: E13
+    lang: hu
 lyrics:
   - lang: hu
     title: Isten Báránya
     verses:
       - name: v1
         lines:
-          - /:Isten báránya,
+          - '/: Isten báránya,'
           - Te elveszed a világ bűneit,
           - Irgalmazz nekünk! :/
           - Isten báránya,

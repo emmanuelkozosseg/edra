@@ -1,9 +1,10 @@
 books:
   - id: emmet
     number: '230'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Eljövök Uram
+    title: Eljövök, Uram
     verses:
       - name: c
         lines:
@@ -23,8 +24,7 @@ lyrics:
       - name: v3
         lines:
           - Hálát adok Neked szövetségedért.
-          - Megőrzöd a lelkem,
-          - hogyha szorongatnak,
+          - Megőrzöd a lelkem, bármi baj is ér,
           - és a jobbod megszabadít engem.
       - name: v4
         lines:

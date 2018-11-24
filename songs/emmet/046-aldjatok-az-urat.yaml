@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '46'
+    lang: hu
 lyrics:
   - lang: hu
     title: Áldjátok az Urat
@@ -8,11 +9,12 @@ lyrics:
       - name: v1
         lines:
           - Áldjátok az Urat,
-          - Áldjátok szent nevét!
+          - áldjátok szent nevét!
           - Kik házában álltok napról napra,
-          - Dicsérjétek szüntelen Őt!
+          - dicsérjétek szüntelen Őt!
       - name: v2
         lines:
-          - Tárjátok kezeitek az élő Isten felé!
-          - Áldjon meg téged Sionról az Úr,
-          - Ragyogtassa arcát reád!
+          - Tárjátok kezeitek
+          - az élő Isten felé!
+          - Áldjon meg téged Sionból az Úr,
+          - ragyogtassa arcát reád!

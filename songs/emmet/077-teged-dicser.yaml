@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '77'
+    lang: hu
 lyrics:
   - lang: hu
     title: Téged dicsér
@@ -8,7 +9,7 @@ lyrics:
       - name: c
         lines:
           - Téged dicsér örömében
-          - a nagyvilág, oh jó Atyánk!
+          - a nagyvilág, ó jó Atyánk!
           - Szívünk s a szánk vele zengi háladalát.
       - name: v1
         lines:
@@ -17,11 +18,11 @@ lyrics:
           - alleluja.
       - name: v2
         lines:
-          - Áldott légy jó Atya,
+          - Áldott légy, jó Atya,
           - kicsinyeknek mutattad meg magad,
           - alleluja.
       - name: v3
         lines:
           - Elküldted lelkedet,
-          - aki bennünk dicséri szent neved,
+          - aki bennünk dicséri szent Neved,
           - alleluja.

@@ -1,39 +1,40 @@
 books:
   - id: emmet
     number: '28'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Jézus hozzád száll énekem
+    title: Jézus, hozzád száll énekem
     verses:
       - name: v1
         lines:
-          - Jézus, hozzád száll énekem.
-          - 'Nevedet hirdetem:'
-          - Te vagy a szívem öröme
+          - Jézus, hozzád száll énekem,
+          - 'nevedet hirdetem:'
+          - Te vagy a szívem öröme.
           - Csak benned bízom, Istenem,
-          - '/: Mert a Te szereteted'
+          - '/: mert a Te szereteted'
           - soha, soha nem hagy el! :/
       - name: v2
         lines:
           - Eljöttél hozzánk, nagy Király.
           - Kereszted által ím,
           - legyőzted a halált.
-          - Megmentetted az életem.
-          - '/: Mert a Te szereteted'
+          - Megmentetted az életem,
+          - '/: mert a Te szereteted'
           - soha, soha nem hagy el! :/
       - name: v3
         lines:
           - Csak Téged áldlak, Istenem.
           - Tenálad béke vár,
           - begyógyítod a sebeket.
-          - Elvetted minden bűnömet.
-          - '/: Mert a Te szereteted'
+          - Elvetted minden bűnömet,
+          - '/: mert a Te szereteted'
           - soha, soha nem hagy el! :/
       - name: v4
         lines:
-          - Oh, Jézus, csak rád szomjazom.
+          - Ó, Jézus, csak rád szomjazom.
           - A szívem ünnepel,
           - ha hangod újra hallhatom.
-          - Elküldted nékünk Lelkedet.
-          - '/: Mert a Te szereteted'
+          - Elküldted nékünk Lelkedet,
+          - '/: mert a Te szereteted'
           - soha, soha nem hagy el! :/

@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '717'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Zengő patakok vidítják
+    verses:
+      - name: c
+        lines:
+          - Zengő patakok vidítják Isten városát,
+          - az Úr szent lakóhelyét.

@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '59'
+    lang: hu
 lyrics:
   - lang: hu
     title: Király vagy
@@ -8,9 +9,9 @@ lyrics:
       - name: v1
         lines:
           - Király vagy, király vagy,
-          - Jézus király!
+          - Jézus Király!
       - name: v2
         lines:
           - Most felemeljük a szívünket,
           - most felemeljük kezeinket,
-          - 'a trónod elé járulunk: imádva légy!'
+          - a trónod elé járulunk, imádva légy!

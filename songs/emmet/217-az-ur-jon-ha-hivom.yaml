@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '217'
+    lang: hu
 lyrics:
   - lang: hu
     title: Az Úr jön, ha hívom
@@ -8,19 +9,19 @@ lyrics:
       - name: c
         lines:
           - Az Úr jön, ha hívom, hisz Ő az erőm,
-          - s a bajban biztos menedék,
-          - ki őriz és véd, velem jár utamon.
-          - A lelkem csak Benne remél.
+          - a bajban biztos menedék.
+          - Ki őriz és véd, velem jár utamon,
+          - a lelkem csak Benne remél.
       - name: v1
         lines:
-          - 'A hegyre nézek:'
+          - A hegyre nézek,
           - mert onnét várom Őt.
-          - Csak az Úr az, aki megsegít engem
+          - Csak az Úr az, aki megsegít engem.
       - name: v2
         lines:
           - Ő ad nékem erőt,
-          - az Úr az őrizőm.
-          - Aki mindig megsegít, hogyha hívom.
+          - az Úr az őrizőm,
+          - aki mindig megsegít, hogyha hívom.
       - name: v3
         lines:
           - Nem szunnyad sohasem,

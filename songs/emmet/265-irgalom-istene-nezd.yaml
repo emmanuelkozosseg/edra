@@ -1,9 +1,10 @@
 books:
   - id: emmet
     number: '265'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Irgalom Istene nézd
+    title: Irgalom Istene
     verses:
       - name: v1
         lines:

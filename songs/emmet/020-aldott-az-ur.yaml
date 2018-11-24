@@ -1,25 +1,26 @@
 books:
   - id: emmet
     number: '20'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Áldott az Úr
+    title: Alleluja, áldott az Úr
     verses:
       - name: c
         lines:
           - Alleluja, alleluja, alleluja,
-          - Alleluja, alleluja, alleluja!
+          - alleluja, alleluja, alleluja!
       - name: v1
         lines:
           - Áldott az Úr, mert legyőzte a halált,
-          - feltámadt Jézus dicső nagy Királyunk.
-          - És üdvözítette minden gyermekét!
-          - Áldjuk az Ő nevét mindörökké!
+          - feltámadt Jézus, dicső, nagy Királyunk,
+          - és üdvözítette minden gyermekét;
+          - áldjuk az Ő nevét mindörökké!
       - name: v2
         lines:
           - Jézus előtt hajoljon meg minden térd
-          - a mennyben, a földön és az alvilágban!
-          - Mert Ő az Úr, övé minden dicsőség!
+          - a mennyben, a földön és az alvilágban,
+          - mert Ő az Úr, övé minden dicsőség!
           - Áldjuk az Ő nevét mindörökké!
       - name: v3
         lines:

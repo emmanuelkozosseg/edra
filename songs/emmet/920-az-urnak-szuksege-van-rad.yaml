@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '920'
+    lang: hu
 lyrics:
   - lang: hu
     title: Az Úrnak szüksége van rád

@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '52'
+    lang: hu
 lyrics:
   - lang: hu
     title: Táncolj az Úrnak
@@ -24,6 +25,6 @@ lyrics:
       - name: v3
         lines:
           - Kik kedvesek az Úrnak, dicsérik Őt,
-          - hűségükkel szolgálnak!
+          - hűségükkel szolgálnak.
           - Mint betlehemi nyájak pásztorai,
           - hódoljunk színe előtt!

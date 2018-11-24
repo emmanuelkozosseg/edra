@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '905'
+    lang: hu
 lyrics:
   - lang: hu
     title: Mit csinálnak az emberek

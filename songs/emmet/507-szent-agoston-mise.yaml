@@ -1,0 +1,93 @@
+books:
+  - id: emmet
+    number: '507'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent Ágoston mise
+    verses:
+      - name: v1
+        label: Kyrie
+        lines:
+          - Kyrie, Kyrie eleison!
+          - 
+          - Christe, Christe eleison!
+          - 
+          - Kyrie, Kyrie eleison!
+      - name: v2
+        label: Gloria / R
+        lines:
+          - Gloria, gloria in excelsis Deo!
+          - Gloria, gloria in excelsis Deo!
+      - name: v21
+        label: Gloria / 1
+        lines:
+          - És a földön békesség
+          - a jószándékú embereknek!
+          - Dicsőítünk téged, áldunk téged,
+          - imádunk téged, magasztalunk téged,
+          - hálát adunk néked nagy dicsőségedért!
+      - name: v22
+        label: Gloria / 2
+        lines:
+          - Urunk és Istenünk, mennyei Király,
+          - mindenható Atyaisten.
+          - Urunk, Jézus Krisztus, egyszülött Fiú,
+          - Urunk és Istenünk,
+          - Isten Báránya, az Atyának Fia.
+      - name: v23
+        label: Gloria / 3
+        lines:
+          - Te elveszed a világ bűneit,
+          - irgalmazz nékünk!
+          - Te elveszed a világ bűneit,
+          - hallgasd meg könyörgésünk!
+          - Te, aki az Atya jobbján ülsz,
+          - irgalmazz nékünk!
+      - name: v24
+        label: Gloria / 4
+        lines:
+          - Mert egyedül csak Te vagy a Szent,
+          - Te vagy az Úr,
+          - Te vagy az egyetlen Fölség,
+          - Jézus Krisztus, a Szentlélekkel együtt
+          - az Atyaisten dicsőségében.
+          - Ámen.
+      - name: v3
+        label: Alleluja
+        lines:
+          - Alleluja, alleluja alleluja, alleluja!
+          - Alleluja, alleluja alleluja, alleluja!
+      - name: v4
+        label: Sanctus / R
+        lines:
+          - Sanctus, sanctus sanctus
+          - Dominus Deus Sabaoth!
+          - Sanctus, sanctus sanctus
+          - Dominus Deus Sabaoth!
+      - name: v41
+        label: Sanctus / 1
+        lines:
+          - Pleni sunt caeli et terra
+          - gloria tua!
+          - ""
+          - Hosanna, hosanna, hosanna in excelsis!
+          - Hosanna, hosanna, hosanna in excelsis!
+      - name: v42
+        label: Sanctus / 2
+        lines:
+          - Benedictus qui venit
+          - in nomine Domini!
+          - ""
+          - Hosanna, hosanna, hosanna in excelsis!
+          - Hosanna, hosanna, hosanna in excelsis!
+      - name: v5
+        label: Agnus Dei
+        lines:
+          - Agnus Dei,
+          - qui tollis peccata mundi,
+          - miserere nobis.
+          -
+          - Agnus Dei,
+          - qui tollis peccata mundi,
+          - dona nobis pacem.

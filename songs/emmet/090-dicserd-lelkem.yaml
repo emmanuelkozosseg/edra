@@ -1,16 +1,18 @@
 books:
   - id: emmet
     number: '90'
+    lang: hu
   - id: eeym17
     number: '1'
+    lang: en
 lyrics:
   - lang: hu
-    title: Dicsérd lelkem
+    title: Dicsérd, lelkem, az Úr nevét
     verses:
       - name: c
         lines:
           - Dicsérd, lelkem, az Úr nevét,
-          - végtelen kegyelmét.
+          - végtelen kegyelmét!
           - Dicsérd, lelkem, az Úr nevét,
           - szüntelen áldd az életért,
           - szüntelen áldd az életért!
@@ -19,7 +21,7 @@ lyrics:
           - Áldjanak téged a nemzetek,
           - ujjongva zengjék szent neved!
           - 'Dicsőítsen énekük:'
-          - Hűséges vagy, Istenünk!
+          - hűséges vagy, Istenünk!
       - name: v2
         lines:
           - Föld és ég is téged áld,
@@ -30,12 +32,12 @@ lyrics:
         lines:
           - Erős kézzel megmentesz,
           - átsegítesz mindenen,
-          - visszaadtad életem,
+          - visszaadtad az életem,
           - új dal zeng a lelkemben.
       - name: v4
         lines:
           - Hozzád visszatérhetünk,
-          - a te örömödben élhetünk.
+          - a Te örömödben élhetünk.
           - Jöjj, Te lakj a szívünkben,
           - legyél Úr a lelkünkben!
   - lang: en

@@ -1,31 +1,32 @@
 books:
   - id: emmet
     number: '67'
+    lang: cg
 lyrics:
-  - lang: hu
+  - lang: cg
     title: Yezu azali awa
     verses:
       - name: c
         lines:
-          - Alleluia, Alleluia
-          - Alleluia na Yezu.
+          - Alleluia, alleluia,
+          - alleluia na Yezu.
       - name: v1
         lines:
           - Yezu azali awa,
           - Yezu azali awa,
-          - yezu azali awa na biso.
+          - Yezu azali awa na biso.
       - name: v2
         lines:
           - Biso tokosetela,
           - biso tokosetela,
-          - Biso tokosetela na Yezu.
+          - biso tokosetela na Yezu.
       - name: v3
         lines:
           - Biso tokoligana,
           - biso tokoligana,
-          - Biso tokoligana na Yezu.
+          - biso tokoligana na Yezu.
       - name: v4
         lines:
           - Biso tokomona ye,
           - biso tokomona ye,
-          - Biso tokomona ye, na Lola.
+          - biso tokomona ye, na Lola.

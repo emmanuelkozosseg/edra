@@ -1,0 +1,24 @@
+books:
+  - id: emmet
+    number: '406'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Ave Maria, Jézus nékünk
+    verses:
+      - name: v1
+        lines:
+          - Jézus, nékünk adtál anyát.
+          - Ő kér és áld, ha szívünk fáj.
+          - Hála Jézus, hála néked,
+          - mert van egy drága imánk!
+      - name: c
+        lines:
+          - Ave Maria, gratia plena,
+          - Dominus tecum benedicta tu.
+      - name: v2
+        lines:
+          - Térden állva hívunk téged,
+          - vidd el álmunk, Krisztus elé!
+          - Jézus anyja, hű Mária,
+          - ó, add, hogy lássuk Fiad!

@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '26'
+    lang: hu
 lyrics:
   - lang: hu
     title: Az Úrhoz száll a himnusz
@@ -8,14 +9,14 @@ lyrics:
       - name: c
         lines:
           - Az Úrhoz száll a himnusz és a zsoltár,
-          - mit zengek én amíg élek.
+          - mit zengek én, amíg élek.
           - 'A szívemből szól énekem Tehozzád:'
-          - Oh áldott légy jó Atyám!
+          - ó, áldott légy, jó Atyám!
       - name: v1
         lines:
           - Íme, eljövök hozzád,
           - hogy megtegyem, amit kérsz.
-          - Néked átadom szívem. Áldott légy!
+          - Néked átadom szívem, áldott légy!
       - name: v2
         lines:
           - Jézus, nincs halál többé,
@@ -24,8 +25,8 @@ lyrics:
       - name: v3
         lines:
           - Lelkem már kimentetted
-          - a bűnből,a halálból.
-          - Újból életet adtál,  Megváltóm.
+          - a bűnből, a halálból.
+          - Újból életet adtál, Megváltóm.
       - name: v4
         lines:
           - Néked háladal szól már,

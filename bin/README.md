@@ -38,8 +38,10 @@ Szerkezetük:
 books:
   - id: mybook  # Léteznie kell a _books.yaml fájlban
     number: '23'  # Az ének sorszáma ebben a könyvben
+    lang: en  # Ezen a nyelven szerepel az ének a könyvben; kell léteznie egy ilyen nyelvű dalszövegnek lentebb
   - id: emmet  # Az 'emmet' könyv az elsődleges, ennek szerepelnie kell a fájlban
     number: N2
+    lang: hu
 lyrics:
   - lang: hu  # ISO 639-1 szerinti nyelvkód
     title: Az én dalom
@@ -67,6 +69,7 @@ lyrics:
           - Ami egy sortörést iktat be
           - De egy dián marad az egész
       - name: b
+        label: Átkötés  # Ha szükséges, címke adható a versszaknak; az Emmetben ez a versszak tetején jelenik meg
         lines:
           - Az átkötést a kis b betű jelzi
   - lang: en
@@ -91,7 +94,9 @@ Szerkezete:
 ```yaml
 - id: mybook  # Ezzel az azonosítóval lehet hivatkozni a könyvre az énekeknél
   name: Az én énekeskönyvem  # A könyv teljes címe
+  selectable: n  # Ha igen (y), akkor kiválasztható az énekeskönyvek listájában. Egyébként csak az énekek adatlapján jelenik meg.
 
 - id: emmet
   name: Emmet
+  selectable: y
 ```

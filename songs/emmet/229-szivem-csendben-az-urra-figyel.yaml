@@ -1,0 +1,13 @@
+books:
+  - id: emmet
+    number: '229'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szívem csendben az Úrra figyel
+    verses:
+      - name: v1
+        lines:
+          - Szívem csendben az Úrra figyel, ki segít.
+          - Szívem csendben az Úrra figyel, ki segít.
+          - Szívem csendben az Úrra figyel.

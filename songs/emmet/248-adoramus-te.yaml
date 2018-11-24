@@ -1,8 +1,10 @@
 books:
   - id: emmet
     number: '248'
+    lang: hu
   - id: eeym17
     number: '38'
+    lang: en
 lyrics:
   - lang: hu
     title: Adoramus te
@@ -11,52 +13,63 @@ lyrics:
         lines:
           - Adoramus te, Krisztus Király,
           - magasztalunk és imádunk Téged!
-          - Adoramus te, királyok Királya,
-          - szent Fölséged áldjuk örökké!
+          - Adoramus te, királyok királya,
+          - szent fölséged áldjuk örökké!
       - name: v1
         lines:
           - Jézus, az Atya fénye,
           - minden nép reménye,
           - Jézus élet szerzője,
-          - Adoramus te!
-          - 
+          - adoramus te!
+          - ""
           - Emberré lett Isten,
           - hívek örök kincse,
-          - békesség Istene,
-          - Adoramus te!
+          - békességnek Istene,
+          - adoramus te!
       - name: v2
         lines:
           - Jézus, szegények Atyja,
           - betegek gyógyítója,
           - Boldogságos Szűz Fia,
-          - Adoramus te!
-          - 
+          - adoramus te!
+          - ""
           - Engedelmes Jézus,
           - alázatos szívű,
           - szelídségnek példája,
-          - Adoramus te!
+          - adoramus te!
       - name: v3
         lines:
           - Jézus, élő Isten,
           - Egyház reménysége,
-          - Jézus utunk, életünk,
-          - Adoramus te!
-          - 
+          - Jézus, utunk, életünk,
+          - adoramus te!
+          - ""
           - Csodálatos Jézus,
           - erények példaképe,
           - dicsőségnek Királya,
-          - Adoramus te!
+          - adoramus te!
       - name: v4
         lines:
           - Jézus, bölcsességünk,
-          - Örök fényességünk,
-          - Tanítónk és Mesterünk,
-          - Adoramus te!
-          - 
+          - örök fényességünk,
+          - tanítónk és Mesterünk,
+          - adoramus te!
+          - ""
           - Jézus, erős Isten,
           - igazságnak napja,
           - Megváltónk és pártfogónk,
-          - Adoramus te!
+          - adoramus te!
+      - name: v5
+        lines:
+          - Hitvallóknak fénye,
+          - lelkek hű keresője,
+          - Pátriárkák Királya,
+          - adoramus te!
+          - ""
+          - Szűzek tisztasága,
+          - vértanúk erőssége,
+          - minden szentek koronája,
+          - adoramus te!
   - lang: en
     title: Adoramus te!
     verses:

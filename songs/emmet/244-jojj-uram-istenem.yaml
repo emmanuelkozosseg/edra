@@ -1,34 +1,32 @@
 books:
   - id: emmet
     number: '244'
+    lang: hu
 lyrics:
   - lang: hu
     title: Jöjj Uram, Istenem
     verses:
       - name: c
         lines:
-          - '/: Jöjj, Uram, Istenem, és újítsd meg'
-          - a szívemben örömödet!
-          - Hisz nyugtalan a lelkem tenélküled!
-          - Hát Rád bízom életem. :/
-          - Most Rád bízom életem.
+          - '/: Jöjj, Uram, Istenem,'
+          - és újítsd meg a szívemben örömödet,
+          - hisz nyugtalan a lelkem tenélküled,
+          - hát rád bízom életem! :/
       - name: v1
         lines:
-          - 'Szomjazik a szívem: add a szereteted!'
+          - Szomjazik a szívem, add a szereteted!
           - Keresem utadat, töltsd be életemet!
-          - Gyenge vagyok, Uram,
-          - Nélküled elesem.
+          - Gyenge vagyok, Uram, nélküled elesem.
           - Kérlek, segíts, jöjj, légy velem!
       - name: v2
         lines:
-          - 'Hallgasd meg az imám:'
-          - 'bennem ég a vágy: hogy veled legyek,'
-          - mindig, örök Atyám!
-          - Küldd el reám a Te Lelkedet
+          - Hallgasd meg az imám, bennem ég a vágy,
+          - hogy veled legyek mindig, örök Atyám!
+          - Küldd el reám a Te Lelkedet,
           - Ő vezessen végig életemen!
       - name: v3
         lines:
-          - Mosd le bűneimet, kérlek, oh, Uram!
-          - Kőszívem helyett hús szívet adj!
+          - Mosd le bűneimet, kérlek, ó, Uram!
+          - Kőszívem helyett hússzívet adj!
           - S hogyha életem egyszer véget ér,
           - végy fel engem is szentjeid közé!

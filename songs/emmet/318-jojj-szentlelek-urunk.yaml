@@ -1,38 +1,40 @@
 books:
   - id: emmet
     number: '318'
+    lang: hu
   - id: eeym17
     number: '28'
+    lang: en
 lyrics:
   - lang: hu
-    title: Jöjj, Szentlélek, Urunk
+    title: Jöjj, Szentlélek Urunk
     verses:
       - name: v1
         lines:
-          - Jöjj, Szentlélek, Urunk,
+          - Jöjj, Szentlélek Urunk,
           - hozz vigasztalást!
-          - Jöjj, Szentlélek, Urunk,
+          - Jöjj, Szentlélek Urunk,
           - Te vezess az éjen át!
       - name: c
         lines:
           - Jöjj, Lélek, add a fényedet
-          - És add a szereteted!
+          - és add a szereteted!
           - Adj új hitet és új erőt,
-          - Jöjj, Éltetőnk!
+          - jöjj, Éltetőnk!
           - Jöjj, Szentlélek, szállj le ránk!
           - Jöjj, Szentlélek, szállj le ránk!
       - name: v2
         lines:
-          - Jöjj, Szentlélek, Urunk,
+          - Jöjj, Szentlélek Urunk,
           - hozz gyógyulást!
-          - Jöjj, Szentlélek, Urunk,
-          - Szállj le ránk, égi Láng!
+          - Jöjj, Szentlélek Urunk,
+          - szállj le ránk, égi Láng!
       - name: v3
         lines:
-          - Jöjj, Szentlélek, Urunk,
-          - Jöjj, égi Tűz!
-          - Jöjj, Szentlélek, Urunk,
-          - Alakítsd a szívünk!
+          - Jöjj, Szentlélek Urunk,
+          - jöjj, égi Tűz!
+          - Jöjj, Szentlélek Urunk,
+          - alakítsd a szívünk!
   - lang: en
     title: Come, Holy Spirit, Comforter
     verses:

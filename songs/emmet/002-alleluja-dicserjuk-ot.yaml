@@ -1,0 +1,30 @@
+books:
+  - id: emmet
+    number: '2'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Alleluja, dicsérjük Őt
+    verses:
+      - name: c
+        lines:
+          - Alleluja, alleluja!
+          - Alleluja, alleluja!
+      - name: v1
+        lines:
+          - Dicsérjük Őt, áldjuk az Urat,
+          - ki szívünkben él és utat mutat!
+          - 'Nézzetek fel, hiszen Ő van itt:'
+          - Jézus minket hív!
+      - name: v2
+        lines:
+          - Jézus az éjbe fényt hozott,
+          - szeretetet ajándékozott.
+          - Tőle kaptunk örök életet,
+          - szent az Ő neve.
+      - name: v3
+        lines:
+          - 'Vigyük a jó hírt: Jézus él!'
+          - Benne remélj, többé már ne félj,
+          - hogy az öröm, amit ad neked,
+          - teljes legyen!

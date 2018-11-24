@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '405'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Ave Maria (kánon)
+    verses:
+      - name: v1
+        lines:
+          - Ave Maria, ave Maria,
+          - ave, ave Maria.

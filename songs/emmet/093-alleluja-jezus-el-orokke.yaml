@@ -1,0 +1,38 @@
+books:
+  - id: emmet
+    number: '93'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Alleluja, Jézus él örökké
+    verses:
+      - name: c
+        lines:
+          - Alleluja, alleluja, alleluja,
+          - alleluja, alleluja, alleluja,
+          - alleluja, alleluja, alleluja,
+          - alleluja!
+      - name: v1
+        lines:
+          - Jézus él örökké, alleluja,
+          - és az Élet legyőzte a halált,
+          - Ő a Szent, Ő az Út, a Király!
+          - Alleluja!
+      - name: v2
+        lines:
+          - Vére által új életet adott,
+          - hisz a bűnből Ő kiszabadított.
+          - Aki Benne hisz, él örökké!
+          - Alleluja!
+      - name: v3
+        lines:
+          - Erre hív ma is minket az Úr,
+          - 'hogy a hírt vigyük el vigaszul:'
+          - véget ér a sötét, jön a fény!
+          - Alleluja!
+      - name: v4
+        lines:
+          - 'Mondjuk el: Krisztus él örökké,'
+          - Ő, ki megszabadít s hazahív.
+          - Él a Bárány, az Üdvözítő!
+          - Alleluja!

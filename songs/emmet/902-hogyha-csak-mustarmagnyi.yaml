@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '902'
+    lang: hu
 lyrics:
   - lang: hu
     title: Hogyha csak mustármagnyi

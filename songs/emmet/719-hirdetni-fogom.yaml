@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '719'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Hirdetni fogom
+    verses:
+      - name: c
+        lines:
+          - Hirdetni fogom nevedet
+          - testvéreim előtt.

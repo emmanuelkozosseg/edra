@@ -1,9 +1,10 @@
 books:
   - id: emmet
     number: '21'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Rajta, dicsérjétek...
+    title: Rajta, dicsérjétek
     verses:
       - name: c
         lines:
@@ -20,6 +21,6 @@ lyrics:
       - name: v2
         lines:
           - Lássátok hát, mily irgalmas hozzánk,
-          - jóságos Úr és hűséges Király.
-          - Énekeljétek hát az Ő nevét
+          - jóságos Úr és hűséges Király!
+          - Énekeljétek hát az Ő nevét,
           - Istent dicsérje minden teremtmény!

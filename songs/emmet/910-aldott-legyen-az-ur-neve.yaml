@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '910'
+    lang: hu
 lyrics:
   - lang: hu
     title: Áldott legyen az Úr neve

@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: E9
+    lang: hu
 lyrics:
   - lang: hu
     title: Szent színed elé járulunk

@@ -1,13 +1,32 @@
 books:
   - id: emmet
     number: '252'
+    lang: hu
 lyrics:
   - lang: hu
     title: Az Úr az őrizőm
     verses:
-      - name: v1
+      - name: c
         lines:
           - Az Úr az őrizőm, a menedékem,
-          - Hát miért, s kitől is félnék?
+          - hát miért, s kitől is félnék?
           - Ő a fény az utamon, az üdvösségem,
-          - Csak Benne bízom én.
+          - csak Benne bízom én.
+      - name: v1
+        lines:
+          - Csak egyet kértem az Úrtól,
+          - a szívem arra vágyik,
+          - hogy a házában hadd lakjam én
+          - az életem minden napján.
+      - name: v2
+        lines:
+          - A Te arcodat keresem, Uram.
+          - El ne hagyj engem, Istenem, a bajban!
+          - Ne fordulj el tőlem, ha hívlak!
+          - Ösvényedre taníts engem!
+      - name: v3
+        lines:
+          - Tudom jól, hű az Úr,
+          - és javait meglátom az élők földjén.
+          - Bátor szívvel hagyatkozz az Úrra,
+          - s ha bízol, Ő megsegít.

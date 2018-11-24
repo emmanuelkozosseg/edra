@@ -1,0 +1,12 @@
+books:
+  - id: emmet
+    number: '703'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Adjunk hálát Istennek
+    verses:
+      - name: c
+        lines:
+          - Adjunk hálát Istennek,
+          - mert az Ő szeretete végtelen.

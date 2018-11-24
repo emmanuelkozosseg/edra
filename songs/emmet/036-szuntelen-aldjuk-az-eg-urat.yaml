@@ -1,34 +1,35 @@
 books:
   - id: emmet
     number: '36'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Szüntelen áldjuk az ég urát
+    title: Alleluja, szüntelen áldjuk
     verses:
       - name: c
         lines:
-          - Alleluja, alleluja, alleluja, alleluja
+          - Alleluja! Alleluja, alleluja! Alleluja!
       - name: v1
         lines:
-          - Szüntelen áldjuk az ég Urát
-          - Együtt zengjünk alleluját!
-          - Itt van az óra, közel az idő
-          - Visszajön újra az Üdvözítő.
+          - Szüntelen áldjuk az ég Urát,
+          - együtt zengjünk alleluját!
+          - 'Itt van az óra, közel az idő:'
+          - visszajön újra az Üdvözítő.
       - name: v2
         lines:
           - 'Messzire hangzik az égi szó:'
-          - Üdvösségünk elérkezett.
+          - „Üdvösségünk elérkezett!”
           - Krisztus az Úr, övé lett a hatalom,
           - mert a mi vádlónk legyőzetett.
       - name: v3
         lines:
           - Minden szent és vértanú
           - győztesként áll Isten előtt.
-          - Győztek a Bárány vére által
-          - s nem kímélték életük.
+          - Győztek a Bárány vére által,
+          - nem kímélték életük.
       - name: v4
         lines:
           - Örvendjen ma a föld s az ég,
           - zengjük az Isten szent nevét!
-          - 'Krisztussal együtt áldjuk az Atyát:'
+          - Krisztussal együtt áldjuk az Atyát,
           - Őt, aki értünk adta Fiát.

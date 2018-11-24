@@ -1,28 +1,29 @@
 books:
   - id: emmet
     number: '308'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Jöjj szabadító Istenünk
+    title: Jöjj, szabadító Istenünk
     verses:
       - name: c
         lines:
           - Jöjj, szabadító Istenünk,
-          - Jöjj, a Te fényed add nekünk!
-          - Lélek az égből szállj le ránk!
-          - Jöjj, a szívünk vár!
+          - jöjj, a Te fényed add nekünk!
+          - Lélek az égből, szállj le ránk,
+          - jöjj, a szívünk vár!
       - name: v1
         lines:
-          - Életadó, Téged küld az Atya.
-          - Az akaratodat mi megtesszük.
+          - Életadó, Téged küld az Atya,
+          - az akaratodat mi megtesszük.
           - 'Te vagy a Fény: jöjj, ragyogj bennünk!'
       - name: v2
         lines:
           - Add az erőd, hogyha fárad a test,
           - kérünk, a szívünket ma tisztítsd meg!
-          - Vigasztaló, add a békéd
+          - Vigasztaló, add a békédet!
       - name: v3
         lines:
           - Add örömöd, hogyha csügged a szív,
           - a szeretetedet hadd érezzük!
-          - Tüzes Parázs, jöjj lobogj bennünk
+          - Tüzes Parázs, jöjj, lobogj bennünk!

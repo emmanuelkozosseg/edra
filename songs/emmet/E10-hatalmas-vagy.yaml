@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: E10
+    lang: hu
 lyrics:
   - lang: hu
     title: Hatalmas vagy

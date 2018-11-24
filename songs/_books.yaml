@@ -1,6 +1,7 @@
 - id: emmet
   name: Jézus él
-  languages: ['hu', 'la']
+  selectable: y
+  
 - id: eeym17
   name: EEYM 2017
-  languages: ['en', 'la']
+  selectable: y

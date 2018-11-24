@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '921'
+    lang: hu
 lyrics:
   - lang: hu
     title: Mondd, ki a dzsungel királya

@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '82'
+    lang: hu
 lyrics:
   - lang: hu
     title: Krisztus feltámadott
@@ -9,20 +10,20 @@ lyrics:
         lines:
           - 'Már hajnalban terjed a hír:'
           - íme nincs ott, mivel üres a sír.
-          - Ő megmondta:harmadnap feltámad.
-          - Most örvendjen mind, aki sírt!
+          - 'Ő megmondta: harmadnap feltámad,'
+          - most örvendjen mind, aki sírt!
       - name: c
         lines:
-          - Krisztus feltámadott
+          - Krisztus feltámadott,
           - alleluja, már nem halott!
-          - Krisztus feltámadott
+          - Krisztus feltámadott,
           - alleluja, feltámadott!
       - name: v2
         lines:
           - Mert meghalván a Golgotán
           - Ő legyőzte már a halált.
-          - 'Most mindenütt hirdetjük:'
-          - Jézus az Úr s országa szilárdan áll.
+          - 'Most mindenütt hirdetjük: Jézus az Úr,'
+          - s országa szilárdan áll.
       - name: v3
         lines:
           - Ég és föld ujjongva dicsérje,

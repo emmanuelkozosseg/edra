@@ -1,0 +1,35 @@
+books:
+  - id: emmet
+    number: '804'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Marana tha, Rád várunk
+    verses:
+      - name: c
+        lines:
+          - Marana tha!
+          - A Menyasszony és a Lélek
+          - 'így szól: jöjj el!'
+          - Jöjj el! Jöjj el, Úr Jézus!
+          - Marana tha!
+          - 'Csak rád várunk, Jézus:'
+          - a Te szívedből élő víz fakad.
+      - name: v1
+        lines:
+          - Örök élet vár miránk,
+          - mivel él, győzött a Bárány,
+          - ki a mennyben trónon ül,
+          - és a szentek dicsérve áldják!
+      - name: v2
+        lines:
+          - A Te fényed ránk ragyog,
+          - ha majd meglátjuk arcod.
+          - Homlokunkon lesz neved,
+          - ó, Jézus, imádunk Téged!
+      - name: v3
+        lines:
+          - Szentlélek, szállj le ránk,
+          - ó, jöjj, Egyházad éltesd!
+          - Tiszta, szent és hű legyen,
+          - méltó a krisztusi névhez!

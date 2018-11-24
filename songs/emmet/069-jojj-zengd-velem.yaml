@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '69'
+    lang: hu
 lyrics:
   - lang: hu
     title: Jöjj, zengd velem
@@ -16,18 +17,18 @@ lyrics:
           - Lelkem áldja az Urat,
           - mert rám tekintett.
           - Úgy betöltött javaival,
-          - s a szívem ujjong Benne!
+          - a szívem ujjong Benne!
       - name: v2
         lines:
           - Íme boldognak nevez
           - az összes nemzedék,
-          - 'Mert nagy dolgot tett velem:'
+          - 'mert nagy dolgot tett velem:'
           - övé a dicsőség!
       - name: v3
         lines:
           - Mert az Isten eltöröl
           - minden hatalmast,
-          - Ám a szegény éhezőt
+          - ám a szegény éhezőt
           - Ő jóllakatja.
       - name: v4
         lines:

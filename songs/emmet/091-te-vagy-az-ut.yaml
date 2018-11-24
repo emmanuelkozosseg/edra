@@ -1,37 +1,39 @@
 books:
   - id: emmet
     number: '91'
+    lang: hu
   - id: eeym17
     number: '19'
+    lang: en
 lyrics:
   - lang: hu
-    title: Te vagy az Út...
+    title: Te vagy az Út
     verses:
       - name: c
         lines:
           - Te vagy az Út,
           - Te vagy az Igazság,
-          - Te vagy az élet örökké.
+          - Te vagy az Élet örökké.
           - Győztél a keresztfán,
-          - A néped ezért áld,
-          - Te vagy az Úr, dicső király!
+          - a néped ezért áld,
+          - Te vagy az Úr, dicső Király!
       - name: v1
         lines:
-          - Ha Veled járom az utam,
-          - Kitől is féljek Uram?
-          - Megyek az úton, nincsen akadály
-          - Velem vagy Jézus, nem kell más.
+          - Ha veled járom az utam,
+          - kitől is féljek, Uram?
+          - Megyek az úton, nincsen akadály,
+          - velem vagy, Jézus, nem kell más!
       - name: v2
         lines:
           - Amikor bajba kerülünk,
-          - Szorosan fogjad a kezünk!
-          - Te vagy a mester, őrizd a hitünk,
-          - Hogy a nevedben élhessünk!
+          - szorosan fogjad a kezünk!
+          - Te vagy a Mester, őrizd a hitünk,
+          - hogy a nevedben győzhessünk!
       - name: v3
         lines:
           - Lelkünkbe írod szavadat,
-          - Szeretetedre tanítasz.
-          - Ragyogjon fel hát szívünkben a fény,
+          - szeretetedre tanítasz.
+          - Ragyogjon fel hát szívünkben a fény!
           - 'Vigyük a jó hírt: Krisztus él!'
   - lang: en
     title: To You, o Lord

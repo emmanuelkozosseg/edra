@@ -1,6 +1,7 @@
 books:
   - id: emmet
     number: '909'
+    lang: hu
 lyrics:
   - lang: hu
     title: Isten alkotta az...

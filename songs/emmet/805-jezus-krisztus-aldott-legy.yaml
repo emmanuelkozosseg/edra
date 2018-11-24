@@ -1,24 +1,25 @@
 books:
   - id: emmet
     number: '805'
+    lang: hu
 lyrics:
   - lang: hu
-    title: Jézus Krisztus áldott légy
+    title: Jézus Krisztus, áldott légy
     verses:
       - name: c
         lines:
-          - Jézus Krisztus áldott légy Egyházadért,
-          - amely egybegyűlt!
+          - Jézus Krisztus, áldott légy
+          - Egyházadért, amely egybegyűlt!
           - Szent neved áldja ma minden híved,
           - ujjongva zengje, hogy szent a mi Istenünk!
       - name: v1
         lines:
-          - Íme, a néped ünnepelni templomodba eljött,
-          - Urunk.
+          - Íme, a néped ünnepelni
+          - templomodba eljött, Urunk.
       - name: v2
         lines:
-          - Boldogan áld az énekünk a kerubokkal együtt,
-          - Istenünk.
+          - Boldogan áld az énekünk
+          - a kerubokkal együtt, Istenünk.
       - name: v3
         lines:
           - 'Gyermeki szívvel együtt zengjük:'
