@@ -2,9 +2,8 @@ image: python:3.7.0
 
 pipelines:
   default:
-    deploy:
-      - step:
-          name: Build and deploy
-          script:
-            - pip install ruamel.yaml --upgrade
-            - bash bin/build.sh
+    - step:
+        name: Build and deploy
+        script:
+          - pip install ruamel.yaml --upgrade
+          - bash bin/build.sh
