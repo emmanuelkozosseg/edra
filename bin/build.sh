@@ -17,7 +17,7 @@ python3 bin/convert.py json --from-dir songs/ --to dist/songs.json
 # cd dist/Emmánuel/
 # zip -r -9 ../opensong.zip .
 # cd ../..
-python3 -c "import shutil; shutil.make_archive(base_name='dist/opensong', format='zip', root_dir='dist', base_dir='Emmánuel')"
+python3 -c "import shutil; shutil.make_archive(base_name='dist/opensong-enekek', format='zip', root_dir='dist', base_dir='Emmánuel')"
 
 if [[ $BB_AUTH_STRING ]]; then
     curl -X POST "https://${BB_AUTH_STRING}@api.bitbucket.org/2.0/repositories/${BITBUCKET_REPO_OWNER}/${BITBUCKET_REPO_SLUG}/downloads" --form files=@"dist/opensong-enekek.zip"
