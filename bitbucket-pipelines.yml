@@ -1,7 +1,7 @@
 image: python:3.7.0
 
 pipelines:
-  custom:
+  default:
     deploy:
       - step:
           name: Build and deploy

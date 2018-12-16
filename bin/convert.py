@@ -76,6 +76,25 @@ class OpenSongConverter(AbstractConverter):
     def convert(self, song_yaml, filepath):
         if not song_yaml['books']:
             raise Exception("No books are specified in song '{}'.".format(filepath))
+
+        for book in song_yaml['books']:
+            # Look for the language of this book
+            lang_yaml = next((l for l in song_yaml['lyrics'] if l['lang'] == book['lang']), None)
+            if lang_yaml is None:
+                raise Exception("Book {} in song '{}' uses undefined language {}.".format(book['id'], filepath, book['lang']))
+
+            # Convert lang
+            song_xml = self._lang_to_osxml(lang_yaml, book['number'])
+
+            song_xml_filename = self._pad_song_number_for_filename(book['number']) + " " + lang_yaml['title'].replace(".", "") + ".xml"
+
+            song_xml_dirpath = os.path.join(self._out_dir, book['id'])
+            self._mkdirs_ignore_if_exists(song_xml_dirpath)
+
+            song_xml.write(os.path.join(song_xml_dirpath, song_xml_filename), encoding='utf-8')
+
+        return
+
         main_book = next((b for b in song_yaml['books'] if b['id'] == 'emmet'), None)
         if main_book is None:
             main_book = song_yaml['books'][0]

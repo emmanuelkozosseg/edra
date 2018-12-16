@@ -18,10 +18,7 @@ A fordítás egy Bitbucket pipeline-on keresztül történik. A beállításoké
 ### Énekek
 Az énekeket a `songs` mappában tároljuk. Minden fájl éneket tartalmaz, aminek a neve nem alulvonással (_) kezdődik.
 
-Az énekek számozásánál az Emmánueles énekeskönyv számait követjük, két kivétellel:
-
-* Az imádságok **I** betűvel kezdődő számot kapnak.
-* A könyvben nem szereplő, új énekek **N** betűvel kezdődő számot kapnak.
+Az énekek számozásánál az Emmánueles énekeskönyv számait követjük, kivéve az imádságokat, amelyek **I** betűvel kezdődő számot kapnak.
 
 A fájlnév a következő formátumú:
 ```
@@ -39,8 +36,8 @@ books:
   - id: mybook  # Léteznie kell a _books.yaml fájlban
     number: '23'  # Az ének sorszáma ebben a könyvben
     lang: en  # Ezen a nyelven szerepel az ének a könyvben; kell léteznie egy ilyen nyelvű dalszövegnek lentebb
-  - id: emmet  # Az 'emmet' könyv az elsődleges, ennek szerepelnie kell a fájlban
-    number: N2
+  - id: emmet
+    number: E2
     lang: hu
 lyrics:
   - lang: hu  # ISO 639-1 szerinti nyelvkód
