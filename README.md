@@ -8,10 +8,10 @@ _Az Emmet.yaml énekformátumról és a technikai részletekről lásd a [bin/RE
 ## Hogyan telepítsem?
 
 1. Töltsd le és telepítsd az OpenSongot [az opensong.org-ról](http://www.opensong.org/home/download).
-2. Töltsd le [az Emmánueles alapcsomagot](https://bitbucket.org/eckerg/emmet-enekek/downloads/alapcsomag.zip), amibe már beletettünk:
+2. Töltsd le [az Emmánueles alapcsomagot](https://bitbucket.org/eckerg/emmet-enekek/downloads/opensong-alapcsomag.zip), amibe már beletettünk:
     * néhány képet, amit énekek között lehet vetíteni (pl. az ikont);
     * illetve pár alapbeállítást (pl. az előtér és háttér színét, a szöveg elrendezését, stb.)
-3. Töltsd le [az itteni énekeket egy csomagban](https://bitbucket.org/eckerg/emmet-enekek/downloads/opensong.zip), és tömörítsd ki az alapcsomag _Songs_ mappájába.
+3. Töltsd le [az itteni énekeket egy csomagban](https://bitbucket.org/eckerg/emmet-enekek/downloads/opensong-enekek.zip), és tömörítsd ki az alapcsomag _Songs_ mappájába.
 4. Indítsd el az OpenSongot, és add meg neki, hogy hova tetted a (most már teljes) alapcsomagot.
 
 > **Tipp:** Az alapértelmezett Arialnél egy kicsit jobban olvasható a [Mentone betűtípus](https://bitbucket.org/eckerg/emmet-enekek/downloads/mentone-semibold.otf).
@@ -19,7 +19,7 @@ _Az Emmet.yaml énekformátumról és a technikai részletekről lásd a [bin/RE
 
 ## Hogyan frissítsem?
 
-Törölj ki mindent a _Songs_ mappából, és töltsd le újra [az itteni énekeket](https://bitbucket.org/eckerg/emmet-enekek/downloads/opensong.zip).
+Töröld ki a _Songs/Emmánuel_ mappát, és töltsd le újra [az itteni énekeket](https://bitbucket.org/eckerg/emmet-enekek/downloads/opensong-enekek.zip).
 
 ## Hogyan használjam?
 
