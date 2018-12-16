@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: P11
+    lang: en
 lyrics:
   - lang: en
     title: The Saints and the Servants of God

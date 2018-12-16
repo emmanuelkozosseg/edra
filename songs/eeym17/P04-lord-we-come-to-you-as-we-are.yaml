@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: P4
+    lang: en
 lyrics:
   - lang: en
     title: Lord, we come to You as we are

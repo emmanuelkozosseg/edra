@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '5'
+    lang: en
 lyrics:
   - lang: en
     title: Come, proclaim the King of Heaven

@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: P9
+    lang: en
 lyrics:
   - lang: en
     title: Te Deum

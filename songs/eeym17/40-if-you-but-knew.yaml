@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '40'
+    lang: en
 lyrics:
   - lang: en
     title: If you but knew

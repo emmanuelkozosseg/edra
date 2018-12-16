@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '14'
+    lang: en
 lyrics:
   - lang: en
     title: In our darkness is risen a light

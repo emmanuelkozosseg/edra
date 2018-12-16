@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: P12
+    lang: en
 lyrics:
   - lang: en
     title: To the boundless deep you lead me

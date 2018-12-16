@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '25'
+    lang: en
 lyrics:
   - lang: en
     title: Our God is an awesome God

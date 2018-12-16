@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '53'
+    lang: en
 lyrics:
   - lang: en
     title: Te Deum

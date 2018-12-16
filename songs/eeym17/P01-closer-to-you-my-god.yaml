@@ -1,6 +1,7 @@
 books:
   - id: eeym17
-    number: 'P1'
+    number: P1
+    lang: en
 lyrics:
   - lang: en
     title: Closer to You my God

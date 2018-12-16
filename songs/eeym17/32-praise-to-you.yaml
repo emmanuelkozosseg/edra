@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '32'
+    lang: en
 lyrics:
   - lang: en
     title: Praise to you

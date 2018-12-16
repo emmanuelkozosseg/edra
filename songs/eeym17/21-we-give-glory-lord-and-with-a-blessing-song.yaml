@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '21'
+    lang: en
 lyrics:
   - lang: en
     title: We give glory, Lord, And with a blessing song

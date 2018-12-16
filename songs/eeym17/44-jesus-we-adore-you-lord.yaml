@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '44'
+    lang: en
 lyrics:
   - lang: en
     title: Jesus, we adore you, Lord

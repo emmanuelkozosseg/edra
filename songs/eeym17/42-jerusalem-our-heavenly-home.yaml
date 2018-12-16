@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '42'
+    lang: en
 lyrics:
   - lang: en
     title: Jerusalem, our heavenly home

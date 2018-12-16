@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '20'
+    lang: en
 lyrics:
   - lang: en
     title: Wake and arise

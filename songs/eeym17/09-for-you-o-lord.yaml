@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '9'
+    lang: en
 lyrics:
   - lang: en
     title: For You, o Lord

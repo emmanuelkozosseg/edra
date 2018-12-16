@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '46'
+    lang: en
 lyrics:
   - lang: en
     title: My God, I abandon

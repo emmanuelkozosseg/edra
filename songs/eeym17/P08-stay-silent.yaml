@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: P8
+    lang: en
 lyrics:
   - lang: en
     title: Stay Silent

@@ -1,6 +1,7 @@
 books:
   - id: 'eeym17'
     number: P3
+    lang: en
 lyrics:
   - lang: en
     title: Lord, in your mercy, guide us home

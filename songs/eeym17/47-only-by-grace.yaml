@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '47'
+    lang: en
 lyrics:
   - lang: en
     title: Only by grace

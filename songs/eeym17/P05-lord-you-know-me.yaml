@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: P5
+    lang: en
 lyrics:
   - lang: en
     title: Lord, You Know Me

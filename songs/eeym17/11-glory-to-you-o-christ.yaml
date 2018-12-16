@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '11'
+    lang: en
 lyrics:
   - lang: en
     title: Glory to You, o Christ

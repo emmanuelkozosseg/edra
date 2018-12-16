@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '52'
+    lang: en
 lyrics:
   - lang: en
     title: This is the body and blood

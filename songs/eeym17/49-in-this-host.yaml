@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '49'
+    lang: en
 lyrics:
   - lang: en
     title: In this host

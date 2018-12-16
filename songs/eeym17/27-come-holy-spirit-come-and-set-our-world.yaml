@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '27'
+    lang: en
 lyrics:
   - lang: en
     title: Come Holy Spirit, come and set our world

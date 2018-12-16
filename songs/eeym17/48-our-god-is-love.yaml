@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '48'
+    lang: en
 lyrics:
   - lang: en
     title: Our God is Love.

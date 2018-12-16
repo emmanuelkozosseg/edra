@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '33'
+    lang: en
 lyrics:
   - lang: en
     title: And I want to say I love you

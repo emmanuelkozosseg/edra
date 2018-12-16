@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '51'
+    lang: en
 lyrics:
   - lang: en
     title: Take and eat

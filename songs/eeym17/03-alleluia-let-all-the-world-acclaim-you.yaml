@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '3'
+    lang: en
 lyrics:
   - lang: en
     title: Alleluia, let all the world acclaim You

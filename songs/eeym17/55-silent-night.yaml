@@ -1,6 +1,7 @@
 books:
   - id: eeym17
     number: '55'
+    lang: en
 lyrics:
   - lang: en
     title: Silent Night
