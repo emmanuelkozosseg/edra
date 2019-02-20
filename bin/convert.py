@@ -59,12 +59,21 @@ class AbstractConverter:
     def finish(self):
         pass
 
+    @staticmethod
+    def read_books(song_dir):
+        logging.info("Reading _books.yaml...")
+        with open(os.path.join(song_dir, "_books.yaml"), "rt") as f:
+            books_yaml = ruamel.yaml.YAML().load(f)
+        return books_yaml
+
 
 class OpenSongConverter(AbstractConverter):
     _RE_SONG_NUMBER = re.compile(r'^([a-z]?)([0-9]+)$', re.IGNORECASE)
 
     def __init__(self, args):
+        self._from_dir = args.from_dir
         self._out_dir = args.to_dir
+        self._books = None
 
     def setup(self):
         if os.path.exists(self._out_dir):
@@ -72,6 +81,9 @@ class OpenSongConverter(AbstractConverter):
             shutil.rmtree(self._out_dir)
         logging.info("Creating directory '{}'...".format(self._out_dir))
         os.mkdir(self._out_dir)
+
+        books = self.read_books(self._from_dir)
+        self._books = {b['id']: b for b in books}
 
     def convert(self, song_yaml, filepath):
         if not song_yaml['books']:
@@ -88,25 +100,7 @@ class OpenSongConverter(AbstractConverter):
 
             song_xml_filename = self._pad_song_number_for_filename(book['number']) + " " + lang_yaml['title'].replace(".", "") + ".xml"
 
-            song_xml_dirpath = os.path.join(self._out_dir, book['id'])
-            self._mkdirs_ignore_if_exists(song_xml_dirpath)
-
-            song_xml.write(os.path.join(song_xml_dirpath, song_xml_filename), encoding='utf-8')
-
-        return
-
-        main_book = next((b for b in song_yaml['books'] if b['id'] == 'emmet'), None)
-        if main_book is None:
-            main_book = song_yaml['books'][0]
-
-        for lang_yaml in song_yaml['lyrics']:
-            lang = lang_yaml['lang']
-
-            song_xml = self._lang_to_osxml(lang_yaml, main_book['number'])
-
-            song_xml_filename = self._pad_song_number_for_filename(main_book['number']) + " " + lang_yaml['title'].replace(".", "") + ".xml"
-
-            song_xml_dirpath = os.path.join(self._out_dir, main_book['id'], lang)
+            song_xml_dirpath = os.path.join(self._out_dir, self._books[book['id']]['name'])
             self._mkdirs_ignore_if_exists(song_xml_dirpath)
 
             song_xml.write(os.path.join(song_xml_dirpath, song_xml_filename), encoding='utf-8')
@@ -186,9 +180,7 @@ class JsonConverter(AbstractConverter):
         self._songs.append(song_yaml)
 
     def finish(self):
-        logging.info("Reading _books.yaml...")
-        with open(os.path.join(self._from_dir, "_books.yaml"), "rt") as f:
-            books_yaml = ruamel.yaml.YAML().load(f)
+        books_yaml = self.read_books(self._from_dir)
 
         logging.info("Writing to '{}'...".format(self._to_file))
         with open(self._to_file, "wt") as f:
