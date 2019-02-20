@@ -36,7 +36,8 @@ lyrics:
           - Showing from afar the port that you seek.
           - For her rays shine pure and strong over all the Earth,
           - In the Heavens high above, in the deep.
-          - 'Coda:'
+      - name: b
+        lines:
           - Follow her voice, you will never stray.
           - Call on her name, she will strengthen you.
           - Be not afraid, with you she will stay.
