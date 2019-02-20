@@ -1,5 +1,5 @@
 # Technikai részletek
-Az énekeket egy egyedi formátumban tároljuk, amit **Emmet.yaml**-nek neveztünk el.
+Az énekeket egy **Emmet.yaml** nevű egyedi formátumban tároljuk.
 
 A formátum hasonlít az elterjedt OpenLyrics formátumhoz, de XML helyett YAML-t használ és jobban kielégíti a mi igényeinket. Felépítése miatt a többi formátumba viszonylag egyszerűen átkonvertálható.
 
