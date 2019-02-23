@@ -1,6 +1,40 @@
 - id: emm_hu
   name: Jézus él
   selectable: y
+  chapters:
+    - id: 0_dics
+      badge: 000-100
+      name: Dicsőítés
+    - id: 2_br
+      badge: '200'
+      name: Bizalom és remény
+    - id: 3_szl
+      badge: '300'
+      name: Szentlélek
+    - id: 4_maria
+      badge: '400'
+      name: Mária
+    - id: 5_mise
+      badge: '500'
+      name: Misék
+    - id: 6_euch
+      badge: '600'
+      name: Eucharisztia
+    - id: 7_zsolt
+      badge: '700'
+      name: Zsoltárok és antifónák
+    - id: 8_himn
+      badge: '800'
+      name: Himnuszok és kantikumok
+    - id: 9_mozg
+      badge: '900'
+      name: Megmozgató énekek
+    - id: e_egyeb
+      badge: E00
+      name: Egyéb (nem Emmánueles) énekek
+    - id: i_ima
+      badge: I00
+      name: Imádságok
   
 - id: eeym17
   name: EEYM 2017

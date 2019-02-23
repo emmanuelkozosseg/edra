@@ -1,5 +1,6 @@
 books:
   - id: emm_hu
+    chapter: i_ima
     number: I1
     lang: hu
 lyrics:

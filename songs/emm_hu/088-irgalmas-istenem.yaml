@@ -1,5 +1,6 @@
 books:
   - id: emm_hu
+    chapter: 0_dics
     number: '88'
     lang: hu
 lyrics:

@@ -1,5 +1,6 @@
 books:
   - id: emm_hu
+    chapter: 3_szl
     number: '308'
     lang: hu
 lyrics:

@@ -1,5 +1,6 @@
 books:
   - id: emm_hu
+    chapter: 7_zsolt
     number: '711'
     lang: hu
 lyrics:

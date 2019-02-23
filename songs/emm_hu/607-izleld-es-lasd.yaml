@@ -1,5 +1,6 @@
 books:
   - id: emm_hu
+    chapter: 6_euch
     number: '607'
     lang: hu
 lyrics:

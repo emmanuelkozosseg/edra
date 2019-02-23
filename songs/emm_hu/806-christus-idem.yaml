@@ -1,5 +1,6 @@
 books:
   - id: emm_hu
+    chapter: 8_himn
     number: '806'
     lang: hu
 lyrics:

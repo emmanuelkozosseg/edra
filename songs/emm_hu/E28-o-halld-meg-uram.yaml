@@ -1,5 +1,6 @@
 books:
   - id: emm_hu
+    chapter: e_egyeb
     number: E28
     lang: hu
 lyrics:

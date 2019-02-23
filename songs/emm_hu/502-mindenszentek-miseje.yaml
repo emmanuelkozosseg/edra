@@ -1,5 +1,6 @@
 books:
   - id: emm_hu
+    chapter: 5_mise
     number: '502'
     lang: hu
 lyrics:
