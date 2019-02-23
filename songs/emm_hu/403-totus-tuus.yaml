@@ -3,6 +3,9 @@ books:
     chapter: 4_maria
     number: '403'
     lang: la
+records:
+  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/14_2007.mp3
+    lang: la
 lyrics:
   - lang: la
     title: Totus tuus

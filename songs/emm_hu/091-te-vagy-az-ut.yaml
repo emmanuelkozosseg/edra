@@ -6,6 +6,9 @@ books:
   - id: eeym17
     number: '19'
     lang: en
+records:
+  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/13_2014.mp3
+    lang: hu
 lyrics:
   - lang: hu
     title: Te vagy az Út

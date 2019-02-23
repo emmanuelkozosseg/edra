@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '69'
     lang: hu
+records:
+  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/a01_2003.mp3
+    lang: hu
 lyrics:
   - lang: hu
     title: Jöjj, zengd velem

@@ -3,6 +3,9 @@ books:
     chapter: 3_szl
     number: '311'
     lang: hu
+records:
+  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/a07_2003.mp3
+    lang: hu
 lyrics:
   - lang: hu
     title: Urunk, küldd el a Szentlelket

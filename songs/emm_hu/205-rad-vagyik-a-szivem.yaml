@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '205'
     lang: hu
+records:
+  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/b05_2001.mp3
+    lang: hu
 lyrics:
   - lang: hu
     title: Rád vágyik a szívem

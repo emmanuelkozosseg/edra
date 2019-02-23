@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '215'
     lang: hu
+records:
+  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/a09_2001.mp3
+    lang: hu
 lyrics:
   - lang: hu
     title: Abba! Ég és föld Ura, Istene

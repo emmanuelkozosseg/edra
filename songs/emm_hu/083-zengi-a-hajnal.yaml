@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '83'
     lang: hu
+records:
+  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/01_2007.mp3
+    lang: hu
 lyrics:
   - lang: hu
     title: Zengi a hajnal...

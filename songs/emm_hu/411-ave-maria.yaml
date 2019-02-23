@@ -3,6 +3,9 @@ books:
     chapter: 4_maria
     number: '411'
     lang: la
+records:
+  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/16_2014.mp3
+    lang: la
 lyrics:
   - lang: la
     title: Ave Maria

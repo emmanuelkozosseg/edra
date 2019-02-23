@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '4'
     lang: hu
+records:
+  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/b11_2001.mp3
+    lang: hu
 lyrics:
   - lang: hu
     title: Áldott legyen az Úr neve

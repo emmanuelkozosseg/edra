@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '214'
     lang: hu
+records:
+  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/a05_2001.mp3
+    lang: hu
 lyrics:
   - lang: hu
     title: Jézus, neked élek

@@ -3,6 +3,9 @@ books:
     chapter: 3_szl
     number: '314'
     lang: hu
+records:
+  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/b04_2003.mp3
+    lang: hu
 lyrics:
   - lang: hu
     title: Jöjj, Szentlélek (Veni Sancte Spiritus)

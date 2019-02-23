@@ -6,6 +6,9 @@ books:
   - id: eeym17
     number: '43'
     lang: en
+records:
+  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/12_2007.mp3
+    lang: hu
 lyrics:
   - lang: hu
     title: Jézus, én Uram, imádlak

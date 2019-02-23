@@ -3,6 +3,9 @@ books:
     chapter: 3_szl
     number: '317'
     lang: hu
+records:
+  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/11_2007.mp3
+    lang: hu
 lyrics:
   - lang: hu
     title: Szentlélek Isten

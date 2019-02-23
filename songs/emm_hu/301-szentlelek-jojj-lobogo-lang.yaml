@@ -3,6 +3,9 @@ books:
     chapter: 3_szl
     number: '301'
     lang: hu
+records:
+  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2000_es_album/a04_2000.mp3
+    lang: hu
 lyrics:
   - lang: hu
     title: Szentlélek, jöjj, lobogó láng

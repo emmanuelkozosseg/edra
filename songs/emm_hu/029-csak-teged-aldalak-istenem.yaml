@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '29'
     lang: hu
+records:
+  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/b01_2001.mp3
+    lang: hu
 lyrics:
   - lang: hu
     title: Csak téged áldalak, Istenem

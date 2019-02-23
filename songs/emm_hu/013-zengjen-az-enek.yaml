@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '13'
     lang: hu
+records:
+  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/a03_2001.mp3
+    lang: hu
 lyrics:
   - lang: hu
     title: Zengjen az ének az Úr nevének
