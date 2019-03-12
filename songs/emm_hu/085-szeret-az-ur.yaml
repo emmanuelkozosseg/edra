@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '85'
     lang: hu
+  - id: eeym17
+    number: '6'
+    lang: en
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/02_2007.mp3
     lang: hu
