@@ -1,0 +1,45 @@
+books:
+  - id: emm_hu
+    chapter: 0_dics
+    number: '98'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Megvalljuk, Jézus a Krisztus
+    verses:
+      - name: v1
+        lines:
+          - Megvalljuk, Jézus a Krisztus,
+          - feltámadt, itt él közöttünk,
+          - nincsen más hozzá hasonló Úr,
+          - Ő a győztes.
+          -
+          - Elhagytuk, sok volt a vétkünk,
+          - szent vére elmosta bűnünk,
+          - örvendjünk, zengjen az énekszó!
+      - name: c
+        lines:
+          - Néked éneklünk, áldunk minden művedért,
+          - értünk adtad életed, a mi bűnünkért.
+          - Jézus, Megváltónk, Benned lelhetünk békét,
+          - Nálad élet vár, örök üdvösség.
+      - name: v2
+        lines:
+          - Megvalljuk, Jézus a Krisztus,
+          - Élet, Út, szent és hatalmas,
+          - Kezdet s Vég, Kőszikla, Szegletkő,
+          - Ő az Isten.
+          - 
+          - Minden térd meghajlik láttán,
+          - minden nép meglátja arcát,
+          - 'minden nyelv hirdesse: Ő az Úr!'
+      - name: v3
+        lines:
+          - Megvalljuk, Jézus a Krisztus,
+          - jó Pásztor, irgalmas Isten,
+          - nem hagy el, Szentlelke bennünk él,
+          - megvigasztal.
+          -
+          - 'Minden nap ígérte: itt lesz,'
+          - 'hirdetjük, bátran kiáltjuk:'
+          - megmentett, nem fél a szívünk már!
