@@ -10,32 +10,44 @@ lyrics:
   - lang: hu
     title: Jeruzsálem, Jeruzsálem
     verses:
+      - name: v1
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - Kelj fel, tündökölj, | hiszen a fényed eljött,
+              - az Úr dicsősége rád ragyog.
+          - ""
+          - Emeld fel szemed, nézz a távolba,
+          - örömödben a szíved is megdobban.
+          - Mert a fiaid visszatérnek immár,
+          - lányaidat az ölükben hozzák.
       - name: c
         lines:
           - Jeruzsálem, Jeruzsálem,
           - vesd le már a gyászruhádat!
           - Jeruzsálem, Jeruzsálem,
           - táncolj és énekelj az Úrnak!
-      - name: v1
-        lines:
-          - Kelj fel, tündökölj, | hiszen a fényed eljött,
-          - az Úr dicsősége rád ragyog.
-          - Emeld fel szemed, nézz a távolba,
-          - örömödben a szíved is megdobban.
-          - Mert a fiaid visszatérnek immár,
-          - lányaidat az ölükben hozzák.
       - name: v2
         lines:
-          - Jönnek mind a népek a Te fényeidhez,
-          - és királyok a világosságodra.
+          - group: repeat
+            times: 2
+            lines:
+              - Jönnek mind a népek a Te fényeidhez,
+              - és királyok a világosságodra.
+          - ""
           - Dromedárok ezrei jönnek majd
           - tömjénnel és aranyakkal megrakva.
           - Éfából és Sábából idejönnek,
           - hirdetik az Isten dicsőségét.
       - name: v3
         lines:
-          - Idegenek építik fel újra várad
-          - és királyok szolgálnak neked.
+          - group: repeat
+            times: 2
+            lines:
+              - Idegenek építik fel újra várad
+              - és királyok szolgálnak neked.
+          - ""
           - Benned lelik örömüket mindnyájan,
           - 'úgy neveznek: az Istennek hajléka.'
           - Véget ér a gyász, véget ér a bánat,
@@ -45,8 +57,12 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - Shine out and arise for your light has come,
-          - God's own glory risen now upon you. (repeat)
+          - group: repeat
+            times: 2
+            lines:
+              - Shine out and arise for your light has come,
+              - God's own glory risen now upon you.
+          - ""
           - Though the nations still are in darkness now,
           - Kings will hasten to the brightness of your light;
           - Bringing richest gifts from their lands to you,
@@ -59,16 +75,24 @@ lyrics:
           - Dance and sing before your God.
       - name: v2
         lines:
-          - Who are these you see flying like a cloud?
-          - Like the doves returning to their home. (repeat)
+          - group: repeat
+            times: 2
+            lines:
+              - Who are these you see flying like a cloud?
+              - Like the doves returning to their home.
+          - ""
           - From the distant isles all your people come,
           - Now the ships of Tarshish come to bring them home,
           - See your sons assembling from far away,
           - Children gently carried in their arms.
       - name: v3
         lines:
-          - Princes will accept your authority,
-          - Foreigners rebuild your ruined walls. (repeat)
+          - group: repeat
+            times: 2
+            lines:
+              - Princes will accept your authority,
+              - Foreigners rebuild your ruined walls.
+          - ""
           - Lebanon will honour your holy name,
           - Nations bring their riches to your sanctuary;
           - All your days of grief will be changed to joy,
@@ -82,8 +106,12 @@ chords:
       - ['em', 'H7', 'em']
   - template: v
     lines:
-      - ['em', 'H7']
-      - ['em']
+      - group: repeat
+        type: uniform
+        lines:
+          - ['em', 'H7']
+          - ['em']
+      - 
       - ['E', 'am']
       - ['D', 'H7']
       - ['em', 'H7']

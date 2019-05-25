@@ -11,12 +11,24 @@ lyrics:
         lines:
           - Tégy eggyé, Urunk!
           - Tégy eggyé, Urunk!
-          - Megláthassa a világ, | hogy eljöttél,
+          - Hogy meglássa a világ, | hogy eljöttél,
           - tégy eggyé, Urunk!
+      - name: v2
+        lines:
+          - Ó, mily szép, mily gyönyörűséges
+          - a testvérekkel egységben lenni!
+          - Az Úr áldása bőven árad ránk,
+          - mint a túlcsorduló olaj.
 chords:
-  - template: all
+  - template: v1
     lines:
       - ['F', 'B', 'C', 'C7']
       - ['F', 'B', 'C', 'C7']
       - ['B', 'C', 'F', 'C', 'D', 'A']
       - ['G', 'C', 'B', 'F']
+  - template: v2
+    lines:
+      - ['F', 'B', 'C', 'C7']
+      - ['F', 'B', 'C']
+      - ['B', 'C', 'F', 'C', 'dm']
+      - ['am', 'B', 'C', 'B', 'F']

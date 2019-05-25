@@ -7,14 +7,13 @@ lyrics:
   - lang: hu
     title: Csak Istenben lel békét
     verses:
-      - name: c1
+      - name: c
         lines:
           - Csak Istenben lel békét a szívem,
           - mert Ő az én oltalmazóm.
           - Az Úr sziklavár, Benne mindig bízhatom.
           - Keze biztosan tart, el nem bukom.
-      - name: c2
-        lines:
+          - 
           - Csak Istenben lel békét a szívem,
           - mert Ő az én oltalmazóm.
           - Az Úr sziklavár, Benne mindig bízhatom.
@@ -32,14 +31,13 @@ lyrics:
           - hisz az Úrnál van csak élet, | üdvösség és áldás.
           - Ő mindig visszavár, halld hívó szavát!
 chords:
-  - template: c1
+  - template: c
     lines:
       - ['A', 'D', 'E/A', 'A']
       - ['E/A', 'A', 'A/G', 'fism', 'H', 'E4', 'E3']
       - ['D', 'E/D', 'cism', 'fism']
       - ['hm', 'D', 'Dmaj7', 'E4', 'E3']
-  - template: c2
-    lines:
+      - 
       - ['A', 'D', 'E/A', 'A']
       - ['E/A', 'A', 'A/G', 'fism', 'H', 'E4', 'E3']
       - ['D', 'E/D', 'cism', 'fism']
