@@ -28,3 +28,14 @@ lyrics:
         lines:
           - Szent tüzedet gyújtsad lángra bennünk,
           - hogy a Te erődben élhessünk!
+chords:
+  - template: c
+    lines:
+      - ['hm', 'em']
+      - ['A7', 'D', 'F']
+      - ['hm', 'em']
+      - ['A', 'A6', 'hm']
+  - template: v
+    lines:
+      - ['em7', 'A7', 'D', 'F']
+      - ['hm', 'A', 'D', 'F', 'hm']

@@ -16,3 +16,13 @@ lyrics:
           - Most felemeljük a szívünket,
           - most felemeljük kezeinket,
           - a trónod elé járulunk, imádva légy!
+chords:
+  - template: v1
+    lines:
+      - ['E', 'H', 'cism']
+      - ['A']
+  - template: v2
+    lines:
+      - ['E']
+      - ['H']
+      - ['cism', 'A']

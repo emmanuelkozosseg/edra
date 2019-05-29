@@ -9,8 +9,29 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - '/: Tested, Jézus,'
-          - értünk függött. :/
-          - ''
-          - '/: Véred, Jézus,'
-          - értünk ömlött. :/
+          - group: repeat
+            times: 4
+            lines:
+              - Tested, Jézus,
+              - értünk függött.
+      - name: v2
+        lines:
+          - group: repeat
+            times: 4
+            lines:
+              - Véred, Jézus,
+              - értünk ömlött.
+chords:
+  - template: all
+    lines:
+      - group: repeat
+        type: unique
+        repetitions:
+          - - ['em', 'hm']
+            - ['em']
+          - - ['hm']
+            - ['em']
+          - - ['G', 'am']
+            - ['H7', 'em']
+          - - ['G', 'am']
+            - ['H7', 'em']

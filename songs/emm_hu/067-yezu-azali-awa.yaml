@@ -31,3 +31,13 @@ lyrics:
           - Biso tokomona ye,
           - biso tokomona ye,
           - biso tokomona ye, na Lola.
+chords:
+  - template: c
+    lines:
+      - ['E', 'A', 'E']
+      - ['H7', 'E']
+  - template: v
+    lines:
+      - ['E']
+      - ['A', 'E']
+      - ['A', 'H7', 'E']

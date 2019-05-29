@@ -37,3 +37,16 @@ lyrics:
           - a földet termővé téve,
           - ugyanígy az Úr igéjétől
           - a lelkünk újraéled.
+chords:
+  - template: c
+    lines:
+      - ['D', 'G', 'hm', 'C']
+      - ['E7', 'am', 'D4', 'D3']
+      - ['D', 'G', 'hm', 'C']
+      - ['E7', 'am', 'D7/4', 'D3']
+  - template: v
+    lines:
+      - ['em', 'A7', 'H7', 'em']
+      - ['em', 'hm7', 'C', 'D']
+      - ['em', 'A7', 'H7', 'em']
+      - ['em', 'A7', 'H7', 'em']

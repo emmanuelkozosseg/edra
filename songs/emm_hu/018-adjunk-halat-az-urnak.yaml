@@ -31,3 +31,16 @@ lyrics:
           - Ő az élő víz forrása.
           - Szentlélek, jöjj és szállj le ránk,
           - tölts be minket, Szeretet!
+chords:
+  - template: c
+    lines:
+      - ['hm', '(Cdim)', 'em']
+      - ['am', 'em', 'D']
+      - ['hm', '(Cdim)', 'em']
+      - ['am', '(em)', 'D7', 'G']
+  - template: v
+    lines:
+      - ['C', 'G', 'C', 'G']
+      - ['em', 'am', 'D']
+      - ['C', 'G', 'C', 'G']
+      - ['em', 'am', 'D']

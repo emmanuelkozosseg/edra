@@ -12,3 +12,9 @@ lyrics:
           - Múlik a sötét, eljön szabadítónk!
           - Múlik már az éjjel, íme eljön szabadítónk!
           - Múlik az éj, a sötét, eljön már!
+chords:
+  - template: all
+    lines:
+      - ['gm', 'dm', 'C', 'D']
+      - ['gm', 'dm', 'C', 'D']
+      - ['gm', 'dm', 'C', 'D']

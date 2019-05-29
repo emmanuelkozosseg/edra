@@ -41,3 +41,15 @@ lyrics:
           - Mert minden utadon
           - az Úr vigyáz reád,
           - és a lelked minden bajtól megóvja.
+chords:
+  - template: c
+    lines:
+      - ['D', 'D4', 'D/Fis', 'G']
+      - ['D', 'em7', 'em3']
+      - ['D', 'D4', 'G', 'D']
+      - ['G', 'D', 'G', 'em', 'A4', 'A3', 'D']
+  - template: v
+    lines:
+      - ['hm', 'fism/A']
+      - ['em/G', 'hm']
+      - ['G', 'A4', 'A3']

@@ -11,3 +11,8 @@ lyrics:
         lines:
           - Ó, Abba, Atyám,
           - Reád bízom a lelkemet!
+chords:
+  - template: all
+    lines:
+      - ['fism', 'D', 'E', 'fism']
+      - ['D', 'E', 'fism']

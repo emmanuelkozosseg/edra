@@ -15,8 +15,11 @@ lyrics:
           - csak erre vágyom, Uram, Istenem!
       - name: c
         lines:
-          - '/: Jövök hozzád, Jézus,'
-          - jövök hozzád, Jézus! :/
+          - group: repeat
+            times: 2
+            lines:
+              - Jövök hozzád, Jézus,
+              - jövök hozzád, Jézus!
       - name: v2
         lines:
           - Mint száraz föld, ha szomjazik,
@@ -29,3 +32,17 @@ lyrics:
           - úgy remél lelkem a Te szavadban.
           - Mert az Igéd lámpás az úton,
           - lobogó mécs a lábaim előtt.
+chords:
+  - template: v
+    lines:
+      - ['C', 'dm', 'am', 'F']
+      - ['dm', 'am']
+      - ['C', 'dm', 'am', 'F']
+      - ['dm', 'am']
+  - template: c
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - ['am', 'em', 'F', 'dm7', 'G']
+          - ['E', 'am']

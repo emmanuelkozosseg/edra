@@ -1,0 +1,53 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '503d'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent Bonifác mise (Sanctus)
+    verses:
+      - name: v1
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - Sanctus, sanctus, sanctus
+              - Deus Sabaoth!
+      - name: v2
+        lines:
+          - Pleni sunt caeli et terra
+          - gloria tua!
+          - ""
+          - group: repeat
+            times: 2
+            lines:
+              - Hosanna in excelsis Deo!
+              - Hosanna in excelsis!
+      - name: v3
+        lines:
+          - Benedictus qui venit
+          - in nomine Domini!
+          - ""
+          - group: repeat
+            times: 2
+            lines:
+              - Hosanna in excelsis Deo!
+              - Hosanna in excelsis!
+chords:
+  - template: v1
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - ['D', '(em7)', 'D', 'G', 'D']
+          - ['C', 'G', 'D']
+  - template: v
+    lines:
+      - ['D', 'fism', 'hm', 'D']
+      - ['G', 'C', 'A']
+      - group: repeat
+        type: uniform
+        lines:
+          - ['D', 'G', 'A', 'D']
+          - ['C', 'G', 'D']

@@ -10,3 +10,7 @@ lyrics:
       - name: c
         lines:
           - Boldog, ki benned bízik!
+chords:
+  - template: all
+    lines:
+      - ['G', 'C', 'D', 'em']

@@ -45,11 +45,9 @@ lyrics:
     verses:
       - name: c
         lines:
-          - God's own Son
-          - Came down from heaven.
+          - God's own Son came down from heaven.
           - He is called Emmanuel.
-          - God's own Son
-          - Came down from heaven.
+          - God's own Son came down from heaven.
           - Alleluia!
       - name: v1
         lines:
@@ -81,3 +79,16 @@ lyrics:
           - Burdened with life's care and worries
           - Jesus, You are there to lead us,
           - You are God with us.
+chords:
+  - template: c
+    lines:
+      - ['G', 'D/Fis', 'C', 'am/E']
+      - ['G', 'D', 'em', 'D']
+      - ['G', 'D/Fis', 'C', 'am/E']
+      - ['C', 'D', 'G']
+  - template: v
+    lines:
+      - ['G', 'D']
+      - ['em', 'hm']
+      - ['C', 'G']
+      - ['am7', 'D']

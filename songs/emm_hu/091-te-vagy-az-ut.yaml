@@ -15,11 +15,9 @@ lyrics:
     verses:
       - name: c
         lines:
-          - Te vagy az Út,
-          - Te vagy az Igazság,
+          - Te vagy az Út, | Te vagy az Igazság,
           - Te vagy az Élet örökké.
-          - Győztél a keresztfán,
-          - a néped ezért áld,
+          - Győztél a keresztfán, | a néped ezért áld,
           - Te vagy az Úr, dicső Király!
       - name: v1
         lines:
@@ -66,3 +64,16 @@ lyrics:
           - Make of your truth our one desire.
           - Teach us, o Lord, the wisdom of your ways,
           - And with your love set us on fire!
+chords:
+  - template: c
+    lines:
+      - ['E', 'H']
+      - ['cism7', 'A']
+      - ['E', 'H']
+      - ['A', 'H', 'E']
+  - template: v
+    lines:
+      - ['D9', 'A']
+      - ['H4', 'H3', 'cism']
+      - ['A', 'E', 'D', 'cism']
+      - ['A', 'E', 'D', 'H']

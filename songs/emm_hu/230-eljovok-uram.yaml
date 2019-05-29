@@ -32,3 +32,14 @@ lyrics:
           - Hálát adok Neked dicsőségedért.
           - A föld minden népe téged ünnepel.
           - Neked zengik a hála énekét.
+chords:
+  - template: c
+    lines:
+      - ['em', 'H']
+      - ['C', 'H7', 'em']
+      - ['G', 'D', 'C', '(D)', 'em', 'H7', 'em']
+  - template: v
+    lines:
+      - ['em', 'D', 'C', 'H7', 'em']
+      - ['G', 'D', 'G', 'am', 'em', 'H']
+      - ['em', 'C', 'am', 'H7', 'em']

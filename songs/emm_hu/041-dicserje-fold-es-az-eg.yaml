@@ -48,3 +48,18 @@ lyrics:
           - Nálad életet leltünk.
           - 'Szent Igéd: örök élet,'
           - benne szüntelen remélünk.
+chords:
+  - template: c
+    lines:
+      - ['A']
+      - ['E']
+      - ['fism', 'D', 'E']
+      - ['A']
+      - ['E']
+      - ['D', 'E', 'A']
+  - template: v
+    lines:
+      - ['Cis', 'fism']
+      - ['Cis', 'D']
+      - ['E', 'fism']
+      - ['D', 'E']

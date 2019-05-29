@@ -13,7 +13,8 @@ lyrics:
           - háladalt éneklek az ég Urának.
           - Ujjongva tör fel a hála bennem,
           - jósága körülvesz szárnyként engem.
-          - '/: Adjatok hálát az Istennek! :/'
+          - Adjatok hálát az Istennek!
+          - Adjatok hálát az Istennek!
       - name: c2
         lines:
           - Ő a mi teremtő Királyunk,
@@ -55,3 +56,23 @@ lyrics:
           - Hála, dicsőség nevednek,
           - most és örökké az égben,
           - a földön! Ámen.
+chords:
+  - template: c1
+    lines:
+      - ['F', 'C', 'F', 'C']
+      - ['G', 'F', 'C']
+      - ['G', 'F', 'C']
+      - ['dm', 'F', 'dm7', 'G7', 'C']
+      - ['dm', 'G7', 'C']
+      - ['G7', 'C']
+  - template: c2
+    lines:
+      - ['C7', 'F', 'G']
+      - ['D', 'G', 'F', 'C', 'F', 'C', 'H7']
+      - ['E']
+      - ['H7', 'E']
+  - template: v
+    lines:
+      - ['A', 'E', 'A', 'E', 'A']
+      - ['E', 'A', 'E', 'A', 'E']
+      - ['A', 'D', 'A']

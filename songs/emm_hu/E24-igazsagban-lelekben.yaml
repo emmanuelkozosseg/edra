@@ -17,7 +17,7 @@ lyrics:
           - fogadd el, Istenem,
           - oltárodra hadd tegyem,
           - itt van megtört szívem.
-      - name: c1
+      - name: c
         lines:
           - Jézus, hű, jó barát,
           - mondd, mit adhatok?
@@ -25,8 +25,7 @@ lyrics:
           - vajon mit hozhatok?
           - Mit mondhatnék Neked,
           - miről szóljon dalom?
-      - name: c2
-        lines:
+          - 
           - Neved dicséretét
           - hozom ajkaimon.
           - Hálám elmondani
@@ -43,3 +42,29 @@ lyrics:
           - lemostad szégyenem,
           - a mennybe ajtót nyitottál
           - és behívtál engem.
+chords:
+  - template: v
+    lines:
+      - ['D', 'G']
+      - ['A', 'D']
+      - ['G']
+      - ['A', 'D']
+      - ['D7', 'G']
+      - ['A', 'hm']
+      - ['G']
+      - ['A', 'D']
+  - template: c
+    lines:
+      - ['D7', 'G']
+      - ['A', 'D']
+      - ['D7', 'G']
+      - ['A', 'D']
+      - ['D7', 'G']
+      - ['A', 'D']
+      -
+      - ['D7', 'G']
+      - ['A', 'hm']
+      - ['em']
+      - ['D/Fis', 'G9']
+      - ['em', 'D/Fis', 'G']
+      - ['A', 'D']

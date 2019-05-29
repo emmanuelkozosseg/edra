@@ -9,8 +9,10 @@ lyrics:
     verses:
       - name: c
         lines:
-          - '/: Örülj az Úrban, áldd az Ő nevét,'
-          - örülj az Úrban, zengd dicséretét! :/
+          - Örülj az Úrban, áldd az Ő nevét,
+          - örülj az Úrban, zengd dicséretét!
+          - Örülj az Úrban, áldd az Ő nevét,
+          - örülj az Úrban, zengd dicséretét!
           - Örülj, örülj, örülj, örülj az Úrban!
       - name: v1
         lines:
@@ -22,3 +24,21 @@ lyrics:
         lines:
           - Mert él az Úr, a feltámadt király!
           - Jézus, Jézus!
+chords:
+  - template: c
+    lines:
+      - ['G', 'em']
+      - ['C', 'D']
+      - ['G', 'em']
+      - ['am7', 'D']
+      - ['G', 'B', 'F', 'C', 'G', 'D']
+  - template: v1
+    lines:
+      - ['G', 'F']
+      - ['C', 'em', 'D']
+      - ['G', 'F']
+      - ['C', 'em', 'D']
+  - template: v2
+    lines:
+      - ['G', 'B', 'F', 'G']
+      - ['G', 'B', 'F', 'G']

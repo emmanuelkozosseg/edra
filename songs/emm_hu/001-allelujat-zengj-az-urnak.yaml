@@ -69,4 +69,17 @@ lyrics:
           - Glória
           - szálljon az égbe
           - mindörökké!
-          - Együtt áldjuk Szent Nevét!
+          - együtt áldjuk Szent Nevét!
+chords:
+  - template: c
+    lines:
+      - ['Am', 'Dm', 'Am', 'F']
+      - ['G', 'C', 'Dm', 'E4', 'E3']
+      - ['Am', 'Dm', 'Am', 'F']
+      - ['G', 'C', 'Dm', 'E4', 'E3', 'Am']
+  - template: v
+    lines:
+      - ['G', 'C']
+      - ['F', 'E', 'Am']
+      - ['Dm7', 'G']
+      - ['C', 'Dm', 'E4', 'E3', 'Am']

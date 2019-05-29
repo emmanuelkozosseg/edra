@@ -19,8 +19,7 @@ lyrics:
           - szent Igéd vezérel!
       - name: v1
         lines:
-          - Boldogok, kik készen állnak,
-          - bármit kérsz!
+          - Boldogok, kik készen állnak, | bármit kérsz!
           - Szívembe rejtem el a Te szavadat,
           - de soha el ne hagyj, kérlek, Uram!
       - name: v2
@@ -33,3 +32,16 @@ lyrics:
           - Boldogok, kik bölcs igédre gondolnak!
           - Megteszem, Istenem, akaratodat,
           - mert minden örömöm Te vagy, Uram.
+chords:
+  - template: c
+    lines:
+      - ['em', 'C']
+      - ['D', 'G']
+      - ['H7', 'em']
+      - ['D', 'G']
+      - ['H7', 'em']
+  - template: v
+    lines:
+      - ['em', 'hm', 'C', 'D']
+      - ['G', 'hm', 'C']
+      - ['D', 'G', 'D', 'hm', 'em']

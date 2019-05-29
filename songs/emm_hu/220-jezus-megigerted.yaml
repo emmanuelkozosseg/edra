@@ -24,8 +24,14 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - Jesus, send your Spirit,
-          - Lord, as you promised us,
-          - We are asking You, o Lord,
-          - Pour out your fire on earth,
-          - Jesus, my life is in your hands.
+          - Jesus, send your Spirit, Lord,
+          - as you promised us. | We are asking You,
+          - 'o Lord: pour out your fire on Earth.'
+          - Jesus, my life is in youwr hands.
+chords:
+  - template: all
+    lines:
+      - ['dm', 'am']
+      - ['C', 'dm', 'B/C', 'C']
+      - ['F', 'gm', 'C7', 'F', 'dm']
+      - ['B', 'C', 'dm']

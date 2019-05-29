@@ -9,7 +9,8 @@ lyrics:
     verses:
       - name: c
         lines:
-          - Alleluja! Alleluja, alleluja! Alleluja!
+          - Alleluja! Alleluja,
+          - alleluja! Alleluja!
       - name: v1
         lines:
           - Szüntelen áldjuk az ég Urát,
@@ -34,3 +35,14 @@ lyrics:
           - zengjük az Isten szent nevét!
           - Krisztussal együtt áldjuk az Atyát,
           - Őt, aki értünk adta Fiát.
+chords:
+  - template: c
+    lines:
+      - ['dm', 'gm', 'C', 'F']
+      - ['dm', 'G', 'A7', 'dm']
+  - template: v
+    lines:
+      - ['dm', 'gm', 'C', 'F']
+      - ['B', 'C', 'dm', 'A', 'dm']
+      - ['dm', 'gm', 'C4', 'F']
+      - ['B', 'C', 'dm', 'A', 'dm']

@@ -9,7 +9,7 @@ lyrics:
     verses:
       - name: c
         lines:
-          - Szentlélek, úgy kérünk szállj le ránk,
+          - Szentlélek, úgy kérünk, szállj le ránk,
           - töltsd el szívünk, életünk,
           - hogy béke és áldás szálljon ránk,
           - küldd el a Lelked, úgy kérünk, Istenünk!
@@ -25,3 +25,16 @@ lyrics:
           - hogy ne önmagunknak, hanem annak éljünk,
           - aki értünk életét adta.
           - Mi is átadjuk most szívünk, mindenünk.
+chords:
+  - template: c
+    lines:
+      - ['G4', 'G', 'G4', 'G']
+      - ['C', 'am', 'D', 'D7']
+      - ['G4', 'G', 'G4', 'G']
+      - ['C', 'D', 'G']
+  - template: v
+    lines:
+      - ['G', 'D', 'em']
+      - ['am', 'D4', 'D']
+      - ['G', 'D', 'em', 'C']
+      - ['am', 'am7', 'D', 'D7']

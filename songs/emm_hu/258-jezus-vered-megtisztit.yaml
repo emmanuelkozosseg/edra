@@ -16,3 +16,13 @@ lyrics:
           - így a lelkem
           - fehér, mint a hó, mint a hó,
           - Úr Jézus, Te szelíd Bárány.
+chords:
+  - template: all
+    lines:
+      - ['A', 'E', 'fism']
+      - ['E', 'D', 'E']
+      - ['D', 'E']
+      - ['A', 'cism', 'fism', 'fism7']
+      - ['D', 'dm']
+      - ['A', 'E', 'fism7']
+      - ['hm', 'D', 'E7', 'A']

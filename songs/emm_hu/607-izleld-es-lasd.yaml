@@ -11,10 +11,24 @@ lyrics:
         lines:
           - Ízleld és lásd, hogy jó az Úr!
           - Ó, ízleld és lásd, hogy az Úr jó!
-          - '/: Boldog ember az, ki benne bízik! :/'
+          - Boldog ember az, ki benne bízik,
+          - boldog ember az, ki benne bízik.
       - name: v2
         lines:
           - Ízleld és lásd, hogy jó az Úr!
           - Ó, ízleld és lásd, hogy az Úr jó!
           - Ő jó, Ő jó,
           - Ő jó, Ő jó!
+chords:
+  - template: v1
+    lines:
+      - ['G', 'hm']
+      - ['C', 'D']
+      - ['em', 'hm']
+      - ['em', 'D', 'D7']
+  - template: v2
+    lines:
+      - ['G', 'hm']
+      - ['C', 'D']
+      - ['C', 'G']
+      - ['C', 'G']

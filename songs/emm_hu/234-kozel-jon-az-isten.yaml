@@ -28,3 +28,15 @@ lyrics:
           - Bízzál az Úrban,
           - és betölti életed
           - az Ő örömével.
+chords:
+  - template: c
+    lines:
+      - ['D', 'G', 'D']
+      - ['hm', 'G', 'A4', 'A']
+      - ['D', 'G', 'D', 'fism']
+      - ['hm', 'G', 'A', 'D']
+  - template: v
+    lines:
+      - ['D', 'G']
+      - ['A', 'D']
+      - ['G', 'A7', 'F']

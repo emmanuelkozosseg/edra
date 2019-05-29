@@ -28,3 +28,16 @@ lyrics:
           - Testem, lelkem is néked él.
           - Nem vágyom másra, csak hogy Veled éljek.
           - Kezedbe teszem egész életem.
+chords:
+  - template: v
+    lines:
+      - ['em', 'D', 'C', 'G']
+      - ['em', 'D', 'G/H', 'am/C', 'H']
+      - ['em', 'D', 'C', 'D']
+      - ['H', 'em/G', 'C/G', 'D/A']
+  - template: c
+    lines:
+      - ['em', 'D', 'G', 'em4', 'em3']
+      - ['am', 'D']
+      - ['G', 'em4', 'em3']
+      - ['am', 'D4', 'D3', 'G']

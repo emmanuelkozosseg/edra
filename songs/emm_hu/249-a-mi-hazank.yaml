@@ -34,3 +34,16 @@ lyrics:
           - újjá lesz minden, él a remény!
           - Hát zengje énekét a világ,
           - mert él az Úr, ki minket haza vár.
+chords:
+  - template: c
+    lines:
+      - ['D', 'A', 'hm7']
+      - ['G', 'em', 'A4', 'A']
+      - ['D', 'A', 'hm7']
+      - ['G', 'A', 'D4', 'D3']
+  - template: v
+    lines:
+      - ['D', 'G', 'D/Fis']
+      - ['em', 'A4', 'A']
+      - ['G', 'D/Fis']
+      - ['em', 'A']

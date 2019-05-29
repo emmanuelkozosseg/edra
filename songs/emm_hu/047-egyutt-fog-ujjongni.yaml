@@ -14,5 +14,21 @@ lyrics:
           - Láj láj láj...
           - És gyászunkat ünnepre fordítom,
           - és nem búsulnak ezután.
-          - '/: Vidámmá teszem a szívüket,'
-          - hogy örvendezzenek a bánatuk helyett. :/
+          - group: repeat
+            times: 2
+            lines:
+              - Vidámmá teszem a szívüket,
+              - hogy örvendezzenek a bánatuk helyett.
+chords:
+  - template: v1
+    lines:
+      - ['H7', 'em']
+      - ['am', 'H7']
+      - ['H7', 'em', 'am', 'H7']
+      - ['H7']
+      - ['H7']
+      - group: repeat
+        type: uniform
+        lines:
+          - ['am', 'D', 'G']
+          - ['C', 'am', 'H7', 'em']

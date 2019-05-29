@@ -31,3 +31,16 @@ lyrics:
           - és javait meglátom az élők földjén.
           - Bátor szívvel hagyatkozz az Úrra,
           - s ha bízol, Ő megsegít.
+chords:
+  - template: c
+    lines:
+      - ['D', 'A', 'hm']
+      - ['G', 'A']
+      - ['D', 'A', 'hm']
+      - ['G', 'A', 'D']
+  - template: v
+    lines:
+      - ['D', 'A', 'hm']
+      - ['G', 'A']
+      - ['D', 'A', 'hm']
+      - ['G', 'A', 'D']

@@ -16,3 +16,10 @@ lyrics:
           - mert csak Te tudod, mi jó nekem.
           - Szent kezedbe ajánlom lelkem.
           - Történjék szavad szerint velem!
+chords:
+  - template: all
+    lines:
+      - ['hm', 'em7', 'A']
+      - ['fism', 'hm7', 'A', 'D']
+      - ['G', 'em7', 'fism7', 'D']
+      - ['em', 'hm', 'em', 'em6', 'hm', 'fism', 'hm']

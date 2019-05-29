@@ -1,0 +1,22 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '501b'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent Lőrinc mise (Alleluja)
+    verses:
+      - name: v1
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - Gloria, gloria in excelsis Deo.
+chords:
+  - template: all
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+        - ['gm', 'cism', 'B', 'gm', 'D']

@@ -11,3 +11,8 @@ lyrics:
         lines:
           - Zengő patakok vidítják Isten városát,
           - az Úr szent lakóhelyét.
+chords:
+  - template: all
+    lines:
+      - ['G5', 'C']
+      - ['D', 'G']

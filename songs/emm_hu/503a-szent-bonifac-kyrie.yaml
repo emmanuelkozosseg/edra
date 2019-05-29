@@ -1,0 +1,26 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '503a'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent Bonifác mise (Kyrie)
+    verses:
+      - name: v1
+        lines:
+          - Kyrie eleison, Kyrie eleison,
+          - Kyrie eleison.
+          - Christe eleison, Christe eleison,
+          - Christe eleison.
+          - Kyrie eleison, Kyrie eleison,
+          - Kyrie eleison.
+chords:
+  - template: all
+    lines:
+      - ['D', 'A', 'D', 'A', 'D', 'A', 'hm', 'A', 'E', 'A']
+      - ['D', 'G', 'D', 'A4', 'A3', 'D']
+      - ['D', 'A', 'D', 'A', 'D', 'A', 'hm', 'A', 'E', 'A']
+      - ['D', 'G', 'D', 'A4', 'A3', 'D']
+      - ['D', 'A', 'D', 'A', 'D', 'A', 'hm', 'A', 'E', 'A']
+      - ['D', 'G', 'D', 'A4', 'A3', 'D']

@@ -31,3 +31,16 @@ lyrics:
           - erőm elhagy, utam véget ér,
           - a lelkem mégis Téged áld vég nélkül,
           - tízezer évig és mindörökké.
+chords:
+  - template: c
+    lines:
+      - ['G', 'D', 'A', 'hm']
+      - ['G', 'D', 'A']
+      - ['G', 'hm', 'G', 'A', 'hm']
+      - ['G', 'A', 'G', 'D']
+  - template: v
+    lines:
+      - ['G', 'D', 'A', 'hm']
+      - ['G', 'D', 'A', 'hm']
+      - ['G', 'D', 'A', 'hm']
+      - ['G', 'D', 'A', 'D']

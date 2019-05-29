@@ -20,3 +20,17 @@ lyrics:
           - és mindenki térdet hajt!
           - A legnagyobb kincs mégis azokra vár,
           - kik most Őt választják!
+chords:
+  - template: v1
+    lines:
+      - ['D', 'G', 'D']
+      - ['A', 'em7', 'G']
+      - ['D', 'G', 'D']
+      - ['A', 'em7', 'G']
+      - ['D']
+  - template: v2
+    lines:
+      - ['G', 'D']
+      - ['G', 'D']
+      - ['G', 'hm']
+      - ['em', 'A4', 'A']

@@ -10,15 +10,14 @@ lyrics:
       - name: c
         lines:
           - Csak Jézusnak szolgálok,
-          - az Ő országát várom, mert eljön Ő,
-          - az Üdvözítő, ó, Jézus,
-          - feltámadt Király.
+          - az Ő országát várom,
+          - mert eljön Ő, az Üdvözítő,
+          - ó, Jézus, feltámadt Király.
       - name: v1
         lines:
           - Áldjad lelkem Őt, dicsérd Teremtőd
           - most és mindörökké, ámen!
-          - Áldja minden nép,
-          - dicsérd szent nevét
+          - Áldja minden nép, | dicsérd szent nevét
           - most és mindörökké, ámen!
       - name: v2
         lines:
@@ -32,3 +31,16 @@ lyrics:
           - most és mindörökké, ámen!
           - Éltető Lélek, Téged dicsérlek
           - most és mindörökké, ámen!
+chords:
+  - template: c
+    lines:
+      - ['G', 'D', 'em', 'C']
+      - ['G', 'C', 'G', 'D']
+      - ['G', 'D', 'C', 'Es']
+      - ['G', 'D', 'G']
+  - template: v
+    lines:
+      - ['em', 'hm', 'em', 'hm']
+      - ['G', 'C', 'G', 'D']
+      - ['em', 'hm', 'C', 'G']
+      - ['em', 'am', 'D', 'G']

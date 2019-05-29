@@ -9,10 +9,23 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - A Szentlélek leszáll
-          - és minden megváltozik.
+          - A Szentlélek leszáll | és minden megváltozik.
           - Megnyílik szemed.
-          - A Szentlélek leszáll,
-          - és új emberré leszel.
+          - A Szentlélek leszáll, | és új emberré leszel.
           - Meglátod Őt, aki szeret.
-          - '/: Meglátod Őt, Jézust. :/'
+          - group: repeat
+            times: 2
+            lines:
+              - Meglátod Őt, Jézust.
+chords:
+  - template: all
+    lines:
+      - ['C', 'G/H', 'am', 'am/G']
+      - ['F', 'C', 'G']
+      - ['C', 'em7', 'am', 'am/G']
+      - ['F', 'C', 'G']
+      - group: repeat
+        type: unique
+        repetitions:
+          - - ['F', 'F/G', 'C']
+          - - ['F', 'F/G', 'fm6/G', 'C']

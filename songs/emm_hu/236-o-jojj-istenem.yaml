@@ -13,8 +13,7 @@ lyrics:
       - name: c
         lines:
           - Ó, jöjj, Istenem, rád vágyom én!
-          - Lelkem szomjazik,
-          - mint a puszta száraz földje.
+          - Lelkem szomjazik, | mint a puszta száraz földje.
           - Ó, jöjj, Istenem, rád vágyom én!
           - A Te házadban hadd lássam dicsőséged!
           - Hiszen többet ér a Te szereteted,
@@ -33,3 +32,20 @@ lyrics:
           - Kora hajnalban hozzád száll imám.
           - A Te szárnyadnak árnyékába rejtesz
           - és a jobbod fenntart örökké.
+chords:
+  - template: c
+    lines:
+      - ['D', 'em7', 'D', 'em7']
+      - ['D', 'G', 'A4', 'A']
+      - ['D', 'em7', 'D', 'em7']
+      - ['D', 'G', 'A4']
+      - ['G', 'A', 'C', 'hm']
+      - ['G', 'A', 'D']
+      - ['G', 'A', 'C', 'hm']
+      - ['G', 'A', 'D']
+  - template: v
+    lines:
+      - ['D', 'em7', 'D', 'em7']
+      - ['D', 'G', 'A4', 'A']
+      - ['fism', 'hm', 'G', 'C']
+      - ['hm', 'em7', 'A4', 'A']

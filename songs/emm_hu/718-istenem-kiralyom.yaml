@@ -12,3 +12,9 @@ lyrics:
           - Istenem, Királyom,
           - szent nevedet áldom
           - most és mindenkor!
+chords:
+  - template: all
+    lines:
+      - ['C']
+      - ['am']
+      - ['F', 'F', 'C']

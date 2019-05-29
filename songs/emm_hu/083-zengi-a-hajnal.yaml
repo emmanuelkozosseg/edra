@@ -40,3 +40,16 @@ lyrics:
           - boldog az, ki Vele él.
           - Hogyha hívod, megsegít!
           - Jézus Krisztus él!
+chords:
+  - template: c
+    lines:
+      - ['G', 'D', 'G', 'D']
+      - ['C', 'C/G', 'G', 'am', 'D']
+      - ['G', 'D', 'G', 'D']
+      - ['am', 'G', 'C', 'G']
+  - template: v
+    lines:
+      - ['hm', 'em']
+      - ['D4', 'D', 'G']
+      - ['am', 'em', 'C']
+      - ['am7', 'F', 'D4', 'D3']

@@ -47,3 +47,14 @@ lyrics:
           - teáltalad, és egy Fiát,
           - és kettejüknek Lelke, Te,
           - örökre légy lelkünk hite!
+chords:
+  - template: c
+    lines:
+      - ['em', 'hm', 'em', 'D']
+      - ['G', 'D', 'em', 'hm', 'em']
+  - template: v
+    lines:
+      - ['em', 'D']
+      - ['D7', 'G']
+      - ['D']
+      - ['em', 'C', 'D']

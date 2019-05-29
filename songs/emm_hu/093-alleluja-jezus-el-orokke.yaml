@@ -37,3 +37,10 @@ lyrics:
           - Ő, ki megszabadít s hazahív.
           - Él a Bárány, az Üdvözítő!
           - Alleluja!
+chords:
+  - template: all
+    lines:
+      - ['F', 'C', 'F', 'C', 'F', 'C', 'F']
+      - ['C', 'dm', 'C', 'dm', 'C', 'dm', 'C']
+      - ['dm', 'A', 'dm', 'A', 'dm', 'A', 'dm']
+      - ['B', 'F', 'C7', 'F']

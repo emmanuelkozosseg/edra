@@ -1,0 +1,18 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '503c'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent Bonifác mise (Alleluja)
+    verses:
+      - name: v1
+        lines:
+          - Alleluja, alleluja!
+          - Alleluja, alleluja!
+chords:
+  - template: all
+    lines:
+      - ['D', 'G', 'D', 'A']
+      - ['D', 'G', 'hm', 'A', 'D']

@@ -29,3 +29,13 @@ lyrics:
           - Jöjjetek hozzám mind, akik terhet hordoztok!
           - És én benneteket megkönnyítelek,
           - mert szelíd vagyok.
+chords:
+  - template: c
+    lines:
+      - ['dm', 'A7/4', 'gm(6)', 'A', 'A7']
+      - ['F', 'C', 'dm7', 'B(6)', 'C']
+  - template: v
+    lines:
+      - ['A7', 'dm', 'C7', 'F', 'gm', 'A7/4', 'A7']
+      - ['B', 'C', 'F']
+      - ['gm', 'C7(9)', 'A', 'A7']

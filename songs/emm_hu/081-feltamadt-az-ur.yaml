@@ -30,3 +30,15 @@ lyrics:
           - Benne remélünk.
           - Hisz nincs üdvösség senki másban,
           - íme, ez a hitünk.
+chords:
+  - template: c
+    lines:
+      - ['F', 'C', 'gm7']
+      - ['A7/Cis', 'A7', 'dm']
+      - ['G7', 'F', 'C7/4', 'F', 'C']
+  - template: v
+    lines:
+      - ['dm', 'G']
+      - ['F', 'A7', 'dm']
+      - ['F', 'B', 'D']
+      - ['gm', 'C']

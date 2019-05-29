@@ -21,3 +21,18 @@ lyrics:
           - vagy a sík tenger partján.
           - Mert az Úr alkotta mindezt,
           - és minden az övé.
+chords:
+  - template: v1
+    lines:
+      - ['D', 'G', 'D']
+      - ['G', 'D']
+      - ['G', 'D']
+      - ['G', 'D']
+  - template: v2
+    lines:
+      - ['D', 'G', 'D']
+      - ['Fis', 'hm', 'G', 'A']
+      - ['G', 'D']
+      - ['hm', 'G', 'A']
+      - ['D', 'hm']
+      - ['G', 'A']

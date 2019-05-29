@@ -25,3 +25,10 @@ lyrics:
           - meg kell ma váltani újra.
           - Tedd, amit kell, s mindent megadnak hozzá!
           - Alleluja, alleluja!
+chords:
+  - template: all
+    lines:
+      - ['C', 'em', 'F', 'C']
+      - ['F', 'C', 'G']
+      - ['C', 'em', 'F', 'C']
+      - ['F', 'C', 'G', 'C']

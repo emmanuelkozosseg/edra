@@ -12,3 +12,9 @@ lyrics:
           - Ó, Uram, hozzád száll szavam!
           - Minden nap téged dicsérlek,
           - téged áldalak!
+chords:
+  - template: all
+    lines:
+      - ['F', 'C', 'F', 'C']
+      - ['dm', 'C7', 'F', 'dm']
+      - ['B', 'C4', 'C3']

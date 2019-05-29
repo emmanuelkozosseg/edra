@@ -25,3 +25,16 @@ lyrics:
           - és az Élet legyőzte a halált.
           - Ímé a nap, a győzelem napja,
           - ó, Jézus, Te vagy a Király.
+chords:
+  - template: c
+    lines:
+      - ['A', 'D', 'em7', 'fism7', 'G']
+      - ['A', 'hm', 'G', 'A']
+      - ['D', 'em7', 'fism7', 'G']
+      - ['A', 'D', 'em7', 'A7', 'D']
+  - template: v
+    lines:
+      - ['hm', 'A6', 'hm', 'A6']
+      - ['em', 'A', 'D']
+      - ['hm', 'A', 'hm', 'A']
+      - ['hm', 'em', 'A']

@@ -22,8 +22,7 @@ lyrics:
         lines:
           - Uram, jöjj segítségemre,
           - halld meg szavamat, amikor hívlak Téged!
-          - Szálljon fel hozzád imám,
-          - mint a tömjén füstje,
+          - Szálljon fel hozzád imám, | mint a tömjén füstje,
           - kitárt kezem legyen esti áldozat!
       - name: v3
         lines:
@@ -61,3 +60,15 @@ lyrics:
           - és a Szentléleknek.
           - Miképpen kezdetben,
           - most és mindörökké. Ámen.
+chords:
+  - template: c
+    lines:
+      - ['G']
+      - []
+      - ['C', 'G', '(am)', 'G', 'am7', 'D7', 'G']
+  - template: v
+    lines:
+      - ['G', 'am/G']
+      - ['C', 'G']
+      - ['G', 'D']
+      - ['C', 'G', 'D']

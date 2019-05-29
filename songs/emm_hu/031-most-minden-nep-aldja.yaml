@@ -43,3 +43,16 @@ lyrics:
           - köztünk lakik, a szívünkben él.
           - 'Menjünk, hirdessük szeretetét:'
           - Emmánuel, Jézus él!
+chords:
+  - template: c
+    lines:
+      - ['G', 'em', 'am', 'D']
+      - ['H7', 'em', 'am', 'D']
+      - ['G', 'em', 'am', 'D']
+      - ['H7', 'em', 'am', 'D', 'G']
+  - template: v
+    lines:
+      - ['em', 'hm']
+      - ['em', 'D']
+      - ['G', 'D', 'em']
+      - ['am', 'D']

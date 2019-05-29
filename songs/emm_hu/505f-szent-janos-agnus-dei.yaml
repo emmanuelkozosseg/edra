@@ -1,0 +1,30 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '505f'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent János mise (Agnus Dei)
+    verses:
+      - name: v1
+        lines:
+          - Agnus Dei,
+          - qui tollis peccata mundi,
+          - miserere nobis.
+      - name: v2
+        lines:
+          - Agnus Dei,
+          - qui tollis peccata mundi,
+          - dona nobis pacem!
+chords:
+  - template: v1
+    lines:
+      - ['dm', 'gm', 'C']
+      - ['F', 'G', 'A']
+      - ['dm', 'A4', 'A3']
+  - template: v2
+    lines:
+      - ['dm', 'gm', 'C']
+      - ['F', 'G', 'A']
+      - ['dm', 'A4', 'A3', 'dm']

@@ -26,11 +26,9 @@ lyrics:
       - name: v3
         lines:
           - Ha bennem maradtok,
-          - és a tanításom is bennetek marad,
-          - akkor bármit akartok,
+          - és a tanításom is bennetek marad, | akkor bármit akartok,
           - kérjetek, és meg fogjátok kapni.
-          - Azáltal dicsőül meg Atyám,
-          - hogy bő termést hoztok,
+          - Azáltal dicsőül meg Atyám, | hogy bő termést hoztok,
           - és a tanítványaim lesztek.
       - name: v4
         lines:
@@ -58,3 +56,23 @@ lyrics:
           - hanem én választottalak titeket,
           - hogy elmenvén gyümölcsöt hozzatok,
           - maradandó gyümölcsöt.
+chords:
+  - template: c
+    lines:
+      - ['F', 'B', 'C7', 'F']
+      - ['A7', 'dm', 'em', 'em7', 'G', 'gm4', 'C']
+  - template: t1
+    verses: ['v1', 'v2', 'v6', 'v7']
+    lines:
+      - ['F', 'gm', 'C']
+      - ['C7', 'F']
+      - ['am', 'dm']
+      - ['B', 'C']
+  - template: t2
+    verses: ['v3', 'v4', 'v5']
+    lines:
+      - ['F', 'C']
+      - ['F', 'gm', 'C']
+      - ['C7', 'F']
+      - ['am', 'dm']
+      - ['B', 'C']

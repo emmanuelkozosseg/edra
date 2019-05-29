@@ -36,3 +36,33 @@ lyrics:
           - Te vagy védő fészkem,
           - Uram csak Benned bízom,
           - Te vagy menedékem.
+chords:
+  - template: v1
+    lines:
+      - ['hm', 'hm']
+      - ['D', 'D']
+      - ['E', 'A']
+      - ['G', 'Fis']
+  - template: v2
+    lines:
+      - ['hm', 'hm']
+      - ['D', 'D']
+      - ['E', 'A']
+      - ['E', 'E']
+      - ['G', 'G', 'Fis', 'Fis']
+  - template: v3
+    lines:
+      - ['D', 'D']
+      - ['A', 'A']
+      - ['hm', 'G', 'D', 'A']
+  - template: v4
+    lines:
+      - ['D', 'D']
+      - ['A', 'A']
+      - ['hm', 'G', 'Fis', 'Fis']
+  - template: v5
+    lines:
+      - ['hm', 'hm']
+      - ['D', 'D']
+      - ['E', 'A']
+      - ['G', 'Fis']

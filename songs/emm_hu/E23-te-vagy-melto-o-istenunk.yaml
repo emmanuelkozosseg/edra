@@ -15,3 +15,12 @@ lyrics:
           - mennyei tróntermedet töltse be!
           - Áldunk Téged, imádunk Téged,
           - hűséges Megváltó, Te vagy az Úr!
+chords:
+  - template: all
+    lines:
+      - ['G', 'am', 'G', 'D']
+      - ['G', 'am', 'G', 'D']
+      - ['am', 'D', 'em', 'C', 'D']
+      - ['am', 'D', 'em', 'C', 'D']
+      - ['C', 'G', 'am', 'D', 'G']
+      - ['am', 'D', 'em', 'D']

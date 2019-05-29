@@ -22,3 +22,16 @@ lyrics:
           - mert csak benned hiszek.
           - Ezért nem félek, Uram,
           - mert bennem élsz, ó, Istenem.
+chords:
+  - template: v1
+    lines:
+      - ['dm', 'am', 'dm']
+      - ['F', 'C7', 'F']
+      - ['B', 'C', 'dm']
+      - ['gm', 'C', 'A']
+  - template: v2
+    lines:
+      - ['B', 'C', 'F']
+      - ['gm', 'C', 'A']
+      - ['B', 'C', 'dm']
+      - ['gm', 'C', 'dm']

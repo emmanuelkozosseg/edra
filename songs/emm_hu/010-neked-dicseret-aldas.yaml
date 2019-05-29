@@ -42,3 +42,18 @@ lyrics:
           - hirdeti minden nyelv,
           - 'hirdeti minden nyelv:'
           - Jézus az Úr!
+chords:
+  - template: c
+    lines:
+      - ['G', 'Fis', 'em', 'D']
+      - ['em', 'D', 'A', 'H']
+      - ['C', 'am', 'D7', 'G', 'am7', 'D', 'G']
+  - template: v
+    lines:
+      - ['G', 'D']
+      - ['em']
+      - ['hm']
+      - ['C']
+      - ['G']
+      - ['em']
+      - ['A7', 'D']

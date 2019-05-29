@@ -11,3 +11,8 @@ lyrics:
         lines:
           - Akik könnyek közt vetnek,
           - majd ujjongva aratnak.
+chords:
+  - template: all
+    lines:
+      - ['A', 'fism']
+      - ['D', 'A']

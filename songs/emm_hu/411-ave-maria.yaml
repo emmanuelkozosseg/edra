@@ -20,3 +20,14 @@ lyrics:
           - ora pro nobis, peccatoribus,
           - nunc, et in hora mortis nostrae.
           - Ave Maria.
+chords:
+  - template: all
+    lines:
+      - ['D', 'A/Cis', 'hm', 'D/A', 'G', 'hm/fism', 'em7', 'A']
+      - ['D', 'A/Cis', 'hm', 'D/A', 'G', 'em7', 'A']
+      - ['G', 'D', 'fism', 'em', 'A']
+      - ['G/H', 'A/Cis', 'D', 'em', 'A', 'D4', 'D3']
+      - ['D', 'fism', 'G', 'A/G', 'D4', 'D3']
+      - ['G', 'D', 'em7', 'D', 'A4', 'A3']
+      - ['G', 'D/A', 'A4', 'A3', 'D']
+      - ['D', 'A/Cis', 'hm', 'D/A', 'A4', 'A3', 'D4', 'D3']

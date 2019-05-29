@@ -19,15 +19,13 @@ lyrics:
       - name: v1
         lines:
           - 'Amikor félek, a hegyre nézek:'
-          - honnan jön segítség,
-          - mit oly rég várok én?
+          - honnan jön segítség, | mit oly rég várok én?
           - Csakis az Úrtól jön a segítség.
           - Nem alszik Ő soha, az Úr az őrizőm.
       - name: v2
         lines:
           - Hogyha a bajban kiáltok hozzá,
-          - Ő nyomban fut felém,
-          - s megmenti életem.
+          - Ő nyomban fut felém, | megmenti életem.
           - Egyetlen szóval teremtett engem,
           - velem van mindenütt és fogja a kezem.
       - name: v3
@@ -39,7 +37,19 @@ lyrics:
       - name: v4
         lines:
           - Most a szívünket adjuk az Úrnak,
-          - 'mert gondot visel ránk:'
-          - Ő irgalmas Atyánk.
+          - 'mert gondot visel ránk: | Ő irgalmas Atyánk.'
           - Könyörül rajtunk, ezért ne féljünk!
           - Ő most és mindörökké tárt karokkal vár.
+chords:
+  - template: c
+    lines:
+      - ['D', 'hm']
+      - ['fism', 'G', 'A']
+      - ['D', 'hm']
+      - ['fism', 'G', 'A', 'D']
+  - template: v
+    lines:
+      - ['D', 'hm', 'fism7']
+      - ['G', 'A7', 'fism']
+      - ['G6', 'A7', 'hm', 'fism']
+      - ['G', 'A', 'D']

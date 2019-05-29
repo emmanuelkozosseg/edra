@@ -11,3 +11,8 @@ lyrics:
         lines:
           - Áldjon téged minden nép,
           - ó, Uram!
+chords:
+  - template: all
+    lines:
+      - ['G', 'D']
+      - ['C', 'G']

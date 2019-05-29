@@ -37,3 +37,10 @@ lyrics:
           - Ő az Út, amelyen lelkünk égbe talál.
           - Mindaz, aki belé vetett hittel él,
           - nem hal meg mindörökké.
+chords:
+  - template: all
+    lines:
+      - ['dm', 'gm9', 'gm']
+      - ['C7', 'F9/7M', 'am7']
+      - ['B7M', 'gm7']
+      - ['B', 'B7|A7', 'A|dm', 'A7|-']

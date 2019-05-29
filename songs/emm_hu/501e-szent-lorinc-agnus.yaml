@@ -1,0 +1,23 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '501e'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent Lőrinc mise (Agnus Dei)
+    verses:
+      - name: v1
+        lines:
+          - Agnus Dei, qui tollis peccata mundi,
+          - miserere nobis, miserere nobis.
+          -
+          - Agnus Dei, qui tollis peccata mundi,
+          - dona nobis pacem, dona nobis pacem!
+chords:
+  - template: v1
+    lines:
+      - ['gm', 'D', 'D7', 'gm', '(F)']
+      - ['B', 'F', 'gm', 'D4', 'D3']
+      - ['gm', 'D', 'D7', 'gm', '(F)']
+      - ['B', 'F', 'gm', 'D']

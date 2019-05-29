@@ -11,3 +11,8 @@ lyrics:
         lines:
           - Alleluja! Alleluja!
           - Alleluja! Alleluja!
+chords:
+  - template: all
+    lines:
+      - ['A', 'fism', 'E', 'A', 'E', 'D', 'E', 'A', 'hm', 'E']
+      - ['A', 'fism', 'E', 'A', 'E', 'D', 'E', 'A', 'D', 'E', 'A']

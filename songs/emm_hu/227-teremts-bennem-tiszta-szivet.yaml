@@ -17,3 +17,14 @@ lyrics:
           - Szentlelked ne vond meg tőlem!
           - Támogass az engedelmesség lelkével,
           - szabadításod örömét add nekem!
+chords:
+  - template: v1
+    lines:
+      - ['G', 'D', 'C', 'G']
+      - ['em', 'am6', 'D', 'G', 'C', 'G']
+  - template: v2
+    lines:
+      - ['am', 'D', 'G', 'em']
+      - ['am', 'D', 'G', 'G7']
+      - ['am', 'D', 'G', 'em']
+      - ['am', 'D', 'G', 'C', 'G']

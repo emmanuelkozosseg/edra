@@ -11,8 +11,11 @@ lyrics:
         lines:
           - Mind, kik szomjaztok,
           - most jöjjetek, és igyatok,
-          - '/: mert megnyílt szívemből'
-          - fakad a víz, mely új életet ad. :/
+          - group: repeat
+            times: 2
+            lines:
+              - mert megnyílt szívemből fakad
+              - a víz, mely új életet ad.
       - name: v1
         lines:
           - Örüljön a puszta és a sivatag,
@@ -29,8 +32,7 @@ lyrics:
         lines:
           - Akkor végre megnyílnak a vakok szemei,
           - a süketeknek füle újra hall majd.
-          - Mint a szarvas, ugrándozik
-          - ujjongva a sánta,
+          - Mint a szarvas, ugrándozik | ujjongva a sánta,
           - és a néma nyelve újra szól.
       - name: v4
         lines:
@@ -50,3 +52,22 @@ lyrics:
           - örök boldogságot tükröz arcuk.
           - Ujjongás és nagy öröm jár velük az úton,
           - nem lesz többé fájdalom, se gyász.
+chords:
+  - template: c
+    lines:
+      - ['D', 'A', 'hm']
+      - ['G', 'em', 'A4', 'A3']
+      - group: repeat
+        type: unique
+        repetitions:
+          - - ['G', 'em', 'D', 'hm']
+            - ['em7', 'A', 'D', 'D7']
+          - - ['G', 'em', 'D', 'hm']
+            - ['em7', 'A', 'D']
+  - template: v
+    lines:
+      - ['D', 'A', 'G', 'A']
+      - ['Fis', 'hm', 'em7', 'A']
+      - ['G', 'A', 'fism', 'hm']
+      - ['E4', 'E7', 'A4', 'A7']
+

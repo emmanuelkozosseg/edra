@@ -9,7 +9,30 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - '/: Néked hódolok,'
-          - Jézus, dicső Király! :/
-          - '/: Ujjongj, dalolj szívem,'
-          - és imádjad Őt! :/
+          - group: repeat
+            times: 2
+            lines:
+              - Néked hódolok,
+              - Jézus, dicső Király!
+          - group: repeat
+            times: 2
+            lines:
+              - Ujjongj, dalolj szívem,
+              - és imádjad Őt!
+chords:
+  - template: all
+    chords:
+      - group: repeat
+        type: unique
+        repetitions:
+          - - ['A', 'hm']
+            - ['E', 'A', 'D', 'E']
+          - - ['A', 'hm']
+            - ['E', 'A']
+      - group: repeat
+        type: unique
+        repetitions:
+          - - ['hm']
+            - ['A', 'Fis']
+          - - ['hm']
+            - ['A']

@@ -70,3 +70,16 @@ lyrics:
           - Let us exult in his glorious name.
           - I seek the Lord and he answers my call,
           - He sets me free from my fears!
+chords:
+  - template: c
+    lines:
+      - ['C/G', 'G', 'C/G', 'G']
+      - ['C', 'D', 'em7', 'D/Fis']
+      - ['C/G', 'G', 'C', 'G']
+      - ['C', 'D', 'C/G', 'G']
+  - template: v
+    lines:
+      - ['em', 'hm7', 'C', 'G']
+      - ['C', 'hm7', 'am7', 'D']
+      - ['em', 'hm7', 'C', 'G']
+      - ['am7', 'D']

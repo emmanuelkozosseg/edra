@@ -1,0 +1,26 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '502d'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Mindenszentek miséje (Agnus Dei)
+    verses:
+      - name: v1
+        lines:
+          - Agnus Dei, qui tollis peccata mundi,
+          - miserere nobis.
+      - name: v2
+        lines:
+          - Agnus Dei, qui tollis peccata mundi,
+          - dona nobis pacem.
+chords:
+  - template: v1
+    lines:
+      - ['em', 'am', 'em', 'H', 'em', 'am', 'em', 'H']
+      - ['am', 'H']
+  - template: v2
+    lines:
+      - ['em', 'am', 'em', 'H', 'em', 'am', 'em', 'H']
+      - ['am', 'em', 'H', 'em']

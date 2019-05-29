@@ -1,0 +1,18 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '506b'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent Pál mise (Alleluja)
+    verses:
+      - name: v1
+        lines:
+          - Alleluja, alleluja!
+          - Alleluja, alleluja!
+chords:
+  - template: all
+    lines:
+      - ['am', 'F', 'em', 'am']
+      - ['F', 'dm', 'G', 'em', 'am']

@@ -13,29 +13,53 @@ lyrics:
           - 'nevedet hirdetem:'
           - Te vagy a szívem öröme.
           - Csak benned bízom, Istenem,
-          - '/: mert a Te szereteted'
-          - soha, soha nem hagy el! :/
+          - group: repeat
+            times: 2
+            lines:
+              - mert a Te szereteted
+              - soha, soha nem hagy el!
       - name: v2
         lines:
           - Eljöttél hozzánk, nagy Király.
           - Kereszted által ím,
           - legyőzted a halált.
           - Megmentetted az életem,
-          - '/: mert a Te szereteted'
-          - soha, soha nem hagy el! :/
+          - group: repeat
+            times: 2
+            lines:
+              - mert a Te szereteted
+              - soha, soha nem hagy el!
       - name: v3
         lines:
           - Csak Téged áldlak, Istenem.
           - Tenálad béke vár,
           - begyógyítod a sebeket.
           - Elvetted minden bűnömet,
-          - '/: mert a Te szereteted'
-          - soha, soha nem hagy el! :/
+          - group: repeat
+            times: 2
+            lines:
+              - mert a Te szereteted
+              - soha, soha nem hagy el!
       - name: v4
         lines:
           - Ó, Jézus, csak rád szomjazom.
           - A szívem ünnepel,
           - ha hangod újra hallhatom.
           - Elküldted nékünk Lelkedet,
-          - '/: mert a Te szereteted'
-          - soha, soha nem hagy el! :/
+          - group: repeat
+            times: 2
+            lines:
+              - mert a Te szereteted
+              - soha, soha nem hagy el!
+chords:
+  - template: v
+    lines:
+      - ['dm', 'A7', 'B', 'dm']
+      - ['B', 'F']
+      - ['gm', 'dm']
+      - ['dm', 'A7', 'B', 'dm']
+      - group: repeat
+        type: uniform
+        lines:
+          - ['B']
+          - ['gm', 'am', 'dm']

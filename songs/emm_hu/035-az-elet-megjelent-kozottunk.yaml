@@ -10,6 +10,12 @@ lyrics:
   - lang: hu
     title: Az Élet megjelent közöttünk
     verses:
+      - name: c
+        lines:
+          - Az Élet megjelent közöttünk,
+          - az Élet, ki az Atyához vezet.
+          - Az Élet megjelent közöttünk,
+          - és hirdetjük, hogy Isten így szeret!
       - name: v1
         lines:
           - Ó, áldott légy, én Istenem,
@@ -21,12 +27,6 @@ lyrics:
           - és nem láttunk napfényt soha,
           - most hirdetjük nagy boldogan,
           - hogy eljött már a pirkadat!
-      - name: c
-        lines:
-          - Az Élet megjelent közöttünk,
-          - az Élet, ki az Atyához vezet.
-          - Az Élet megjelent közöttünk,
-          - és hirdetjük, hogy Isten így szeret!
       - name: v2
         lines:
           - Mert Isten minket úgy szeret,
@@ -49,3 +49,20 @@ lyrics:
           - hogy feltámad harmadnapon,
           - és zengik fényes angyalok,
           - hogy Krisztus immár nem halott!
+chords:
+  - template: c
+    lines:
+      - ['G', 'C', 'G', 'am']
+      - ['F', 'G', 'C']
+      - ['G', 'C', 'G', 'am']
+      - ['F', 'G', 'am']
+  - template: v
+    lines:
+      - ['am']
+      - ['C']
+      - ['em']
+      - ['dm', 'E']
+      - ['am']
+      - ['C']
+      - ['em']
+      - ['dm', 'E']

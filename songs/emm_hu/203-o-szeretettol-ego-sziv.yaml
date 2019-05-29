@@ -13,3 +13,10 @@ lyrics:
           - kérünk, Szentlelked küldd le ránk,
           - és a szívünket alakítsd,
           - ó, Jézus, Szent Szíved szerint!
+chords:
+  - template: all
+    lines:
+      - ['D', 'em', 'em7']
+      - ['A', 'A7', 'D']
+      - ['hm', 'em', 'em7']
+      - ['A', 'A7', 'D']

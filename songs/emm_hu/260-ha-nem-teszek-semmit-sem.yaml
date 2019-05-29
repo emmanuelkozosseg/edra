@@ -13,7 +13,10 @@ lyrics:
           - most nem tervezek,
           - most nem akarok, most nem teszek
           - semmit sem,
-          - '/: csak engedem, hogy szeressen :/'
+          - group: repeat
+            times: 2
+            lines:
+              - csak engedem, hogy szeressen
           - az Isten.
       - name: v2
         lines:
@@ -21,7 +24,10 @@ lyrics:
           - békén, szabadon,
           - mint gyenge gyerek, és nem teszek
           - semmit sem,
-          - '/: csak engedem, hogy szeressen :/'
+          - group: repeat
+            times: 2
+            lines:
+              - csak engedem, hogy szeressen
           - az Isten.
       - name: v3
         lines:
@@ -29,7 +35,10 @@ lyrics:
           - és árad belém,
           - és újjáteremt, míg nem teszek
           - semmit sem,
-          - '/: csak engedem, hogy szeressen :/'
+          - group: repeat
+            times: 2
+            lines:
+              - csak engedem, hogy szeressen
           - az Isten.
       - name: v4
         lines:
@@ -37,5 +46,53 @@ lyrics:
           - érik csendesen
           - erő, győzelem, ha nem teszek
           - semmit sem,
-          - '/: csak engedem, hogy szeressen :/'
+          - group: repeat
+            times: 2
+            lines:
+              - csak engedem, hogy szeressen
           - az Isten.
+chords:
+  - template: v1
+    lines:
+      - ['C', 'G']
+      - ['F', 'C']
+      - ['C', 'G']
+      - ['F', 'C']
+      - group: repeat
+        type: uniform
+        lines:
+          - ['C', 'am', 'dm', 'G7']
+      - ['C', 'A7']
+  - template: v2
+    lines:
+      - ['D', 'A']
+      - ['G', 'D']
+      - ['D', 'A']
+      - ['G', 'D']
+      - group: repeat
+        type: uniform
+        lines:
+          - ['D', 'hm', 'em', 'A7']
+      - ['D', 'H7']
+  - template: v3
+    lines:
+      - ['E', 'H']
+      - ['A', 'E']
+      - ['E', 'H']
+      - ['A', 'E']
+      - group: repeat
+        type: uniform
+        lines:
+          - ['E', 'dism', 'fism', 'H7']
+      - ['E', 'C7']
+  - template: v4
+    lines:
+      - ['F', 'C']
+      - ['B', 'F']
+      - ['F', 'C']
+      - ['B', 'F']
+      - group: repeat
+        type: uniform
+        lines:
+          - ['F', 'dm', 'gm', 'C7']
+      - ['F']

@@ -85,31 +85,74 @@ lyrics:
           - We adore You, Jesus Christ, our Lord!
       - name: v1
         lines:
-          - Jesus, Son of God, Saviour of the world,
-          - Image of the Father, Adoramus te!
-          - Jesus God and man, Mary’s only Son,
-          - King of kings and Lord of lords, Adoramus te!
+          - Jesus, Son of God,
+          - Saviour of the world,
+          - Image of the Father,
+          - Adoramus te!
+          - ""
+          - Jesus God and man,
+          - Mary’s only Son,
+          - King of kings and Lord of lords,
+          - Adoramus te!
       - name: v2
         lines:
-          - Jesus, sinners' friend, brother of the poor,
-          - Jesus, shepherd of the flock, Adoramus te!
-          - Healer of the weak, comforter of souls,
-          - Jesus, everlasting love, Adoramus te!
+          - Jesus, sinners' friend,
+          - brother of the poor,
+          - Jesus, shepherd of the flock,
+          - Adoramus te!
+          - ""
+          - Healer of the weak,
+          - comforter of souls,
+          - Jesus, everlasting love,
+          - Adoramus te!
       - name: v3
         lines:
-          - Jesus, living Word, ready in our need,
-          - Jesus, source of holiness, Adoramus te!
-          - Jesus, risen one, Saviour of our souls,
-          - You are way and truth and life, Adoramus te!
+          - Jesus, living Word,
+          - ready in our need,
+          - Jesus, source of holiness,
+          - Adoramus te!
+          - ""
+          - Jesus, risen one,
+          - Saviour of our souls,
+          - You are way and truth and life,
+          - Adoramus te!
       - name: v4
         lines:
-          - Jesus, Prince of Peace, teacher of our hearts,
-          - Fullness of the father's love. Adoramus te!
-          - Jesus, Lamb of God, faithful unto death,
-          - Hope of all who trust in you. Adoramus te!
+          - Jesus, Prince of Peace,
+          - teacher of our hearts,
+          - Fullness of the father's love.
+          - Adoramus te!
+          - ""
+          - Jesus, Lamb of God,
+          - faithful unto death,
+          - Hope of all who trust in you.
+          - Adoramus te!
       - name: v5
         lines:
-          - Jesus, king of heav'n, joy of all the saints,
-          - Food of pilgrims, Bread of Life, Adoramus te!
-          - Glory of the Church, Holy one of God, Jesus,
-          - Risen from the dead, Adoramus te!
+          - Jesus, king of heav'n,
+          - joy of all the saints,
+          - Food of pilgrims, Bread of Life,
+          - Adoramus te!
+          - ""
+          - Glory of the Church,
+          - Holy one of God, Jesus,
+          - Risen from the dead,
+          - Adoramus te!
+chords:
+  - template: c
+    lines:
+      - ['F', 'C', 'B', 'F']
+      - ['dm', 'B7', 'C4', 'C3']
+      - ['F', 'C', 'B', 'F']
+      - ['dm', 'C', 'B', 'F']
+  - template: v
+    lines:
+      - ['F', 'B']
+      - ['G', 'C']
+      - ['A', 'dm']
+      - ['B', 'C']
+
+      - ['F', 'B']
+      - ['G', 'C']
+      - ['A', 'dm']
+      - ['Es', 'C']

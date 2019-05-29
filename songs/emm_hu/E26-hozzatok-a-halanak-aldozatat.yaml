@@ -21,8 +21,26 @@ lyrics:
           - megfürdöm benne egészen.”
       - name: v2
         lines:
-          - Áldott az Úr, ki közöttünk jár,
-          - velünk lakik!
+          - Áldott az Úr, ki közöttünk jár, | velünk lakik!
           - Áldott az Úr, ki békességet ad!
           - Jó, jó az Úr, ki közöttünk jár...
           - Szent, szent az Úr, ki közöttünk jár...
+chords:
+  - template: v1
+    lines:
+      - ['D', 'A', 'hm', 'fism']
+      - ['G', 'em', 'A']
+      - ['D', 'A', 'hm', 'fism']
+      - ['G', 'A', 'D']
+  - template: c
+    lines:
+      - ['hm', 'fism']
+      - ['G', 'A', 'D']
+      - ['hm', 'fism']
+      - ['G', 'A', 'D']
+  - template: v2
+    lines:
+      - ['D', 'A', 'hm', 'fism', 'G', 'em', 'A']
+      - ['D', 'A', 'hm', 'fism', 'G', 'A7', 'D']
+      - ['D', 'A', 'hm', 'fism', 'G', 'A', 'em', 'A']
+      - ['D', 'A', 'hm', 'fism', 'G', 'A', 'em', 'A']

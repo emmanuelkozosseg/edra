@@ -33,3 +33,22 @@ lyrics:
           - Tegyél szívedre pecsétül,
           - örök életet adj végül,
           - örök életet adj végül.
+chords:
+  - template: c
+    lines:
+      - ['dm', 'C', 'F']
+      - ['gm', 'C', 'dm']
+      - ['gm', 'A', 'dm']
+  - template: v1
+    lines:
+      - ['dm', 'C', 'F']
+      - ['gm', 'C', 'dm']
+      - ['gm', 'A', 'dm']
+  - template: v
+    lines:
+      - ['dm', 'C', 'F']
+      - ['gm', 'C', 'dm']
+      - ['gm', 'A', 'dm']
+      - ['dm', 'C', 'F']
+      - ['gm', 'C', 'dm']
+      - ['gm', 'A', 'dm']

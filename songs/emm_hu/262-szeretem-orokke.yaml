@@ -20,10 +20,13 @@ lyrics:
           - hol boldog dalát zengi minden szív.
       - name: c
         lines:
-          - Áldom az Urat, míg élek,
-          - és szeretem örökké,
-          - örömmel mondok hálát
-          - a világon mindenért.
+          - group: repeat
+            times: 2
+            lines:
+              - Áldom az Urat, míg élek,
+              - és szeretem örökké,
+              - örömmel mondok hálát
+              - a világon mindenért.
       - name: v2
         lines:
           - Közénk térdelsz, jó Urunk,
@@ -35,3 +38,27 @@ lyrics:
           - és halkan, szelíden hívsz,
           - és mi társaid leszünk örökké,
           - hol boldog dalát zengi minden szív.
+chords:
+  - template: v
+    lines:
+      - ['D']
+      - ['A', 'hm']
+      - ['fism', 'em']
+      - ['G', 'A']
+      - ['D']
+      - ['A', 'hm']
+      - ['fism', 'em']
+      - ['G', 'A', 'D']
+  - template: c
+    lines:
+      - group: repeat
+        type: unique
+        repetitions:
+          - - ['hm', 'fism']
+            - ['G', 'D']
+            - ['hm', 'fism']
+            - ['G', 'A']
+          - - ['hm', 'fism']
+            - ['G', 'D']
+            - ['hm', 'fism']
+            - ['G', 'G2']

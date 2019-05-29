@@ -34,3 +34,22 @@ lyrics:
           - áldja az égi Királyt!
           - Mert ez az a nap melyet adott az Úr,
           - örvendjünk s, zengjen dalunk!
+chords:
+  - template: c
+    lines:
+      - ['G', 'C', 'G', 'C', 'G', 'D']
+      - ['em7', 'C', 'G', 'D']
+      - ['G', 'C', 'G', 'C', 'G', 'D']
+      - ['em7', 'C', 'G', 'D', 'G', 'A', '(D)']
+  - template: v
+    lines:
+      - ['D', 'A', 'D', 'A']
+      - ['hm', 'G', 'hm', 'A']
+      - ['em', 'hm7', 'em', 'hm', 'G']
+      - ['D/Fis', 'G', 'D']
+  - template: v1
+    lines:
+      - ['D', 'A', 'D', 'A']
+      - ['hm', 'G', 'hm', 'A']
+      - ['em', 'hm7', 'em', 'hm']
+      - ['G', 'D/Fis', 'G', 'D']

@@ -1,0 +1,20 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '502a'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Mindenszentek miséje (Kyrie)
+    verses:
+      - name: v1
+        lines:
+          - Kyrie eleison.
+          - Christe eleison.
+          - Kyrie eleison.
+chords:
+  - template: all
+    lines:
+      - ['em', 'am', 'em', 'H7', 'em']
+      - ['em', 'C', 'D', 'em', 'D', 'G']
+      - ['em', 'am', 'em', 'H7', 'em']

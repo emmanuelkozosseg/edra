@@ -1,0 +1,20 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '502b'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Mindenszentek miséje (Alleluja)
+    verses:
+      - name: v1
+        lines:
+          - Alleluja, alleluja,
+          - alleluja, alleluja,
+          - alleluja, alleluja!
+chords:
+  - template: all
+    lines:
+      - ['G', 'D', 'G']
+      - ['C', 'D']
+      - ['G', 'D', 'G']

@@ -16,19 +16,15 @@ lyrics:
           - és szívem ujjong üdvözítő Istenemben.
       - name: v2
         lines:
-          - Tekintetre méltatta
-          - alázatos szolgálóleányát,
-          - íme, ezentúl boldognak hirdet
-          - az összes nemzedék.
+          - Tekintetre méltatta | alázatos szolgálóleányát,
+          - íme, ezentúl boldognak hirdet | az összes nemzedék.
       - name: v3
         lines:
-          - Mert nagyot művelt velem
-          - 'Ő, aki Hatalmas:'
+          - 'Mert nagyot művelt velem | Ő, aki Hatalmas:'
           - Ő, akit Szentnek hívunk.
       - name: v4
         lines:
-          - Nemzedékről nemzedékre
-          - megmarad irgalma azokon,
+          - Nemzedékről nemzedékre | megmarad irgalma azokon,
           - akik istenfélők.
       - name: v5
         lines:
@@ -54,6 +50,19 @@ lyrics:
         lines:
           - Dicsőség az Atyának, a Fiúnak
           - és a Szentlélek Istennek,
-          - miképpen kezdetben,
-          - most és mindenkor
-          - es mindörökkön-örökké. Ámen.
+          - miképpen kezdetben, | most és mindenkor
+          - és mindörökkön-örökké. Ámen.
+chords:
+  - template: c
+    lines:
+      - ['G', 'C', 'D', 'G']
+  - template: v
+    lines:
+      - ['G', 'D', 'em']
+      - ['em', 'D', 'G']
+  - template: v10
+    lines:
+      - ['G', 'D', 'em']
+      - ['em', 'D', 'G']
+      - ['G', 'D', 'em']
+      - ['em', 'D', 'G']

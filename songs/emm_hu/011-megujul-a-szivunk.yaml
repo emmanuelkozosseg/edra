@@ -34,3 +34,16 @@ lyrics:
           - néked adjuk az életünk.
           - Száll a háladalunk most Hozzád,
           - mert Te megszabadítottál!
+chords:
+  - template: c
+    lines:
+      - ['F', 'B', 'C']
+      - ['am', 'B', 'gm7', 'F']
+      - ['F', 'B', 'C']
+      - ['am', 'B', 'gm7', 'F']
+  - template: v
+    lines:
+      - ['F', 'am7']
+      - ['B', 'F']
+      - ['am7']
+      - ['B', 'C']

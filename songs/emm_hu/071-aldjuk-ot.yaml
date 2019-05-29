@@ -40,3 +40,16 @@ lyrics:
           - mert Benne lel békét a szívünk.
           - Szentlelked, jó Urunk, áraszd le ránk,
           - ajkunk téged áld, amíg élünk.
+chords:
+  - template: c
+    lines:
+      - ['em', 'C']
+      - ['am', 'D', 'G', 'H7']
+      - ['em', 'C']
+      - ['am', 'H7', 'em']
+  - template: v
+    lines:
+      - ['C', 'D', 'G', 'em']
+      - ['C', 'D', 'H7']
+      - ['C', 'D', 'G', 'C']
+      - ['am', 'C', 'D']

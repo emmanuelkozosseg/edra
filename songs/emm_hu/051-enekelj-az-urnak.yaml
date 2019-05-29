@@ -25,3 +25,14 @@ lyrics:
         lines:
           - Ujjongjon az ég, örvendjen a föld,
           - harsogjon a tenger és minden benne élő!
+chords:
+  - template: c
+    lines:
+      - ['C', 'G']
+      - ['F', 'G', 'C', 'G']
+      - ['C', 'G']
+      - ['F', 'G', 'C', 'C7']
+  - template: v
+    lines:
+      - ['F', 'G', 'am', 'dm', 'F', 'C', 'C7']
+      - ['F', 'G', 'am', 'dm', 'G', 'G7', 'C']

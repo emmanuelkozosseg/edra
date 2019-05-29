@@ -29,3 +29,18 @@ lyrics:
           - Az Úr az, aki eljön értem,
           - Ő visz el magával az
           - örök dicsőségbe.
+chords:
+  - template: c
+    lines:
+      - ['am', 'dm', 'G']
+      - ['em', 'am']
+      - ['am', 'dm', 'G']
+      - ['em', 'am']
+  - template: v
+    lines:
+      - ['am', 'dm', 'G']
+      - ['am', 'G', 'am']
+      - ['dm', 'em', 'am']
+      - ['am', 'dm', 'G']
+      - ['am', 'G', 'am']
+      - ['dm', 'em', 'am']

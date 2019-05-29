@@ -36,3 +36,15 @@ lyrics:
           - Néked háladal szól már,
           - mert oly csodálatos vagy.
           - Békét adsz a lelkembe minden nap.
+chords:
+  - template: c
+    lines:
+      - ['D', 'C6', 'G', 'A4', 'A3']
+      - ['D', 'hm', 'em', 'A4', 'A3']
+      - ['D', 'C6', 'G', 'A4', 'A3']
+      - ['D', 'hm', 'em', 'A4', 'A3']
+  - template: c
+    lines:
+      - ['D', 'Fis', 'hm', 'em']
+      - ['A', 'D']
+      - ['Fis7', 'hm', 'em', 'C', 'A4', 'A3']

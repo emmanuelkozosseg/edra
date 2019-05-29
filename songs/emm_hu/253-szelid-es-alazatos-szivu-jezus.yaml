@@ -12,6 +12,21 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - Szelíd és alázatos szívű Jézus,
-          - alakítsd szívünket
-          - a Te szent szíved szerint!
+          - group: repeat
+            times: 2
+            lines:
+              - Szelíd és alázatos szívű Jézus,
+              - alakítsd szívünket
+              - a Te szent szíved szerint!
+chords:
+  - template: all
+    lines:
+      - group: repeat
+        type: unique
+        repetitions:
+          - - ['am', 'F', 'G', 'C']
+            - ['dm', 'am']
+            - ['dm', 'E']
+          - - ['am', 'F', 'G', 'C']
+            - ['dm', 'am']
+            - ['E', 'am']

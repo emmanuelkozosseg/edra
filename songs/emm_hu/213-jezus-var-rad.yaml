@@ -13,3 +13,10 @@ lyrics:
           - Jöjj, térj be hozzá!
           - Megkönnyíti lelkedet,
           - békét ad neked.
+chords:
+  - template: all
+    lines:
+      - ['D', 'em7', 'A', 'D']
+      - ['D', 'em7', 'A', 'D']
+      - ['D', 'em7', 'A', 'D']
+      - ['D', 'em7', 'A', 'D']

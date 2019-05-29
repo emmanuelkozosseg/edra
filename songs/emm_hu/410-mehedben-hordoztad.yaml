@@ -33,3 +33,14 @@ lyrics:
         lines:
           - Fenn a mennyben ad Fiad szép koronát,
           - Szűzanyánk, ma kér imánk, hű Pátrónánk!
+chords:
+  - template: c
+    lines:
+      - ['A', 'D', 'A', 'E/Gis']
+      - ['fism', 'D', 'hm', 'E']
+      - ['A', 'D', 'A', 'E/Gis']
+      - ['fism', 'D', 'E', 'A']
+  - template: v
+    lines:
+      - ['A', 'D', 'E', 'A', 'hm', 'E']
+      - ['A', 'D', 'E', 'fism', 'D', 'hm', 'E']

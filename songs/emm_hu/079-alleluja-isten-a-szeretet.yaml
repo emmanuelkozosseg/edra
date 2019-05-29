@@ -33,3 +33,14 @@ lyrics:
         lines:
           - Dicsérlek, Istenem, áldalak szüntelen.
           - Jóságod hirdetem életemmel.
+chords:
+  - template: c
+    lines:
+      - ['C', 'F', 'G', 'C']
+      - ['F', 'G', 'G7']
+      - ['C', 'F', 'G', 'C']
+      - ['F', 'G7', 'C']
+  - template: v
+    lines:
+      - ['C', 'em', 'F', 'G', 'C', 'F6', 'D', 'G']
+      - ['C', 'em', 'F', 'G', 'F6', 'D', 'G']

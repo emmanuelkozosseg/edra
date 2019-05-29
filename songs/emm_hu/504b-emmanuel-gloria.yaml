@@ -1,0 +1,78 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '504b'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Emmánuel mise (Gloria)
+    verses:
+      - name: c
+        lines:
+          - Gloria! Gloria in excelsis Deo!
+          - Gloria! Gloria in excelsis Deo!
+      - name: v1
+        lines:
+          - És a földön békesség
+          - a jószándékú embereknek!
+          - Dicsőítünk téged, áldunk téged,
+          - imádunk téged, magasztalunk téged,
+          - hálát adunk néked nagy dicsőségedért!
+      - name: v2
+        lines:
+          - Urunk és Istenünk, mennyei Király,
+          - mindenható Atyaisten.
+          - Urunk, Jézus Krisztus, egyszülött Fiú,
+          - Urunk és Istenünk,
+          - Isten Báránya, az Atyának Fia.
+      - name: v3
+        lines:
+          - Te elveszed a világ bűneit,
+          - irgalmazz nékünk!
+          - Te elveszed a világ bűneit,
+          - hallgasd meg könyörgésünket!
+          - Te, aki az Atya jobbján ülsz,
+          - irgalmazz nékünk!
+      - name: v4
+        lines:
+          - Mert egyedül csak Te vagy a Szent,
+          - Te vagy az Úr,
+          - Te vagy az egyetlen Fölség,
+          - Jézus Krisztus, a Szentlélekkel együtt
+          - az Atyaisten dicsőségében.
+          - Ámen.
+chords:
+  - template: c
+    lines:
+      - ['A', 'fism7', 'E', 'D/F', 'A/Cis', 'D', 'hm', 'hm7/E', 'E']
+      - ['A', 'fism7', 'E', 'D/F', 'A/Cis', 'D', 'hm', 'E4', 'E3', 'A']
+  - template: v1
+    lines:
+      - ['A', 'E/Gis', 'D', 'E']
+      - ['A/Cis', 'D', 'hm7/E', 'E']
+      - ['fism', 'E', 'A', 'D']
+      - ['hm7', 'D7', 'hm7/E', 'E']
+      - ['D', 'hm7', 'hm7/E', 'E', 'D', 'hm7', 'hm7/E', 'E']
+  - template: v2
+    lines:
+      - ['A', 'E', 'D/Fis', 'E']
+      - ['A/Cis', 'D', 'hm7/E', 'E']
+      - ['fism', 'E', 'A', 'D', 'hm7']
+      - ['D7', 'hm', 'hm7/E', 'E']
+      - ['D', 'hm7', 'hm/E', 'E', 'D', 'hm7', 'hm/E', 'E']
+  - template: v3
+    lines:
+      - ['A', 'E/Gis', 'D', 'E']
+      - ['A/Cis', 'D', 'hm7/E', 'E']
+      - ['fism', 'E', 'A', 'D']
+      - ['hm7', 'D7', 'hm7/E', 'E']
+      - ['A', 'E', 'D7', 'E']
+      - ['A/Cis', 'D', 'hm7/E']
+  - template: v4
+    lines:
+      - ['A', 'E/Gis', 'D/Fis', 'E']
+      - ['D/Fis', 'E']
+      - ['A/Cis', 'D', 'hm7/E', 'E']
+      - ['fism', 'E', 'A', 'D']
+      - ['hm', 'hm7/E', 'E']
+      - ['D', 'hm7', 'hm7/E', 'E']

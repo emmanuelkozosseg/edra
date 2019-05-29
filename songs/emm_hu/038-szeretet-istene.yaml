@@ -49,3 +49,16 @@ lyrics:
           - Szent Fiaddal együtt tisztelünk.
           - 'Véled áldjuk a Lelkedet:'
           - 'mind, aki él zengi: szent a neved.'
+chords:
+  - template: c
+    lines:
+      - ['G', 'em']
+      - ['am', 'D']
+      - ['G', 'em']
+      - ['am', 'D7', 'G']
+  - template: v
+    lines:
+      - ['G', 'D6', 'em']
+      - ['C', 'D']
+      - ['G', 'D6', 'em']
+      - ['C', 'am', 'D']

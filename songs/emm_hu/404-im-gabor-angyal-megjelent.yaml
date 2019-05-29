@@ -25,3 +25,16 @@ lyrics:
           - kit ím, szűzen szült Mária.
           - 'Mindnyájunk életét ismeri:'
           - örömünk és bánatunk.
+chords:
+  - template: c
+    lines:
+      - ['em', 'G', 'D']
+      - ['C', 'H']
+      - ['em', 'G', 'D']
+      - ['C', 'H7', 'em']
+  - template: v
+    lines:
+      - ['G', 'D']
+      - ['em', 'H7']
+      - ['G', 'D']
+      - ['C', 'H7', 'em']

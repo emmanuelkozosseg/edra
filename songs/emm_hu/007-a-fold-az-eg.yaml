@@ -13,8 +13,7 @@ lyrics:
       - name: v1
         lines:
           - A föld, az ég és minden nép
-          - most vég nélkül zengje,
-          - hogy szeret az Úr!
+          - most vég nélkül zengje, | hogy szeret az Úr!
       - name: c
         lines:
           - Alleluja, alleluja,
@@ -27,3 +26,12 @@ lyrics:
         lines:
           - A hárfa dalol és trombita kiált,
           - hogy íme, már eljött a szabadulás!
+chords:
+  - template: c
+    lines:
+      - ['em', 'C', 'am', 'D', 'em']
+      - ['em', 'C', 'D', 'hm', 'em']
+  - template: v
+    lines:
+      - ['em', 'hm', 'C', 'D', 'G']
+      - ['em', 'hm', 'em']

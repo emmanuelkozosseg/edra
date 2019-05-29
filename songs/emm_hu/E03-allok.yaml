@@ -10,7 +10,7 @@ lyrics:
   - lang: hu
     title: Állok
     verses:
-      - name: v1
+      - name: c
         lines:
           - Állok és Téged csodállak, Istenem,
           - nézem, ki értem lett szegény.
@@ -45,9 +45,14 @@ lyrics:
           - My soul now to stand
       - name: c
         lines:
-          - So I'll stand
-          - With arms high and heart abandoned
+          - So I'll stand | with arms high and heart abandoned
           - In awe of the One who gave it all
-          - I'll stand
-          - My soul Lord to You surrendered
+          - I'll stand | my soul Lord to You surrendered
           - All I am is Yours
+chords:
+  - template: c
+    lines:
+      - ['G', 'D', 'A', 'hm', 'G']
+      - ['D', 'A', 'hm', 'G']
+      - ['D', 'A', 'hm', 'G']
+      - ['D', 'A']

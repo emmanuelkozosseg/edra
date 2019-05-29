@@ -16,3 +16,10 @@ lyrics:
           - Gratia plena, Dominus tecum.
           - Totus Tuus, ora pro nobis,
           - Maria, Maria.
+chords:
+  - template: all
+    lines:
+      - ['em', 'hm', 'C', 'D', 'G']
+      - ['em', 'hm', 'A', 'C', 'D']
+      - ['G', 'D', 'B', 'F']
+      - ['am7', 'D', 'am7', 'D']

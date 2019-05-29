@@ -50,3 +50,24 @@ lyrics:
           - 'könnyű szívvel mondhatom:'
           - kész vagyok s tudom, vár
           - odafönt otthonom.
+chords:
+  - template: c
+    lines:
+      - ['F']
+      - ['dm']
+      - ['D', 'gm']
+      - ['C']
+      - ['F']
+      - ['dm']
+      - ['D', 'gm']
+      - ['C4', 'C3']
+  - template: v
+    lines:
+      - ['F', 'gm/F']
+      - ['B', 'B/C', 'C']
+      - ['F', 'dm']
+      - ['gm', 'B', 'C']
+      - ['F', 'Es']
+      - ['B', 'B/C', 'C']
+      - ['F', 'gm/F']
+      - ['B', 'C4', 'C3']

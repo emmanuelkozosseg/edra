@@ -14,3 +14,8 @@ lyrics:
         lines:
           - Urunk, küldd el a Szentlelket,
           - aki megújítja a földnek színét!
+chords:
+  - template: all
+    lines:
+      - ['E', 'A', 'H', 'E']
+      - ['A6', 'H', 'E', 'A6', 'H7', 'E']

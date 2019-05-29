@@ -34,3 +34,16 @@ lyrics:
           - dicsérjen mennyeknek égi kara!
           - Háromszor szent Isten, Téged dicsér
           - mindenki fölséges tetteidért!
+chords:
+  - template: c
+    lines:
+      - ['F', 'C', 'dm']
+      - ['B', 'gm', 'C']
+      - ['F', 'C', 'dm']
+      - ['B', 'gm', 'C']
+  - template: v
+    lines:
+      - ['F', 'am/E', 'dm']
+      - ['B', 'gm', 'C7']
+      - ['F', 'am/E', 'dm']
+      - ['B', 'gm', 'C7']

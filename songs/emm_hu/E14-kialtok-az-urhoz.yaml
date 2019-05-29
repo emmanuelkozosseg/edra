@@ -9,8 +9,22 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - '/: Kiáltok az Úrhoz,'
-          - mert méltó, hogy Őt dicsérjük! :/
+          - group: repeat
+            times: 2
+            lines:
+              - Kiáltok az Úrhoz,
+              - mert méltó, hogy Őt dicsérjük!
           - Szabaddá tesz engem,
           - szabaddá tesz engem
           - az ellenségtől!
+chords:
+  - template: all
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - ['D', 'A']
+          - ['hm', 'G']
+      - ['D', 'C', 'G']
+      - ['D', 'C', 'G']
+      - ['A', 'D']

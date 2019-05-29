@@ -12,7 +12,6 @@ lyrics:
           - Jézus, áldott légy!
           - Jézus, áldott légy!
           - Jézus, áldott légy!
-          - Jézus, áldott légy!
           - Áldott örökké!
       - name: v1
         lines:
@@ -32,3 +31,16 @@ lyrics:
           - a szeretetért,
           - országodért, kegyelmedért,
           - mindenért!
+chords:
+  - template: c
+    lines:
+      - ['G', 'C']
+      - ['am', 'D']
+      - ['hm', 'em']
+      - ['am', 'D', 'G']
+  - template: v
+    lines:
+      - ['C', 'am', 'D', 'hm']
+      - ['em', 'am', 'D']
+      - ['C', 'am', 'D', 'hm']
+      - ['em', 'am', 'D', 'G']

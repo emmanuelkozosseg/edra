@@ -116,3 +116,14 @@ lyrics:
           - in this communion feast,
           - Stay with us, dwell in us,
           - remain always in our hearts.
+chords:
+  - template: all
+    lines:
+      - ['G', 'D/Fis', 'em', 'hm7']
+      - ['C', 'am7', 'D']
+      - ['G', 'D/Fis', 'em']
+      - ['C', 'G', 'hm7', 'D']
+      - ['hm', 'em', 'D/Fis', 'G']
+      - ['C/F', 'G', 'D4', 'D3']
+      - ['C', 'D4', 'D3', 'H', 'em']
+      - ['C', 'D', 'G']

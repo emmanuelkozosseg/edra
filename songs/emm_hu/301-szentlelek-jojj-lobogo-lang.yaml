@@ -34,3 +34,10 @@ lyrics:
           - jöjj, az alvót ébreszd fel!
           - Jöjj, a bűntől tisztíts meg,
           - bátoríts minket!
+chords:
+  - template: all
+    lines:
+      - ['em', 'D']
+      - ['D', 'em']
+      - ['em', 'D']
+      - ['hm', 'em']

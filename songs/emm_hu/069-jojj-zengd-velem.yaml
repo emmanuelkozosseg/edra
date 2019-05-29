@@ -40,3 +40,16 @@ lyrics:
           - minden időben!
           - Óvja, védi híveit,
           - kik Benne remélnek.
+chords:
+  - template: c
+    lines:
+      - ['E', 'A', 'H', 'E']
+      - ['E', 'A', 'D', 'H']
+      - ['E', 'A', 'H', 'E']
+      - ['fism', 'H', 'E']
+  - template: v
+    lines:
+      - ['Gis', 'cism']
+      - ['Gis', 'cism']
+      - ['Gis', 'cism']
+      - ['D', 'H4', 'H']

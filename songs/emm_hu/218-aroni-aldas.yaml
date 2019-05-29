@@ -17,5 +17,31 @@ lyrics:
           - Világosítsa meg az Úr
           - az Ő orcáját terajtad,
           - és könyörüljön terajtad!
-          - '/: Fordítsa az Úr az Ő orcáját rád, :/'
-          - '/: és adjon békét tenéked! :/'
+          - group: repeat
+            times: 2
+            lines:
+              - Fordítsa az Úr az Ő orcáját rád,
+          - group: repeat
+            times: 2
+            lines:
+              - és adjon békét tenéked!
+chords:
+  - template: v1
+    lines:
+      - ['C', 'em', 'dm', 'G']
+      - ['C', 'em', 'dm', 'G']
+      - ['C', 'G', 'C', 'C7']
+  - template: v2
+    lines:
+      - ['dm', 'em', 'C']
+      - ['dm', 'em', 'C']
+      - ['dm', 'F', 'G', 'G7']
+      - group: repeat
+        type: uniform
+        lines:
+          - ['C', 'em', 'dm', 'G']
+      - group: repeat
+        type: unique
+        repetitions:
+          - - ['C', 'G', 'C', 'C7']
+          - - ['C', 'G', 'C', 'C']

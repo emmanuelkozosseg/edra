@@ -30,3 +30,15 @@ lyrics:
           - mely, ha botlik a láb, átvezet az éjszakán.
           - Lélek, szállj le reánk, égjen újra a láng!
           - Vár Terád, Lélek, ez a világ!
+chords:
+  - template: c
+    lines:
+      - ['fism', 'hm', 'Cis']
+      - ['fism', 'hm', 'Cis']
+      - ['fism', 'E', 'D', 'Cis7|Cis', '-|fism']
+  - template: v
+    lines:
+      - ['E', 'A', 'Cis']
+      - ['fism', 'Cis7']
+      - ['E7', 'A', 'Cis7']
+      - ['fism', 'Cis7', 'fism', 'Cis7']

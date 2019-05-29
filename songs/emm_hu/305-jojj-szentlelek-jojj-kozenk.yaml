@@ -37,3 +37,14 @@ lyrics:
         lines:
           - Igaz tanú, Lélek, magaddal ragadsz,
           - hirdessük a földön, Jézus velünk marad!
+chords:
+  - template: c
+    lines:
+      - ['em', 'hm']
+      - ['em', 'D']
+      - ['G', 'D']
+      - ['hm', 'em']
+  - template: v
+    lines:
+      - ['em', 'hm', 'em', 'hm', 'em']
+      - ['D', 'G', 'D', 'em', 'hm', 'em']

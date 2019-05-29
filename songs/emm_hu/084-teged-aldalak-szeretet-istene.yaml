@@ -31,3 +31,16 @@ lyrics:
           - és az angyali kar fenn az égben
           - 'zengje: boldog, ki Istenben bízik,'
           - boldog, ki hozzá kiált.
+chords:
+  - template: c
+    lines:
+      - ['am', 'F', 'G4', 'C']
+      - ['F', 'C', 'hm7', 'E']
+      - ['am', 'F', 'G4', 'am']
+      - ['F', 'G', 'am']
+  - template: v
+    lines:
+      - ['C', 'G']
+      - ['dm', 'am4']
+      - ['am', 'F', 'am']
+      - ['F', 'dm', 'E']

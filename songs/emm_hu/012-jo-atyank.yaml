@@ -34,3 +34,16 @@ lyrics:
           - szent neve örökkévaló.
           - Vár reánk az égi lakoma,
           - ámen, alleluja!
+chords:
+  - template: c
+    lines:
+      - ['D', 'fism', 'G', 'A']
+      - ['D', 'hm7', 'C', 'A']
+      - ['D', 'G', 'A']
+      - ['em', 'A', 'D']
+  - template: v
+    lines:
+      - ['hm', 'Fis']
+      - ['hm', 'Fis']
+      - ['hm', 'A']
+      - ['G', 'Fis']

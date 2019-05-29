@@ -29,3 +29,18 @@ lyrics:
           - Felemelsz, hogyha elbukom,
           - Szentlelked betölt, jól tudom,
           - Te vagy a mindenem.
+chords:
+  - template: c
+    lines:
+      - ['E', 'H', 'cism', 'gism']
+      - ['A', 'E/H', 'H', 'E', 'H']
+      - ['E', 'H', 'cism', 'gism']
+      - ['A', 'E/H', 'H', 'E']
+  - template: v
+    lines:
+      - ['E', 'H', 'cism']
+      - ['gism', 'A']
+      - ['E', 'H', 'E', 'H']
+      - ['E', 'H', 'cism']
+      - ['gism', 'A']
+      - ['E', 'H', 'E']

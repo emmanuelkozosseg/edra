@@ -1,0 +1,16 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '501c'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent Lőrinc mise (Alleluja)
+    verses:
+      - name: v1
+        lines:
+          - Alleluja, alleluja, alleluja!
+chords:
+  - template: all
+    lines:
+      - ['gm', 'D', 'gm', 'B', 'F', 'B', 'cm', 'gm', 'D']

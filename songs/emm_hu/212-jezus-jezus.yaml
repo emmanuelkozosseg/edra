@@ -13,3 +13,10 @@ lyrics:
           - Jézus, Jézus!
           - Jézus, Jézus!
           - Jézus, Jézus!
+chords:
+  - template: all
+    lines:
+      - ['D', 'A']
+      - ['em', 'hm']
+      - ['hm', 'G', 'D']
+      - ['em7', 'G(6-5)', 'D', 'A', 'D']

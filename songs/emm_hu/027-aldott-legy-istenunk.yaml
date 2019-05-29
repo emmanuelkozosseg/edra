@@ -39,3 +39,18 @@ lyrics:
           - ahogy Ő szeret minket.
           - Miképpen Atyátok,
           - ti is szentek legyetek!
+chords:
+  - template: c
+    lines:
+      - ['em']
+      - ['C']
+      - ['D', 'G', 'H7']
+      - ['em']
+      - ['C']
+      - ['D', 'hm', 'em']
+  - template: v
+    lines:
+      - ['em', 'D']
+      - ['G', 'D', 'em']
+      - ['em', 'D']
+      - ['G', 'A', 'H4', 'H3']

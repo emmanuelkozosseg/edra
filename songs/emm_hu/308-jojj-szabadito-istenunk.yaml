@@ -28,3 +28,15 @@ lyrics:
           - Add örömöd, hogyha csügged a szív,
           - a szeretetedet hadd érezzük!
           - Tüzes Parázs, jöjj, lobogj bennünk!
+chords:
+  - template: c
+    lines:
+      - ['em', 'C', 'hm']
+      - ['C', 'G']
+      - ['em', 'C', 'hm', 'em']
+      - ['am', 'hm7', 'em']
+  - template: v
+    lines:
+      - ['em', 'hm', 'D']
+      - ['em', 'C', 'am', 'D']
+      - ['G', 'em', 'am', 'em', 'am6', 'H', 'H7']

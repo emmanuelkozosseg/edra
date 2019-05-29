@@ -25,3 +25,22 @@ lyrics:
           - hisz tiéd az örökségem!
           - Ne félj és ne lankadj el,
           - hisz neked győznöd kell!
+chords:
+  - template: v1
+    lines:
+      - ['E', 'A']
+      - ['H', 'E']
+      - ['E', 'A']
+      - ['H', 'E']
+  - template: v2
+    lines:
+      - ['E', 'A']
+      - ['H', 'E']
+      - ['E', 'A']
+      - ['H', 'E']
+  - template: v3
+    lines:
+      - ['E', 'H']
+      - ['A', 'E', 'H']
+      - ['E', 'H']
+      - ['A', 'E', 'H']

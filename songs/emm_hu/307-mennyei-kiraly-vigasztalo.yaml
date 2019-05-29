@@ -15,11 +15,24 @@ lyrics:
           - és mindeneket betöltesz.
       - name: v2
         lines:
-          - Minden jónak kútfeje
-          - és az életnek megadója,
+          - Minden jónak kútfeje és az életnek megadója,
           - jöjj el és lakozzál mibennünk!
       - name: v3
         lines:
-          - És tisztíts meg minket minden
-          - szennytől, és üdvözítsd,
-          - Jóságos, a mi lelkünket!
+          - És tisztíts meg minket minden szennytől,
+          - és üdvözítsd, Jóságos, a mi lelkünket!
+chords:
+  - template: v1
+    lines:
+      - ['am', 'em', 'am']
+      - ['G']
+      - ['C', 'G', '(am)', 'em']
+      - ['(am)', 'em', 'am']
+  - template: v2
+    lines:
+      - ['G']
+      - ['C', 'G', 'em']
+  - template: v3
+    lines:
+      - ['am', 'em', 'am']
+      - ['am4', 'G', 'C', 'am', 'em', 'am']

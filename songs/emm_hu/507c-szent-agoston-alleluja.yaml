@@ -1,0 +1,24 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '507c'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent Ágoston mise (Alleluja)
+    verses:
+      - name: v1
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - Alleluja, alleluja,
+              - alleluja, alleluja!
+chords:
+  - template: all
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - ['em', 'A', 'C', 'D']
+          - ['am7', 'hm7', 'em']

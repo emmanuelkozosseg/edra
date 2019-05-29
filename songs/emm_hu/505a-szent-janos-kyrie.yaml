@@ -1,0 +1,26 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '505a'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent János mise (Kyrie)
+    verses:
+      - name: v1
+        lines:
+          - Kyrie eleison, eleison!
+          - Kyrie eleison, Kyrie eleison!
+      - name: v2
+        lines:
+          - Christe eleison, eleison!
+          - Christe eleison, Christe eleison!
+      - name: v3
+        lines:
+          - Kyrie eleison, eleison!
+          - Kyrie eleison, Kyrie eleison!
+chords:
+  - template: all
+    lines:
+      - ['dm', 'gm', 'C', 'F', 'G', 'A']
+      - ['dm', 'D', 'F', 'dm', 'A4', 'A3', 'dm']

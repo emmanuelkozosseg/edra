@@ -13,3 +13,10 @@ lyrics:
           - Jöjj el, jöjj el, Marana tha!
           - Jöjj el, jöjj el, Marana tha!
           - Jöjj el!
+chords:
+  - template: all
+    lines:
+      - ['D', 'G']
+      - ['A', 'D', 'G']
+      - ['A', 'D', 'G']
+      - ['D']

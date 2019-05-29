@@ -43,3 +43,10 @@ lyrics:
           - hálát adok, hogy várni fogsz.
           - Hálát adok, hogy ma reggel még
           - hálát adhatok.
+chords:
+  - template: v
+    lines:
+      - ['D', 'em7', 'A6']
+      - ['D', 'D7', 'G', 'A7']
+      - ['D', 'D7', 'G', 'gm']
+      - ['D', 'A7', 'D']

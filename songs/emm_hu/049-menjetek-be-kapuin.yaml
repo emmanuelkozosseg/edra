@@ -9,7 +9,27 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - '/: Menjetek be kapuin hálaadással,'
-          - tornácain át dicséretekkel! :/
-          - '/: Mert jó az Úr, örökkévaló kegyelme,'
-          - és hűsége megmarad mindörökre! :/
+          - group: repeat
+            times: 2
+            lines:
+              - Menjetek be kapuin hálaadással,
+              - tornácain át dicséretekkel!
+          - ""
+          - group: repeat
+            times: 2
+            lines:
+              - Mert jó az Úr, örökkévaló kegyelme,
+              - és hűsége megmarad mindörökre!
+chords:
+  - template: v1
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - ['am', 'G', 'am']
+          - ['am', 'G', 'am']
+      - group: repeat
+        type: uniform
+        lines:
+          - ['am', 'G', 'am']
+          - ['G', 'am']

@@ -14,8 +14,11 @@ lyrics:
         lines:
           - Feltekintek a hegyre,
           - 'hiszen onnét várom Őt:'
-          - '/: az ég s föld Teremtőjét,'
-          - igen, Ő a segítőm. :/
+          - group: repeat
+            times: 2
+            lines:
+              - az ég s föld Teremtőjét,
+              - igen, Ő a segítőm.
       - name: v1
         lines:
           - Mindig virraszt éberen,
@@ -28,3 +31,22 @@ lyrics:
           - bajtól, rossztól féltve véd.
           - 'Így szól hozzád: „Jöjj, ne félj!”'
           - Vele biztonságban élsz.
+chords:
+  - template: c
+    lines:
+      - ['D', 'A/Cis']
+      - ['em', 'Fis4', 'Fis3']
+      - group: repeat
+        type: unique
+        repetitions:
+          - - ['hm', 'fism']
+            - ['em', 'Fis4', 'Fis3']
+          - - ['hm', 'fism']
+          - - ['em', 'D/A', 'A7', 'D']
+  - template: v
+    lines:
+      - ['C', 'H7', 'em']
+      - ['D7', 'G']
+      - ['Fism7', 'hm']
+      - ['G', 'A4', 'A3']
+

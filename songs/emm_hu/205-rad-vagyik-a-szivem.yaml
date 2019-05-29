@@ -15,3 +15,9 @@ lyrics:
           - Rád vágyik a szívem, örök Isten.
           - Add nékem örömöd s a békédet,
           - mert csak Te vagy erőm és énekem.
+chords:
+  - template: all
+    lines:
+      - ['em', 'D', 'am', 'H']
+      - ['em', 'D', 'G', 'A7', 'H']
+      - ['G', 'D', 'em', 'am', 'H7', 'em']

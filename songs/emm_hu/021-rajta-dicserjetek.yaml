@@ -25,3 +25,16 @@ lyrics:
           - jóságos Úr és hűséges Király!
           - Énekeljétek hát az Ő nevét,
           - Istent dicsérje minden teremtmény!
+chords:
+  - template: c
+    lines:
+      - ['G', 'C', 'G']
+      - ['C', 'G', 'em', 'D9/4', 'D']
+      - ['G', 'C', 'G']
+      - ['C', 'G', 'C', 'D', 'G']
+  - template: v
+    lines:
+      - ['em', 'C']
+      - ['am', 'D', 'H7']
+      - ['em', 'C']
+      - ['am7', 'D4', 'D3']

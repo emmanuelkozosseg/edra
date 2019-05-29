@@ -49,3 +49,10 @@ lyrics:
           - hálát adok, hogy reményt adsz.
           - Hálát adok, hogy biztos eljössz,
           - mint a virradat.
+chords:
+  - template: v
+    lines:
+      - ['D', 'em7', 'A6']
+      - ['D', 'D7', 'G', 'A7']
+      - ['D', 'D7', 'G', 'gm']
+      - ['D', 'A7', 'D']

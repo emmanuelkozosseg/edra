@@ -35,3 +35,14 @@ lyrics:
           - Magasztallak, Fiú Lelke, örök örömem!
           - Érints engem, Isten Lelke, legyél életem!
           - Tarts meg engem, szeretet Lelke, Te vagy Istenem!
+chords:
+  - template: v
+    lines:
+      - ['D', 'G', 'fism', 'A7']
+      - ['D', 'G', 'fism', 'A7']
+      - ['D', 'G', 'fism', 'A7']
+      - ['D', 'G', 'A7', 'D']
+  - template: c
+    lines:
+      - ['D', 'fism', 'G', 'A7']
+      - ['D', 'fism', 'G', 'A7', 'D']

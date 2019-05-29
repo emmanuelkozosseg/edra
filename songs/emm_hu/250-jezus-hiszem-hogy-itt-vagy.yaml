@@ -9,8 +9,29 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - Jézus, hiszem, hogy itt vagy! (4x)
-          - ""
-          - Benned bízom, Benned remélek. (4x)
-          - ""
-          - Jézus, formáld a szívem! (4x)
+          - group: repeat
+            times: 4
+            lines:
+              - Jézus, hiszem, hogy itt vagy!
+      - name: v2
+        lines:
+          - group: repeat
+            times: 4
+            lines:
+              - Benned bízom, Benned remélek.
+      - name: v3
+        lines:
+          - group: repeat
+            times: 4
+            lines:
+              - Jézus, formáld a szívem!
+chords:
+  - template: all
+    lines:
+      - group: repeat
+        type: unique
+        repetitions:
+          - - ['em', 'am']
+          - - ['D', 'G']
+          - - ['em', 'am']
+          - - ['D', 'G', 'D7', 'G']

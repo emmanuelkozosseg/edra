@@ -34,3 +34,16 @@ lyrics:
           - Szüntelen hiszünk, remélünk.
           - Angyali sereg, velünk
           - áldd az ég Urát, Istenedet!
+chords:
+  - template: c
+    lines:
+      - ['hm', 'A']
+      - ['D']
+      - ['A']
+      - ['hm', 'Fis']
+  - template: v
+    lines:
+      - ['hm', 'fism']
+      - ['hm', 'A']
+      - ['D']
+      - ['A', 'hm', 'Fis7']

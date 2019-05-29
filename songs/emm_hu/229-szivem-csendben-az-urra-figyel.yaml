@@ -12,3 +12,9 @@ lyrics:
           - Szívem csendben az Úrra figyel, ki segít.
           - Szívem csendben az Úrra figyel, ki segít.
           - Szívem csendben az Úrra figyel.
+chords:
+  - template: all
+    lines:
+      - ['D', 'G/D', 'D', 'A']
+      - ['D', 'G/D', 'D', 'A']
+      - ['D', 'G/D', 'D']

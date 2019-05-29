@@ -34,3 +34,16 @@ lyrics:
           - Megvigasztal engem, mikor hordom terhemet.
           - A mindenségnek Alkotója hallja az imám,
           - Ő mindenkor gondot visel rám.
+chords:
+  - template: c
+    lines:
+      - ['C', 'G', 'F', 'G']
+      - ['am', 'dm', 'G']
+      - ['C', 'G', 'F', 'G']
+      - ['dm', 'G', 'C']
+  - template: v
+    lines:
+      - ['D', 'em']
+      - ['C', 'D', 'G']
+      - ['am', 'G', 'em']
+      - ['am', 'F', 'B', 'G']

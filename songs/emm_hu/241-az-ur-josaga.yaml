@@ -14,3 +14,11 @@ lyrics:
           - újjáéled reggelre, minden reggelre,
           - nagy a Te hűséged, ó, Uram,
           - nagy a Te hűséged.
+chords:
+  - template: all
+    lines:
+      - ['D', 'A', 'D', 'G', 'D', 'A']
+      - ['D', 'A', 'D', 'G', 'A4', 'A3']
+      - ['G', 'A', 'fism', 'hm']
+      - ['G', 'D', 'A', 'D', 'D7']
+      - ['G', 'D', 'A', 'D']

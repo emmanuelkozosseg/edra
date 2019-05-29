@@ -16,8 +16,7 @@ lyrics:
           - Mert az üdvösség ruhájába öltöztetett,
           - az igaz élet köntösébe burkolt,
           - mint a vőlegény, aki koszorút visel,
-          - mint a menyasszony,
-          - aki ékszerekkel díszíti magát.
+          - mint a menyasszony, | aki ékszerekkel díszíti magát.
       - name: v2
         lines:
           - Amint a föld megtermi gyümölcseit,
@@ -44,3 +43,22 @@ lyrics:
           - és a Szentléleknek
           - miképpen kezdetben,
           - most és mindörökké. Ámen.
+chords:
+  - template: c
+    lines:
+      - ['F', 'B', 'F', 'C7', 'F']
+      - ['C', 'F', 'C', 'F']
+  - template: v
+    lines:
+      - ['F']
+      - ['C', 'F', 'C', 'dm']
+      - ['dm', 'C']
+      - []
+  - template: v4
+    lines:
+      - ['F', 'B']
+      - ['B', 'F']
+      - ['F']
+      - ['C', 'F', 'C', 'dm']
+      - ['dm', 'C']
+      - []

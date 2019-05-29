@@ -32,3 +32,14 @@ lyrics:
           - Ő mindig újra vár miránk, ha elbukunk.
           - A nász idején ünnepeljetek,
           - hisz itt a Vőlegény, ki minket úgy szeret.
+chords:
+  - template: c
+    lines:
+      - ['em', 'hm']
+      - ['em', 'G', 'hm', 'em']
+  - template: v
+    lines:
+      - ['G', 'D']
+      - ['em', 'hm', 'D7']
+      - ['G', 'D']
+      - ['em', 'C', 'hm', 'em']

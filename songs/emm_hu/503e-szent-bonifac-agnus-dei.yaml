@@ -1,0 +1,26 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '503e'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent Bonifác mise (Agnus Dei)
+    verses:
+      - name: v1
+        lines:
+          - Agnus Dei, qui tollis peccata mundi,
+          - miserere nobis.
+      - name: v2
+        lines:
+          - Agnus Dei, qui tollis peccata mundi,
+          - dona nobis pacem!
+chords:
+  - template: v1
+    lines:
+      - ['D', 'A', 'D', 'A', 'D', 'A', 'hm', 'A', 'E', 'A']
+      - ['D', 'G', 'D', 'A4', 'A3']
+  - template: v2
+    lines:
+      - ['D', 'A', 'D', 'A', 'D', 'A', 'hm', 'A', 'E', 'A']
+      - ['D', 'G', 'D', 'A4', 'A3', 'D']

@@ -39,3 +39,12 @@ lyrics:
           - Maradj velem, úgy kérlek, Jézus,
           - maradj velem!
           - Tied vagyok, neked élek már.
+chords:
+  - template: all
+    lines:
+      - ['C', 'G', 'am']
+      - ['F', 'dm', 'G', 'G7']
+      - 
+      - ['C', 'E7', 'am']
+      - ['C']
+      - ['F', 'G', 'C', 'G']

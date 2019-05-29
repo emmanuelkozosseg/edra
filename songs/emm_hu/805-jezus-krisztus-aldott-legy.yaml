@@ -25,3 +25,14 @@ lyrics:
         lines:
           - 'Gyermeki szívvel együtt zengjük:'
           - szeretet az Isten, aki él!
+chords:
+  - template: c
+    lines:
+      - ['G', 'C', 'am', 'D']
+      - ['H', 'em', 'C', 'G', 'D4', 'D3']
+      - ['G', 'C', 'am', 'D']
+      - ['H', 'em', 'C', 'D', 'G']
+  - template: v
+    lines:
+      - ['am', 'D', 'H', 'em']
+      - ['C', 'hm', 'C', 'G']

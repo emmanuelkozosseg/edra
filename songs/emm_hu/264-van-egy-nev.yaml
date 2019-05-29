@@ -19,3 +19,16 @@ lyrics:
           - minden nyelv megvallja, hogy Ő,
           - minden nyelv megvallja,
           - hogy Jézus az Üdvözítő!
+chords:
+  - template: v1
+    lines:
+      - ['E', 'D2']
+      - ['A2/Cis']
+      - ['E', 'D2']
+      - ['A2/Cis', 'H4']
+  - template: v2
+    lines:
+      - ['A2', 'H4']
+      - ['A2', 'H4']
+      - ['A2', 'E9/Gis']
+      - ['A2/Fis', 'fism/E', 'D2', 'H4']

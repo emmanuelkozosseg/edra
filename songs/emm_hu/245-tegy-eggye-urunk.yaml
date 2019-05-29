@@ -11,6 +11,12 @@ lyrics:
         lines:
           - Tégy eggyé, Urunk!
           - Tégy eggyé, Urunk!
-          - Megláthassa a világ,
-          - hogy eljöttél,
+          - Megláthassa a világ, | hogy eljöttél,
           - tégy eggyé, Urunk!
+chords:
+  - template: all
+    lines:
+      - ['F', 'B', 'C', 'C7']
+      - ['F', 'B', 'C', 'C7']
+      - ['B', 'C', 'F', 'C', 'D', 'A']
+      - ['G', 'C', 'B', 'F']

@@ -28,3 +28,19 @@ lyrics:
           - úgy szeret dicsérni Téged.
           - Örvendezem, jó Atyám,
           - mert megváltottál és élek!
+chords:
+  - template: c
+    lines:
+      - ['G', 'C', 'D']
+      - ['C', 'G']
+      - ['C', 'D']
+      - ['C', 'G']
+      - ['am', 'D']
+      - ['H', 'em']
+      - ['D', 'G']
+  - template: v
+    lines:
+      - ['G', 'C', 'D', 'C']
+      - ['G', 'C', 'D', 'C']
+      - ['G', 'C', 'D', 'C']
+      - ['G', 'C', 'D', 'C']

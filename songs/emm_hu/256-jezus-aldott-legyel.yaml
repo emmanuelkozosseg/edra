@@ -24,3 +24,21 @@ lyrics:
           - dicsérjék neved a mennyben,
           - minden ember Néked zengjen
           - dicsőítő, szent éneket!
+chords:
+  - template: v1
+    lines:
+      - ['em', 'G', 'D']
+      - ['C', 'G']
+      - ['D', 'C']
+      - ['G']
+      - ['D', 'C']
+      - ['G', 'D']
+      - ['em']
+  - template: v2
+    lines:
+      - ['em', 'G', 'D']
+      - ['C', 'G']
+      - ['G', 'D']
+      - ['C']
+      - ['G', 'D']
+      - ['C', 'G']

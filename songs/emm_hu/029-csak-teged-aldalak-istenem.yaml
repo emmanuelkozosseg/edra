@@ -40,3 +40,16 @@ lyrics:
           - közel vagy ahhoz, ki szólít,
           - és Te válaszolsz imánkra.
           - Glória!
+chords:
+  - template: c
+    lines:
+      - ['dm', 'Es', 'F']
+      - ['gm', 'dm']
+      - ['Es', 'F']
+      - ['gm', 'dm', 'gm']
+  - template: v
+    lines:
+      - ['B', 'F']
+      - ['gm', 'dm']
+      - ['Es', 'F']
+      - ['gm']

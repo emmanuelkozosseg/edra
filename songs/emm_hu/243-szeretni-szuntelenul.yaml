@@ -34,3 +34,17 @@ lyrics:
           - testemet lángok között
           - adhatom áldozatul,
           - szeretet nélkül nem használ nékem.
+chords:
+  - template: c
+    lines:
+      - ['hm']
+      - ['em', 'hm']
+      - ['G', 'G/Fis', 'em']
+      - ['em6', 'Fis']
+  - template: v
+    lines:
+      - ['hm', 'em']
+      - ['hm']
+      - ['em6']
+      - ['hm']
+      - ['Fis']

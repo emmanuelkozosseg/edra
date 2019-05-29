@@ -31,3 +31,16 @@ lyrics:
           - Jézus, Isten Báránya!
           - Jézus, Jézus,
           - Jézus, Isten Báránya!
+chords:
+  - template: c
+    lines:
+      - ['C', 'D', 'G']
+      - ['C', 'D', 'G']
+      - ['C', 'D', 'G', 'D/Fis', 'em']
+      - ['C', 'D', 'G']
+  - template: v
+    lines:
+      - ['G', 'D']
+      - ['em', 'C', 'D']
+      - ['G', 'D']
+      - ['em', 'C', 'D']

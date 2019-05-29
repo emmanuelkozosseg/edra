@@ -35,3 +35,14 @@ lyrics:
           - bízz énbennem!
           - Felüdítem lelkedet,
           - add át életed!
+chords:
+  - template: c
+    lines:
+      - ['D', 'C']
+      - ['C', 'G', 'D']
+  - template: v
+    lines:
+      - ['C', 'D']
+      - ['em', 'A']
+      - ['C', 'D']
+      - ['em', 'A3-4-3']

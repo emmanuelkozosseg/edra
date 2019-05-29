@@ -46,3 +46,16 @@ lyrics:
           - és Jézust, szent Fiát,
           - és a Szentlelket is
           - mindörökké! Ámen.
+chords:
+  - template: c
+    lines:
+      - ['dm', 'am', 'dm']
+      - ['dm', 'C', 'F', 'A']
+      - ['dm', 'F', 'C', 'dm']
+      - ['dm', 'gm6', 'am', 'dm']
+  - template: v
+    lines:
+      - ['dm', 'gm']
+      - ['C', 'F']
+      - ['dm', 'gm']
+      - ['C', 'am', 'am7', 'A7', 'dm']

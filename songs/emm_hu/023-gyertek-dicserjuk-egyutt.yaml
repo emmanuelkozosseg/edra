@@ -10,7 +10,8 @@ lyrics:
       - name: v1
         lines:
           - Gyertek, dicsérjük együtt
-          - Izrael Szentjét, mert Ő a Megváltó!
+          - Izrael Szentjét,
+          - mert Ő a Megváltó!
       - name: v2
         lines:
           - Emeld fel kezedet,
@@ -27,3 +28,25 @@ lyrics:
           - táncoljunk Őelőtte!
           - 'Az Ő neve, az Ő neve:'
           - „Ott lakik az Úr!”
+chords:
+  - template: v1
+    lines:
+      - ['E7']
+      - ['F']
+      - ['E', 'dm', 'E']
+  - template: v2
+    lines:
+      - ['E']
+      - ['dm']
+      - ['E', 'dm', 'E']
+  - template: v3
+    lines:
+      - ['am']
+      - []
+      - []
+  - template: v4
+    lines:
+      - ['dm']
+      - []
+      - ['E']
+      - ['E7', 'am']

@@ -47,3 +47,28 @@ lyrics:
           - Te adsz és elveszel!
           - A szívem így felel,
           - hogy áldom szent Neved!
+chords:
+  - template: c
+    lines:
+      - ['A', 'E']
+      - ['D']
+      - ['A', 'E']
+      - ['fism', 'D']
+  - template: v
+    lines:
+      - ['A', 'E']
+      - ['fism', 'D']
+      - ['A', 'E']
+      - ['fism', 'D']
+      - ['A', 'E']
+      - ['fism', 'D']
+      - ['A', 'E']
+      - ['fism', 'D']
+      - ['A', 'E', 'fism', 'D']
+      - ['A', 'E', 'fism', 'D']
+  - template: b
+    lines:
+      - ['A', 'E']
+      - ['fism', 'D']
+      - ['A', 'E']
+      - ['fism', 'D']

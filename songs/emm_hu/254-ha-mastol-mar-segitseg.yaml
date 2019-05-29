@@ -11,23 +11,45 @@ lyrics:
         lines:
           - Ha mástól már segítség nem jő,
           - messzünnen hív téged Ő.
-          - '/: Jöjj szennyesen, méltatlanul,'
-          - úgy, ahogy vagy, vár az Úr! :/
+          - group: repeat
+            times: 2
+            lines:
+              - Jöjj szennyesen, méltatlanul,
+              - úgy, ahogy vagy, vár az Úr!
       - name: v2
         lines:
           - Ő megbocsátott, s ez elég.
           - Két karját nyújtja feléd.
-          - '/: Fogadd el hát azt a kezet,'
-          - melyet átütöttek a szegek! :/
+          - group: repeat
+            times: 2
+            lines:
+              - Fogadd el hát azt a kezet,
+              - melyet átütöttek a szegek!
       - name: v3
         lines:
           - Mert érted od'adta az Úr
           - önmagát áldozatul.
-          - '/: Életed szégyenét elmosta már,'
-          - csak légy az Övé, arra vár! :/
+          - group: repeat
+            times: 2
+            lines:
+              - Életed szégyenét elmosta már,
+              - csak légy az Övé, arra vár!
       - name: v4
         lines:
           - Mert leomlanak a hegyek,
           - s a halmok megrendülnek,
-          - '/: de hűsége soha meg nem inog,'
-          - mindörökké élni fog. :/
+          - group: repeat
+            times: 2
+            lines:
+              - de hűsége soha meg nem inog,
+              - mindörökké élni fog.
+chords:
+  - template: v
+    lines:
+      - ['dm']
+      - ['F', 'G']
+      - group: repeat
+        type: uniform
+        lines:
+          - ['gm', 'B', 'C', 'dm']
+          - ['B', 'C', 'dm']

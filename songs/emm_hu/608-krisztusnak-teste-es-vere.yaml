@@ -15,15 +15,12 @@ lyrics:
         lines:
           - A kenyér, amit eszünk, már nem kenyér,
           - a bor, amit iszunk, már nem bor.
-          - Ez valóban a feltámadott Krisztus
-          - teste és vére,
-          - ki annyira szeret minket,
-          - hogy ételül adja magát.
+          - Ez valóban a feltámadott Krisztus | teste és vére,
+          - ki annyira szeret minket, | hogy ételül adja magát.
       - name: v2
         lines:
           - Isten, akit szolgálunk, nem távollevő.
-          - Isten, akit magunkhoz veszünk,
-          - nem könyörtelen.
+          - Isten, akit magunkhoz veszünk, | nem könyörtelen.
           - Ő igazán gyöngéd és szerető Isten,
           - ki oly közeli, hogy bennünk akar lakni.
       - name: v3
@@ -34,16 +31,24 @@ lyrics:
           - hogy együk és ne haljunk meg.
       - name: v4
         lines:
-          - Én vagyok a mennyből alászállott
-          - élő kenyér.
+          - Én vagyok a mennyből alászállott | élő kenyér.
           - Örökké fog élni, ki ebből eszik.
           - A kenyér amelyet én adok,
           - az én testem a világ életéért.
       - name: v5
         lines:
-          - Aki eszi az én testemet
-          - és issza az én véremet,
+          - Aki eszi az én testemet | és issza az én véremet,
           - bennem marad, és én őbenne.
-          - Amint én az Atya által élek,
-          - aki engem küldött,
+          - Amint én az Atya által élek, | aki engem küldött,
           - ugyanúgy, aki engem eszik, általam él.
+chords:
+  - template: c
+    lines:
+      - ['C', 'F/C', 'G', 'E', 'am', 'em', 'F', 'em']
+      - ['F', 'am', 'G', 'C', 'F', 'C', 'G4', 'G3']
+  - template: v
+    lines:
+      - ['C']
+      - ['G', 'E7', 'am']
+      - ['F', 'dm6', 'E7']
+      - ['F6', 'G4', 'G3']

@@ -9,14 +9,20 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - '/: Jöjj, hívunk, jöjj,'
-          - Szentlélek, a szívünkbe áradj! :/
+          - group: repeat
+            times: 2
+            lines:
+              - Jöjj, hívunk, jöjj,
+              - Szentlélek, a szívünkbe áradj!
           - 'Úgy várunk és kiáltunk:'
           - áradj szét! Áradj szét! Áradj szét!
       - name: v2
         lines:
-          - '/: Jöjj, hívunk, jöjj,'
-          - mint folyó, amely túláradó! :/
+          - group: repeat
+            times: 2
+            lines:
+              - Jöjj, hívunk, jöjj,
+              - mint folyó, amely túláradó!
           - 'Úgy várunk és kiáltunk:'
           - áradj szét! Áradj szét! Áradj szét!
       - name: v3
@@ -27,3 +33,21 @@ lyrics:
           - mint folyó, amely túláradó!
           - 'Úgy várunk és kiáltunk:'
           - áradj szét! Áradj szét! Áradj szét!
+chords:
+  - template: v
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - ['D', 'hm']
+          - ['em', 'G', 'A', 'G', 'A']
+      - ['G', 'D', 'G', 'D']
+      - ['A', 'G', 'D']
+  - template: v3
+    lines:
+      - ['D', 'hm'] 
+      - ['em', 'G', 'A', 'G', 'A']
+      - ['D', 'hm'] 
+      - ['em', 'G', 'A', 'G', 'A']
+      - ['G', 'D', 'G', 'D']
+      - ['A', 'G', 'D']

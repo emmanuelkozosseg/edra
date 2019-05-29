@@ -24,9 +24,14 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - Jesus, Jesus,
-          - I want to adore You.
-          - Jesus, Jesus,
-          - I bow down before You.
+          - Jesus, Jesus, I want to adore You.
+          - Jesus, Jesus, I bow down before You.
           - Jesus, o Jesus, Saints and angels around You!
           - Jesus, Jesus, we worship You.
+chords:
+  - template: all
+    lines:
+      - ['D', 'fism', 'G', 'em', 'D', 'A']
+      - ['D', 'fism', 'G', 'em', 'D', 'A']
+      - ['hm', 'Fis', 'G', 'A', 'D']
+      - ['D', 'fism', 'G', 'A', 'D']

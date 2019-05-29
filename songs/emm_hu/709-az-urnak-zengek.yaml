@@ -11,3 +11,8 @@ lyrics:
         lines:
           - Az Úrnak zengek,
           - ereje örömöm forrása.
+chords:
+  - template: all
+    lines:
+      - ['am', 'D']
+      - ['D7', 'F', 'G', 'am']

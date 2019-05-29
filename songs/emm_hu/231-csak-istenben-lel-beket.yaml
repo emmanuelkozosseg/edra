@@ -23,13 +23,30 @@ lyrics:
         lines:
           - Népem, vesd az Úrra gondodat.
           - Hívjad és Ő válaszol.
-          - Aki Istent bízva kéri,
-          - irgalmat talál.
+          - Aki Istent bízva kéri, | irgalmat talál.
           - Ő mindig megsegít, óvja híveit.
       - name: v2
         lines:
           - Lelkem békét Istennél talál,
           - mindenkor Ő ad reményt,
-          - hisz az Úrnál van csak élet,
-          - üdvösség és áldás.
+          - hisz az Úrnál van csak élet, | üdvösség és áldás.
           - Ő mindig visszavár, halld hívó szavát!
+chords:
+  - template: c1
+    lines:
+      - ['A', 'D', 'E/A', 'A']
+      - ['E/A', 'A', 'A/G', 'fism', 'H', 'E4', 'E3']
+      - ['D', 'E/D', 'cism', 'fism']
+      - ['hm', 'D', 'Dmaj7', 'E4', 'E3']
+  - template: c2
+    lines:
+      - ['A', 'D', 'E/A', 'A']
+      - ['E/A', 'A', 'A/G', 'fism', 'H', 'E4', 'E3']
+      - ['D', 'E/D', 'cism', 'fism']
+      - ['hm', 'D', 'A4', 'A3']
+  - template: v
+    lines:
+      - ['am', 'dm', 'am', 'E']
+      - ['am', 'F', 'E4', 'E3']
+      - ['A', 'D/A', 'E/A', 'A']
+      - ['D', 'E/D', 'D', 'E4', 'E3']

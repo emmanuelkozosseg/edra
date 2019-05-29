@@ -29,3 +29,14 @@ lyrics:
           - hűségükkel szolgálnak.
           - Mint betlehemi nyájak pásztorai,
           - hódoljunk színe előtt!
+chords:
+  - template: c
+    lines:
+      - ['em', 'D', 'em', 'hm']
+      - ['G', 'D', 'em', 'hm', 'em']
+  - template: v
+    lines:
+      - ['em', 'D', 'em', 'hm']
+      - ['G', 'D', 'em', 'hm', 'em']
+      - ['em', 'D', 'em', 'hm']
+      - ['G', 'D', 'em', 'hm', 'em']

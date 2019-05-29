@@ -38,3 +38,25 @@ lyrics:
           - Fölségednek trónja elé,
           - Istenséged színe elé
           - egyházunk javára.
+chords:
+  - template: all
+    lines:
+      - ['am', 'C']
+      - ['G', 'D']
+      - ['am', 'C']
+      - ['G', 'D']
+      - ['em', 'C']
+      - ['D', 'em']
+      - ['em', 'C']
+      - ['D', 'em']
+  - template: v3
+    lines:
+      - ['am', 'C']
+      - ['G', 'D']
+      - ['am', 'C']
+      - ['G', 'D']
+      - ['em', 'C']
+      - ['D', 'em']
+      - ['em', 'C']
+      - ['em', 'C']
+      - ['D', 'em']

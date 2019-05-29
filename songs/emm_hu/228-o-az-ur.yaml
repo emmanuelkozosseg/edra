@@ -47,3 +47,11 @@ lyrics:
           - Minden térd meghajoljon,
           - minden nyelv csak Róla szóljon,
           - mert Jézus, Ő az Úr!
+chords:
+  - template: v
+    chords:
+      - ['H7', 'E']
+      - ['E', 'cism', 'H7']
+      - ['E', 'E7']
+      - ['A', 'fism']
+      - ['E', 'H7', 'E', 'A', 'E']

@@ -42,3 +42,20 @@ lyrics:
           - 'mondjad újra bennünk:'
           - „Jézus, Ő a Megváltónk,
           - Életünk, Reményünk!”
+chords:
+  - template: c
+    lines:
+      - ['dm', 'C', 'F']
+      - ['B', 'F', 'gm7', 'A']
+      - ['dm', 'C', 'F']
+      - ['B', 'F', 'gm', 'A', 'dm']
+  - template: v
+    lines:
+      - ['dm', 'am']
+      - ['B', 'F']
+      - ['F', 'gm']
+      - ['dm', 'B', 'A4', 'A3']
+      - ['dm', 'am']
+      - ['B', 'F']
+      - ['F', 'gm']
+      - ['gm', 'A4', 'A3']

@@ -12,8 +12,8 @@ lyrics:
           - Gyertek az Urat dicsérni, imádjuk Őt!
           - Földünkre eljött megváltó Istenünk,
           - övé a mindenség!
-          - 'Vidáman énekelj, ujjongva áldjad:'
-          - dicsőség!
+          - Vidáman énekelj,
+          - 'ujjongva áldjad: dicsőség!'
       - name: v1
         lines:
           - Az ősi bűntől megváltani jött.
@@ -44,3 +44,17 @@ lyrics:
           - Örülj, zengjen az Úrnak dicsőség!
           - Szent teste táplál, Ő a mi erőnk.
           - Örülj, zengjen az Úrnak dicsőség!
+chords:
+  - template: c
+    lines:
+      - ['D']
+      - ['G', 'D']
+      - ['A', 'D']
+      - []
+      - ['G', 'A', 'D']
+  - template: v
+    lines:
+      - ['D']
+      - ['G', 'A', 'D']
+      - ['D']
+      - ['G', 'A', 'D']

@@ -32,3 +32,17 @@ lyrics:
           - aki hisz, élni fog.
           - Szívének rejtett mélyéből
           - az élő víz felbuzog.
+chords:
+  - template: c
+    lines:
+      - ['D', 'fism']
+      - ['G', 'A', 'D']
+      - ['G', 'fism', 'hm']
+      - ['G', 'em', 'A']
+      - ['G', 'A', 'D']
+  - template: v
+    lines:
+      - ['D', 'fism']
+      - ['G', 'A', 'D']
+      - ['D', 'fism']
+      - ['G', 'A', 'D']

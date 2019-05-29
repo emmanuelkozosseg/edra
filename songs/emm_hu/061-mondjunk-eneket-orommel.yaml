@@ -9,8 +9,10 @@ lyrics:
     verses:
       - name: c
         lines:
-          - '/: Mondjunk éneket örömmel:'
-          - zengjen alleluja! :/
+          - 'Mondjunk éneket örömmel:'
+          - zengjen alleluja!
+          - 'Mondjunk éneket örömmel:'
+          - zengjen alleluja!
       - name: v1
         lines:
           - Széles, kacagó jókedvében
@@ -29,3 +31,16 @@ lyrics:
           - Atya, Fiú és Lélek,
           - öröm nélküle sehol sincsen,
           - áldás szent nevének!
+chords:
+  - template: c
+    lines:
+      - ['E', 'A', 'E']
+      - ['H7']
+      - ['E', 'A', 'E']
+      - ['A', 'H7', 'E']
+  - template: v
+    lines:
+      - ['A', 'gism']
+      - ['fism', 'E']
+      - ['A', 'gism']
+      - ['Fis', 'H']

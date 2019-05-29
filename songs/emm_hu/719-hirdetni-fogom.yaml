@@ -11,3 +11,8 @@ lyrics:
         lines:
           - Hirdetni fogom nevedet
           - testvéreim előtt.
+chords:
+  - template: all
+    lines:
+      - ['am', 'em']
+      - ['F', 'C']

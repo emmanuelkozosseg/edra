@@ -40,3 +40,16 @@ lyrics:
           - 'és Jézust: egyszülött Fiát,'
           - s a Szentlélek Istent minden nap!
           - Ámen! Alleluja!
+chords:
+  - template: c
+    lines:
+      - ['em', 'am']
+      - ['C', 'am', 'H4-3']
+      - ['em', 'am']
+      - ['C', 'am', 'hm7', 'em']
+  - template: v
+    lines:
+      - ['em', 'am7', 'hm7', 'em']
+      - ['am', 'D']
+      - ['D7', 'G', 'am', 'D']
+      - ['H7', 'em', 'am7', 'hm7', 'em']

@@ -12,10 +12,13 @@ lyrics:
     verses:
       - name: c
         lines:
-          - '/: Jöjj, Uram, Istenem,'
-          - és újítsd meg a szívemben örömödet,
-          - hisz nyugtalan a lelkem tenélküled,
-          - hát rád bízom életem! :/
+          - group: repeat
+            times: 2
+            lines:
+              - Jöjj, Uram, Istenem,
+              - és újítsd meg a szívemben örömödet,
+              - hisz nyugtalan a lelkem tenélküled,
+              - hát rád bízom életem!
       - name: v1
         lines:
           - Szomjazik a szívem, add a szereteted!
@@ -34,3 +37,17 @@ lyrics:
           - Kőszívem helyett hússzívet adj!
           - S hogyha életem egyszer véget ér,
           - végy fel engem is szentjeid közé!
+chords:
+  - template: c
+    lines:
+      - group: repeat
+        type: unique
+        repetitions:
+          - - ['dm']
+            - ['gm', 'C']
+            - ['gm6', 'A7', 'dm']
+            - ['gm6', 'A']
+          - - ['dm']
+            - ['gm', 'C']
+            - ['gm6', 'A7', 'dm']
+            - ['gm6', 'A7', 'dm4', 'dm3']

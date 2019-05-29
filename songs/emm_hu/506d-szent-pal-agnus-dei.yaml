@@ -1,0 +1,28 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '506d'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent Pál mise (Agnus Dei)
+    verses:
+      - name: v1
+        lines:
+          - Agnus Dei,
+          - qui tollis peccata mundi,
+          - miserere nobis,
+          - miserere nobis.
+      - name: v2
+        lines:
+          - Agnus Dei,
+          - qui tollis peccata mundi,
+          - dona nobis pacem,
+          - dona nobis pacem.
+chords:
+  - template: all
+    lines:
+      - ['am', 'em', 'F']
+      - ['C', 'dm', 'E']
+      - ['C', 'F', 'C6', 'dm', 'C']
+      - ['em', 'dm', 'am']

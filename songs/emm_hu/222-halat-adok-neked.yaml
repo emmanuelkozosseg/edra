@@ -43,3 +43,16 @@ lyrics:
           - védelmezőm lettél, örök Istenem.
           - Engem a Te jobbod szilárdan tart mindig.
           - Lelkem rád szomjazik.
+chords:
+  - template: c
+    lines:
+      - ['am', 'dm', 'am', 'E']
+      - ['am', 'dm', 'G', 'em', 'C', 'E']
+      - ['am', 'dm', 'am', 'E']
+      - ['am', 'dm', 'E', 'E7', 'am']
+  - template: v
+    chords:
+      - ['am', 'E', 'Gis', 'am']
+      - ['dm', 'am', 'H', 'E']
+      - ['am', 'E', 'Gis', 'am']
+      - ['dm', 'am', 'E', 'am']

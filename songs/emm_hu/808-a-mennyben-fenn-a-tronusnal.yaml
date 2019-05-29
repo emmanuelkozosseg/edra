@@ -17,7 +17,10 @@ lyrics:
           - Markába véste nevemet,
           - 'szívébe írta: nem feled,'
           - örökké Ő lesz pártfogóm,
-          - '/: elnémul minden vádolóm. :/'
+          - group: repeat
+            times: 2
+            lines:
+              - elnémul minden vádolóm.
       - name: v2
         lines:
           - Mikor a sátán megkísért,
@@ -28,7 +31,10 @@ lyrics:
           - Ő halt meg minden vétkemért,
           - a bűntelen a bűnösért,
           - Isten, a bíró fölmentett,
-          - '/: Krisztusra nézve engedett. :/'
+          - group: repeat
+            times: 2
+            lines:
+              - Krisztusra nézve engedett.
       - name: v3
         lines:
           - Íme a bárány, Ő van ott,
@@ -39,4 +45,23 @@ lyrics:
           - A Bárány vére volt az ár,
           - Őnála többé nincs halál,
           - Krisztusban üdvöm készen vár,
-          - '/: ott fenn, az Isten trónjánál. :/'
+          - group: repeat
+            times: 2
+            lines:
+              - ott fenn, az Isten trónjánál.
+chords:
+  - template: all
+    lines:
+      - ['D', 'G/D', 'D']
+      - ['hm', 'Fism']
+      - ['G', 'D/Fis', 'A7', 'hm']
+      - ['hm/A', 'G', 'em', 'A', 'D']
+      -
+      - ['G', 'D']
+      - ['G', 'em7', 'hm']
+      - ['G', 'D/Fis', 'A7', 'hm']
+      - group: repeat
+        type: unique
+        repetitions:
+          - - ['G', 'em7', 'hm']
+          - - ['G', 'em', 'D']

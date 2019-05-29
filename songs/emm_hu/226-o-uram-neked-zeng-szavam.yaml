@@ -9,9 +9,12 @@ lyrics:
     verses:
       - name: c
         lines:
-          - '/: Ó, Uram,'
-          - néked zeng szavam,
-          - Téged áldalak, :/
+          - group: repeat
+            times: 2
+            lines:
+              - Ó, Uram,
+              - néked zeng szavam,
+              - Téged áldalak,
           - ó, Uram!
       - name: v1
         lines:
@@ -23,3 +26,18 @@ lyrics:
           - Közelséged felüdít
           - és megvigasztal engem,
           - Szent Igéd megújítja lelkem.
+chords:
+  - template: c
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - ['am']
+          - ['C']
+          - ['dm']
+      - ['am']
+  - template: v
+    lines:
+      - ['G', 'E']
+      - ['am']
+      - ['H7', 'E']

@@ -1,0 +1,78 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '507b'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent Ágoston mise (Gloria)
+    verses:
+      - name: c
+        lines:
+          - Gloria, gloria in excelsis Deo!
+          - Gloria, gloria in excelsis Deo!
+      - name: v1
+        lines:
+          - És a földön békesség
+          - a jószándékú embereknek!
+          - Dicsőítünk téged, áldunk téged,
+          - imádunk téged, magasztalunk téged,
+          - hálát adunk néked nagy dicsőségedért!
+      - name: v2
+        lines:
+          - Urunk és Istenünk, mennyei Király,
+          - mindenható Atyaisten.
+          - Urunk, Jézus Krisztus, egyszülött Fiú,
+          - Urunk és Istenünk,
+          - Isten Báránya, az Atyának Fia.
+      - name: v3
+        lines:
+          - Te elveszed a világ bűneit,
+          - irgalmazz nékünk!
+          - Te elveszed a világ bűneit,
+          - hallgasd meg könyörgésünk!
+          - Te, aki az Atya jobbján ülsz,
+          - irgalmazz nékünk!
+      - name: v4
+        lines:
+          - Mert egyedül csak Te vagy a Szent,
+          - Te vagy az Úr,
+          - Te vagy az egyetlen Fölség,
+          - Jézus Krisztus, a Szentlélekkel együtt
+          - az Atyaisten dicsőségében.
+          - Ámen.
+chords:
+  - template: c
+    lines:
+      - ['em', 'A', 'C', 'am6', 'H4', 'H']
+      - ['em', 'A', 'C', 'am6', 'hm', 'em']
+  - template: v1
+    lines:
+      - ['em', 'C']
+      - ['am6', 'hm7', 'em']
+      - ['C']
+      - ['am6', 'hm7', 'em']
+      - ['A', 'C', 'am6', 'H4', 'H']
+  - template: v2
+    lines:
+      - ['em', 'C']
+      - ['am6', 'hm7', 'em']
+      - ['C']
+      - ['am6', 'hm7', 'em']
+      - ['A', 'C', 'am6', 'H4', 'H']
+  - template: v3
+    lines:
+      - ['em', 'A']
+      - ['C', 'am6', 'hm7', 'em']
+      - ['C']
+      - ['am6', 'hm7', 'em']
+      - ['em', 'A']
+      - ['C', 'am6', 'H4', 'H']
+  - template: v4
+    lines:
+      - ['em', 'A']
+      - ['A']
+      - ['C', 'am6', 'H4', 'H']
+      - ['A']
+      - ['C', 'am6', 'H4', 'H']
+      - ['em', 'C', 'am6', 'hm', 'em']

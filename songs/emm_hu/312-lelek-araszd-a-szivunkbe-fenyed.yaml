@@ -37,3 +37,16 @@ lyrics:
           - hol újra béke vár,
           - megpihen a lelkünk,
           - hogyha Rád talál.
+chords:
+  - template: c
+    lines:
+      - ['dm', 'C', 'F', 'A7']
+      - ['B', 'C', 'F', 'em7']
+      - ['A7', 'dm', 'C', 'F', 'A7']
+      - ['B', 'C', 'F', 'B', 'F']
+  - template: v
+    lines:
+      - ['C', 'dm', 'C']
+      - ['B', 'C', 'F']
+      - ['gm', 'A7', 'B']
+      - ['G7', 'A', 'A7']

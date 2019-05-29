@@ -13,3 +13,10 @@ lyrics:
           - Szálljon fel hozzá az ének!
           - Bízz, téged hív, irgalommal vár.
           - Dicséret áldja a mindenség Urát!
+chords:
+  - template: all
+    lines:
+      - ['A', 'D', 'E/D', 'cism']
+      - ['fism7', 'D', 'cism6', 'hm7', 'E']
+      - ['A', 'D', 'E/D', 'cism']
+      - ['fism', 'D', 'cism6', 'hm7', 'E4', 'E3', 'A']

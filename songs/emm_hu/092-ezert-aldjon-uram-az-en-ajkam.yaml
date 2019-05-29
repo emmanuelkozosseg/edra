@@ -110,3 +110,21 @@ lyrics:
           - And my mouth will sing your praise forever.
           - I never cease to give thanks to your name,
           - And my mouth will sing your praise forever.
+chords:
+  - template: c
+    lines:
+      - ['F', 'C', 'G', 'am']
+      - ['F', 'C', 'G']
+      - ['F', 'C', 'G', 'am']
+      - ['F', 'C', 'G']
+      - ['C', 'F', 'G', 'C']
+  - template: v
+    lines:
+      - ['C', 'F', 'C']
+      - ['C', 'F', 'G', 'C']
+      - ['C', 'F', 'C']
+      - ['C', 'F', 'G', 'C']
+      - ['C', 'F', 'G', 'am']
+      - ['C', 'F', 'G', 'C']
+      - ['C', 'F', 'G', 'am']
+      - ['C', 'F', 'G', 'C']

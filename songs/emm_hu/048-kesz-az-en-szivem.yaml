@@ -29,3 +29,15 @@ lyrics:
           - Szent az Úr, jó az Úr,
           - hirdetem a népek között,
           - mert az Ő hűsége az égig ér!
+chords:
+  - template: c
+    lines:
+      - ['G7', 'cm']
+      - ['fm', 'cm']
+      - ['cm', 'B', 'cm']
+  - template: v
+    lines:
+      - ['cm', 'cm']
+      - ['fm', 'cm']
+      - ['cm']
+      - ['B', 'G']

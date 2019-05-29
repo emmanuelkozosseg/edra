@@ -26,3 +26,15 @@ lyrics:
           - Békére és csendre intettem szívem,
           - és már a lelkem úgy pihen bennem,
           - amint a gyermek anyja ölén.
+chords:
+  - template: v
+    lines:
+      - ['hm', 'em', 'G', 'A']
+      - ['D', 'em', 'G', 'C']
+      - ['D', 'em', 'hm', 'A']
+  - template: c
+    lines:
+      - ['em', 'A4', 'A', 'D', 'hm']
+      - ['G', 'A', 'hm', 'H']
+      - ['em', 'A4', 'A', 'D', 'hm']
+      - ['G', 'A', 'hm']

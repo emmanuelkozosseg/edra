@@ -29,3 +29,14 @@ lyrics:
           - Őt dicsérjétek udvarában!
           - Mily jó az Úr, zengjétek szüntelen,
           - mert végtelen a szeretete!
+chords:
+  - template: c
+    lines:
+      - ['F', 'B', 'C', 'F']
+      - ['B', 'C', 'F', 'dm', 'C', 'F']
+  - template: v
+    lines:
+      - ['F']
+      - ['B', 'C', 'F']
+      - ['B', 'C', 'F', 'dm']
+      - ['C', 'F']

@@ -78,3 +78,17 @@ lyrics:
           - Telling the world your Name is true.
           - All of our joy by You is giv'n,
           - Reign in our hearts, Lord King of heav'n!
+chords:
+  - template: c
+    lines:
+      - ['F', 'C', 'dm']
+      - ['B', 'gm', 'C']
+      - ['F', 'C', 'dm']
+      - ['B', 'gm', 'C']
+      - ['B', 'C4', 'C3', 'F']
+  - template: v
+    lines:
+      - ['dm', 'am', 'G']
+      - ['dm', 'C']
+      - ['F', 'C']
+      - ['F', 'B', 'gm', 'C']

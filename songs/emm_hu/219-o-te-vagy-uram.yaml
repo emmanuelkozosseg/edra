@@ -24,3 +24,15 @@ lyrics:
           - szívünkből örvendezzünk!
           - Kik könnyek között vetnek,
           - vigadva kévét szednek.
+chords:
+  - template: c
+    lines:
+      - ['A', 'D']
+      - ['A', 'D', 'A']
+      - ['cism', 'D', 'hm', 'E']
+  - template: v
+    lines:
+      - ['A', 'D', 'A']
+      - ['D', 'A']
+      - ['C', 'G']
+      - ['D', 'hm', 'E', 'G', 'E7']

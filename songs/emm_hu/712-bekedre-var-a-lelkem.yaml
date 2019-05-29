@@ -13,3 +13,10 @@ lyrics:
           - csendesítsd el szívem!
           - ""
           - Uram, csendesítsd el szívem!
+chords:
+  - template: all
+    lines:
+      - ['Fmaj', 'C']
+      - ['Fmaj', 'G']
+      - 
+      - []

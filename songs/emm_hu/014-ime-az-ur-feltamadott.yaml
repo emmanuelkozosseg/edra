@@ -29,11 +29,22 @@ lyrics:
           - mindenható szent Atyánk!
       - name: v4
         lines:
-          - Most forduljatok el minden
-          - hamis istentől,
+          - Most forduljatok el
+          - minden hamis istentől,
           - mert Jézus a mi Üdvözítőnk!
       - name: v5
         lines:
-          - Az Ő szeretete erősebb,
-          - mint a halál,
+          - Az Ő szeretete
+          - erősebb, mint a halál,
           - és szent uralma már szilárdan áll.
+chords:
+  - template: c
+    lines:
+      - ['em', 'hm', 'em']
+      - ['hm', 'em']
+      - ['am', 'em', 'H']
+  - template: v
+    lines:
+      - ['D', 'G']
+      - ['H', 'em']
+      - ['D', 'C', 'H']

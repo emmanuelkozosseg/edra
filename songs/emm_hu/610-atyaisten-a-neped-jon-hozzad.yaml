@@ -46,3 +46,10 @@ lyrics:
           - In the offering of Jesus Your Son.
           - Come transform us for love and self-giving.
           - Make us a mirror of You.
+chords:
+  - template: all
+    lines:
+      - ['G', 'hm', 'C', 'em']
+      - ['am', 'G', 'C2', 'C3', 'D4', 'D3']
+      - ['G', 'hm', 'C', 'em']
+      - ['am', 'G', 'C', 'D7', 'G']

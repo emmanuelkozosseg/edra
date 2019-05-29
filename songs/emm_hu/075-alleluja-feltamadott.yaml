@@ -39,3 +39,19 @@ lyrics:
           - föld és ég már most és örökké.
           - 'A szentek és angyalok zengik velünk:'
           - alleluja, Jézus él!
+chords:
+  - template: c
+    lines:
+      - ['D', 'C2', 'D', 'C2', 'D']
+      - []
+      - ['C', 'G', 'D']
+      - ['D', 'C2', 'D', 'C2', 'D']
+      - []
+      - ['C', 'G', 'D']
+  - template: v
+    lines:
+      - ['D', 'G', 'A', 'D']
+      - ['hm', 'G', 'A']
+      - ['D', 'fism', 'F', 'G']
+      - ['E', 'A']
+

@@ -26,3 +26,13 @@ lyrics:
           - Minden nemzet eljön színed elé,
           - leborulva áldnak műveidért,
           - látják mind, hogy bölcsen ítélsz.
+chords:
+  - template: c
+    lines:
+      - ['hm', 'em', 'Fis']
+      - ['G', 'A', 'Fis7', 'hm']
+  - template: v
+    lines:
+      - ['G', 'D', 'A', 'D']
+      - ['G', 'D', 'A7', 'D']
+      - ['H7', 'em', 'hm', 'Fis']

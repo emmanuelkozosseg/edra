@@ -64,3 +64,16 @@ lyrics:
           - And lead us to the fulness of truth.
           - Come visit us and enlighten our souls
           - And open the doors so we'll proclaim the Good News.
+chords:
+  - template: c
+    lines:
+      - ['G', 'D', 'em']
+      - ['am', 'C', 'am', 'D']
+      - ['G', 'D', 'em']
+      - ['am', 'D', 'C', 'G']
+  - template: v
+    lines:
+      - ['em', 'C', 'D']
+      - ['C', 'D', 'G']
+      - ['G7', 'em', 'am', 'D']
+      - ['H7', 'em', 'am', 'D']

@@ -34,3 +34,20 @@ lyrics:
           - jöjj, és adj reményt!
           - Űzd el az éjt lelkünk rejtekén,
           - fényünk csak Te légy!
+chords:
+  - template: c
+    lines:
+      - ['em', 'am']
+      - ['D', 'H4', 'H3']
+      - ['em', 'C']
+      - ['am', 'H']
+      - ['em', 'am']
+      - ['D', 'H4', 'H3']
+      - ['em', 'C']
+      - ['am6', 'H', 'em']
+  - template: v
+    lines:
+      - ['em', 'am', 'C']
+      - ['D', 'H7']
+      - ['em', 'am', 'C']
+      - ['D', 'H4', 'H3']

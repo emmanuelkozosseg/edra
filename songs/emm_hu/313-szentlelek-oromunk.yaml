@@ -19,3 +19,10 @@ lyrics:
           - a Szabadító! Ma járj megint velünk!
           - A Vigasztaló, kit nékünk ad az Úr,
           - fogd meg a kezünk, mutasd meg az utunk!
+chords:
+  - template: all
+    lines:
+      - ['gm', 'cm', 'F', 'B']
+      - ['gm', 'cm', 'D', 'gm']
+      - ['gm', 'cm', 'F', 'B']
+      - ['gm', 'cm', 'D', 'gm']

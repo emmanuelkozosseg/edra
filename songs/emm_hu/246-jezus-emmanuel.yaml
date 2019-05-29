@@ -13,3 +13,10 @@ lyrics:
           - Emmánuel, Emmánuel, Emmánuel,
           - Jézus, Jézus, Jézus!
           - Emmánuel, Emmánuel, Emmánuel!
+chords:
+  - template: all
+    lines:
+      - ['D', 'A', 'hm', 'Fis', 'hm', 'A']
+      - ['D', 'A', 'hm', 'Fis', 'hm', 'A']
+      - ['D', 'A', 'hm', 'G', 'A', 'hm', '(A)']
+      - ['D', 'A', 'hm', 'G', 'A', 'hm', '(A)']

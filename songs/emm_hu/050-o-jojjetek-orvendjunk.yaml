@@ -14,3 +14,11 @@ lyrics:
           - énekeljünk az Úrnak!
           - Isten küldötte el nékünk szabadítóját,
           - a népek előtt megjelentette az Ő igazságát.
+chords:
+  - template: v1
+    lines:
+      - ['dm']
+      - ['F']
+      - ['C', 'dm']
+      - ['F', 'C', 'dm', 'A', 'A7']
+      - ['dm', 'gm', 'dm', 'A', 'dm']

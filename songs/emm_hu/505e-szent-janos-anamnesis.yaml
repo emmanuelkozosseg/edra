@@ -1,0 +1,22 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '505e'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent János mise (Anamnesis)
+    verses:
+      - name: v1
+        lines:
+          - Áldott légy, ki meghaltál!
+          - Áldott légy, ki újra élsz!
+          - Üdvözítőnk és Istenünk,
+          - jöjj el, Úr Jézus!
+chords:
+  - template: all
+    lines:
+      - ['dm', 'gm', 'C']
+      - ['F', 'G', 'A']
+      - ['dm', 'C', 'F']
+      - ['dm', 'A4', 'A3', 'dm']

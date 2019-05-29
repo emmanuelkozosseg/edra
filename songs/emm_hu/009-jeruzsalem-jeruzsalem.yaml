@@ -18,8 +18,7 @@ lyrics:
           - táncolj és énekelj az Úrnak!
       - name: v1
         lines:
-          - Kelj fel, tündökölj,
-          - hiszen a fényed eljött,
+          - Kelj fel, tündökölj, | hiszen a fényed eljött,
           - az Úr dicsősége rád ragyog.
           - Emeld fel szemed, nézz a távolba,
           - örömödben a szíved is megdobban.
@@ -27,8 +26,7 @@ lyrics:
           - lányaidat az ölükben hozzák.
       - name: v2
         lines:
-          - Jönnek mind a népek
-          - a Te fényeidhez,
+          - Jönnek mind a népek a Te fényeidhez,
           - és királyok a világosságodra.
           - Dromedárok ezrei jönnek majd
           - tömjénnel és aranyakkal megrakva.
@@ -75,3 +73,18 @@ lyrics:
           - Nations bring their riches to your sanctuary;
           - All your days of grief will be changed to joy,
           - Now your light proclaims me to the world.
+chords:
+  - template: c
+    lines:
+      - ['E', 'am']
+      - ['G', 'H4', 'H3']
+      - ['E', 'am']
+      - ['em', 'H7', 'em']
+  - template: v
+    lines:
+      - ['em', 'H7']
+      - ['em']
+      - ['E', 'am']
+      - ['D', 'H7']
+      - ['em', 'H7']
+      - ['em']

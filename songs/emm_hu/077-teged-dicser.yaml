@@ -9,8 +9,8 @@ lyrics:
     verses:
       - name: c
         lines:
-          - Téged dicsér örömében
-          - a nagyvilág, ó jó Atyánk!
+          - Téged dicsér örömében a nagyvilág,
+          - ó jó Atyánk!
           - Szívünk s a szánk vele zengi háladalát.
       - name: v1
         lines:
@@ -27,3 +27,14 @@ lyrics:
           - Elküldted lelkedet,
           - aki bennünk dicséri szent Neved,
           - alleluja.
+chords:
+  - template: c
+    lines:
+      - ['D', 'fism7', 'G', 'A', 'hm7']
+      - ['G', 'C9-7', 'A']
+      - ['hm7', 'fism7', 'G', 'A', 'A7', 'D6', 'D5']
+  - template: v
+    lines:
+      - ['hm', 'Gmaj7', 'fism7']
+      - ['em7', 'hm', 'Gmaj7', 'fism7']
+      - ['Cmaj7', 'A4', 'A3']

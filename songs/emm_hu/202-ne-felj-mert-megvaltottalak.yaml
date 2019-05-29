@@ -33,3 +33,20 @@ lyrics:
           - szeretetlángom átölel.
           - Ne félj, ha éjben jársz,
           - hidd, hogy a fény vár rád!
+chords:
+  - template: c
+    lines:
+      - ['D', 'G', 'A']
+      - ['D', 'hm']
+      - ['em', 'A']
+      - ['A7', 'D']
+  - template: v
+    lines:
+      - ['A', 'D', 'G', 'A']
+      - ['hm', 'em']
+      - ['A', 'D']
+      - ['hm', 'em', 'G', 'D']
+      - ['hm', 'em']
+      - ['A', 'D']
+      - ['hm', 'em']
+      - ['A7', 'D']

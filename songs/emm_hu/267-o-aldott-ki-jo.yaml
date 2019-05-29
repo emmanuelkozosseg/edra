@@ -14,4 +14,20 @@ lyrics:
           - Az Úr, győztes király,
           - a kezdet és a vég.
           - Áldás és hódolat a Báránynak,
-          - '/: aki szent, igaz Isten, amen! :/'
+          - group: repeat
+            times: 2
+            lines:
+              - aki szent, igaz Isten, amen!
+chords:
+  - template: all
+    lines:
+      - ['A', 'A/Cis']
+      - ['D', 'hm', 'E']
+      - ['D', 'A/Cis']
+      - ['hm7', 'E/Gis']
+      - ['D', 'Cis4', 'Cis/Fis', 'fism', 'E', 'A/Cis']
+      - group: repeat
+        type: unique
+        repetitions:
+          - - ['D', 'E4', 'E3', 'fism']
+          - - ['A/Cis', 'D', 'E4', 'E3', 'A']

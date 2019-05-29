@@ -34,3 +34,16 @@ lyrics:
           - és fordítsd felém tekinteted!
           - A Lelked vezessen el
           - az égig, Uram, ösvényeden!
+chords:
+  - template: c
+    lines:
+      - ['F', 'am', 'B']
+      - ['gm', 'gm7', 'C7', 'C4', 'C7']
+      - ['F', 'am', 'B']
+      - ['gm', 'gm7', 'C7', 'F']
+  - template: v
+    lines:
+      - ['bm6', 'F', 'am']
+      - ['A7', 'B', 'C']
+      - ['F', 'am']
+      - ['A7', 'B', 'C7', 'F']

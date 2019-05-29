@@ -12,3 +12,9 @@ lyrics:
           - Békesség legyen velünk,
           - itt van Jézus köztünk!
           - Békesség, békesség legyen velünk!
+chords:
+  - template: all
+    lines:
+      - ['E', 'H7', 'E']
+      - ['A', 'H7', 'E', 'H7']
+      - ['E', 'cism', 'A', 'E', 'H7', 'E', 'H7']

@@ -11,3 +11,8 @@ lyrics:
         lines:
           - Téged, Isten, dicsérlek,
           - és hálát adok mindenért!
+chords:
+  - template: all
+    lines:
+      - ['C', 'am']
+      - ['F', 'G']

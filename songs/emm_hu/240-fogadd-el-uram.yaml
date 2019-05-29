@@ -13,19 +13,34 @@ lyrics:
           - fogadd el egészen.
           - Vedd értelmemet, akaratomat
           - és emlékezésem.
-          - 
+      - name: v2
+        lines:
           - Mindazt, amim van, és ami vagyok,
           - Te adtad ingyen.
           - Visszaadok, Uram, visszaadok
           - egyszerre mindent.
-      - name: v2
+      - name: v3
         lines:
           - Legyen fölöttünk korlátlan Úr
           - rendelkezésed,
           - 'csak egyet hagyj meg ajándékodul:'
           - szeretnem Téged.
-          - 
+      - name: v4
+        lines:
           - Csak a szeretet maradjon enyém
           - a kegyelemmel,
           - minden, de minden gazdagság enyém,
           - más semmi nem kell.
+chords:
+  - template: v
+    lines:
+      - ['D', 'A', 'D/Fis', 'G']
+      - ['D', 'A', 'D', 'A']
+      - ['D', 'A', 'D/Fis', 'G']
+      - ['D', 'A', 'D']
+  - template: v3
+    lines:
+      - ['hm', 'Fis', 'hm', 'G']
+      - ['D', 'A', 'D']
+      - ['hm', 'Fis', 'hm', 'E7']
+      - ['A', 'hm/A', 'fism/A', 'em/A']

@@ -9,14 +9,17 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - Az Úr van itt,
-          - (az Úr van itt,)
-          - a te Istened,
-          - (a te Istened,)
-          - Ő vár rád,
-          - (Ő vár rád,)
-          - Ő vár rád,
-          - (Ő vár rád,)
+          - group: repeat
+            times: 2
+            lines:
+              - Az Úr van itt,
+              - (az Úr van itt,)
+              - a te Istened,
+              - (a te Istened,)
+              - Ő vár rád,
+              - (Ő vár rád,)
+              - Ő vár rád,
+              - (Ő vár rád,)
       - name: v2
         lines:
           - hogy elmondja,
@@ -31,3 +34,31 @@ lyrics:
           - aki most is él,
           - (aki most is él,)
           - uralkodik mindörökké.
+chords:
+  - template: v1
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - ['D']
+          - []
+          - ['hm']
+          - []
+          - ['em']
+          - []
+          - ['A']
+          - []
+  - template: v2
+    lines:
+      - ['hm']
+      - []
+      - ['A']
+      - []
+      - ['G', 'C', 'A']
+  - template: v3
+    lines:
+      - ['D']
+      - []
+      - ['hm']
+      - []
+      - ['em', 'A', 'D']

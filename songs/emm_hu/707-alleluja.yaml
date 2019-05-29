@@ -11,3 +11,8 @@ lyrics:
         lines:
           - Alleluja, alleluja,
           - alleluja, alleluja!
+chords:
+  - template: all
+    lines:
+      - ['G', 'D7', 'G', 'C', 'G']
+      - ['D7', 'G', 'C', 'D7', 'G']

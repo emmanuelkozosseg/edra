@@ -28,3 +28,13 @@ lyrics:
           - Istenem, ki nem hagy el.
           - Benne én ujjongva járhatok,
           - élhetek a tenyerén!
+chords:
+  - template: c
+    lines:
+      - ['hm', 'A', 'G', 'Fis']
+  - template: v
+    lines:
+      - ['D', 'A']
+      - ['hm', 'Fis']
+      - ['D', 'A']
+      - ['hm', 'G', 'Fis']

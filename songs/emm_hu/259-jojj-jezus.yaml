@@ -42,3 +42,11 @@ lyrics:
           - Jöjj el hozzám, várok Rád!
           - Jöjj el hozzám, várok Rád!
           - Jöjj el hozzám!
+chords:
+  - template: v
+    lines:
+      - ['am', 'hm']
+      - ['C', 'D']
+      - ['G', 'C']
+      - ['hm', 'am']
+      - ['em']

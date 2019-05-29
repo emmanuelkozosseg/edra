@@ -1,0 +1,26 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '504c'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Emmánuel mise (Alleluja)
+    verses:
+      - name: v1
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - Alleluja, alleluja,
+              - alleluja, alleluja!
+chords:
+  - template: all
+    lines:
+      - group: repeat
+        type: unique
+        repetitions:
+          - - ['A', 'E', 'hm/D', 'E', 'A']
+            - ['fism', 'E', 'A', 'hm/D', 'E']
+          - - ['A', 'E', 'hm/D', 'E', 'A']
+            - ['fism', 'E', 'A', 'hm', 'E', 'A']

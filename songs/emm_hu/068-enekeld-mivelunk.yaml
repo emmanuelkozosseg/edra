@@ -45,3 +45,15 @@ lyrics:
           - Megszabadított minket.
           - 'Ő a mi örömünk, bátorítónk:'
           - Jézus a Megváltónk.
+chords:
+  - template: c
+    lines:
+      - ['em']
+      - ['H7', 'em']
+      - ['H7', 'em']
+  - template: v
+    lines:
+      - ['C', 'G']
+      - ['H7', 'em', 'D', 'G', 'G7']
+      - ['C', 'G']
+      - ['H7', 'em']

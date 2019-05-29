@@ -14,5 +14,20 @@ lyrics:
           - és felmagasztaltattál
           - minden isten fölött!
           - ''
-          - '/: Imádunk Téged, imádunk Téged,'
-          - imádunk Téged, ó, Urunk! :/
+          - group: repeat
+            times: 2
+            lines:
+              - Imádunk Téged, imádunk Téged,
+              - imádunk Téged, ó, Urunk!
+chords:
+  - template: all
+    lines:
+      - ['D', 'em']
+      - ['A', 'D', 'hm']
+      - ['G']
+      - ['A', 'D']
+      - group: repeat
+        type: uniform
+        lines:
+          - ['D', 'D', 'A', 'A']
+          - ['G', 'em', 'A']

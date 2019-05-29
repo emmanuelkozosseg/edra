@@ -15,3 +15,12 @@ lyrics:
           - oly csodálatos a neved,
           - mivel Te megváltottál már.
           - Hallja meg a föld s az ég, hogy...
+chords:
+  - template: v1
+    lines:
+      - ['dm', 'gm']
+      - ['dm', 'gm']
+      - ['dm', 'gm']
+      - ['dm', 'gm']
+      - ['dm', 'gm']
+      - ['dm', 'gm']

@@ -18,3 +18,17 @@ lyrics:
           - Mint éltető harmat
           - vagy napfény a völgyre,
           - szálljon úgy ránk az isteni béke!
+          - Dicsőség!
+chords:
+  - template: v1
+    lines:
+      - ['D']
+      - ['G']
+      - ['D']
+      - ['G']
+  - template: v2
+    lines:
+      - ['D']
+      - ['G']
+      - ['D', 'G']
+      - ['D']

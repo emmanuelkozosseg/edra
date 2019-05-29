@@ -11,3 +11,8 @@ lyrics:
         lines:
           - Jézus, Jézus, Jézus, Jézus.
           - Jézus, Jézus, Jézus, Jézus.
+chords:
+  - template: all
+    lines:
+      - ['am', 'em', 'F', 'C', 'dm', 'am', 'F', 'G', 'A']
+      - ['am', 'em', 'F', 'C', 'dm', 'am', 'F', 'G', 'A']

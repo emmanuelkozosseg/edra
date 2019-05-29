@@ -34,3 +34,16 @@ lyrics:
           - a Szentlélek leszállt.
           - Ő az éltetőnk, aki által zeng imánk.
           - Szent, szent, szent az Úr!
+chords:
+  - template: c
+    lines:
+      - ['em', 'hm/E', 'em']
+      - ['C', 'D', 'G']
+      - ['am']
+      - ['am', 'em', 'hm', 'em']
+  - template: v
+    lines:
+      - ['em', 'D']
+      - ['G', 'H', 'em7']
+      - ['C', 'gm7', 'D', 'G', 'am', 'H4', 'H3']
+      - ['C', 'H4', 'am7', 'D4', 'D3']

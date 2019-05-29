@@ -11,3 +11,8 @@ lyrics:
         lines:
           - Adjunk hálát Istennek,
           - mert az Ő szeretete végtelen.
+chords:
+  - template: all
+    lines:
+      - ['em', 'D']
+      - ['em', 'hm', 'em']

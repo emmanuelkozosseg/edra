@@ -31,3 +31,16 @@ lyrics:
           - Dicsérjétek Őt csengő muzsikával!
           - Mindaz, aki él, Néki zengje énekét!
           - Áldjuk az Urat, alleluja!
+chords:
+  - template: c
+    lines:
+      - ['F', 'B/D', 'gm', 'C']
+      - ['B/D', 'gm', 'C']
+      - ['F', 'B/D', 'gm', 'C']
+      - ['F', 'B/D', 'C', 'F']
+  - template: v
+    lines:
+      - ['dm', 'C/E', 'F', 'gm', 'C']
+      - ['B', 'C', 'dm', 'C']
+      - ['F', 'C/E', 'F', 'gm', 'C']
+      - ['B', 'C', 'dm', 'C']

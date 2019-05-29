@@ -31,3 +31,10 @@ lyrics:
           - hogy házamba jöjj, Uram,
           - hanem csak egy szóval mondjad,
           - és a lelkem meggyógyul.
+chords:
+  - template: all
+    lines:
+      - ['G', 'D', 'em', 'hm']
+      - ['C', 'G', 'am', 'em', 'D']
+      - ['G', 'D', 'em', 'hm']
+      - ['C', 'G', 'am', 'D', 'G']

@@ -37,3 +37,16 @@ lyrics:
           - hogy a félelmünket vedd el végleg tőlünk!
           - A te szent erőddel formáld át most régi életünk,
           - és a bátorságnak lelkét add meg nékünk!
+chords:
+  - template: c
+    lines:
+      - ['C', 'em7']
+      - ['F', 'E7/9', 'am4', 'am3']
+      - ['Fmaj7', 'em7', 'dm', 'C']
+      - ['Fmaj7', 'G4', 'G3']
+  - template: v
+    lines:
+      - ['am', 'em', 'F', 'C']
+      - ['As', 'Es', 'dm7', 'G']
+      - ['am', 'em', 'F', 'C']
+      - ['As', 'Es', 'dm7', 'G']

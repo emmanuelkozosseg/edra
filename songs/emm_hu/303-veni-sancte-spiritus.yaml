@@ -15,25 +15,32 @@ lyrics:
           - Veni Sancte Spiritus!
       - name: v1
         lines:
-          - Jöjj tüzeddel,
-          - jöjj, mutasd meg szeretetedet,
+          - Jöjj tüzeddel, | jöjj, mutasd meg szeretetedet,
           - jöjj, a szomjunkat oltsd!
-          - Töltsd be életünk,
-          - a szívünk a Te fényeddel!
+          - Töltsd be életünk, | a szívünk a Te fényeddel!
           - Jöjj, hogy lángoljon a tűz!
       - name: v2
         lines:
-          - Jöjj, kegyelmeddel töltsél el,
-          - tisztítsd a szívünk,
+          - Jöjj, kegyelmeddel töltsél el, | tisztítsd a szívünk,
           - mosd meg, ami szennyezett!
-          - Jöjj, siess, a gyöngeségünkben
-          - Te adj erőt!
+          - Jöjj, siess, a gyöngeségünkben | Te adj erőt!
           - Jöjj, hogy lángoljon a tűz!
       - name: v3
         lines:
-          - Jöjj, mutasd meg nekünk
-          - a Fiút és az Atyát,
+          - Jöjj, mutasd meg nekünk | a Fiút és az Atyát,
           - éleszd újra a hitünk!
-          - Jöjj, ajándékaidat most
-          - bőkezűen oszd!
+          - Jöjj, ajándékaidat most | bőkezűen oszd!
           - Jöjj, hogy lángoljon a tűz!
+chords:
+  - template: c
+    lines:
+      - ['F', 'dm', 'gm7', 'C']
+      - ['F', 'dm', 'gm7', 'C']
+      - ['F', 'dm', 'gm7', 'C']
+      - ['F', 'B', 'gm7', 'C', 'F']
+  - template: v
+    lines:
+      - ['gm', 'gm7', 'C4', 'C3']
+      - ['gm', 'gm7', 'C4', 'C3']
+      - ['am', 'am7', 'dm']
+      - ['gm', 'gm7', 'C4', 'C3']

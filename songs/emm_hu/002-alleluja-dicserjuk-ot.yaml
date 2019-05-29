@@ -32,3 +32,14 @@ lyrics:
           - Benne remélj, többé már ne félj,
           - hogy az öröm, amit ad neked,
           - teljes legyen!
+chords:
+  - template: c
+    lines:
+      - ['F', 'B', 'C', 'gm7/C', 'C6', 'B', 'F']
+      - ['F', 'B', 'C', 'gm7/C', 'C6', 'B', 'F']
+  - template: v
+    lines:
+      - ['F', 'B', 'gm']
+      - ['am', 'B(7)', 'C7']
+      - ['F', 'B']
+      - ['dm6', 'gm7/C', 'C7']

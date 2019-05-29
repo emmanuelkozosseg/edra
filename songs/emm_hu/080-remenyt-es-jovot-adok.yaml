@@ -34,3 +34,16 @@ lyrics:
           - országod jöjjön el!
           - Fordítsad jóra sorsunk,
           - szenteld meg néped!
+chords:
+  - template: c
+    lines:
+      - ['F', 'B', 'dm']
+      - ['B', 'F', 'C']
+      - ['F', 'B']
+      - ['(F)', 'B', 'C7', 'F']
+  - template: v
+    lines:
+      - ['F', 'B']
+      - ['F', 'B', 'C']
+      - ['dm', '(B)', 'gm6', 'C']
+      - ['dm', 'C', '(F)', 'gm', 'C']

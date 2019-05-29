@@ -13,8 +13,7 @@ lyrics:
       - name: c
         lines:
           - Ave Maria, ó, légy menedékünk!
-          - Hallgasd meg imánkat
-          - és kérd Fiad értünk!
+          - Hallgasd meg imánkat | és kérd Fiad értünk!
       - name: v1
         lines:
           - Ó, Boldogasszony, fogd a kezünket!
@@ -27,3 +26,12 @@ lyrics:
         lines:
           - Kérünk, az úton mindig velünk járj!
           - Könyörögjél értünk, drága jó Anyánk!
+chords:
+  - template: c
+    lines:
+      - ['D', 'A4', 'D', 'A', 'hm', 'fism', 'hm4', 'hm3']
+      - ['G', 'A', 'em', 'hm', 'G', 'D', 'A', 'D']
+  - template: v
+    lines:
+      - ['G', 'fism', 'hm', 'G', 'A', 'D']
+      - ['G', 'fism', 'hm', 'E4', 'E', 'A']

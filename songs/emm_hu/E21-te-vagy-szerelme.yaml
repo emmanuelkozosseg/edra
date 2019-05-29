@@ -7,15 +7,34 @@ lyrics:
   - lang: hu
     title: Te vagy szerelme
     verses:
-      - name: c1
+      - name: v1
         lines:
           - Te vagy szerelme életemnek.
           - Barát és társ vagy, ki szeret.
           - Vágyom, hogy érints, lelkem kíván.
           - Teljes szívemből szeretlek.
-      - name: c2
+      - name: v2
         lines:
           - Vonj most magadhoz még jobban,
           - végy fel a karjaidba!
           - Szíved dobbanását hadd halljam,
-          - '/: ó, Jézus, ó, Jézus! :/'
+          - group: repeat
+            times: 2
+            lines:
+              - ó, Jézus, ó, Jézus!
+chords:
+  - template: v1
+    lines:
+      - ['D', 'A/Cis', 'D/Fis', 'G']
+      - ['D', 'A/Cis', 'G2/H', 'A']
+      - ['D', 'A/Cis', 'D/Fis', 'G']
+      - ['D', 'A/Cis', 'G2/H']
+  - template: v2
+    lines:
+      - ['G2/H', 'A/Cis', 'D']
+      - ['A/Cis', 'G/H', 'A/Cis', 'D']
+      - ['G2/H', 'A/Cis', 'D']
+      - group: repeat
+        type: uniform
+        lines:
+          - ['A/Cis', 'G2/H', 'A/C#', 'D', 'A/Cis', 'G2/H', 'A', 'D']

@@ -20,16 +20,14 @@ lyrics:
         lines:
           - Én vagyok az élet kenyere.
           - Aki ebből a kenyérből eszik, örökké él.
-          - Aki eszi az én testemet
-          - és issza az én véremet,
+          - Aki eszi az én testemet | és issza az én véremet,
           - bennem marad és én őbenne.
       - name: v2
         lines:
           - Én vagyok a világ világossága.
           - Aki engem követ, nem jár sötétben,
           - hanem övé lesz az élet világossága.
-          - Az Atya tanúskodik rólam,
-          - aki engem küldött.
+          - Az Atya tanúskodik rólam, | aki engem küldött.
       - name: v3
         lines:
           - Én vagyok az ajtó a juhok számára.
@@ -48,3 +46,16 @@ lyrics:
           - Aki hisz bennem, még ha meghal is, él,
           - és aki úgy él, hogy hisz bennem,
           - nem hal meg örökké.
+chords:
+  - template: c
+    lines:
+      - ['D', 'A', 'G', 'D']
+      - ['hm6', 'em', 'A']
+      - ['D', 'A', 'G', 'D']
+      - ['hm6', 'em7', 'A']
+  - template: v
+    lines:
+      - ['A', 'fism', 'hm']
+      - ['hm', 'em', 'A']
+      - ['am6', 'em', 'em7']
+      - ['A']

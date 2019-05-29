@@ -13,8 +13,7 @@ lyrics:
       - name: c
         lines:
           - Dicsérlek Téged, áldlak, Istenem!
-          - Tehozzád vágyom,
-          - zengem szent neved!
+          - Tehozzád vágyom, | zengem szent neved!
           - 'Irgalmad éltet:'
           - most és mindörökké hirdetem!
       - name: v1
@@ -22,8 +21,7 @@ lyrics:
           - Jó az Úr, és a szeretetét
           - hirdetem örökké.
           - Irgalma soha véget nem ér,
-          - megkegyelmez annak,
-          - aki benne remél.
+          - megkegyelmez annak, | aki benne remél.
       - name: v2
         lines:
           - Fenntartja az Úr a botladozót,
@@ -69,3 +67,16 @@ lyrics:
           - Worships his holy name.
           - I will tell of his marvellous deeds,
           - A new song of praise each day of my life.
+chords:
+  - template: c
+    lines:
+      - ['F', 'B', 'F', 'B', 'D']
+      - ['B', 'F', 'B', 'F']
+      - ['am', 'dm']
+      - ['B', 'gm', 'B', 'C4', 'C3']
+  - template: v
+    lines:
+      - ['am', 'B', 'gm7', 'am', 'dm7']
+      - ['B', 'am', 'C4', 'C3']
+      - ['am', 'B', 'gm7', 'dm7']
+      - ['B', 'am', 'C']

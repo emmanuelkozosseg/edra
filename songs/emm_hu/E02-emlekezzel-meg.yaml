@@ -21,3 +21,11 @@ lyrics:
           - Amilyen távol van napkelet,
           - oly messze veti el tőlünk bűneinket.
           - Nem fogy el irgalma népe iránt.
+chords:
+  - template: all
+    lines:
+      - ['D', 'G6']
+      - ['D', 'fism']
+      - ['Gmaj7', 'fism7']
+      - ['em7', 'D/A', 'A']
+      - ['Gmaj7', 'em7', 'D']

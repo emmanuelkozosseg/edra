@@ -23,3 +23,15 @@ lyrics:
           - Tied a dicsőség és imádás,
           - felajánljuk a szívünket,
           - így dicsérjük szent neved!
+chords:
+  - template: c
+    lines:
+      - ['C']
+      - ['C', 'am']
+      - ['am', 'F', 'dm']
+      - ['G', 'G']
+  - template: v
+    lines:
+      - ['C', 'C', 'em']
+      - ['F', 'dm']
+      - ['G', 'G7']

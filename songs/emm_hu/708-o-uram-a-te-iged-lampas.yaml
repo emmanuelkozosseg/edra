@@ -11,3 +11,8 @@ lyrics:
         lines:
           - Ó, Uram, a te Igéd lámpás,
           - utamon a fényforrás.
+chords:
+  - template: all
+    lines:
+      - ['G', 'D', 'em']
+      - ['C', 'D', 'G']

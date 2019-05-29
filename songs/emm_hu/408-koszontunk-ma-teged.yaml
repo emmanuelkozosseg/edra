@@ -12,8 +12,7 @@ lyrics:
     verses:
       - name: c
         lines:
-          - Köszöntünk ma téged,
-          - ó, áldott Boldogasszony.
+          - Köszöntünk ma téged, | ó, áldott Boldogasszony.
           - Zsámolyod a hold és ékesít a nap.
           - Csillagok az égben koronáznak téged.
           - Üdvösségünk hajnala általad jött el.
@@ -50,3 +49,20 @@ lyrics:
           - futhatunk tehozzád,
           - Istenünk előtt állva
           - Te értünk közbenjársz.
+chords:
+  - template: c
+    lines:
+      - ['em', 'am', 'hm', 'G', 'hm/Fis']
+      - ['em', 'C', 'am', 'D']
+      - ['G', 'em', 'am', 'D', 'D7']
+      - ['H7', 'em', 'am', 'hm', 'em']
+  - template: v
+    lines:
+      - ['G', 'D']
+      - ['em', 'hm']
+      - ['C', 'G/H']
+      - ['am', 'D7/4', 'D3']
+      - ['G', 'D']
+      - ['em', 'hm']
+      - ['C', 'em']
+      - ['am', 'hm', 'em']

@@ -9,25 +9,46 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - '/: Egyedül Isten az én fényem,'
-          - a Szabadítóm, Ő az Úr! :/
+          - group: repeat
+            times: 2
+            lines:
+              - Egyedül Isten az én fényem,
+              - a Szabadítóm, Ő az Úr!
           - Mitől is félnék itt a földön,
           - hiszen az Úr az Őrizőm!
           - Egyedül Isten az én fényem,
           - a Szabadítóm, Ő az Úr.
       - name: v2
         lines:
-          - '/: Amikor hívom, lehajol hozzám,'
-          - a keze fenntart és vigyáz rám. :/
+          - group: repeat
+            times: 2
+            lines:
+              - Amikor hívom, lehajol hozzám,
+              - a keze fenntart és vigyáz rám.
           - Isten a sziklám, az erős váram,
           - akinél mindig nyugalom vár.
           - Amikor hívom, lehajol hozzám,
           - a keze fenntart és vigyáz rám.
       - name: v3
         lines:
-          - '/: Az Úrban bízom napról-napra,'
-          - mivel csak Ő a Szabadítóm. :/
+          - group: repeat
+            times: 2
+            lines:
+              - Az Úrban bízom napról-napra,
+              - mivel csak Ő a Szabadítóm.
           - Ujjongva áldom minden percben,
           - dicsérem Istent mindenkor.
           - Az Úrban bízom napról-napra,
           - mivel csak Ő a Szabadítóm.
+chords:
+  - template: v
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - ['dm', 'C', 'F', 'A7']
+          - ['dm', 'am', 'dm']
+      - ['am', 'em', 'am']
+      - ['B', 'C7', 'F', 'A7']
+      - ['dm', 'C7', 'F', 'A7']
+      - ['B', 'am', 'dm']

@@ -1,0 +1,18 @@
+books:
+  - id: emm_hu
+    chapter: 5_mise
+    number: '505c'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent János mise (Alleluja)
+    verses:
+      - name: v1
+        lines:
+          - Alleluja, alleluja, alleluja!
+          - Alleluja, alleluja, alleluja!
+chords:
+  - template: all
+    lines:
+      - ['dm', 'B', 'C', 'F', 'C', 'F', 'G', 'A']
+      - ['dm', 'B', 'C', 'F', 'dm', 'A4', 'A3', 'dm']

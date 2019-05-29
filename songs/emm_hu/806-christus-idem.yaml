@@ -13,6 +13,7 @@ lyrics:
           - Christo gloria nunc et in saecula!
       - name: v2
         lines:
+          - (LA)
           - Quis nos separabit
           - a caritate Christi?
           - Si Deus pro nobis est
@@ -52,3 +53,15 @@ lyrics:
           - von Gottes großer Liebe?
           - Wenn Gott selber für uns ist,
           - wer wird gegen uns sein?
+chords:
+  - template: c
+    lines:
+      - ['F', 'C', 'gm', 'dm', 'B', 'F', 'gm', 'F', 'C', 'F', 'C']
+      - ['F', 'C', 'gm', 'A', 'gm', 'F/A', 'B6', 'C', 'F']
+  - template: v
+    lines:
+      - 
+      - ['B', 'F/A', 'gm7', 'F/A', 'B6', 'dm']
+      - ['cm', 'dm', 'Es', 'dm', 'C4', 'C3']
+      - ['gm', 'F/A', 'C7', 'A/Cis', 'dm', 'C/E', 'F']
+      - ['Es', 'gm', 'C4', 'C3']

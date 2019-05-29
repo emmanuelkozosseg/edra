@@ -36,3 +36,15 @@ lyrics:
           - Rád hagyatkozunk,
           - csak jöjj, mutasd utunk,
           - ó, jöjj, mert vár Terád a föld!
+chords:
+  - template: c
+    lines:
+      - ['em', 'A']
+      - ['C', 'am', 'D4', 'D3']
+      - ['G', 'A']
+      - ['C', 'D', 'em']
+  - template: v
+    lines:
+      - ['G', 'D']
+      - ['am', 'F']
+      - ['em', 'fism', 'H4', 'H3']

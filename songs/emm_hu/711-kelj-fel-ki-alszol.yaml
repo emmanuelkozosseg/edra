@@ -13,3 +13,10 @@ lyrics:
           - és Krisztus fénye rád ragyog.
           - Az Isten Lelke benned él
           - üdvösség zálogaként.
+chords:
+  - template: all
+    lines:
+      - ['D', 'G', 'D']
+      - ['C', 'G', 'D']
+      - ['D', 'G', 'C', 'D']
+      - ['C', 'D', 'G', 'D']

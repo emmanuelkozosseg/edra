@@ -92,3 +92,30 @@ lyrics:
           - And dispel the night forever.
           - On our lips will be his name
           - And our tears will be no more.
+chords:
+  - template: c
+    lines:
+      - ['em', 'C']
+      - ['G', 'D4', 'D3']
+      - ['G', 'C']
+      - ['am', 'C', 'D']
+      - ['em', 'C']
+      - ['G', 'D4', 'D3']
+      - ['hm', 'C']
+      - ['am', 'F', 'D']
+  - template: v
+    lines:
+      - ['hm7', 'C']
+      - ['am', 'em', 'D']
+      - ['hm', 'C']
+      - ['F', 'C', 'D']
+  - template: b
+    lines:
+      - ['G', 'D']
+      - ['C', 'am', 'D']
+      - ['G', 'D']
+      - ['C', 'am', 'D']
+      - ['G', 'D']
+      - ['C', 'am', 'D']
+      - ['G', 'D']
+      - ['C', 'F', 'D']

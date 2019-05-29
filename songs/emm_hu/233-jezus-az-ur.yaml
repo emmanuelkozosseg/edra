@@ -15,8 +15,15 @@ lyrics:
           - Jézus az Úr, Krisztus a dicső király!
           - Szálljon fel az ének trónod elé!
           - Ó, áldott légy, Téged a dalunk dicsér!
-      - name: v2
-        lines:
           - Jöjj, hozd el a békét földünkre, Jézus!
           - Jöjj, a fényedet add, múljon az éjjel már!
           - Jöjj el, Urunk! Marana tha!
+chords:
+  - template: all
+    lines:
+      - ['D', 'A', 'hm9', 'hm', 'em', 'A4', 'A3']
+      - ['D', 'A6', 'hm', 'fism', 'G', 'D6', 'A6', 'A']
+      - ['D', 'A4', 'A3', 'hm9', 'hm', 'em', 'A4', 'A3']
+      - ['D', 'A6', 'hm', 'fism', 'G', 'em', 'Fis4', 'Fis3']
+      - ['hm', 'fism', 'G', 'D', 'hm9']
+      - ['em7', 'A', 'D4', 'D']

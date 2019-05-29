@@ -37,3 +37,19 @@ lyrics:
           - ó, jöjj, Egyházad éltesd!
           - Tiszta, szent és hű legyen,
           - méltó a krisztusi névhez!
+chords:
+  - template: c
+    lines:
+      - ['C', 'F', 'F7']
+      - ['dm', 'G']
+      - ['C', 'em', 'F']
+      - ['dm', 'G4', 'G3']
+      - ['C', 'F', 'F7']
+      - ['dm', 'G4', 'G3']
+      - ['C9', 'em', 'F', 'dm', 'C']
+  - template: v
+    lines:
+      - ['C', 'dm']
+      - ['G', 'F', 'C']
+      - ['E', 'dm', 'am']
+      - ['F', 'G']
