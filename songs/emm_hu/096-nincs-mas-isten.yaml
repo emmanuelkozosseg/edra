@@ -3,9 +3,13 @@ books:
     chapter: 0_dics
     number: '96'
     lang: hu
+about:
+  music: Ch. Tomlin, J. Reeves, J. Myrin
+  lyrics: Ch. Tomlin, J. Reeves, J. Myrin
 lyrics:
   - lang: hu
     title: Nincs más Isten
+    adapted_by: Váradi A.
     verses:
       - name: v1
         lines:
@@ -23,7 +27,7 @@ lyrics:
           - leborul minden a földön, az égen.
           - Hegyeket mozdít, beteget gyógyít
           - az Úr ma is!
-          -
+          - 
           - Te vagy az Isten, kinek nevére
           - leborul minden a földön, az égen.
           - Hegyeket mozdít, szíveket gyógyít
@@ -37,22 +41,22 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['em7', 'C']
-      - ['G', 'D/Fis']
-      - ['em7', 'C']
-      - ['G/H', 'D4']
-      - ['em7', 'C']
-      - ['G', 'D/Fis']
-      - ['em7', 'C']
-      - ['G/H', 'D4']
+      - [em7, C]
+      - [G, D/Fis]
+      - [em7, C]
+      - [G/H, D4]
+      - [em7, C]
+      - [G, D/Fis]
+      - [em7, C]
+      - [G/H, D4]
   - template: v
     lines:
-      - ['em', 'C', 'G']
-      - ['em', 'C', 'G']
-      - ['am7', 'D4', 'D']
+      - [em, C, G]
+      - [em, C, G]
+      - [am7, D4, D]
   - template: b
     lines:
-      - ['em7']
-      - ['C']
-      - ['G']
-      - ['D/Fis', 'em7']
+      - [em7]
+      - [C]
+      - [G]
+      - [D/Fis, em7]

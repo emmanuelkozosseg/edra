@@ -3,9 +3,15 @@ books:
     chapter: 3_szl
     number: '309'
     lang: hu
+  - id: emm_fr
+    number: 13-41
+about:
+  music: L.-E. de Labarthe
+  lyrics: D.-M. David
 lyrics:
   - lang: hu
     title: Lélek, szállj le ránk
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -37,17 +43,17 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['em', 'am']
-      - ['D', 'H4', 'H3']
-      - ['em', 'C']
-      - ['am', 'H']
-      - ['em', 'am']
-      - ['D', 'H4', 'H3']
-      - ['em', 'C']
-      - ['am6', 'H', 'em']
+      - [em, am]
+      - [D, H4, H3]
+      - [em, C]
+      - [am, H]
+      - [em, am]
+      - [D, H4, H3]
+      - [em, C]
+      - [am6, H, em]
   - template: v
     lines:
-      - ['em', 'am', 'C']
-      - ['D', 'H7']
-      - ['em', 'am', 'C']
-      - ['D', 'H4', 'H3']
+      - [em, am, C]
+      - [D, H7]
+      - [em, am, C]
+      - [D, H4, H3]

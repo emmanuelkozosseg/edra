@@ -3,12 +3,18 @@ books:
     chapter: 2_br
     number: '233'
     lang: hu
+  - id: emm_fr
+    number: 15-35
+about:
+  music: G. Dadillon, H. Hasunuma
+  lyrics: G. Dadillon, H. Hasunuma
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/13_2007.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Jézus az Úr
+    adapted_by: Fábry K.
     verses:
       - name: v1
         lines:
@@ -21,9 +27,9 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['D', 'A', 'hm9', 'hm', 'em', 'A4', 'A3']
-      - ['D', 'A6', 'hm', 'fism', 'G', 'D6', 'A6', 'A']
-      - ['D', 'A4', 'A3', 'hm9', 'hm', 'em', 'A4', 'A3']
-      - ['D', 'A6', 'hm', 'fism', 'G', 'em', 'Fis4', 'Fis3']
-      - ['hm', 'fism', 'G', 'D', 'hm9']
-      - ['em7', 'A', 'D4', 'D']
+      - [D, A, hm9, hm, em, A4, A3]
+      - [D, A6, hm, fism, G, D6, A6, A]
+      - [D, A4, A3, hm9, hm, em, A4, A3]
+      - [D, A6, hm, fism, G, em, Fis4, Fis3]
+      - [hm, fism, G, D, hm9]
+      - [em7, A, D4, D]

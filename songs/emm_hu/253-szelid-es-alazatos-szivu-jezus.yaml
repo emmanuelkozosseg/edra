@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '253'
     lang: hu
+about:
+  music: Fábry K.
+  lyrics: Fábry K.
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/11_2014.mp3
     lang: hu
@@ -24,9 +27,9 @@ chords:
       - group: repeat
         type: unique
         repetitions:
-          - - ['am', 'F', 'G', 'C']
-            - ['dm', 'am']
-            - ['dm', 'E']
-          - - ['am', 'F', 'G', 'C']
-            - ['dm', 'am']
-            - ['E', 'am']
+          -   - [am, F, G, C]
+              - [dm, am]
+              - [dm, E]
+          -   - [am, F, G, C]
+              - [dm, am]
+              - [E, am]

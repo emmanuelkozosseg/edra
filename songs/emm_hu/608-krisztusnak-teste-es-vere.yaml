@@ -3,9 +3,15 @@ books:
     chapter: 6_euch
     number: '608'
     lang: hu
+  - id: emm_fr
+    number: 11-69
+about:
+  music: M. Dannaud
+  lyrics: M. Dannaud
 lyrics:
   - lang: hu
     title: Krisztusnak teste és vére
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -44,11 +50,11 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['C', 'F/C', 'G', 'E', 'am', 'em', 'F', 'em']
-      - ['F', 'am', 'G', 'C', 'F', 'C', 'G4', 'G3']
+      - [C, F/C, G, E, am, em, F, em]
+      - [F, am, G, C, F, C, G4, G3]
   - template: v
     lines:
-      - ['C']
-      - ['G', 'E7', 'am']
-      - ['F', 'dm6', 'E7']
-      - ['F6', 'G4', 'G3']
+      - [C]
+      - [G, E7, am]
+      - [F, dm6, E7]
+      - [F6, G4, G3]

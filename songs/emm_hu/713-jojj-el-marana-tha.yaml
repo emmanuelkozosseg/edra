@@ -3,6 +3,9 @@ books:
     chapter: 7_zsolt
     number: '713'
     lang: hu
+about:
+  music: Nemes K.
+  lyrics: Nemes K.
 lyrics:
   - lang: hu
     title: Jöjj el, Marana tha!
@@ -16,7 +19,7 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['D', 'G']
-      - ['A', 'D', 'G']
-      - ['A', 'D', 'G']
-      - ['D']
+      - [D, G]
+      - [A, D, G]
+      - [A, D, G]
+      - [D]

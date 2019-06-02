@@ -6,6 +6,7 @@ books:
 lyrics:
   - lang: hu
     title: Király vagy
+    adapted_by: Csiszér L.
     verses:
       - name: v1
         lines:
@@ -19,10 +20,10 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['E', 'H', 'cism']
-      - ['A']
+      - [E, H, cism]
+      - [A]
   - template: v2
     lines:
-      - ['E']
-      - ['H']
-      - ['cism', 'A']
+      - [E]
+      - [H]
+      - [cism, A]

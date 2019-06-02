@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '245'
     lang: hu
+about:
+  music: R. Ridings
+  lyrics: R. Ridings
 lyrics:
   - lang: hu
     title: Tégy eggyé, Urunk!
@@ -22,13 +25,13 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['F', 'B', 'C', 'C7']
-      - ['F', 'B', 'C', 'C7']
-      - ['B', 'C', 'F', 'C', 'D', 'A']
-      - ['G', 'C', 'B', 'F']
+      - [F, B, C, C7]
+      - [F, B, C, C7]
+      - [B, C, F, C, D, A]
+      - [G, C, B, F]
   - template: v2
     lines:
-      - ['F', 'B', 'C', 'C7']
-      - ['F', 'B', 'C']
-      - ['B', 'C', 'F', 'C', 'dm']
-      - ['am', 'B', 'C', 'B', 'F']
+      - [F, B, C, C7]
+      - [F, B, C]
+      - [B, C, F, C, dm]
+      - [am, B, C, B, F]

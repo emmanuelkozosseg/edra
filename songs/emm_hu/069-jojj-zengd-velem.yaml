@@ -3,12 +3,18 @@ books:
     chapter: 0_dics
     number: '69'
     lang: hu
+  - id: emm_fr
+    number: 14-07
+about:
+  music: G. Creaton
+  lyrics: G. Creaton
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/a01_2003.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Jöjj, zengd velem
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -43,13 +49,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['E', 'A', 'H', 'E']
-      - ['E', 'A', 'D', 'H']
-      - ['E', 'A', 'H', 'E']
-      - ['fism', 'H', 'E']
+      - [E, A, H, E]
+      - [E, A, D, H]
+      - [E, A, H, E]
+      - [fism, H, E]
   - template: v
     lines:
-      - ['Gis', 'cism']
-      - ['Gis', 'cism']
-      - ['Gis', 'cism']
-      - ['D', 'H4', 'H']
+      - [Gis, cism]
+      - [Gis, cism]
+      - [Gis, cism]
+      - [D, H4, H]

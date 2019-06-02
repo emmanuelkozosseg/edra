@@ -3,6 +3,9 @@ books:
     chapter: 7_zsolt
     number: '716'
     lang: hu
+about:
+  music: Balaton A.
+  lyrics: Balaton A.
 lyrics:
   - lang: hu
     title: Téged, Isten, dicsérlek
@@ -14,5 +17,5 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['C', 'am']
-      - ['F', 'G']
+      - [C, am]
+      - [F, G]

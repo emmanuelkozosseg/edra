@@ -3,9 +3,15 @@ books:
     chapter: 2_br
     number: '219'
     lang: hu
+  - id: emm_fr
+    number: 03-13
+about:
+  music: J.-B. Foley SJ
+  lyrics: J.-B. Foley SJ
 lyrics:
   - lang: hu
     title: Ó, Te vagy, Uram
+    adapted_by: Illésy I.
     verses:
       - name: c
         lines:
@@ -27,12 +33,12 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['A', 'D']
-      - ['A', 'D', 'A']
-      - ['cism', 'D', 'hm', 'E']
+      - [A, D]
+      - [A, D, A]
+      - [cism, D, hm, E]
   - template: v
     lines:
-      - ['A', 'D', 'A']
-      - ['D', 'A']
-      - ['C', 'G']
-      - ['D', 'hm', 'E', 'G', 'E7']
+      - [A, D, A]
+      - [D, A]
+      - [C, G]
+      - [D, hm, E, G, E7]

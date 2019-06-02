@@ -46,10 +46,10 @@ lyrics:
 chords:
   - template: v
     lines:
-      - ['dm']
-      - ['F', 'G']
+      - [dm]
+      - [F, G]
       - group: repeat
         type: uniform
         lines:
-          - ['gm', 'B', 'C', 'dm']
-          - ['B', 'C', 'dm']
+          - [gm, B, C, dm]
+          - [B, C, dm]

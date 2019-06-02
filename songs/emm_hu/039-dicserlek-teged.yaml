@@ -6,9 +6,15 @@ books:
   - id: eeym17
     number: '13'
     lang: en
+  - id: emm_fr
+    number: 15-49
+about:
+  music: R. Fornasier
+  lyrics: R. Fornasier
 lyrics:
   - lang: hu
     title: Dicsérlek Téged
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -70,13 +76,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['F', 'B', 'F', 'B', 'D']
-      - ['B', 'F', 'B', 'F']
-      - ['am', 'dm']
-      - ['B', 'gm', 'B', 'C4', 'C3']
+      - [F, B, F, B, D]
+      - [B, F, B, F]
+      - [am, dm]
+      - [B, gm, B, C4, C3]
   - template: v
     lines:
-      - ['am', 'B', 'gm7', 'am', 'dm7']
-      - ['B', 'am', 'C4', 'C3']
-      - ['am', 'B', 'gm7', 'dm7']
-      - ['B', 'am', 'C']
+      - [am, B, gm7, am, dm7]
+      - [B, am, C4, C3]
+      - [am, B, gm7, dm7]
+      - [B, am, C]

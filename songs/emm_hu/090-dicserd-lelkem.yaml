@@ -6,12 +6,18 @@ books:
   - id: eeym17
     number: '1'
     lang: en
+  - id: emm_fr
+    number: 19-15
+about:
+  music: F. Deboeuf
+  lyrics: F. Deboeuf
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/01_2014.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Dicsérd, lelkem, az Úr nevét
+    adapted_by: Balaton A.
     verses:
       - name: c
         lines:
@@ -81,14 +87,14 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['F', 'C', 'dm']
-      - ['B', 'gm', 'C']
-      - ['F', 'C', 'dm']
-      - ['B', 'gm', 'C']
-      - ['B', 'C4', 'C3', 'F']
+      - [F, C, dm]
+      - [B, gm, C]
+      - [F, C, dm]
+      - [B, gm, C]
+      - [B, C4, C3, F]
   - template: v
     lines:
-      - ['dm', 'am', 'G']
-      - ['dm', 'C']
-      - ['F', 'C']
-      - ['F', 'B', 'gm', 'C']
+      - [dm, am, G]
+      - [dm, C]
+      - [F, C]
+      - [F, B, gm, C]

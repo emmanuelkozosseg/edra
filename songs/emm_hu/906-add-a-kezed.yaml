@@ -3,9 +3,13 @@ books:
     chapter: 9_mozg
     number: '906'
     lang: hu
+about:
+  music: Continental Singers
+  lyrics: Continental Singers
 lyrics:
   - lang: hu
     title: Add a kezed
+    adapted_by: Viszmeg L.
     verses:
       - name: v1
         lines:

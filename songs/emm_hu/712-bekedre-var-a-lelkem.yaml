@@ -3,6 +3,9 @@ books:
     chapter: 7_zsolt
     number: '712'
     lang: hu
+about:
+  music: Balaton A.
+  lyrics: Balaton A.
 lyrics:
   - lang: hu
     title: Békédre vár a lelkem
@@ -11,12 +14,12 @@ lyrics:
         lines:
           - Békédre vár a lelkem,
           - csendesítsd el szívem!
-          - ""
+          - ''
           - Uram, csendesítsd el szívem!
 chords:
   - template: all
     lines:
-      - ['Fmaj', 'C']
-      - ['Fmaj', 'G']
+      - [Fmaj, C]
+      - [Fmaj, G]
       - 
       - []

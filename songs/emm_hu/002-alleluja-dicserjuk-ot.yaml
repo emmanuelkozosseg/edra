@@ -3,12 +3,18 @@ books:
     chapter: 0_dics
     number: '2'
     lang: hu
+  - id: emm_fr
+    number: 11-05
+about:
+  music: G. du Boullay
+  lyrics: B. Mélois
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2000_es_album/b06_2000.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Alleluja, dicsérjük Őt
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -35,11 +41,11 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['F', 'B', 'C', 'gm7/C', 'C6', 'B', 'F']
-      - ['F', 'B', 'C', 'gm7/C', 'C6', 'B', 'F']
+      - [F, B, C, gm7/C, C6, B, F]
+      - [F, B, C, gm7/C, C6, B, F]
   - template: v
     lines:
-      - ['F', 'B', 'gm']
-      - ['am', 'B(7)', 'C7']
-      - ['F', 'B']
-      - ['dm6', 'gm7/C', 'C7']
+      - [F, B, gm]
+      - [am, B(7), C7]
+      - [F, B]
+      - [dm6, gm7/C, C7]

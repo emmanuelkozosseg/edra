@@ -3,12 +3,18 @@ books:
     chapter: 3_szl
     number: '314'
     lang: hu
+  - id: emm_fr
+    number: 14-49
+about:
+  music: M. Wittal
+  lyrics: liturgikus
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/b04_2003.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Jöjj, Szentlélek (Veni Sancte Spiritus)
+    adapted_by: Fábry K.
     verses:
       - name: v1
         lines:
@@ -74,14 +80,14 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['D', 'A', 'hm', 'fism']
-      - ['G', 'D', 'em', 'A']
-      - ['fism', 'hm', 'Fis', 'hm']
-      - ['G', 'fism', 'hm', 'G', 'A', 'D']
+      - [D, A, hm, fism]
+      - [G, D, em, A]
+      - [fism, hm, Fis, hm]
+      - [G, fism, hm, G, A, D]
   - template: v10
     lines:
-      - ['D', 'A', 'hm', 'fism']
-      - ['G', 'D', 'em', 'A']
-      - ['fism', 'hm', 'Fis', 'hm']
-      - ['G', 'fism', 'hm', 'G', 'A', 'D']
-      - ['D', 'hm', 'hm7', 'A7', 'D']
+      - [D, A, hm, fism]
+      - [G, D, em, A]
+      - [fism, hm, Fis, hm]
+      - [G, fism, hm, G, A, D]
+      - [D, hm, hm7, A7, D]

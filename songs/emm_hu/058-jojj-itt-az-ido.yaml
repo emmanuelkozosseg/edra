@@ -3,9 +3,13 @@ books:
     chapter: 0_dics
     number: '58'
     lang: hu
+about:
+  music: B. Doerksen
+  lyrics: B. Doerksen
 lyrics:
   - lang: hu
     title: Jöjj, itt az idő
+    adapted_by: Jóföldi Sz., Mikes A.
     verses:
       - name: v1
         lines:
@@ -23,14 +27,14 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['D', 'G', 'D']
-      - ['A', 'em7', 'G']
-      - ['D', 'G', 'D']
-      - ['A', 'em7', 'G']
-      - ['D']
+      - [D, G, D]
+      - [A, em7, G]
+      - [D, G, D]
+      - [A, em7, G]
+      - [D]
   - template: v2
     lines:
-      - ['G', 'D']
-      - ['G', 'D']
-      - ['G', 'hm']
-      - ['em', 'A4', 'A']
+      - [G, D]
+      - [G, D]
+      - [G, hm]
+      - [em, A4, A]

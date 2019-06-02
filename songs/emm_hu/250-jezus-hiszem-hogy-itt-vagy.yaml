@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '250'
     lang: hu
+about:
+  music: Fábry K.
+  lyrics: Fábry K.
 lyrics:
   - lang: hu
     title: Jézus, hiszem, hogy itt vagy
@@ -31,7 +34,7 @@ chords:
       - group: repeat
         type: unique
         repetitions:
-          - - ['em', 'am']
-          - - ['D', 'G']
-          - - ['em', 'am']
-          - - ['D', 'G', 'D7', 'G']
+          -   - [em, am]
+          -   - [D, G]
+          -   - [em, am]
+          -   - [D, G, D7, G]

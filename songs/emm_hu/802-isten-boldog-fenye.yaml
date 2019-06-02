@@ -3,6 +3,11 @@ books:
     chapter: 8_himn
     number: '802'
     lang: hu
+  - id: emm_fr
+    number: 01-29
+about:
+  music: A. Gouzes
+  lyrics: J.-P. Revel, D. Bourgeois
 lyrics:
   - lang: hu
     title: Isten boldog fénye
@@ -63,12 +68,12 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['G']
+      - [G]
       - []
-      - ['C', 'G', '(am)', 'G', 'am7', 'D7', 'G']
+      - [C, G, (am), G, am7, D7, G]
   - template: v
     lines:
-      - ['G', 'am/G']
-      - ['C', 'G']
-      - ['G', 'D']
-      - ['C', 'G', 'D']
+      - [G, am/G]
+      - [C, G]
+      - [G, D]
+      - [C, G, D]

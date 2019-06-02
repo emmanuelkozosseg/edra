@@ -3,12 +3,18 @@ books:
     chapter: 0_dics
     number: '29'
     lang: hu
+  - id: emm_fr
+    number: 11-26
+about:
+  music: M. Dannaud
+  lyrics: M. Dannaud
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/b01_2001.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Csak téged áldalak, Istenem
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -43,13 +49,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['dm', 'Es', 'F']
-      - ['gm', 'dm']
-      - ['Es', 'F']
-      - ['gm', 'dm', 'gm']
+      - [dm, Es, F]
+      - [gm, dm]
+      - [Es, F]
+      - [gm, dm, gm]
   - template: v
     lines:
-      - ['B', 'F']
-      - ['gm', 'dm']
-      - ['Es', 'F']
-      - ['gm']
+      - [B, F]
+      - [gm, dm]
+      - [Es, F]
+      - [gm]

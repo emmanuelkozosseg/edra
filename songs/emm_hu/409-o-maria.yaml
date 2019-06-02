@@ -3,9 +3,15 @@ books:
     chapter: 4_maria
     number: '409'
     lang: hu
+  - id: emm_fr
+    number: 15-41
+about:
+  music: M. Wittal
+  lyrics: M. Wittal
 lyrics:
   - lang: hu
     title: Ó, Mária
+    adapted_by: Fábry K.
     verses:
       - name: c1
         lines:
@@ -40,13 +46,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['C', 'em7']
-      - ['F', 'E7/9', 'am4', 'am3']
-      - ['Fmaj7', 'em7', 'dm', 'C']
-      - ['Fmaj7', 'G4', 'G3']
+      - [C, em7]
+      - [F, E7/9, am4, am3]
+      - [Fmaj7, em7, dm, C]
+      - [Fmaj7, G4, G3]
   - template: v
     lines:
-      - ['am', 'em', 'F', 'C']
-      - ['As', 'Es', 'dm7', 'G']
-      - ['am', 'em', 'F', 'C']
-      - ['As', 'Es', 'dm7', 'G']
+      - [am, em, F, C]
+      - [As, Es, dm7, G]
+      - [am, em, F, C]
+      - [As, Es, dm7, G]

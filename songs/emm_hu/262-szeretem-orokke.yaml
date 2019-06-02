@@ -41,24 +41,24 @@ lyrics:
 chords:
   - template: v
     lines:
-      - ['D']
-      - ['A', 'hm']
-      - ['fism', 'em']
-      - ['G', 'A']
-      - ['D']
-      - ['A', 'hm']
-      - ['fism', 'em']
-      - ['G', 'A', 'D']
+      - [D]
+      - [A, hm]
+      - [fism, em]
+      - [G, A]
+      - [D]
+      - [A, hm]
+      - [fism, em]
+      - [G, A, D]
   - template: c
     lines:
       - group: repeat
         type: unique
         repetitions:
-          - - ['hm', 'fism']
-            - ['G', 'D']
-            - ['hm', 'fism']
-            - ['G', 'A']
-          - - ['hm', 'fism']
-            - ['G', 'D']
-            - ['hm', 'fism']
-            - ['G', 'G2']
+          -   - [hm, fism]
+              - [G, D]
+              - [hm, fism]
+              - [G, A]
+          -   - [hm, fism]
+              - [G, D]
+              - [hm, fism]
+              - [G, G2]

@@ -3,6 +3,8 @@ books:
     chapter: 4_maria
     number: '405'
     lang: hu
+  - id: emm_fr
+    number: 07-09
 lyrics:
   - lang: hu
     title: Ave Maria (kánon)
@@ -14,5 +16,5 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['D', 'A7', 'D']
-      - ['G', 'D', 'A7', 'D']
+      - [D, A7, D]
+      - [G, D, A7, D]

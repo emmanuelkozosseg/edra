@@ -6,12 +6,18 @@ books:
   - id: eeym17
     number: '16'
     lang: en
+  - id: emm_fr
+    number: 17-48
+about:
+  music: B. Pavageau
+  lyrics: B. Pavageau
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/05_2014.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Atyánk, jöjjön el az országod
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -95,27 +101,27 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['em', 'C']
-      - ['G', 'D4', 'D3']
-      - ['G', 'C']
-      - ['am', 'C', 'D']
-      - ['em', 'C']
-      - ['G', 'D4', 'D3']
-      - ['hm', 'C']
-      - ['am', 'F', 'D']
+      - [em, C]
+      - [G, D4, D3]
+      - [G, C]
+      - [am, C, D]
+      - [em, C]
+      - [G, D4, D3]
+      - [hm, C]
+      - [am, F, D]
   - template: v
     lines:
-      - ['hm7', 'C']
-      - ['am', 'em', 'D']
-      - ['hm', 'C']
-      - ['F', 'C', 'D']
+      - [hm7, C]
+      - [am, em, D]
+      - [hm, C]
+      - [F, C, D]
   - template: b
     lines:
-      - ['G', 'D']
-      - ['C', 'am', 'D']
-      - ['G', 'D']
-      - ['C', 'am', 'D']
-      - ['G', 'D']
-      - ['C', 'am', 'D']
-      - ['G', 'D']
-      - ['C', 'F', 'D']
+      - [G, D]
+      - [C, am, D]
+      - [G, D]
+      - [C, am, D]
+      - [G, D]
+      - [C, am, D]
+      - [G, D]
+      - [C, F, D]

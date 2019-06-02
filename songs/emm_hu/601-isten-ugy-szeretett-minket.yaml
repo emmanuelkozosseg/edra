@@ -3,12 +3,18 @@ books:
     chapter: 6_euch
     number: '601'
     lang: hu
+  - id: emm_fr
+    number: 05-20
+about:
+  music: G. du Boullay
+  lyrics: G. du Boullay
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/b09_2001.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Isten úgy szeretett minket
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -49,13 +55,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['D', 'A', 'G', 'D']
-      - ['hm6', 'em', 'A']
-      - ['D', 'A', 'G', 'D']
-      - ['hm6', 'em7', 'A']
+      - [D, A, G, D]
+      - [hm6, em, A]
+      - [D, A, G, D]
+      - [hm6, em7, A]
   - template: v
     lines:
-      - ['A', 'fism', 'hm']
-      - ['hm', 'em', 'A']
-      - ['am6', 'em', 'em7']
-      - ['A']
+      - [A, fism, hm]
+      - [hm, em, A]
+      - [am6, em, em7]
+      - [A]

@@ -3,12 +3,18 @@ books:
     chapter: 4_maria
     number: '401'
     lang: hu
+  - id: emm_fr
+    number: 12-06
+about:
+  music: M. Wittal
+  lyrics: P. Schneider
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2000_es_album/a06_2000.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Ave Maria, ó, légy menedékünk
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -29,9 +35,9 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['D', 'A4', 'D', 'A', 'hm', 'fism', 'hm4', 'hm3']
-      - ['G', 'A', 'em', 'hm', 'G', 'D', 'A', 'D']
+      - [D, A4, D, A, hm, fism, hm4, hm3]
+      - [G, A, em, hm, G, D, A, D]
   - template: v
     lines:
-      - ['G', 'fism', 'hm', 'G', 'A', 'D']
-      - ['G', 'fism', 'hm', 'E4', 'E', 'A']
+      - [G, fism, hm, G, A, D]
+      - [G, fism, hm, E4, E, A]

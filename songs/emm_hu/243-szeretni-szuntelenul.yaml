@@ -3,9 +3,14 @@ books:
     chapter: 2_br
     number: '243'
     lang: hu
+  - id: emm_fr
+    number: 12-04
+about:
+  music: Fr. Ephraim
 lyrics:
   - lang: hu
     title: Szeretni szüntelenül
+    adapted_by: Kisdi B.
     verses:
       - name: c
         lines:
@@ -37,14 +42,14 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['hm']
-      - ['em', 'hm']
-      - ['G', 'G/Fis', 'em']
-      - ['em6', 'Fis']
+      - [hm]
+      - [em, hm]
+      - [G, G/Fis, em]
+      - [em6, Fis]
   - template: v
     lines:
-      - ['hm', 'em']
-      - ['hm']
-      - ['em6']
-      - ['hm']
-      - ['Fis']
+      - [hm, em]
+      - [hm]
+      - [em6]
+      - [hm]
+      - [Fis]

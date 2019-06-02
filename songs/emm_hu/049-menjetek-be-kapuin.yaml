@@ -14,7 +14,7 @@ lyrics:
             lines:
               - Menjetek be kapuin hálaadással,
               - tornácain át dicséretekkel!
-          - ""
+          - ''
           - group: repeat
             times: 2
             lines:
@@ -26,10 +26,10 @@ chords:
       - group: repeat
         type: uniform
         lines:
-          - ['am', 'G', 'am']
-          - ['am', 'G', 'am']
+          - [am, G, am]
+          - [am, G, am]
       - group: repeat
         type: uniform
         lines:
-          - ['am', 'G', 'am']
-          - ['G', 'am']
+          - [am, G, am]
+          - [G, am]

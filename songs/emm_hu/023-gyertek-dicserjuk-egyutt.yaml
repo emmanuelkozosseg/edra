@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '23'
     lang: hu
+about:
+  music: héber dal
+  lyrics: héber dal
 lyrics:
   - lang: hu
     title: Gyertek, dicsérjük együtt
@@ -31,22 +34,22 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['E7']
-      - ['F']
-      - ['E', 'dm', 'E']
+      - [E7]
+      - [F]
+      - [E, dm, E]
   - template: v2
     lines:
-      - ['E']
-      - ['dm']
-      - ['E', 'dm', 'E']
+      - [E]
+      - [dm]
+      - [E, dm, E]
   - template: v3
     lines:
-      - ['am']
+      - [am]
       - []
       - []
   - template: v4
     lines:
-      - ['dm']
+      - [dm]
       - []
-      - ['E']
-      - ['E7', 'am']
+      - [E]
+      - [E7, am]

@@ -6,9 +6,15 @@ books:
   - id: eeym17
     number: '12'
     lang: en
+  - id: emm_fr
+    number: 15-24
+about:
+  music: M. Hagemann
+  lyrics: M. Hagemann
 lyrics:
   - lang: hu
     title: Emberré lett Isten fia értünk
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -82,13 +88,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['G', 'D/Fis', 'C', 'am/E']
-      - ['G', 'D', 'em', 'D']
-      - ['G', 'D/Fis', 'C', 'am/E']
-      - ['C', 'D', 'G']
+      - [G, D/Fis, C, am/E]
+      - [G, D, em, D]
+      - [G, D/Fis, C, am/E]
+      - [C, D, G]
   - template: v
     lines:
-      - ['G', 'D']
-      - ['em', 'hm']
-      - ['C', 'G']
-      - ['am7', 'D']
+      - [G, D]
+      - [em, hm]
+      - [C, G]
+      - [am7, D]

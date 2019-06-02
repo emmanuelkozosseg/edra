@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '22'
     lang: hu
+about:
+  music: Dax
+  lyrics: liturgikus
 lyrics:
   - lang: hu
     title: Dicsőség az Atyának
@@ -22,13 +25,13 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['D']
-      - ['G']
-      - ['D']
-      - ['G']
+      - [D]
+      - [G]
+      - [D]
+      - [G]
   - template: v2
     lines:
-      - ['D']
-      - ['G']
-      - ['D', 'G']
-      - ['D']
+      - [D]
+      - [G]
+      - [D, G]
+      - [D]

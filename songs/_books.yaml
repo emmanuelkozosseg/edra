@@ -1,6 +1,6 @@
 - id: emm_hu
   name: Jézus él
-  selectable: y
+  selectable: true
   chapters:
     - id: 0_dics
       badge: 000-100
@@ -36,6 +36,10 @@
       badge: I00
       name: Imádságok
   
+- id: emm_fr
+  name: Il est vivant
+  selectable: false
+
 - id: eeym17
   name: EEYM 2017
-  selectable: y
+  selectable: true

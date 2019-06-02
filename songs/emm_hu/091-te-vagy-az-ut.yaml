@@ -6,12 +6,18 @@ books:
   - id: eeym17
     number: '19'
     lang: en
+  - id: emm_fr
+    number: 18-26
+about:
+  music: A. Fleury
+  lyrics: A. Fleury
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/13_2014.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Te vagy az Út
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -67,13 +73,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['E', 'H']
-      - ['cism7', 'A']
-      - ['E', 'H']
-      - ['A', 'H', 'E']
+      - [E, H]
+      - [cism7, A]
+      - [E, H]
+      - [A, H, E]
   - template: v
     lines:
-      - ['D9', 'A']
-      - ['H4', 'H3', 'cism']
-      - ['A', 'E', 'D', 'cism']
-      - ['A', 'E', 'D', 'H']
+      - [D9, A]
+      - [H4, H3, cism]
+      - [A, E, D, cism]
+      - [A, E, D, H]

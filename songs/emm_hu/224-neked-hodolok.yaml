@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '224'
     lang: hu
+about:
+  music: S. Palazzo
+  lyrics: S. Palazzo
 lyrics:
   - lang: hu
     title: Néked hódolok
@@ -25,14 +28,14 @@ chords:
       - group: repeat
         type: unique
         repetitions:
-          - - ['A', 'hm']
-            - ['E', 'A', 'D', 'E']
-          - - ['A', 'hm']
-            - ['E', 'A']
+          -   - [A, hm]
+              - [E, A, D, E]
+          -   - [A, hm]
+              - [E, A]
       - group: repeat
         type: unique
         repetitions:
-          - - ['hm']
-            - ['A', 'Fis']
-          - - ['hm']
-            - ['A']
+          -   - [hm]
+              - [A, Fis]
+          -   - [hm]
+              - [A]

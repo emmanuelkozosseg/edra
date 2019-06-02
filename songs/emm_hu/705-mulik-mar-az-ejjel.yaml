@@ -3,6 +3,9 @@ books:
     chapter: 7_zsolt
     number: '705'
     lang: hu
+about:
+  music: Balaton A.
+  lyrics: Balaton A.
 lyrics:
   - lang: hu
     title: Múlik már az éjjel
@@ -15,6 +18,6 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['gm', 'dm', 'C', 'D']
-      - ['gm', 'dm', 'C', 'D']
-      - ['gm', 'dm', 'C', 'D']
+      - [gm, dm, C, D]
+      - [gm, dm, C, D]
+      - [gm, dm, C, D]

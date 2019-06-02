@@ -6,6 +6,7 @@ books:
 lyrics:
   - lang: hu
     title: Hogyha csak mustármagnyi
+    adapted_by: Fábry K.
     verses:
       - name: v1
         lines:

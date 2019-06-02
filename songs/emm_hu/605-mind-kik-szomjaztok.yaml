@@ -3,9 +3,15 @@ books:
     chapter: 6_euch
     number: '605'
     lang: hu
+  - id: emm_fr
+    number: 14-53
+about:
+  music: M. Wittal
+  lyrics: M. Wittal
 lyrics:
   - lang: hu
     title: Mind, kik szomjaztok
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -55,19 +61,19 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['D', 'A', 'hm']
-      - ['G', 'em', 'A4', 'A3']
+      - [D, A, hm]
+      - [G, em, A4, A3]
       - group: repeat
         type: unique
         repetitions:
-          - - ['G', 'em', 'D', 'hm']
-            - ['em7', 'A', 'D', 'D7']
-          - - ['G', 'em', 'D', 'hm']
-            - ['em7', 'A', 'D']
+          -   - [G, em, D, hm]
+              - [em7, A, D, D7]
+          -   - [G, em, D, hm]
+              - [em7, A, D]
   - template: v
     lines:
-      - ['D', 'A', 'G', 'A']
-      - ['Fis', 'hm', 'em7', 'A']
-      - ['G', 'A', 'fism', 'hm']
-      - ['E4', 'E7', 'A4', 'A7']
+      - [D, A, G, A]
+      - [Fis, hm, em7, A]
+      - [G, A, fism, hm]
+      - [E4, E7, A4, A7]
 

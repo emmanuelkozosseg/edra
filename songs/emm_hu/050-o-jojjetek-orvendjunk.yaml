@@ -17,8 +17,8 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['dm']
-      - ['F']
-      - ['C', 'dm']
-      - ['F', 'C', 'dm', 'A', 'A7']
-      - ['dm', 'gm', 'dm', 'A', 'dm']
+      - [dm]
+      - [F]
+      - [C, dm]
+      - [F, C, dm, A, A7]
+      - [dm, gm, dm, A, dm]

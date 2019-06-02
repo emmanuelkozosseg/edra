@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '207'
     lang: hu
+about:
+  music: N. Livingstone
+  lyrics: N. Livingstone
 lyrics:
   - lang: hu
     title: Erőt adsz minden helyzetben
@@ -32,15 +35,15 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['E', 'H', 'cism', 'gism']
-      - ['A', 'E/H', 'H', 'E', 'H']
-      - ['E', 'H', 'cism', 'gism']
-      - ['A', 'E/H', 'H', 'E']
+      - [E, H, cism, gism]
+      - [A, E/H, H, E, H]
+      - [E, H, cism, gism]
+      - [A, E/H, H, E]
   - template: v
     lines:
-      - ['E', 'H', 'cism']
-      - ['gism', 'A']
-      - ['E', 'H', 'E', 'H']
-      - ['E', 'H', 'cism']
-      - ['gism', 'A']
-      - ['E', 'H', 'E']
+      - [E, H, cism]
+      - [gism, A]
+      - [E, H, E, H]
+      - [E, H, cism]
+      - [gism, A]
+      - [E, H, E]

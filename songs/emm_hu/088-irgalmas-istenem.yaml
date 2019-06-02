@@ -3,12 +3,18 @@ books:
     chapter: 0_dics
     number: '88'
     lang: hu
+  - id: emm_fr
+    number: 16-06
+about:
+  music: B. Pavageau, L. Pavageau
+  lyrics: B. Pavageau, L. Pavageau
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/10_2014.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Irgalmas Istenem
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -53,21 +59,21 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['F']
-      - ['dm']
-      - ['D', 'gm']
-      - ['C']
-      - ['F']
-      - ['dm']
-      - ['D', 'gm']
-      - ['C4', 'C3']
+      - [F]
+      - [dm]
+      - [D, gm]
+      - [C]
+      - [F]
+      - [dm]
+      - [D, gm]
+      - [C4, C3]
   - template: v
     lines:
-      - ['F', 'gm/F']
-      - ['B', 'B/C', 'C']
-      - ['F', 'dm']
-      - ['gm', 'B', 'C']
-      - ['F', 'Es']
-      - ['B', 'B/C', 'C']
-      - ['F', 'gm/F']
-      - ['B', 'C4', 'C3']
+      - [F, gm/F]
+      - [B, B/C, C]
+      - [F, dm]
+      - [gm, B, C]
+      - [F, Es]
+      - [B, B/C, C]
+      - [F, gm/F]
+      - [B, C4, C3]

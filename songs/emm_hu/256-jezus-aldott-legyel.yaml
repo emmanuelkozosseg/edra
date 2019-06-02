@@ -27,18 +27,18 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['em', 'G', 'D']
-      - ['C', 'G']
-      - ['D', 'C']
-      - ['G']
-      - ['D', 'C']
-      - ['G', 'D']
-      - ['em']
+      - [em, G, D]
+      - [C, G]
+      - [D, C]
+      - [G]
+      - [D, C]
+      - [G, D]
+      - [em]
   - template: v2
     lines:
-      - ['em', 'G', 'D']
-      - ['C', 'G']
-      - ['G', 'D']
-      - ['C']
-      - ['G', 'D']
-      - ['C', 'G']
+      - [em, G, D]
+      - [C, G]
+      - [G, D]
+      - [C]
+      - [G, D]
+      - [C, G]

@@ -32,12 +32,12 @@ chords:
       - group: repeat
         type: uniform
         lines:
-          - ['am']
-          - ['C']
-          - ['dm']
-      - ['am']
+          - [am]
+          - [C]
+          - [dm]
+      - [am]
   - template: v
     lines:
-      - ['G', 'E']
-      - ['am']
-      - ['H7', 'E']
+      - [G, E]
+      - [am]
+      - [H7, E]

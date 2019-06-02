@@ -3,6 +3,9 @@ books:
     chapter: 3_szl
     number: '315'
     lang: hu
+about:
+  music: Dax
+  lyrics: Máthé-Tóth A.
 lyrics:
   - lang: hu
     title: Atya teremtő szeretet Lelke
@@ -38,11 +41,11 @@ lyrics:
 chords:
   - template: v
     lines:
-      - ['D', 'G', 'fism', 'A7']
-      - ['D', 'G', 'fism', 'A7']
-      - ['D', 'G', 'fism', 'A7']
-      - ['D', 'G', 'A7', 'D']
+      - [D, G, fism, A7]
+      - [D, G, fism, A7]
+      - [D, G, fism, A7]
+      - [D, G, A7, D]
   - template: c
     lines:
-      - ['D', 'fism', 'G', 'A7']
-      - ['D', 'fism', 'G', 'A7', 'D']
+      - [D, fism, G, A7]
+      - [D, fism, G, A7, D]

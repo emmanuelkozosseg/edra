@@ -3,9 +3,15 @@ books:
     chapter: 0_dics
     number: '93'
     lang: hu
+  - id: emm_fr
+    number: 07-33
+about:
+  music: lengyel népének
+  lyrics: C.-E. Hauguel
 lyrics:
   - lang: hu
     title: Alleluja, Jézus él örökké
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -40,7 +46,7 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['F', 'C', 'F', 'C', 'F', 'C', 'F']
-      - ['C', 'dm', 'C', 'dm', 'C', 'dm', 'C']
-      - ['dm', 'A', 'dm', 'A', 'dm', 'A', 'dm']
-      - ['B', 'F', 'C7', 'F']
+      - [F, C, F, C, F, C, F]
+      - [C, dm, C, dm, C, dm, C]
+      - [dm, A, dm, A, dm, A, dm]
+      - [B, F, C7, F]

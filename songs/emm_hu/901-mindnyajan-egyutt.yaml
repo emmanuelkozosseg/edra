@@ -3,9 +3,12 @@ books:
     chapter: 9_mozg
     number: '901'
     lang: hu
+about:
+  lyrics: E. Rettino
 lyrics:
   - lang: hu
     title: Mindnyájan együtt...
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -16,7 +19,7 @@ lyrics:
       - name: v1
         lines:
           - '/: Isten szólt:'
-          - '„Noé! Hatalmas özönvíz jön! :/'
+          - „Noé! Hatalmas özönvíz jön! :/
           - Téged kérlek:kérlek,
           - mentsed meg az Isten gyermekeit.”
       - name: v2

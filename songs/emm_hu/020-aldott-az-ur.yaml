@@ -3,9 +3,13 @@ books:
     chapter: 0_dics
     number: '20'
     lang: hu
+about:
+  music: C. Brasseur
+  lyrics: C. Brasseur
 lyrics:
   - lang: hu
     title: Alleluja, áldott az Úr
+    adapted_by: Nyolc Boldogság Közösség
     verses:
       - name: c
         lines:
@@ -32,11 +36,11 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['G', 'em', 'C', 'D']
-      - ['G', 'em', 'C', 'D', 'G']
+      - [G, em, C, D]
+      - [G, em, C, D, G]
   - template: v
     lines:
-      - ['G', 'C', 'G', 'C']
-      - ['G', 'em', 'am', 'D']
-      - ['G', 'C', 'G', 'C']
-      - ['D', 'D7', 'G']
+      - [G, C, G, C]
+      - [G, em, am, D]
+      - [G, C, G, C]
+      - [D, D7, G]

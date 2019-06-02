@@ -45,8 +45,8 @@ lyrics:
 chords:
   - template: v
     lines:
-      - ['am', 'hm']
-      - ['C', 'D']
-      - ['G', 'C']
-      - ['hm', 'am']
-      - ['em']
+      - [am, hm]
+      - [C, D]
+      - [G, C]
+      - [hm, am]
+      - [em]

@@ -3,12 +3,18 @@ books:
     chapter: 2_br
     number: '215'
     lang: hu
+  - id: emm_fr
+    number: 08-42
+about:
+  music: G. du Boullay
+  lyrics: G. du Boullay
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/a09_2001.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Abba! Ég és föld Ura, Istene
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -32,10 +38,10 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['dm', 'A7/4', 'gm(6)', 'A', 'A7']
-      - ['F', 'C', 'dm7', 'B(6)', 'C']
+      - [dm, A7/4, gm(6), A, A7]
+      - [F, C, dm7, B(6), C]
   - template: v
     lines:
-      - ['A7', 'dm', 'C7', 'F', 'gm', 'A7/4', 'A7']
-      - ['B', 'C', 'F']
-      - ['gm', 'C7(9)', 'A', 'A7']
+      - [A7, dm, C7, F, gm, A7/4, A7]
+      - [B, C, F]
+      - [gm, C7(9), A, A7]

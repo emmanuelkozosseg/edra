@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '240'
     lang: hu
+about:
+  music: Tolcsvay L.
+  lyrics: Loyolai Szent Ignác
 lyrics:
   - lang: hu
     title: Fogadd el, Uram
@@ -34,13 +37,13 @@ lyrics:
 chords:
   - template: v
     lines:
-      - ['D', 'A', 'D/Fis', 'G']
-      - ['D', 'A', 'D', 'A']
-      - ['D', 'A', 'D/Fis', 'G']
-      - ['D', 'A', 'D']
+      - [D, A, D/Fis, G]
+      - [D, A, D, A]
+      - [D, A, D/Fis, G]
+      - [D, A, D]
   - template: v3
     lines:
-      - ['hm', 'Fis', 'hm', 'G']
-      - ['D', 'A', 'D']
-      - ['hm', 'Fis', 'hm', 'E7']
-      - ['A', 'hm/A', 'fism/A', 'em/A']
+      - [hm, Fis, hm, G]
+      - [D, A, D]
+      - [hm, Fis, hm, E7]
+      - [A, hm/A, fism/A, em/A]

@@ -3,9 +3,12 @@ books:
     chapter: 4_maria
     number: '406'
     lang: hu
+about:
+  music: M. Parkinson
 lyrics:
   - lang: hu
     title: Ave Maria, Jézus nékünk
+    adapted_by: Aszalós Z., Formanek T., Varga A.
     verses:
       - name: v1
         lines:
@@ -26,13 +29,13 @@ lyrics:
 chords:
   - template: v
     lines:
-      - ['G', 'D', 'C', 'D']
-      - ['G', 'hm', 'C', 'D']
-      - ['G', 'am', 'D', 'G']
-      - ['C', 'D', 'G', 'D']
+      - [G, D, C, D]
+      - [G, hm, C, D]
+      - [G, am, D, G]
+      - [C, D, G, D]
   - template: c
     lines:
-      - ['G', 'D', 'C', 'D']
-      - ['G', 'am', 'C', 'D']
-      - ['G', 'am', 'D', 'G']
-      - ['C', 'D', 'G', 'C', 'G']
+      - [G, D, C, D]
+      - [G, am, C, D]
+      - [G, am, D, G]
+      - [C, D, G, C, G]

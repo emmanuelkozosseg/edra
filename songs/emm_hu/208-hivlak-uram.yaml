@@ -37,28 +37,28 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['D', 'fism']
-      - ['G', 'em']
-      - ['D/A', 'A']
-      - ['D', 'fism']
-      - ['G', 'em', 'D/A', 'A']
+      - [D, fism]
+      - [G, em]
+      - [D/A, A]
+      - [D, fism]
+      - [G, em, D/A, A]
   - template: v2
     lines:
-      - ['D']
-      - ['C', 'D', 'G']
-      - ['D']
-      - ['C', 'D', 'G']
+      - [D]
+      - [C, D, G]
+      - [D]
+      - [C, D, G]
   - template: v3
     lines:
-      - ['D']
-      - ['C', 'D', 'G']
-      - ['D']
-      - ['C', 'D', 'G']
+      - [D]
+      - [C, D, G]
+      - [D]
+      - [C, D, G]
   - template: v4
     lines:
       - group: repeat
         type: uniform
         lines:
-          - ['em', 'C']
-          - ['em', 'C']
-          - ['em', 'C', 'A']
+          - [em, C]
+          - [em, C]
+          - [em, C, A]

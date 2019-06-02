@@ -3,9 +3,15 @@ books:
     chapter: 2_br
     number: '234'
     lang: hu
+  - id: emm_fr
+    number: 11-59
+about:
+  music: N. Toschi
+  lyrics: N. Toschi
 lyrics:
   - lang: hu
     title: Közel jön az Isten
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -31,12 +37,12 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['D', 'G', 'D']
-      - ['hm', 'G', 'A4', 'A']
-      - ['D', 'G', 'D', 'fism']
-      - ['hm', 'G', 'A', 'D']
+      - [D, G, D]
+      - [hm, G, A4, A]
+      - [D, G, D, fism]
+      - [hm, G, A, D]
   - template: v
     lines:
-      - ['D', 'G']
-      - ['A', 'D']
-      - ['G', 'A7', 'F']
+      - [D, G]
+      - [A, D]
+      - [G, A7, F]

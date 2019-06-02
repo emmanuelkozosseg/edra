@@ -3,6 +3,8 @@ books:
     chapter: 5_mise
     number: '505b'
     lang: hu
+  - id: emm_fr
+    number: 13-25-02
 lyrics:
   - lang: hu
     title: Szent János mise (Gloria)

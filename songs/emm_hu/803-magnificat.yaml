@@ -3,9 +3,12 @@ books:
     chapter: 8_himn
     number: '803'
     lang: hu
+about:
+  lyrics: liturgikus
 lyrics:
   - lang: hu
     title: Magnificat
+    adapted_by: Nemes K.
     verses:
       - name: c
         lines:
@@ -55,14 +58,14 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['G', 'C', 'D', 'G']
+      - [G, C, D, G]
   - template: v
     lines:
-      - ['G', 'D', 'em']
-      - ['em', 'D', 'G']
+      - [G, D, em]
+      - [em, D, G]
   - template: v10
     lines:
-      - ['G', 'D', 'em']
-      - ['em', 'D', 'G']
-      - ['G', 'D', 'em']
-      - ['em', 'D', 'G']
+      - [G, D, em]
+      - [em, D, G]
+      - [G, D, em]
+      - [em, D, G]

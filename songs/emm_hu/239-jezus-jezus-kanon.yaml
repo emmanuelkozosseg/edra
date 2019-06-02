@@ -3,6 +3,8 @@ books:
     chapter: 2_br
     number: '239'
     lang: hu
+  - id: emm_fr
+    number: 14-18
 lyrics:
   - lang: hu
     title: Jézus, Jézus (kánon)
@@ -14,5 +16,5 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['am', 'em', 'F', 'C', 'dm', 'am', 'F', 'G', 'A']
-      - ['am', 'em', 'F', 'C', 'dm', 'am', 'F', 'G', 'A']
+      - [am, em, F, C, dm, am, F, G, A]
+      - [am, em, F, C, dm, am, F, G, A]

@@ -3,12 +3,18 @@ books:
     chapter: 2_br
     number: '236'
     lang: hu
+  - id: emm_fr
+    number: 15-37
+about:
+  music: M. Wittal
+  lyrics: M. Wittal
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/04_2007.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Ó, jöjj, Istenem
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -35,17 +41,17 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['D', 'em7', 'D', 'em7']
-      - ['D', 'G', 'A4', 'A']
-      - ['D', 'em7', 'D', 'em7']
-      - ['D', 'G', 'A4']
-      - ['G', 'A', 'C', 'hm']
-      - ['G', 'A', 'D']
-      - ['G', 'A', 'C', 'hm']
-      - ['G', 'A', 'D']
+      - [D, em7, D, em7]
+      - [D, G, A4, A]
+      - [D, em7, D, em7]
+      - [D, G, A4]
+      - [G, A, C, hm]
+      - [G, A, D]
+      - [G, A, C, hm]
+      - [G, A, D]
   - template: v
     lines:
-      - ['D', 'em7', 'D', 'em7']
-      - ['D', 'G', 'A4', 'A']
-      - ['fism', 'hm', 'G', 'C']
-      - ['hm', 'em7', 'A4', 'A']
+      - [D, em7, D, em7]
+      - [D, G, A4, A]
+      - [fism, hm, G, C]
+      - [hm, em7, A4, A]

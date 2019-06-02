@@ -6,12 +6,18 @@ books:
   - id: eeym17
     number: '31'
     lang: en
+  - id: emm_fr
+    number: 14-20
+about:
+  music: C. Blanchard
+  lyrics: C. Blanchard
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/a04_2003.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Jézus, megígérted
+    adapted_by: Fábry K.
     verses:
       - name: v1
         lines:
@@ -31,7 +37,7 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['dm', 'am']
-      - ['C', 'dm', 'B/C', 'C']
-      - ['F', 'gm', 'C7', 'F', 'dm']
-      - ['B', 'C', 'dm']
+      - [dm, am]
+      - [C, dm, B/C, C]
+      - [F, gm, C7, F, dm]
+      - [B, C, dm]

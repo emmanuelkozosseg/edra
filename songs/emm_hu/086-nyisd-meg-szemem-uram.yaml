@@ -3,12 +3,18 @@ books:
     chapter: 0_dics
     number: '86'
     lang: hu
+  - id: emm_fr
+    number: 16-09
+about:
+  music: M. Gierycz
+  lyrics: M. Gierycz
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/07_2007.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Nyisd meg szemem, Uram
+    adapted_by: Balaton A., Fábry K.
     verses:
       - name: c
         lines:
@@ -37,13 +43,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['C', 'G', 'F', 'G']
-      - ['am', 'dm', 'G']
-      - ['C', 'G', 'F', 'G']
-      - ['dm', 'G', 'C']
+      - [C, G, F, G]
+      - [am, dm, G]
+      - [C, G, F, G]
+      - [dm, G, C]
   - template: v
     lines:
-      - ['D', 'em']
-      - ['C', 'D', 'G']
-      - ['am', 'G', 'em']
-      - ['am', 'F', 'B', 'G']
+      - [D, em]
+      - [C, D, G]
+      - [am, G, em]
+      - [am, F, B, G]

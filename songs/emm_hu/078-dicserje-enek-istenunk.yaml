@@ -3,9 +3,15 @@ books:
     chapter: 0_dics
     number: '78'
     lang: hu
+  - id: emm_fr
+    number: 14-13
+about:
+  music: E. Baranger
+  lyrics: E. Baranger
 lyrics:
   - lang: hu
     title: Dicsérje ének Istenünk
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -34,13 +40,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['F', 'B/D', 'gm', 'C']
-      - ['B/D', 'gm', 'C']
-      - ['F', 'B/D', 'gm', 'C']
-      - ['F', 'B/D', 'C', 'F']
+      - [F, B/D, gm, C]
+      - [B/D, gm, C]
+      - [F, B/D, gm, C]
+      - [F, B/D, C, F]
   - template: v
     lines:
-      - ['dm', 'C/E', 'F', 'gm', 'C']
-      - ['B', 'C', 'dm', 'C']
-      - ['F', 'C/E', 'F', 'gm', 'C']
-      - ['B', 'C', 'dm', 'C']
+      - [dm, C/E, F, gm, C]
+      - [B, C, dm, C]
+      - [F, C/E, F, gm, C]
+      - [B, C, dm, C]

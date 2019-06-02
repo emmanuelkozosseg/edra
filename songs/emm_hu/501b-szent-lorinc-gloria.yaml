@@ -2,10 +2,10 @@ books:
   - id: emm_hu
     chapter: 5_mise
     number: '501b'
-    lang: hu
+    lang: la
 lyrics:
-  - lang: hu
-    title: Szent Lőrinc mise (Alleluja)
+  - lang: la
+    title: Szent Lőrinc mise (Gloria)
     verses:
       - name: v1
         lines:

@@ -3,9 +3,13 @@ books:
     chapter: 0_dics
     number: '94'
     lang: hu
+about:
+  music: R. Founds
+  lyrics: R. Founds
 lyrics:
   - lang: hu
     title: Hozzád száll az énekem
+    adapted_by: Simonfalvi K.
     verses:
       - name: v1
         lines:
@@ -31,16 +35,16 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['G', 'C', 'D']
-      - ['C', 'G']
-      - ['C', 'D']
-      - ['C', 'G']
-      - ['am', 'D']
-      - ['H', 'em']
-      - ['D', 'G']
+      - [G, C, D]
+      - [C, G]
+      - [C, D]
+      - [C, G]
+      - [am, D]
+      - [H, em]
+      - [D, G]
   - template: v
     lines:
-      - ['G', 'C', 'D', 'C']
-      - ['G', 'C', 'D', 'C']
-      - ['G', 'C', 'D', 'C']
-      - ['G', 'C', 'D', 'C']
+      - [G, C, D, C]
+      - [G, C, D, C]
+      - [G, C, D, C]
+      - [G, C, D, C]

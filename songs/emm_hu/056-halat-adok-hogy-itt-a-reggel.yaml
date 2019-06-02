@@ -3,9 +3,13 @@ books:
     chapter: 0_dics
     number: '56'
     lang: hu
+about:
+  music: M. G. Schneider
+  lyrics: M. G. Schneider
 lyrics:
   - lang: hu
     title: Hálát adok, hogy itt a reggel
+    adapted_by: Cselényi I. G.
     verses:
       - name: v1
         lines:
@@ -46,7 +50,7 @@ lyrics:
 chords:
   - template: v
     lines:
-      - ['D', 'em7', 'A6']
-      - ['D', 'D7', 'G', 'A7']
-      - ['D', 'D7', 'G', 'gm']
-      - ['D', 'A7', 'D']
+      - [D, em7, A6]
+      - [D, D7, G, A7]
+      - [D, D7, G, gm]
+      - [D, A7, D]

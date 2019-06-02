@@ -3,12 +3,18 @@ books:
     chapter: 2_br
     number: '214'
     lang: hu
+  - id: emm_fr
+    number: 11-52
+about:
+  music: G. du Boullay
+  lyrics: G. du Boullay
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/a05_2001.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Jézus, neked élek
+    adapted_by: Fábry K.
     verses:
       - name: v1
         lines:
@@ -19,7 +25,7 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['hm', 'em7', 'A']
-      - ['fism', 'hm7', 'A', 'D']
-      - ['G', 'em7', 'fism7', 'D']
-      - ['em', 'hm', 'em', 'em6', 'hm', 'fism', 'hm']
+      - [hm, em7, A]
+      - [fism, hm7, A, D]
+      - [G, em7, fism7, D]
+      - [em, hm, em, em6, hm, fism, hm]

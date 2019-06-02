@@ -3,9 +3,15 @@ books:
     chapter: 0_dics
     number: '84'
     lang: hu
+  - id: emm_fr
+    number: 15-17
+about:
+  music: M. Deboeuf
+  lyrics: M. Deboeuf
 lyrics:
   - lang: hu
     title: Téged áldalak, szeretet Istene
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -34,13 +40,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['am', 'F', 'G4', 'C']
-      - ['F', 'C', 'hm7', 'E']
-      - ['am', 'F', 'G4', 'am']
-      - ['F', 'G', 'am']
+      - [am, F, G4, C]
+      - [F, C, hm7, E]
+      - [am, F, G4, am]
+      - [F, G, am]
   - template: v
     lines:
-      - ['C', 'G']
-      - ['dm', 'am4']
-      - ['am', 'F', 'am']
-      - ['F', 'dm', 'E']
+      - [C, G]
+      - [dm, am4]
+      - [am, F, am]
+      - [F, dm, E]

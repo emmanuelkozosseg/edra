@@ -3,9 +3,15 @@ books:
     chapter: 3_szl
     number: '307'
     lang: hu
+  - id: emm_fr
+    number: 01-52
+about:
+  music: keleti liturgia
+  lyrics: keleti liturgia
 lyrics:
   - lang: hu
     title: Mennyei Király, Vigasztaló
+    adapted_by: Fábry K.
     verses:
       - name: v1
         lines:
@@ -24,15 +30,15 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['am', 'em', 'am']
-      - ['G']
-      - ['C', 'G', '(am)', 'em']
-      - ['(am)', 'em', 'am']
+      - [am, em, am]
+      - [G]
+      - [C, G, (am), em]
+      - [(am), em, am]
   - template: v2
     lines:
-      - ['G']
-      - ['C', 'G', 'em']
+      - [G]
+      - [C, G, em]
   - template: v3
     lines:
-      - ['am', 'em', 'am']
-      - ['am4', 'G', 'C', 'am', 'em', 'am']
+      - [am, em, am]
+      - [am4, G, C, am, em, am]

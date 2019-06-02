@@ -3,9 +3,15 @@ books:
     chapter: 0_dics
     number: '38'
     lang: hu
+  - id: emm_fr
+    number: 13-05
+about:
+  music: D.-M. David, L.-E. de Labarthe
+  lyrics: D.-M. David, L.-E. de Labarthe
 lyrics:
   - lang: hu
     title: Szeretet Istene
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -52,13 +58,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['G', 'em']
-      - ['am', 'D']
-      - ['G', 'em']
-      - ['am', 'D7', 'G']
+      - [G, em]
+      - [am, D]
+      - [G, em]
+      - [am, D7, G]
   - template: v
     lines:
-      - ['G', 'D6', 'em']
-      - ['C', 'D']
-      - ['G', 'D6', 'em']
-      - ['C', 'am', 'D']
+      - [G, D6, em]
+      - [C, D]
+      - [G, D6, em]
+      - [C, am, D]

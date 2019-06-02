@@ -3,9 +3,15 @@ books:
     chapter: 0_dics
     number: '75'
     lang: hu
+  - id: emm_fr
+    number: 15-03
+about:
+  music: G. Vergouwen
+  lyrics: G. Vergouwen
 lyrics:
   - lang: hu
     title: Alleluja, feltámadott!
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -14,7 +20,7 @@ lyrics:
           - És Jézus eltörölte végleg a halált!
           - Alleluja! Feltámadott!
           - Alleluja!
-          - 'Ujjongva énekeljünk hát alleluját!'
+          - Ujjongva énekeljünk hát alleluját!
       - name: v1
         lines:
           - Eljött, hogy megmentsen minket az Úr,
@@ -42,16 +48,16 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['D', 'C2', 'D', 'C2', 'D']
+      - [D, C2, D, C2, D]
       - []
-      - ['C', 'G', 'D']
-      - ['D', 'C2', 'D', 'C2', 'D']
+      - [C, G, D]
+      - [D, C2, D, C2, D]
       - []
-      - ['C', 'G', 'D']
+      - [C, G, D]
   - template: v
     lines:
-      - ['D', 'G', 'A', 'D']
-      - ['hm', 'G', 'A']
-      - ['D', 'fism', 'F', 'G']
-      - ['E', 'A']
+      - [D, G, A, D]
+      - [hm, G, A]
+      - [D, fism, F, G]
+      - [E, A]
 

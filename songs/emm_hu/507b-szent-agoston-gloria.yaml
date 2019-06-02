@@ -3,6 +3,8 @@ books:
     chapter: 5_mise
     number: '507b'
     lang: hu
+  - id: emm_fr
+    number: 19-22-02
 lyrics:
   - lang: hu
     title: Szent Ágoston mise (Gloria)

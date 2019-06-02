@@ -6,6 +6,7 @@ books:
 lyrics:
   - lang: hu
     title: Az Úrnak szüksége van rád
+    adapted_by: Csiszér L.
     verses:
       - name: v1
         lines:

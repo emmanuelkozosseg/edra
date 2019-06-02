@@ -3,9 +3,15 @@ books:
     chapter: 2_br
     number: '251'
     lang: hu
+  - id: emm_fr
+    number: 18-12
+about:
+  music: Fr. Jean-Baptiste du Jonchay
+  lyrics: P. Marie-Eugène de l'E.J.
 lyrics:
   - lang: hu
     title: Halld Uram
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -35,10 +41,10 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['em']
-      - ['G']
-      - ['D', 'A']
+      - [em]
+      - [G]
+      - [D, A]
   - template: v
     lines:
-      - ['em', 'G', 'C', 'D']
-      - ['em', 'C', 'am', 'D', 'em', 'hm', 'em']
+      - [em, G, C, D]
+      - [em, C, am, D, em, hm, em]

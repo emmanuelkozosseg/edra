@@ -3,6 +3,11 @@ books:
     chapter: 2_br
     number: '212'
     lang: hu
+  - id: emm_fr
+    number: 09-23
+about:
+  music: R. Magnabosco
+  lyrics: R. Magnabosco
 lyrics:
   - lang: hu
     title: Jézus, Jézus
@@ -16,7 +21,7 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['D', 'A']
-      - ['em', 'hm']
-      - ['hm', 'G', 'D']
-      - ['em7', 'G(6-5)', 'D', 'A', 'D']
+      - [D, A]
+      - [em, hm]
+      - [hm, G, D]
+      - [em7, G(6-5), D, A, D]

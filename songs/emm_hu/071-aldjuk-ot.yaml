@@ -3,12 +3,18 @@ books:
     chapter: 0_dics
     number: '71'
     lang: hu
+  - id: emm_fr
+    number: 14-24
+about:
+  music: Music & Mission
+  lyrics: Music & Mission
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/a02_2003.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Áldjuk Őt!
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -43,13 +49,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['em', 'C']
-      - ['am', 'D', 'G', 'H7']
-      - ['em', 'C']
-      - ['am', 'H7', 'em']
+      - [em, C]
+      - [am, D, G, H7]
+      - [em, C]
+      - [am, H7, em]
   - template: v
     lines:
-      - ['C', 'D', 'G', 'em']
-      - ['C', 'D', 'H7']
-      - ['C', 'D', 'G', 'C']
-      - ['am', 'C', 'D']
+      - [C, D, G, em]
+      - [C, D, H7]
+      - [C, D, G, C]
+      - [am, C, D]

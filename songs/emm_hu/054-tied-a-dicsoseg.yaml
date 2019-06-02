@@ -26,12 +26,12 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['C']
-      - ['C', 'am']
-      - ['am', 'F', 'dm']
-      - ['G', 'G']
+      - [C]
+      - [C, am]
+      - [am, F, dm]
+      - [G, G]
   - template: v
     lines:
-      - ['C', 'C', 'em']
-      - ['F', 'dm']
-      - ['G', 'G7']
+      - [C, C, em]
+      - [F, dm]
+      - [G, G7]

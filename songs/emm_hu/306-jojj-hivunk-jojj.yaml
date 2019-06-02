@@ -3,6 +3,9 @@ books:
     chapter: 3_szl
     number: '306'
     lang: hu
+about:
+  music: Mézes Á.
+  lyrics: Mézes Á.
 lyrics:
   - lang: hu
     title: Jöjj, hívunk, jöjj
@@ -39,15 +42,15 @@ chords:
       - group: repeat
         type: uniform
         lines:
-          - ['D', 'hm']
-          - ['em', 'G', 'A', 'G', 'A']
-      - ['G', 'D', 'G', 'D']
-      - ['A', 'G', 'D']
+          - [D, hm]
+          - [em, G, A, G, A]
+      - [G, D, G, D]
+      - [A, G, D]
   - template: v3
     lines:
-      - ['D', 'hm'] 
-      - ['em', 'G', 'A', 'G', 'A']
-      - ['D', 'hm'] 
-      - ['em', 'G', 'A', 'G', 'A']
-      - ['G', 'D', 'G', 'D']
-      - ['A', 'G', 'D']
+      - [D, hm]
+      - [em, G, A, G, A]
+      - [D, hm]
+      - [em, G, A, G, A]
+      - [G, D, G, D]
+      - [A, G, D]

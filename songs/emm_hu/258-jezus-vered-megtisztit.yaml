@@ -19,10 +19,10 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['A', 'E', 'fism']
-      - ['E', 'D', 'E']
-      - ['D', 'E']
-      - ['A', 'cism', 'fism', 'fism7']
-      - ['D', 'dm']
-      - ['A', 'E', 'fism7']
-      - ['hm', 'D', 'E7', 'A']
+      - [A, E, fism]
+      - [E, D, E]
+      - [D, E]
+      - [A, cism, fism, fism7]
+      - [D, dm]
+      - [A, E, fism7]
+      - [hm, D, E7, A]

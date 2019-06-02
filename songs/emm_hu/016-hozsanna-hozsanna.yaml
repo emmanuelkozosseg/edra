@@ -3,6 +3,11 @@ books:
     chapter: 0_dics
     number: '16'
     lang: hu
+  - id: emm_fr
+    number: 15-10
+about:
+  music: C. Tuttle
+  lyrics: C. Tuttle
 lyrics:
   - lang: hu
     title: Hozsanna, hozsanna
@@ -34,13 +39,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['C', 'D', 'G']
-      - ['C', 'D', 'G']
-      - ['C', 'D', 'G', 'D/Fis', 'em']
-      - ['C', 'D', 'G']
+      - [C, D, G]
+      - [C, D, G]
+      - [C, D, G, D/Fis, em]
+      - [C, D, G]
   - template: v
     lines:
-      - ['G', 'D']
-      - ['em', 'C', 'D']
-      - ['G', 'D']
-      - ['em', 'C', 'D']
+      - [G, D]
+      - [em, C, D]
+      - [G, D]
+      - [em, C, D]

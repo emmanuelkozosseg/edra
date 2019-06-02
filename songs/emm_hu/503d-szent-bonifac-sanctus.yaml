@@ -2,9 +2,9 @@ books:
   - id: emm_hu
     chapter: 5_mise
     number: '503d'
-    lang: hu
+    lang: la
 lyrics:
-  - lang: hu
+  - lang: la
     title: Szent Bonifác mise (Sanctus)
     verses:
       - name: v1

@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '51'
     lang: hu
+about:
+  music: Hollósy P.
+  lyrics: Hollósy P.
 lyrics:
   - lang: hu
     title: Énekelj az Úrnak
@@ -28,11 +31,11 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['C', 'G']
-      - ['F', 'G', 'C', 'G']
-      - ['C', 'G']
-      - ['F', 'G', 'C', 'C7']
+      - [C, G]
+      - [F, G, C, G]
+      - [C, G]
+      - [F, G, C, C7]
   - template: v
     lines:
-      - ['F', 'G', 'am', 'dm', 'F', 'C', 'C7']
-      - ['F', 'G', 'am', 'dm', 'G', 'G7', 'C']
+      - [F, G, am, dm, F, C, C7]
+      - [F, G, am, dm, G, G7, C]

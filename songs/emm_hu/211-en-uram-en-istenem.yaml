@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '211'
     lang: hu
+about:
+  music: Dax
+  lyrics: Flüei Szent Miklós
 lyrics:
   - lang: hu
     title: Én Uram, én Istenem
@@ -28,17 +31,17 @@ lyrics:
 chords:
   - template: v
     lines:
-      - ['em', 'H7']
-      - ['G', 'D']
-      - ['am', 'em']
+      - [em, H7]
+      - [G, D]
+      - [am, em]
   - template: c
     lines:
       - group: repeat
         type: unique
         repetitions:
-          - - ['em', 'H7']
-            - ['G', 'D']
-            - ['C', 'D', 'em']
-          - - ['em', 'H7']
-            - ['G', 'D']
-            - ['C', 'D', 'G']
+          -   - [em, H7]
+              - [G, D]
+              - [C, D, em]
+          -   - [em, H7]
+              - [G, D]
+              - [C, D, G]

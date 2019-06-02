@@ -3,12 +3,18 @@ books:
     chapter: 6_euch
     number: '606'
     lang: hu
+  - id: emm_fr
+    number: 14-51
+about:
+  music: M. Dannaud
+  lyrics: M. Dannaud
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/b06_2003.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Krisztusnak teste és vére van itt
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -37,13 +43,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['D', 'A', 'em']
-      - ['H', 'em', 'hm']
-      - ['G', 'D', 'hm', 'hm7']
-      - ['em', 'A', 'G', 'D']
+      - [D, A, em]
+      - [H, em, hm]
+      - [G, D, hm, hm7]
+      - [em, A, G, D]
   - template: v
     lines:
-      - ['D', 'hm', 'A', '(A4)', '(A3)']
-      - ['hm', 'G7', 'A4', 'A3']
-      - ['Fis/As', 'hm', 'G', 'G/H', 'hm']
-      - ['D', 'D/Cis', 'hm', 'hm7', 'A4', 'A3']
+      - [D, hm, A, (A4), (A3)]
+      - [hm, G7, A4, A3]
+      - [Fis/As, hm, G, G/H, hm]
+      - [D, D/Cis, hm, hm7, A4, A3]

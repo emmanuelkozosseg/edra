@@ -3,9 +3,15 @@ books:
     chapter: 0_dics
     number: '17'
     lang: hu
+  - id: emm_fr
+    number: 03-71
+about:
+  music: C. Guerret-Fourneau
+  lyrics: C. Guerret-Fourneau
 lyrics:
   - lang: hu
     title: Nézz testvér fel
+    adapted_by: Illésy I.
     verses:
       - name: c
         lines:
@@ -35,14 +41,14 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['D', 'fism']
-      - ['G', 'A', 'D']
-      - ['G', 'fism', 'hm']
-      - ['G', 'em', 'A']
-      - ['G', 'A', 'D']
+      - [D, fism]
+      - [G, A, D]
+      - [G, fism, hm]
+      - [G, em, A]
+      - [G, A, D]
   - template: v
     lines:
-      - ['D', 'fism']
-      - ['G', 'A', 'D']
-      - ['D', 'fism']
-      - ['G', 'A', 'D']
+      - [D, fism]
+      - [G, A, D]
+      - [D, fism]
+      - [G, A, D]

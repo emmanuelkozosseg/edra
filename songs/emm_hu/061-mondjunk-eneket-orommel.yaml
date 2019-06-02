@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '61'
     lang: hu
+about:
+  music: Borka Zs.
+  lyrics: Borka Zs.
 lyrics:
   - lang: hu
     title: Mondjunk éneket örömmel
@@ -34,13 +37,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['E', 'A', 'E']
-      - ['H7']
-      - ['E', 'A', 'E']
-      - ['A', 'H7', 'E']
+      - [E, A, E]
+      - [H7]
+      - [E, A, E]
+      - [A, H7, E]
   - template: v
     lines:
-      - ['A', 'gism']
-      - ['fism', 'E']
-      - ['A', 'gism']
-      - ['Fis', 'H']
+      - [A, gism]
+      - [fism, E]
+      - [A, gism]
+      - [Fis, H]

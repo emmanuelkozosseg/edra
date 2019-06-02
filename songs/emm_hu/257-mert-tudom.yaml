@@ -24,15 +24,15 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['D', 'G', 'D']
-      - ['G', 'D']
-      - ['G', 'D']
-      - ['G', 'D']
+      - [D, G, D]
+      - [G, D]
+      - [G, D]
+      - [G, D]
   - template: v2
     lines:
-      - ['D', 'G', 'D']
-      - ['Fis', 'hm', 'G', 'A']
-      - ['G', 'D']
-      - ['hm', 'G', 'A']
-      - ['D', 'hm']
-      - ['G', 'A']
+      - [D, G, D]
+      - [Fis, hm, G, A]
+      - [G, D]
+      - [hm, G, A]
+      - [D, hm]
+      - [G, A]

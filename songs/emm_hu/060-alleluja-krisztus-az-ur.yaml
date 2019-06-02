@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '60'
     lang: hu
+about:
+  music: K. Lafferty
+  lyrics: K. Lafferty
 lyrics:
   - lang: hu
     title: Alleluja, Krisztus az Úr
@@ -28,7 +31,7 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['C', 'em', 'F', 'C']
-      - ['F', 'C', 'G']
-      - ['C', 'em', 'F', 'C']
-      - ['F', 'C', 'G', 'C']
+      - [C, em, F, C]
+      - [F, C, G]
+      - [C, em, F, C]
+      - [F, C, G, C]

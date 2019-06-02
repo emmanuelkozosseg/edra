@@ -3,12 +3,18 @@ books:
     chapter: 2_br
     number: '204'
     lang: hu
+  - id: emm_fr
+    number: 05-44
+about:
+  music: J.-M. Morin
+  lyrics: J.-M. Morin
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/b03_2001.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Ó, áldjad, lelkem, Istened
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -41,11 +47,11 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['hm', '(A)', 'D', 'fism', 'E']
-      - ['G', 'em/G', '(A)', 'H']
+      - [hm, (A), D, fism, E]
+      - [G, em/G, (A), H]
   - template: v
     lines:
-      - ['em', 'A', 'H']
-      - ['em', 'A', 'fism', 'Fis7']
-      - ['G', 'A', 'H']
-      - ['C', 'em', 'H']
+      - [em, A, H]
+      - [em, A, fism, Fis7]
+      - [G, A, H]
+      - [C, em, H]

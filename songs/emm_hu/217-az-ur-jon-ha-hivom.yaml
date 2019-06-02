@@ -3,12 +3,18 @@ books:
     chapter: 2_br
     number: '217'
     lang: hu
+  - id: emm_fr
+    number: 14-43
+about:
+  music: M. Hagemann
+  lyrics: M. Hagemann
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/b02_2003.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Az Úr jön, ha hívom
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -44,12 +50,12 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['D', 'D4', 'D/Fis', 'G']
-      - ['D', 'em7', 'em3']
-      - ['D', 'D4', 'G', 'D']
-      - ['G', 'D', 'G', 'em', 'A4', 'A3', 'D']
+      - [D, D4, D/Fis, G]
+      - [D, em7, em3]
+      - [D, D4, G, D]
+      - [G, D, G, em, A4, A3, D]
   - template: v
     lines:
-      - ['hm', 'fism/A']
-      - ['em/G', 'hm']
-      - ['G', 'A4', 'A3']
+      - [hm, fism/A]
+      - [em/G, hm]
+      - [G, A4, A3]

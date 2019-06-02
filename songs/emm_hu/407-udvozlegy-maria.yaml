@@ -3,12 +3,17 @@ books:
     chapter: 4_maria
     number: '407'
     lang: hu
+  - id: emm_fr
+    number: 14-17
+about:
+  music: Fr. Jean-Baptiste de la Sainte Famille
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/b07_2003.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Üdvözlégy Mária
+    adapted_by: Fábry K.
     verses:
       - name: v1
         lines:
@@ -25,12 +30,12 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['em', 'hm', 'em']
-      - ['D', 'G']
-      - ['G', 'D', 'em', 'hm']
-      - ['em', 'D', 'C', 'hm', 'em']
-      - ['G']
-      - ['D']
-      - ['em', 'H']
-      - ['G', 'D']
-      - ['em', 'D', 'C', 'hm', 'em']
+      - [em, hm, em]
+      - [D, G]
+      - [G, D, em, hm]
+      - [em, D, C, hm, em]
+      - [G]
+      - [D]
+      - [em, H]
+      - [G, D]
+      - [em, D, C, hm, em]

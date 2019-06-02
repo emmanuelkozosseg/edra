@@ -3,6 +3,9 @@ books:
     chapter: 7_zsolt
     number: '715'
     lang: hu
+about:
+  music: Balaton A.
+  lyrics: Balaton A.
 lyrics:
   - lang: hu
     title: Indulj az Úr elé
@@ -11,17 +14,17 @@ lyrics:
         lines:
           - Indulj az Úr elé,
           - borulj le színe előtt!
-          - ""
+          - ''
           - Az Úr színe elé,
           - borulj le színe előtt!
-          - ""
+          - ''
           - Az Úr színe elé,
           - a színe előtt!
 chords:
   - template: all
     lines:
-      - ['D', 'D']
-      - ['C', 'D']
+      - [D, D]
+      - [C, D]
       - 
       - []
       - []

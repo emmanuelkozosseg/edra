@@ -28,19 +28,19 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['E', 'A']
-      - ['H', 'E']
-      - ['E', 'A']
-      - ['H', 'E']
+      - [E, A]
+      - [H, E]
+      - [E, A]
+      - [H, E]
   - template: v2
     lines:
-      - ['E', 'A']
-      - ['H', 'E']
-      - ['E', 'A']
-      - ['H', 'E']
+      - [E, A]
+      - [H, E]
+      - [E, A]
+      - [H, E]
   - template: v3
     lines:
-      - ['E', 'H']
-      - ['A', 'E', 'H']
-      - ['E', 'H']
-      - ['A', 'E', 'H']
+      - [E, H]
+      - [A, E, H]
+      - [E, H]
+      - [A, E, H]

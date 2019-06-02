@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '80'
     lang: hu
+about:
+  music: Fábry K.
+  lyrics: Fábry K.
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/15_2007.mp3
     lang: hu
@@ -37,13 +40,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['F', 'B', 'dm']
-      - ['B', 'F', 'C']
-      - ['F', 'B']
-      - ['(F)', 'B', 'C7', 'F']
+      - [F, B, dm]
+      - [B, F, C]
+      - [F, B]
+      - [(F), B, C7, F]
   - template: v
     lines:
-      - ['F', 'B']
-      - ['F', 'B', 'C']
-      - ['dm', '(B)', 'gm6', 'C']
-      - ['dm', 'C', '(F)', 'gm', 'C']
+      - [F, B]
+      - [F, B, C]
+      - [dm, (B), gm6, C]
+      - [dm, C, (F), gm, C]

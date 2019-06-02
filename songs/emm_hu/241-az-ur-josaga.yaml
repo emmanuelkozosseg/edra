@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '241'
     lang: hu
+about:
+  music: McNeill
+  lyrics: McNeill
 lyrics:
   - lang: hu
     title: Az Úr jósága
@@ -17,8 +20,8 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['D', 'A', 'D', 'G', 'D', 'A']
-      - ['D', 'A', 'D', 'G', 'A4', 'A3']
-      - ['G', 'A', 'fism', 'hm']
-      - ['G', 'D', 'A', 'D', 'D7']
-      - ['G', 'D', 'A', 'D']
+      - [D, A, D, G, D, A]
+      - [D, A, D, G, A4, A3]
+      - [G, A, fism, hm]
+      - [G, D, A, D, D7]
+      - [G, D, A, D]

@@ -3,12 +3,18 @@ books:
     chapter: 2_br
     number: '247'
     lang: hu
+  - id: emm_fr
+    number: 16-03
+about:
+  music: T. Petrucelli
+  lyrics: T. Petrucelli
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/06_2014.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Csak bízz, Izrael
+    adapted_by: Fábry K.
     verses:
       - name: v1
         lines:
@@ -29,12 +35,12 @@ lyrics:
 chords:
   - template: v
     lines:
-      - ['hm', 'em', 'G', 'A']
-      - ['D', 'em', 'G', 'C']
-      - ['D', 'em', 'hm', 'A']
+      - [hm, em, G, A]
+      - [D, em, G, C]
+      - [D, em, hm, A]
   - template: c
     lines:
-      - ['em', 'A4', 'A', 'D', 'hm']
-      - ['G', 'A', 'hm', 'H']
-      - ['em', 'A4', 'A', 'D', 'hm']
-      - ['G', 'A', 'hm']
+      - [em, A4, A, D, hm]
+      - [G, A, hm, H]
+      - [em, A4, A, D, hm]
+      - [G, A, hm]

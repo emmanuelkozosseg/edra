@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '246'
     lang: hu
+about:
+  music: Fábry K.
+  lyrics: Fábry K.
 lyrics:
   - lang: hu
     title: Jézus, Emmánuel
@@ -16,7 +19,7 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['D', 'A', 'hm', 'Fis', 'hm', 'A']
-      - ['D', 'A', 'hm', 'Fis', 'hm', 'A']
-      - ['D', 'A', 'hm', 'G', 'A', 'hm', '(A)']
-      - ['D', 'A', 'hm', 'G', 'A', 'hm', '(A)']
+      - [D, A, hm, Fis, hm, A]
+      - [D, A, hm, Fis, hm, A]
+      - [D, A, hm, G, A, hm, (A)]
+      - [D, A, hm, G, A, hm, (A)]

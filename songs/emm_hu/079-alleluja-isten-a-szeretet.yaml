@@ -3,9 +3,14 @@ books:
     chapter: 0_dics
     number: '79'
     lang: hu
+  - id: emm_fr
+    number: 03-07
+about:
+  music: C.-E. Hauguel
 lyrics:
   - lang: hu
     title: Alleluja, Isten a szeretet
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -36,11 +41,11 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['C', 'F', 'G', 'C']
-      - ['F', 'G', 'G7']
-      - ['C', 'F', 'G', 'C']
-      - ['F', 'G7', 'C']
+      - [C, F, G, C]
+      - [F, G, G7]
+      - [C, F, G, C]
+      - [F, G7, C]
   - template: v
     lines:
-      - ['C', 'em', 'F', 'G', 'C', 'F6', 'D', 'G']
-      - ['C', 'em', 'F', 'G', 'F6', 'D', 'G']
+      - [C, em, F, G, C, F6, D, G]
+      - [C, em, F, G, F6, D, G]

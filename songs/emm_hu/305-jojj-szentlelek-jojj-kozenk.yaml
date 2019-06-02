@@ -3,9 +3,15 @@ books:
     chapter: 3_szl
     number: '305'
     lang: hu
+  - id: emm_fr
+    number: 04-70
+about:
+  music: J.-M. Morin
+  lyrics: D. Bourgeois
 lyrics:
   - lang: hu
     title: Jöjj, Szentlélek, jöjj közénk
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -40,11 +46,11 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['em', 'hm']
-      - ['em', 'D']
-      - ['G', 'D']
-      - ['hm', 'em']
+      - [em, hm]
+      - [em, D]
+      - [G, D]
+      - [hm, em]
   - template: v
     lines:
-      - ['em', 'hm', 'em', 'hm', 'em']
-      - ['D', 'G', 'D', 'em', 'hm', 'em']
+      - [em, hm, em, hm, em]
+      - [D, G, D, em, hm, em]

@@ -38,11 +38,11 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['D', 'C']
-      - ['C', 'G', 'D']
+      - [D, C]
+      - [C, G, D]
   - template: v
     lines:
-      - ['C', 'D']
-      - ['em', 'A']
-      - ['C', 'D']
-      - ['em', 'A3-4-3']
+      - [C, D]
+      - [em, A]
+      - [C, D]
+      - [em, A3-4-3]

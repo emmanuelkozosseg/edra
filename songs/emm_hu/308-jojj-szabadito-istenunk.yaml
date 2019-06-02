@@ -3,9 +3,15 @@ books:
     chapter: 3_szl
     number: '308'
     lang: hu
+  - id: emm_fr
+    number: 11-62
+about:
+  music: I. Goulven, E. Baranger
+  lyrics: I. Goulven, E. Baranger
 lyrics:
   - lang: hu
     title: Jöjj, szabadító Istenünk
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -31,12 +37,12 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['em', 'C', 'hm']
-      - ['C', 'G']
-      - ['em', 'C', 'hm', 'em']
-      - ['am', 'hm7', 'em']
+      - [em, C, hm]
+      - [C, G]
+      - [em, C, hm, em]
+      - [am, hm7, em]
   - template: v
     lines:
-      - ['em', 'hm', 'D']
-      - ['em', 'C', 'am', 'D']
-      - ['G', 'em', 'am', 'em', 'am6', 'H', 'H7']
+      - [em, hm, D]
+      - [em, C, am, D]
+      - [G, em, am, em, am6, H, H7]

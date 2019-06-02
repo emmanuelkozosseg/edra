@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '242'
     lang: hu
+about:
+  music: Sillye J.
+  lyrics: Sillye J.
 lyrics:
   - lang: hu
     title: Békesség legyen velünk
@@ -15,6 +18,6 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['E', 'H7', 'E']
-      - ['A', 'H7', 'E', 'H7']
-      - ['E', 'cism', 'A', 'E', 'H7', 'E', 'H7']
+      - [E, H7, E]
+      - [A, H7, E, H7]
+      - [E, cism, A, E, H7, E, H7]

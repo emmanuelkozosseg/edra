@@ -3,9 +3,15 @@ books:
     chapter: 2_br
     number: '222'
     lang: hu
+  - id: emm_fr
+    number: 01-43
+about:
+  music: C.-E. Hauguel
+  lyrics: C.-E. Hauguel
 lyrics:
   - lang: hu
     title: Hálát adok Néked
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -46,13 +52,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['am', 'dm', 'am', 'E']
-      - ['am', 'dm', 'G', 'em', 'C', 'E']
-      - ['am', 'dm', 'am', 'E']
-      - ['am', 'dm', 'E', 'E7', 'am']
+      - [am, dm, am, E]
+      - [am, dm, G, em, C, E]
+      - [am, dm, am, E]
+      - [am, dm, E, E7, am]
   - template: v
     chords:
-      - ['am', 'E', 'Gis', 'am']
-      - ['dm', 'am', 'H', 'E']
-      - ['am', 'E', 'Gis', 'am']
-      - ['dm', 'am', 'E', 'am']
+      - [am, E, Gis, am]
+      - [dm, am, H, E]
+      - [am, E, Gis, am]
+      - [dm, am, E, am]

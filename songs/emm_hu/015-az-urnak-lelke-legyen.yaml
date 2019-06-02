@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '15'
     lang: hu
+about:
+  music: E. Baranger
+  lyrics: E. Baranger
 lyrics:
   - lang: hu
     title: Az Úrnak lelke legyen rajtam
@@ -32,15 +35,15 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['am', 'dm', 'G']
-      - ['em', 'am']
-      - ['am', 'dm', 'G']
-      - ['em', 'am']
+      - [am, dm, G]
+      - [em, am]
+      - [am, dm, G]
+      - [em, am]
   - template: v
     lines:
-      - ['am', 'dm', 'G']
-      - ['am', 'G', 'am']
-      - ['dm', 'em', 'am']
-      - ['am', 'dm', 'G']
-      - ['am', 'G', 'am']
-      - ['dm', 'em', 'am']
+      - [am, dm, G]
+      - [am, G, am]
+      - [dm, em, am]
+      - [am, dm, G]
+      - [am, G, am]
+      - [dm, em, am]

@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '48'
     lang: hu
+about:
+  music: Lázár A.
+  lyrics: Lázár A.
 lyrics:
   - lang: hu
     title: Kész az én szívem
@@ -32,12 +35,12 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['G7', 'cm']
-      - ['fm', 'cm']
-      - ['cm', 'B', 'cm']
+      - [G7, cm]
+      - [fm, cm]
+      - [cm, B, cm]
   - template: v
     lines:
-      - ['cm', 'cm']
-      - ['fm', 'cm']
-      - ['cm']
-      - ['B', 'G']
+      - [cm, cm]
+      - [fm, cm]
+      - [cm]
+      - [B, G]

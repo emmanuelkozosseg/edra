@@ -3,12 +3,18 @@ books:
     chapter: 2_br
     number: '235'
     lang: hu
+  - id: emm_fr
+    number: 14-14
+about:
+  music: M. Wittal
+  lyrics: M. Wittal
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/08_2007.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Feltekintek a hegyre
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -34,19 +40,19 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['D', 'A/Cis']
-      - ['em', 'Fis4', 'Fis3']
+      - [D, A/Cis]
+      - [em, Fis4, Fis3]
       - group: repeat
         type: unique
         repetitions:
-          - - ['hm', 'fism']
-            - ['em', 'Fis4', 'Fis3']
-          - - ['hm', 'fism']
-          - - ['em', 'D/A', 'A7', 'D']
+          -   - [hm, fism]
+              - [em, Fis4, Fis3]
+          -   - [hm, fism]
+          -   - [em, D/A, A7, D]
   - template: v
     lines:
-      - ['C', 'H7', 'em']
-      - ['D7', 'G']
-      - ['Fism7', 'hm']
-      - ['G', 'A4', 'A3']
+      - [C, H7, em]
+      - [D7, G]
+      - [Fism7, hm]
+      - [G, A4, A3]
 

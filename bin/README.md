@@ -35,9 +35,11 @@ books:
   - id: mybook  # A könyv azonosítója, léteznie kell a _books.yaml fájlban
     number: '23'  # Az ének sorszáma ebben a könyvben
     lang: en  # Ezen a nyelven szerepel az ének a könyvben; kell léteznie egy ilyen nyelvű dalszövegnek a 'lyrics' szekcióban
-  - id: emmet
+  - id: emm_hu
     number: E2
     lang: hu
+  - id: emm_fr
+    number: 01-02  # Nincs fordításhoz kötve, csak rögzíti, hogy az 'emm_fr' könyvben az ének száma '01-02'
 ```
 
 ## Hangfelvételek (records)
@@ -49,6 +51,16 @@ records:
     lang: hu  # A felvétel nyelve; kell léteznie egy ilyen nyelvű dalszövegnek a 'lyrics' szekcióban
 ```
 
+## Leíró adatok (about)
+A szerzői adatokat tartalmazza.
+
+```yaml
+about:
+  music: J. Smith
+  lyrics: J. Doe
+  year: 2019
+```
+
 ## Dalszöveg (lyrics)
 A fájl központi része, amely a dal szövegeit tartalmazza.
 
@@ -56,12 +68,14 @@ A fájl központi része, amely a dal szövegeit tartalmazza.
 A legfelső szinten az elérhető fordításokat sorolja fel. Ezek adatai:
 * `lang`: ISO 639-1 szerinti nyelvkód
 * `title`: a dal címe ebben a fordításban
+* `adapted_by`: a fordító(k) neve(i), vesszővel elválasztva
 * `verses`: a versszakok listája
 
 ```yaml
 lyrics:
   - lang: hu
     title: Az én dalom
+    adapted_by: Gipsz J., Kovács J.
     verses:
       - (...)
 ```

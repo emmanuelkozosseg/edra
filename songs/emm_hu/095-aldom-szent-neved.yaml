@@ -3,9 +3,13 @@ books:
     chapter: 0_dics
     number: '95'
     lang: hu
+about:
+  music: M. Redman
+  lyrics: B. Redman
 lyrics:
   - lang: hu
     title: Áldom szent Neved
+    adapted_by: Vass T.
     verses:
       - name: v1
         lines:
@@ -50,25 +54,25 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['A', 'E']
-      - ['D']
-      - ['A', 'E']
-      - ['fism', 'D']
+      - [A, E]
+      - [D]
+      - [A, E]
+      - [fism, D]
   - template: v
     lines:
-      - ['A', 'E']
-      - ['fism', 'D']
-      - ['A', 'E']
-      - ['fism', 'D']
-      - ['A', 'E']
-      - ['fism', 'D']
-      - ['A', 'E']
-      - ['fism', 'D']
-      - ['A', 'E', 'fism', 'D']
-      - ['A', 'E', 'fism', 'D']
+      - [A, E]
+      - [fism, D]
+      - [A, E]
+      - [fism, D]
+      - [A, E]
+      - [fism, D]
+      - [A, E]
+      - [fism, D]
+      - [A, E, fism, D]
+      - [A, E, fism, D]
   - template: b
     lines:
-      - ['A', 'E']
-      - ['fism', 'D']
-      - ['A', 'E']
-      - ['fism', 'D']
+      - [A, E]
+      - [fism, D]
+      - [A, E]
+      - [fism, D]

@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '202'
     lang: hu
+about:
+  music: Kindelmann Gy.
+  lyrics: Kindelmann Gy.
 lyrics:
   - lang: hu
     title: Ne félj, mert megváltottalak
@@ -36,17 +39,17 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['D', 'G', 'A']
-      - ['D', 'hm']
-      - ['em', 'A']
-      - ['A7', 'D']
+      - [D, G, A]
+      - [D, hm]
+      - [em, A]
+      - [A7, D]
   - template: v
     lines:
-      - ['A', 'D', 'G', 'A']
-      - ['hm', 'em']
-      - ['A', 'D']
-      - ['hm', 'em', 'G', 'D']
-      - ['hm', 'em']
-      - ['A', 'D']
-      - ['hm', 'em']
-      - ['A7', 'D']
+      - [A, D, G, A]
+      - [hm, em]
+      - [A, D]
+      - [hm, em, G, D]
+      - [hm, em]
+      - [A, D]
+      - [hm, em]
+      - [A7, D]

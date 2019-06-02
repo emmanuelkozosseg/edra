@@ -15,6 +15,6 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['D', 'G/D', 'D', 'A']
-      - ['D', 'G/D', 'D', 'A']
-      - ['D', 'G/D', 'D']
+      - [D, G/D, D, A]
+      - [D, G/D, D, A]
+      - [D, G/D, D]

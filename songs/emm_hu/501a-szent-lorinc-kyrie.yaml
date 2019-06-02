@@ -2,9 +2,9 @@ books:
   - id: emm_hu
     chapter: 5_mise
     number: '501a'
-    lang: hu
+    lang: la
 lyrics:
-  - lang: hu
+  - lang: la
     title: Szent Lőrinc mise (Kyrie)
     verses:
       - name: v1

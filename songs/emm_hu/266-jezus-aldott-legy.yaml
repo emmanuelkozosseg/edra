@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '266'
     lang: hu
+about:
+  music: Fábry K.
+  lyrics: Fábry K.
 lyrics:
   - lang: hu
     title: Jézus, áldott légy
@@ -34,13 +37,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['G', 'C']
-      - ['am', 'D']
-      - ['hm', 'em']
-      - ['am', 'D', 'G']
+      - [G, C]
+      - [am, D]
+      - [hm, em]
+      - [am, D, G]
   - template: v
     lines:
-      - ['C', 'am', 'D', 'hm']
-      - ['em', 'am', 'D']
-      - ['C', 'am', 'D', 'hm']
-      - ['em', 'am', 'D', 'G']
+      - [C, am, D, hm]
+      - [em, am, D]
+      - [C, am, D, hm]
+      - [em, am, D, G]

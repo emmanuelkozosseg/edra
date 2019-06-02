@@ -3,9 +3,13 @@ books:
     chapter: 0_dics
     number: '19'
     lang: hu
+about:
+  music: soeur Thérese Donnet
+  lyrics: soeur Thérese Donnet
 lyrics:
   - lang: hu
     title: Gyönyörű vagy, én Uram
+    adapted_by: Illésy I.
     verses:
       - name: v1
         lines:
@@ -36,19 +40,19 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['dm', 'C', 'F']
-      - ['gm', 'C', 'dm']
-      - ['gm', 'A', 'dm']
+      - [dm, C, F]
+      - [gm, C, dm]
+      - [gm, A, dm]
   - template: v1
     lines:
-      - ['dm', 'C', 'F']
-      - ['gm', 'C', 'dm']
-      - ['gm', 'A', 'dm']
+      - [dm, C, F]
+      - [gm, C, dm]
+      - [gm, A, dm]
   - template: v
     lines:
-      - ['dm', 'C', 'F']
-      - ['gm', 'C', 'dm']
-      - ['gm', 'A', 'dm']
-      - ['dm', 'C', 'F']
-      - ['gm', 'C', 'dm']
-      - ['gm', 'A', 'dm']
+      - [dm, C, F]
+      - [gm, C, dm]
+      - [gm, A, dm]
+      - [dm, C, F]
+      - [gm, C, dm]
+      - [gm, A, dm]

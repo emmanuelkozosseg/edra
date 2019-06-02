@@ -3,9 +3,15 @@ books:
     chapter: 0_dics
     number: '72'
     lang: hu
+  - id: emm_fr
+    number: 05-02
+about:
+  music: R. Camp, C.-E. Hauguel
+  lyrics: R. Camp, C.-E. Hauguel
 lyrics:
   - lang: hu
     title: Földek az Istent dicsérjétek
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -32,11 +38,11 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['F', 'B', 'C', 'F']
-      - ['B', 'C', 'F', 'dm', 'C', 'F']
+      - [F, B, C, F]
+      - [B, C, F, dm, C, F]
   - template: v
     lines:
-      - ['F']
-      - ['B', 'C', 'F']
-      - ['B', 'C', 'F', 'dm']
-      - ['C', 'F']
+      - [F]
+      - [B, C, F]
+      - [B, C, F, dm]
+      - [C, F]

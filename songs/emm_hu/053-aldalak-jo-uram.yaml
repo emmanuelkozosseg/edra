@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '53'
     lang: hu
+about:
+  music: C. Frayesse, A. Bergessead
+  lyrics: C. Frayesse, A. Bergessead
 lyrics:
   - lang: hu
     title: Áldalak jó Uram
@@ -22,13 +25,13 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['C', 'G', 'am']
-      - ['F', 'G', 'C', 'C7']
-      - ['F', 'G', 'E', 'am']
-      - ['dm', 'D', 'G4', 'G7']
+      - [C, G, am]
+      - [F, G, C, C7]
+      - [F, G, E, am]
+      - [dm, D, G4, G7]
   - template: v2
     lines:
-      - ['C', 'G', 'am']
-      - ['F', 'G', 'C', 'C7']
-      - ['F', 'G', 'E', 'am']
-      - ['dm', 'G', 'C']
+      - [C, G, am]
+      - [F, G, C, C7]
+      - [F, G, E, am]
+      - [dm, G, C]

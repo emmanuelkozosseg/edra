@@ -3,12 +3,18 @@ books:
     chapter: 0_dics
     number: '68'
     lang: hu
+  - id: emm_fr
+    number: 11-22
+about:
+  music: C. Luquin
+  lyrics: C. Luquin
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/a03_2003.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Énekeld mivelünk
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -48,12 +54,12 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['em']
-      - ['H7', 'em']
-      - ['H7', 'em']
+      - [em]
+      - [H7, em]
+      - [H7, em]
   - template: v
     lines:
-      - ['C', 'G']
-      - ['H7', 'em', 'D', 'G', 'G7']
-      - ['C', 'G']
-      - ['H7', 'em']
+      - [C, G]
+      - [H7, em, D, G, G7]
+      - [C, G]
+      - [H7, em]

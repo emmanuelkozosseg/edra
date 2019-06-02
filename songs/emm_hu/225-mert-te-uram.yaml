@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '225'
     lang: hu
+about:
+  music: Peter Sanchez
+  lyrics: Peter Sanchez
 lyrics:
   - lang: hu
     title: Mert Te, Uram
@@ -22,12 +25,12 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['D', 'em']
-      - ['A', 'D', 'hm']
-      - ['G']
-      - ['A', 'D']
+      - [D, em]
+      - [A, D, hm]
+      - [G]
+      - [A, D]
       - group: repeat
         type: uniform
         lines:
-          - ['D', 'D', 'A', 'A']
-          - ['G', 'em', 'A']
+          - [D, D, A, A]
+          - [G, em, A]

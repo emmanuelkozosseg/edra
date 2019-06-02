@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '62'
     lang: hu
+about:
+  music: Dax
+  lyrics: Rozsályi Z.
 lyrics:
   - lang: hu
     title: Szívemből ünnepi ének árad
@@ -59,20 +62,20 @@ lyrics:
 chords:
   - template: c1
     lines:
-      - ['F', 'C', 'F', 'C']
-      - ['G', 'F', 'C']
-      - ['G', 'F', 'C']
-      - ['dm', 'F', 'dm7', 'G7', 'C']
-      - ['dm', 'G7', 'C']
-      - ['G7', 'C']
+      - [F, C, F, C]
+      - [G, F, C]
+      - [G, F, C]
+      - [dm, F, dm7, G7, C]
+      - [dm, G7, C]
+      - [G7, C]
   - template: c2
     lines:
-      - ['C7', 'F', 'G']
-      - ['D', 'G', 'F', 'C', 'F', 'C', 'H7']
-      - ['E']
-      - ['H7', 'E']
+      - [C7, F, G]
+      - [D, G, F, C, F, C, H7]
+      - [E]
+      - [H7, E]
   - template: v
     lines:
-      - ['A', 'E', 'A', 'E', 'A']
-      - ['E', 'A', 'E', 'A', 'E']
-      - ['A', 'D', 'A']
+      - [A, E, A, E, A]
+      - [E, A, E, A, E]
+      - [A, D, A]

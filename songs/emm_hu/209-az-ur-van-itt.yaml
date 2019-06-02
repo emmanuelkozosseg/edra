@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '209'
     lang: hu
+about:
+  music: B. Morris
+  lyrics: B. Morris
 lyrics:
   - lang: hu
     title: Az Úr van itt
@@ -40,25 +43,25 @@ chords:
       - group: repeat
         type: uniform
         lines:
-          - ['D']
+          - [D]
           - []
-          - ['hm']
+          - [hm]
           - []
-          - ['em']
+          - [em]
           - []
-          - ['A']
+          - [A]
           - []
   - template: v2
     lines:
-      - ['hm']
+      - [hm]
       - []
-      - ['A']
+      - [A]
       - []
-      - ['G', 'C', 'A']
+      - [G, C, A]
   - template: v3
     lines:
-      - ['D']
+      - [D]
       - []
-      - ['hm']
+      - [hm]
       - []
-      - ['em', 'A', 'D']
+      - [em, A, D]

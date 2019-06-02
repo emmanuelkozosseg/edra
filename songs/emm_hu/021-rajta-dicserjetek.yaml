@@ -3,9 +3,15 @@ books:
     chapter: 0_dics
     number: '21'
     lang: hu
+  - id: emm_fr
+    number: 14-05
+about:
+  music: C. Brasseur
+  lyrics: C. Brasseur
 lyrics:
   - lang: hu
     title: Rajta, dicsérjétek
+    adapted_by: Csőry
     verses:
       - name: c
         lines:
@@ -28,13 +34,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['G', 'C', 'G']
-      - ['C', 'G', 'em', 'D9/4', 'D']
-      - ['G', 'C', 'G']
-      - ['C', 'G', 'C', 'D', 'G']
+      - [G, C, G]
+      - [C, G, em, D9/4, D]
+      - [G, C, G]
+      - [C, G, C, D, G]
   - template: v
     lines:
-      - ['em', 'C']
-      - ['am', 'D', 'H7']
-      - ['em', 'C']
-      - ['am7', 'D4', 'D3']
+      - [em, C]
+      - [am, D, H7]
+      - [em, C]
+      - [am7, D4, D3]

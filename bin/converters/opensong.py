@@ -35,6 +35,10 @@ class OpenSongConverter(AbstractConverter):
         self._preprocessor.preprocess(song_yaml, flatten=True, soft_line_break_strategy='break')
 
         for book in song_yaml['books']:
+            # Continue if this is just a "marker book"
+            if 'lang' not in book:
+                continue
+
             # Look for the language of this book
             lang_yaml = next((l for l in song_yaml['lyrics'] if l['lang'] == book['lang']), None)
             if lang_yaml is None:

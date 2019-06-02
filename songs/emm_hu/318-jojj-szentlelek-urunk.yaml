@@ -6,12 +6,18 @@ books:
   - id: eeym17
     number: '28'
     lang: en
+  - id: emm_fr
+    number: 18-33
+about:
+  music: G. Creaton
+  lyrics: G. Creaton
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/09_2014.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Jöjj, Szentlélek Urunk
+    adapted_by: Fábry K.
     verses:
       - name: v1
         lines:
@@ -71,15 +77,15 @@ lyrics:
 chords:
   - template: v
     lines:
-      - ['C', 'Csus4']
-      - ['C', 'B']
-      - ['C', 'Csus4']
-      - ['D', 'G']
+      - [C, Csus4]
+      - [C, B]
+      - [C, Csus4]
+      - [D, G]
   - template: c
     lines:
-      - ['am', 'G', 'F', 'C']
-      - ['am', 'G', 'F']
-      - ['am', 'G', 'F', 'C']
-      - ['F', 'G7', 'A']
-      - ['F', 'G7', 'C']
-      - ['F', 'G', 'C']
+      - [am, G, F, C]
+      - [am, G, F]
+      - [am, G, F, C]
+      - [F, G7, A]
+      - [F, G7, C]
+      - [F, G, C]

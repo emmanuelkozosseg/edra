@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '24'
     lang: hu
+about:
+  music: Mézes Á.
+  lyrics: Mézes Á.
 lyrics:
   - lang: hu
     title: Örülj az Úrban
@@ -27,18 +30,18 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['G', 'em']
-      - ['C', 'D']
-      - ['G', 'em']
-      - ['am7', 'D']
-      - ['G', 'B', 'F', 'C', 'G', 'D']
+      - [G, em]
+      - [C, D]
+      - [G, em]
+      - [am7, D]
+      - [G, B, F, C, G, D]
   - template: v1
     lines:
-      - ['G', 'F']
-      - ['C', 'em', 'D']
-      - ['G', 'F']
-      - ['C', 'em', 'D']
+      - [G, F]
+      - [C, em, D]
+      - [G, F]
+      - [C, em, D]
   - template: v2
     lines:
-      - ['G', 'B', 'F', 'G']
-      - ['G', 'B', 'F', 'G']
+      - [G, B, F, G]
+      - [G, B, F, G]

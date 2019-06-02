@@ -3,9 +3,16 @@ books:
     chapter: 0_dics
     number: '98'
     lang: hu
+  - id: emm_fr
+    number: 24-09
+about:
+  music: B. Pavageau
+  lyrics: B. Pavageau
+  year: 2018
 lyrics:
   - lang: hu
     title: Megvalljuk, Jézus a Krisztus
+    adapted_by: Varjas A.
     verses:
       - name: v1
         lines:

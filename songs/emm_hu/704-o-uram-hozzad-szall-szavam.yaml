@@ -3,9 +3,12 @@ books:
     chapter: 7_zsolt
     number: '704'
     lang: hu
+  - id: emm_fr
+    number: 12-34
 lyrics:
   - lang: hu
     title: Ó, Uram, hozzád száll szavam
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -15,6 +18,6 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['F', 'C', 'F', 'C']
-      - ['dm', 'C7', 'F', 'dm']
-      - ['B', 'C4', 'C3']
+      - [F, C, F, C]
+      - [dm, C7, F, dm]
+      - [B, C4, C3]

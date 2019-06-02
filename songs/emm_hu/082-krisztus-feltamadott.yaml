@@ -3,12 +3,18 @@ books:
     chapter: 0_dics
     number: '82'
     lang: hu
+  - id: emm_fr
+    number: 15-05
+about:
+  music: A. Fleury
+  lyrics: A. Fleury
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/03_2007.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Krisztus feltámadott
+    adapted_by: Fábry K.
     verses:
       - name: v1
         lines:
@@ -37,19 +43,19 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['G', 'C', 'G', 'C', 'G', 'D']
-      - ['em7', 'C', 'G', 'D']
-      - ['G', 'C', 'G', 'C', 'G', 'D']
-      - ['em7', 'C', 'G', 'D', 'G', 'A', '(D)']
+      - [G, C, G, C, G, D]
+      - [em7, C, G, D]
+      - [G, C, G, C, G, D]
+      - [em7, C, G, D, G, A, (D)]
   - template: v
     lines:
-      - ['D', 'A', 'D', 'A']
-      - ['hm', 'G', 'hm', 'A']
-      - ['em', 'hm7', 'em', 'hm', 'G']
-      - ['D/Fis', 'G', 'D']
+      - [D, A, D, A]
+      - [hm, G, hm, A]
+      - [em, hm7, em, hm, G]
+      - [D/Fis, G, D]
   - template: v1
     lines:
-      - ['D', 'A', 'D', 'A']
-      - ['hm', 'G', 'hm', 'A']
-      - ['em', 'hm7', 'em', 'hm']
-      - ['G', 'D/Fis', 'G', 'D']
+      - [D, A, D, A]
+      - [hm, G, hm, A]
+      - [em, hm7, em, hm]
+      - [G, D/Fis, G, D]

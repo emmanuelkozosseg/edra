@@ -3,12 +3,18 @@ books:
     chapter: 0_dics
     number: '13'
     lang: hu
+  - id: emm_fr
+    number: 12-11
+about:
+  music: A. Dumont
+  lyrics: A. Dumont
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/a03_2001.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Zengjen az ének az Úr nevének
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -43,13 +49,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['D', 'hm']
-      - ['fism', 'G', 'A']
-      - ['D', 'hm']
-      - ['fism', 'G', 'A', 'D']
+      - [D, hm]
+      - [fism, G, A]
+      - [D, hm]
+      - [fism, G, A, D]
   - template: v
     lines:
-      - ['D', 'hm', 'fism7']
-      - ['G', 'A7', 'fism']
-      - ['G6', 'A7', 'hm', 'fism']
-      - ['G', 'A', 'D']
+      - [D, hm, fism7]
+      - [G, A7, fism]
+      - [G6, A7, hm, fism]
+      - [G, A, D]

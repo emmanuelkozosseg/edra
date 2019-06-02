@@ -3,12 +3,18 @@ books:
     chapter: 2_br
     number: '205'
     lang: hu
+  - id: emm_fr
+    number: 12-28
+about:
+  music: M. Delanuay
+  lyrics: M. Delanuay
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/b05_2001.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Rád vágyik a szívem
+    adapted_by: Fábry K.
     verses:
       - name: v1
         lines:
@@ -18,6 +24,6 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['em', 'D', 'am', 'H']
-      - ['em', 'D', 'G', 'A7', 'H']
-      - ['G', 'D', 'em', 'am', 'H7', 'em']
+      - [em, D, am, H]
+      - [em, D, G, A7, H]
+      - [G, D, em, am, H7, em]

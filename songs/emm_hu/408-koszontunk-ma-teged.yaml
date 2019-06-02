@@ -3,12 +3,18 @@ books:
     chapter: 4_maria
     number: '408'
     lang: hu
+  - id: emm_fr
+    number: 14-10
+about:
+  music: M. Dannaud
+  lyrics: A. Dumot
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/09_2007.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Köszöntünk ma téged
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -22,7 +28,7 @@ lyrics:
           - Jézusunk szülője,
           - benned alkotott testet
           - az Isten küldötte.
-          -
+          - 
           - Általad kitárult
           - ajtaja a kertnek,
           - jöjj, vezess Te az úton,
@@ -52,17 +58,17 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['em', 'am', 'hm', 'G', 'hm/Fis']
-      - ['em', 'C', 'am', 'D']
-      - ['G', 'em', 'am', 'D', 'D7']
-      - ['H7', 'em', 'am', 'hm', 'em']
+      - [em, am, hm, G, hm/Fis]
+      - [em, C, am, D]
+      - [G, em, am, D, D7]
+      - [H7, em, am, hm, em]
   - template: v
     lines:
-      - ['G', 'D']
-      - ['em', 'hm']
-      - ['C', 'G/H']
-      - ['am', 'D7/4', 'D3']
-      - ['G', 'D']
-      - ['em', 'hm']
-      - ['C', 'em']
-      - ['am', 'hm', 'em']
+      - [G, D]
+      - [em, hm]
+      - [C, G/H]
+      - [am, D7/4, D3]
+      - [G, D]
+      - [em, hm]
+      - [C, em]
+      - [am, hm, em]

@@ -3,12 +3,18 @@ books:
     chapter: 0_dics
     number: '83'
     lang: hu
+  - id: emm_fr
+    number: 15-10
+about:
+  music: B. Suijkerbuijk
+  lyrics: B. Suijkerbuijk
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/01_2007.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Zengi a hajnal...
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -43,13 +49,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['G', 'D', 'G', 'D']
-      - ['C', 'C/G', 'G', 'am', 'D']
-      - ['G', 'D', 'G', 'D']
-      - ['am', 'G', 'C', 'G']
+      - [G, D, G, D]
+      - [C, C/G, G, am, D]
+      - [G, D, G, D]
+      - [am, G, C, G]
   - template: v
     lines:
-      - ['hm', 'em']
-      - ['D4', 'D', 'G']
-      - ['am', 'em', 'C']
-      - ['am7', 'F', 'D4', 'D3']
+      - [hm, em]
+      - [D4, D, G]
+      - [am, em, C]
+      - [am7, F, D4, D3]

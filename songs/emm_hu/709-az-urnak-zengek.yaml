@@ -3,9 +3,13 @@ books:
     chapter: 7_zsolt
     number: '709'
     lang: hu
+about:
+  music: G. Pradère, M. Hagemann
+  lyrics: G. Pradère, M. Hagemann
 lyrics:
   - lang: hu
     title: Az Úrnak zengek
+    adapted_by: Varjas A.
     verses:
       - name: c
         lines:
@@ -14,5 +18,5 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['am', 'D']
-      - ['D7', 'F', 'G', 'am']
+      - [am, D]
+      - [D7, F, G, am]

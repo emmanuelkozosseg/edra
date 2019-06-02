@@ -3,6 +3,9 @@ books:
     chapter: 7_zsolt
     number: '719'
     lang: hu
+about:
+  music: Balaton A.
+  lyrics: Balaton A.
 lyrics:
   - lang: hu
     title: Hirdetni fogom

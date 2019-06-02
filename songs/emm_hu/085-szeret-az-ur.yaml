@@ -6,12 +6,18 @@ books:
   - id: eeym17
     number: '6'
     lang: en
+  - id: emm_fr
+    number: 15-11
+about:
+  music: A. Fleury
+  lyrics: A. Fleury
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/02_2007.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Szeret az Úr, zengje föld és az ég
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -73,13 +79,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['C/G', 'G', 'C/G', 'G']
-      - ['C', 'D', 'em7', 'D/Fis']
-      - ['C/G', 'G', 'C', 'G']
-      - ['C', 'D', 'C/G', 'G']
+      - [C/G, G, C/G, G]
+      - [C, D, em7, D/Fis]
+      - [C/G, G, C, G]
+      - [C, D, C/G, G]
   - template: v
     lines:
-      - ['em', 'hm7', 'C', 'G']
-      - ['C', 'hm7', 'am7', 'D']
-      - ['em', 'hm7', 'C', 'G']
-      - ['am7', 'D']
+      - [em, hm7, C, G]
+      - [C, hm7, am7, D]
+      - [em, hm7, C, G]
+      - [am7, D]

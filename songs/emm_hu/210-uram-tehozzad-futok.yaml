@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '210'
     lang: hu
+about:
+  music: Somogyi I.
+  lyrics: Somogyi I.
 lyrics:
   - lang: hu
     title: Uram, tehozzád futok
@@ -29,20 +32,20 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['em', 'D']
-      - ['hm7', 'em']
-      - ['C', 'D', 'em']
-      - ['em', 'D']
-      - ['hm7', 'em']
-      - ['C', 'D', 'em']
+      - [em, D]
+      - [hm7, em]
+      - [C, D, em]
+      - [em, D]
+      - [hm7, em]
+      - [C, D, em]
 
-      - ['G', 'D']
-      - ['hm7', 'em']
-      - ['am7', 'am/Fis', 'H4', 'H']
-      - ['G', 'D']
-      - ['hm7', 'em']
+      - [G, D]
+      - [hm7, em]
+      - [am7, am/Fis, H4, H]
+      - [G, D]
+      - [hm7, em]
 
-      - ['C', 'D']
-      - ['C', 'D']
-      - ['C', 'D']
-      - ['em']
+      - [C, D]
+      - [C, D]
+      - [C, D]
+      - [em]

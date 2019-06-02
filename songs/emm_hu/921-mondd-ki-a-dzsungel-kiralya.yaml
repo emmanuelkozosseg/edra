@@ -3,6 +3,9 @@ books:
     chapter: 9_mozg
     number: '921'
     lang: hu
+about:
+  music: Troy Nilsson, Genie Nilsson
+  lyrics: Troy Nilsson, Genie Nilsson
 lyrics:
   - lang: hu
     title: Mondd, ki a dzsungel királya

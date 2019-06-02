@@ -3,6 +3,8 @@ books:
     chapter: 7_zsolt
     number: '701'
     lang: hu
+about:
+  music: O'Caroll, J.P. Lecot
 lyrics:
   - lang: hu
     title: Alleluja
@@ -14,5 +16,5 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['A', 'fism', 'E', 'A', 'E', 'D', 'E', 'A', 'hm', 'E']
-      - ['A', 'fism', 'E', 'A', 'E', 'D', 'E', 'A', 'D', 'E', 'A']
+      - [A, fism, E, A, E, D, E, A, hm, E]
+      - [A, fism, E, A, E, D, E, A, D, E, A]

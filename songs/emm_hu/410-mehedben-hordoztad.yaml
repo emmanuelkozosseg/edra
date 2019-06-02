@@ -3,9 +3,15 @@ books:
     chapter: 4_maria
     number: '410'
     lang: hu
+  - id: emm_fr
+    number: 14-47
+about:
+  music: L. Cordin
+  lyrics: L. Cordin
 lyrics:
   - lang: hu
     title: Méhedben hordoztad
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -36,11 +42,11 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['A', 'D', 'A', 'E/Gis']
-      - ['fism', 'D', 'hm', 'E']
-      - ['A', 'D', 'A', 'E/Gis']
-      - ['fism', 'D', 'E', 'A']
+      - [A, D, A, E/Gis]
+      - [fism, D, hm, E]
+      - [A, D, A, E/Gis]
+      - [fism, D, E, A]
   - template: v
     lines:
-      - ['A', 'D', 'E', 'A', 'hm', 'E']
-      - ['A', 'D', 'E', 'fism', 'D', 'hm', 'E']
+      - [A, D, E, A, hm, E]
+      - [A, D, E, fism, D, hm, E]

@@ -3,12 +3,18 @@ books:
     chapter: 0_dics
     number: '41'
     lang: hu
+  - id: emm_fr
+    number: 14-38
+about:
+  music: L. Cordin
+  lyrics: L. Cordin
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/a06_2003.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Dicsérje föld és az ég
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -51,15 +57,15 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['A']
-      - ['E']
-      - ['fism', 'D', 'E']
-      - ['A']
-      - ['E']
-      - ['D', 'E', 'A']
+      - [A]
+      - [E]
+      - [fism, D, E]
+      - [A]
+      - [E]
+      - [D, E, A]
   - template: v
     lines:
-      - ['Cis', 'fism']
-      - ['Cis', 'D']
-      - ['E', 'fism']
-      - ['D', 'E']
+      - [Cis, fism]
+      - [Cis, D]
+      - [E, fism]
+      - [D, E]

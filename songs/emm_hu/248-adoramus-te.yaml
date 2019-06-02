@@ -6,12 +6,15 @@ books:
   - id: eeym17
     number: '38'
     lang: en
+  - id: emm_fr
+    number: 16-01
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/08_2014.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Adoramus te
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -25,7 +28,7 @@ lyrics:
           - minden nép reménye,
           - Jézus élet szerzője,
           - adoramus te!
-          - ""
+          - ''
           - Emberré lett Isten,
           - hívek örök kincse,
           - békességnek Istene,
@@ -36,7 +39,7 @@ lyrics:
           - betegek gyógyítója,
           - Boldogságos Szűz Fia,
           - adoramus te!
-          - ""
+          - ''
           - Engedelmes Jézus,
           - alázatos szívű,
           - szelídségnek példája,
@@ -47,7 +50,7 @@ lyrics:
           - Egyház reménysége,
           - Jézus, utunk, életünk,
           - adoramus te!
-          - ""
+          - ''
           - Csodálatos Jézus,
           - erények példaképe,
           - dicsőségnek Királya,
@@ -58,7 +61,7 @@ lyrics:
           - örök fényességünk,
           - tanítónk és Mesterünk,
           - adoramus te!
-          - ""
+          - ''
           - Jézus, erős Isten,
           - igazságnak napja,
           - Megváltónk és pártfogónk,
@@ -69,7 +72,7 @@ lyrics:
           - lelkek hű keresője,
           - Pátriárkák Királya,
           - adoramus te!
-          - ""
+          - ''
           - Szűzek tisztasága,
           - vértanúk erőssége,
           - minden szentek koronája,
@@ -89,7 +92,7 @@ lyrics:
           - Saviour of the world,
           - Image of the Father,
           - Adoramus te!
-          - ""
+          - ''
           - Jesus God and man,
           - Mary’s only Son,
           - King of kings and Lord of lords,
@@ -100,7 +103,7 @@ lyrics:
           - brother of the poor,
           - Jesus, shepherd of the flock,
           - Adoramus te!
-          - ""
+          - ''
           - Healer of the weak,
           - comforter of souls,
           - Jesus, everlasting love,
@@ -111,7 +114,7 @@ lyrics:
           - ready in our need,
           - Jesus, source of holiness,
           - Adoramus te!
-          - ""
+          - ''
           - Jesus, risen one,
           - Saviour of our souls,
           - You are way and truth and life,
@@ -122,7 +125,7 @@ lyrics:
           - teacher of our hearts,
           - Fullness of the father's love.
           - Adoramus te!
-          - ""
+          - ''
           - Jesus, Lamb of God,
           - faithful unto death,
           - Hope of all who trust in you.
@@ -133,7 +136,7 @@ lyrics:
           - joy of all the saints,
           - Food of pilgrims, Bread of Life,
           - Adoramus te!
-          - ""
+          - ''
           - Glory of the Church,
           - Holy one of God, Jesus,
           - Risen from the dead,
@@ -141,18 +144,18 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['F', 'C', 'B', 'F']
-      - ['dm', 'B7', 'C4', 'C3']
-      - ['F', 'C', 'B', 'F']
-      - ['dm', 'C', 'B', 'F']
+      - [F, C, B, F]
+      - [dm, B7, C4, C3]
+      - [F, C, B, F]
+      - [dm, C, B, F]
   - template: v
     lines:
-      - ['F', 'B']
-      - ['G', 'C']
-      - ['A', 'dm']
-      - ['B', 'C']
+      - [F, B]
+      - [G, C]
+      - [A, dm]
+      - [B, C]
 
-      - ['F', 'B']
-      - ['G', 'C']
-      - ['A', 'dm']
-      - ['Es', 'C']
+      - [F, B]
+      - [G, C]
+      - [A, dm]
+      - [Es, C]

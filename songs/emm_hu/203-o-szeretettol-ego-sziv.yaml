@@ -3,9 +3,15 @@ books:
     chapter: 2_br
     number: '203'
     lang: hu
+  - id: emm_fr
+    number: 06-13
+about:
+  music: M. Penhard
+  lyrics: M. Penhard
 lyrics:
   - lang: hu
     title: Ó, szeretettől égő szív
+    adapted_by: Fábry K.
     verses:
       - name: v1
         lines:
@@ -16,7 +22,7 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['D', 'em', 'em7']
-      - ['A', 'A7', 'D']
-      - ['hm', 'em', 'em7']
-      - ['A', 'A7', 'D']
+      - [D, em, em7]
+      - [A, A7, D]
+      - [hm, em, em7]
+      - [A, A7, D]

@@ -3,6 +3,11 @@ books:
     chapter: 2_br
     number: '206'
     lang: hu
+  - id: emm_fr
+    number: 04-16
+about:
+  music: M. Penhard
+  lyrics: M. Penhard
 lyrics:
   - lang: hu
     title: Tested, Jézus
@@ -27,11 +32,11 @@ chords:
       - group: repeat
         type: unique
         repetitions:
-          - - ['em', 'hm']
-            - ['em']
-          - - ['hm']
-            - ['em']
-          - - ['G', 'am']
-            - ['H7', 'em']
-          - - ['G', 'am']
-            - ['H7', 'em']
+          -   - [em, hm]
+              - [em]
+          -   - [hm]
+              - [em]
+          -   - [G, am]
+              - [H7, em]
+          -   - [G, am]
+              - [H7, em]

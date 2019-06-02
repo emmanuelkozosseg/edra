@@ -6,9 +6,15 @@ books:
   - id: eeym17
     number: '17'
     lang: en
+  - id: emm_fr
+    number: 04-18
+about:
+  music: J.-M. Morin
+  lyrics: J.-M. Morin
 lyrics:
   - lang: hu
     title: Jeruzsálem, Jeruzsálem
+    adapted_by: Fábry K.
     verses:
       - name: v1
         lines:
@@ -17,7 +23,7 @@ lyrics:
             lines:
               - Kelj fel, tündökölj, | hiszen a fényed eljött,
               - az Úr dicsősége rád ragyog.
-          - ""
+          - ''
           - Emeld fel szemed, nézz a távolba,
           - örömödben a szíved is megdobban.
           - Mert a fiaid visszatérnek immár,
@@ -35,7 +41,7 @@ lyrics:
             lines:
               - Jönnek mind a népek a Te fényeidhez,
               - és királyok a világosságodra.
-          - ""
+          - ''
           - Dromedárok ezrei jönnek majd
           - tömjénnel és aranyakkal megrakva.
           - Éfából és Sábából idejönnek,
@@ -47,7 +53,7 @@ lyrics:
             lines:
               - Idegenek építik fel újra várad
               - és királyok szolgálnak neked.
-          - ""
+          - ''
           - Benned lelik örömüket mindnyájan,
           - 'úgy neveznek: az Istennek hajléka.'
           - Véget ér a gyász, véget ér a bánat,
@@ -62,7 +68,7 @@ lyrics:
             lines:
               - Shine out and arise for your light has come,
               - God's own glory risen now upon you.
-          - ""
+          - ''
           - Though the nations still are in darkness now,
           - Kings will hasten to the brightness of your light;
           - Bringing richest gifts from their lands to you,
@@ -80,7 +86,7 @@ lyrics:
             lines:
               - Who are these you see flying like a cloud?
               - Like the doves returning to their home.
-          - ""
+          - ''
           - From the distant isles all your people come,
           - Now the ships of Tarshish come to bring them home,
           - See your sons assembling from far away,
@@ -92,7 +98,7 @@ lyrics:
             lines:
               - Princes will accept your authority,
               - Foreigners rebuild your ruined walls.
-          - ""
+          - ''
           - Lebanon will honour your holy name,
           - Nations bring their riches to your sanctuary;
           - All your days of grief will be changed to joy,
@@ -100,19 +106,19 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['E', 'am']
-      - ['G', 'H4', 'H3']
-      - ['E', 'am']
-      - ['em', 'H7', 'em']
+      - [E, am]
+      - [G, H4, H3]
+      - [E, am]
+      - [em, H7, em]
   - template: v
     lines:
       - group: repeat
         type: uniform
         lines:
-          - ['em', 'H7']
-          - ['em']
+          - [em, H7]
+          - [em]
       - 
-      - ['E', 'am']
-      - ['D', 'H7']
-      - ['em', 'H7']
-      - ['em']
+      - [E, am]
+      - [D, H7]
+      - [em, H7]
+      - [em]

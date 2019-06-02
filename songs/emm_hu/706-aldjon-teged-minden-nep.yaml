@@ -3,6 +3,9 @@ books:
     chapter: 7_zsolt
     number: '706'
     lang: hu
+about:
+  music: Balaton A.
+  lyrics: Balaton A.
 lyrics:
   - lang: hu
     title: Áldjon téged minden nép
@@ -14,5 +17,5 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['G', 'D']
-      - ['C', 'G']
+      - [G, D]
+      - [C, G]

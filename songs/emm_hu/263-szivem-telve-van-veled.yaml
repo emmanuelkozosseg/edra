@@ -26,17 +26,17 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['G', 'D/Fis', 'em', 'em/D']
-      - ['C', 'em', 'D']
-      - ['G', 'D/Fis', 'em']
-      - ['C', 'em7', 'D']
-      - ['C', 'em', 'D', 'G']
-      - ['am7', 'em', 'D']
+      - [G, D/Fis, em, em/D]
+      - [C, em, D]
+      - [G, D/Fis, em]
+      - [C, em7, D]
+      - [C, em, D, G]
+      - [am7, em, D]
   - template: v2
     lines:
-      - ['G', 'D/Fis', 'C']
-      - ['G', 'D', 'C']
-      - ['am', 'em', 'D', 'C']
-      - ['G/D', 'D', 'G', 'D', 'em']
-      - ['G', 'D', 'em']
-      - ['C', 'G']
+      - [G, D/Fis, C]
+      - [G, D, C]
+      - [am, em, D, C]
+      - [G/D, D, G, D, em]
+      - [G, D, em]
+      - [C, G]

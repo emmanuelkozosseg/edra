@@ -3,9 +3,15 @@ books:
     chapter: 8_himn
     number: '801'
     lang: hu
+  - id: emm_fr
+    number: 04-35
+about:
+  music: C.-E. Hauguel
+  lyrics: C.-E. Hauguel
 lyrics:
   - lang: hu
     title: A szívem az Úrban szüntelen örvend
+    adapted_by: Fábry K.
     verses:
       - name: c
         lines:
@@ -46,19 +52,19 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['F', 'B', 'F', 'C7', 'F']
-      - ['C', 'F', 'C', 'F']
+      - [F, B, F, C7, F]
+      - [C, F, C, F]
   - template: v
     lines:
-      - ['F']
-      - ['C', 'F', 'C', 'dm']
-      - ['dm', 'C']
+      - [F]
+      - [C, F, C, dm]
+      - [dm, C]
       - []
   - template: v4
     lines:
-      - ['F', 'B']
-      - ['B', 'F']
-      - ['F']
-      - ['C', 'F', 'C', 'dm']
-      - ['dm', 'C']
+      - [F, B]
+      - [B, F]
+      - [F]
+      - [C, F, C, dm]
+      - [dm, C]
       - []
