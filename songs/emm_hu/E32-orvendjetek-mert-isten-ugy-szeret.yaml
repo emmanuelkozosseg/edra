@@ -1,0 +1,54 @@
+books:
+  - id: emm_hu
+    chapter: e_egyeb
+    number: E32
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Örvendjetek, mert Isten úgy szeret
+    verses:
+      - name: v1
+        lines:
+          - Örvendjetek, mert Isten úgy szeret!
+          - Békét akar, nem zord ítéletet.
+          - Örvendjetek, örvendjetek!
+          - Jézus, az Isten Fia, eljött értetek,
+          - nem kell a sötétségben, bűnben élnetek.
+          - group: repeat
+            times: 2
+            lines:
+              - Halljátok meg e jó hírt, emberek!
+      - name: v2
+        lines:
+          - 'Örvendjetek, Jézus feltámadott:'
+          - új életet és új reményt hozott.
+          - Örvendjetek, örvendjetek!
+          - Nála az örök élet forrása ered.
+          - Jöjjetek, igyatok hát éltető vizet!
+          - group: repeat
+            times: 2
+            lines:
+              - Halljátok meg e jó hírt, emberek!
+      - name: v3
+        lines:
+          - Örvendjetek, mert Jézus újra jön!
+          - Elszáll a gond, felszárad mind a könny.
+          - Örvendjetek, örvendjetek!
+          - Fölragyog az Igazság, s végre győz a jó.
+          - Országa, szent uralma örökkévaló.
+          - group: repeat
+            times: 2
+            lines:
+              - Halljátok meg e jó hírt, emberek!
+chords:
+  - template: all
+    lines:
+      - ['dm', 'F', 'gm', 'C']
+      - ['dm', 'F', 'gm', 'C']
+      - ['dm', 'F', 'G', 'A']
+      - ['D', 'F', 'G', 'A']
+      - ['D', 'F', 'G', 'A']
+      - group: repeat
+        type: uniform
+        lines:
+          - ['F', 'gm', 'C', 'D']

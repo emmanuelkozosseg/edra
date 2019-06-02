@@ -1,0 +1,33 @@
+books:
+  - id: emm_hu
+    chapter: 0_dics
+    number: '97'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Hozsanna, jön a királyunk
+    verses:
+      - name: c
+        lines:
+          - Jön a királyunk, Ő az Úr, az Isten,
+          - ujjongva várjuk Őt!
+          - Diadalének zeng, a kapu tárva,
+          - hozsanna, hozsanna, hozsanna!
+      - name: v1
+        lines:
+          - Ha együtt lépünk,
+          - (ha együtt lépünk,)
+          - nem fél a szívünk,
+          - (nem fél a szívünk.)
+          - Szeret az Isten!
+          - (Szeret az Isten!)
+          - Szűnik már az éjjel!
+      - name: v2
+        lines:
+          - Te vagy az élet,
+          - (Te vagy az élet,)
+          - dicsérünk Téged,
+          - (dicsérünk Téged,)
+          - nevedet áldjuk,
+          - (nevedet áldjuk,)
+          - Jézus, így kiáltunk!
