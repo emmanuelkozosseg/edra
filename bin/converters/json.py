@@ -8,6 +8,7 @@ from converters.base import AbstractConverter
 
 class JsonConverter(AbstractConverter):
     def __init__(self, args):
+        super().__init__()
         self._from_dir = args.from_dir
         self._to_file = args.to
         self._songs = []
@@ -20,7 +21,7 @@ class JsonConverter(AbstractConverter):
         parser_json.set_defaults(converter=JsonConverter)
 
     def convert(self, song_yaml, filepath):
-        super()._flatten(song_yaml)
+        self._preprocessor.preprocess(song_yaml, flatten=True, soft_line_break_strategy='ignore')
 
         self._songs.append(song_yaml)
 

@@ -7,6 +7,7 @@ from converters.base import AbstractConverter
 
 class OpenLyricsConverter(AbstractConverter):
     def __init__(self, args):
+        super().__init__()
         self._from_dir = args.from_dir
         self._out_dir = args.to_dir
 
@@ -22,7 +23,7 @@ class OpenLyricsConverter(AbstractConverter):
         ElementTree.register_namespace('', "http://openlyrics.info/namespace/2009/song")
 
     def convert(self, song_yaml, filepath):
-        super()._flatten(song_yaml)
+        self._preprocessor.preprocess(song_yaml, flatten=True, soft_line_break_strategy='ignore')
 
         # Look up primary language
         emm_hu_book = next((b for b in song_yaml['books'] if b['id'] == 'emm_hu'), None)

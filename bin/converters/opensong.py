@@ -10,6 +10,7 @@ class OpenSongConverter(AbstractConverter):
     _RE_SONG_NUMBER = re.compile(r'^([a-z]?)([0-9]+)[a-z]*$', re.IGNORECASE)
 
     def __init__(self, args):
+        super().__init__()
         self._from_dir = args.from_dir
         self._out_dir = args.to_dir
         self._books = None
@@ -31,7 +32,7 @@ class OpenSongConverter(AbstractConverter):
         if not song_yaml['books']:
             raise Exception("No books are specified in song '{}'.".format(filepath))
 
-        super()._flatten(song_yaml)
+        self._preprocessor.preprocess(song_yaml, flatten=True, soft_line_break_strategy='break')
 
         for book in song_yaml['books']:
             # Look for the language of this book
@@ -78,12 +79,12 @@ class OpenSongConverter(AbstractConverter):
 
             os_lyrics_lines.append('[' + verse_yaml['name'].upper() + ']')
             for i, line in enumerate(verse_yaml['lines']):
-                if line is None:
+                if line is None:  # Hard break -- separate slide
                     os_lyrics_lines.append(' ||')
-                elif line == "" and i != 0:
+                elif line == "" and i != 0:  # Soft break -- empty line
                     os_lyrics_lines[-1] = os_lyrics_lines[-1] + " |"
                 else:
-                    os_lyrics_lines.append(' ' + line)
+                    os_lyrics_lines.append(' '+line)
 
         return "\n".join(os_lyrics_lines)
 

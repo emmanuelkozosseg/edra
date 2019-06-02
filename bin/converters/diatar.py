@@ -4,6 +4,7 @@ import logging
 
 class DiatarConverter(AbstractConverter):
     def __init__(self, args):
+        super().__init__()
         self._from_dir = args.from_dir
         self._to_file = args.to
         self._dtx_lines = [
@@ -23,7 +24,7 @@ class DiatarConverter(AbstractConverter):
         parser_diatar.set_defaults(converter=DiatarConverter)
 
     def convert(self, song_yaml, filepath):
-        super()._flatten(song_yaml)
+        self._preprocessor.preprocess(song_yaml, flatten=True, soft_line_break_strategy='ignore')
 
         # Look up primary language
         emm_hu_book = next((b for b in song_yaml['books'] if b['id'] == 'emm_hu'), None)
@@ -42,7 +43,7 @@ class DiatarConverter(AbstractConverter):
                 verse_suffix = '' if len(verse_parts) == 1 else '-' + str(i+1)
                 self._dtx_lines.append("/" + verse['name'].upper() + verse_suffix)
                 self._dtx_lines.append("#" + self._generate_verse_id())
-                self._dtx_lines.extend(" "+self._clean_verse_line(l) for l in verse_part)
+                self._dtx_lines.extend(" "+l for l in verse_part)
 
         self._dtx_lines.append("")
 
