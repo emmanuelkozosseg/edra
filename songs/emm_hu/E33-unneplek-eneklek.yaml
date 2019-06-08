@@ -1,0 +1,32 @@
+books:
+  - id: emm_hu
+    chapter: e_egyeb
+    number: E33
+    lang: hu
+about:
+  music: Linda Duvall
+  lyrics: Linda Duvall
+  year: 1982
+  copyright: Amstutz Daniel, Maranatha Praise, Inc
+  ccli: 21239
+lyrics:
+  - lang: hu
+    title: Ünneplek, éneklek
+    about:
+      adapted_by: Szamek-Nagy Andrea
+    verses:
+      - name: v1
+        lines:
+          - Ünneplek, éneklek Istenem, az Úr előtt,
+          - háladalt zengek néki most és örökké!
+          - ""
+          - Magasztalom, dicsérem én,
+          - mert nagy csodákat vitt ő végbe!
+chords:
+  - template: all
+    lines:
+      - [dm, B]
+      - [C, dm]
+      - 
+      - [dm, B]
+      - [C, dm]
