@@ -8,13 +8,18 @@ books:
 about:
   music: B. Suijkerbuijk
   lyrics: B. Suijkerbuijk
+  c_holder: Edition de l'Emmanuel
+  c_year: 1994
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/a01_2001.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Az Úrhoz száll a himnusz
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

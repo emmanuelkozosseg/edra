@@ -8,13 +8,18 @@ books:
 about:
   music: G. Dadillon
   lyrics: G. Dadillon
+  c_holder: Edition de l'Emmanuel
+  c_year: 1993
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2000_es_album/b02_2000.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Jó Urunk, Jézusunk
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

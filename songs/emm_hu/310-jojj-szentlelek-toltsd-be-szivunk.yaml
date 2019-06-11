@@ -8,10 +8,15 @@ books:
 about:
   music: J.-F. Léost
   lyrics: J.-F. Léost
+  c_holder: Edition de l'Emmanuel
+  c_year: 1998
 lyrics:
   - lang: hu
     title: Jöjj, Szentlélek, töltsd be szívünk
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

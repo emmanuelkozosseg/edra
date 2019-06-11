@@ -8,13 +8,18 @@ books:
 about:
   music: M. Wittal
   lyrics: M. Wittal
+  c_holder: Edition de l'Emmanuel
+  c_year: 2003
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/04_2007.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Ó, jöjj, Istenem
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

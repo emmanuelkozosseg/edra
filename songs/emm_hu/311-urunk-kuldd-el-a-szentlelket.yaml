@@ -5,13 +5,19 @@ books:
     lang: hu
   - id: emm_fr
     number: 08-03-05
+about:
+  c_holder: Edition de l'Emmanuel
+  c_year: 1988
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/a07_2003.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Urunk, küldd el a Szentlelket
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

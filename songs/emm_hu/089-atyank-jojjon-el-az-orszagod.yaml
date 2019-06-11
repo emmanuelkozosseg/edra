@@ -11,13 +11,18 @@ books:
 about:
   music: B. Pavageau
   lyrics: B. Pavageau
+  c_holder: Edition de l'Emmanuel
+  c_year: 2007
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/05_2014.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Atyánk, jöjjön el az országod
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2015
     verses:
       - name: c
         lines:

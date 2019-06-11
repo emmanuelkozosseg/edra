@@ -5,13 +5,19 @@ books:
     lang: hu
   - id: emm_fr
     number: 15-09
+about:
+  c_holder: Communauté du Verbe de Vie
+  c_year: 1999
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/15_2014.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: A mi hazánk
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2015
     verses:
       - name: c
         lines:

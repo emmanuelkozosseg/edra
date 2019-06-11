@@ -8,9 +8,14 @@ books:
 about:
   music: C. Tuttle
   lyrics: C. Tuttle
+  c_holder: Vineyard Ministries International
+  c_year: 1986
 lyrics:
   - lang: hu
     title: Hozsanna, hozsanna
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

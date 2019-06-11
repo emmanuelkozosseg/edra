@@ -8,10 +8,14 @@ books:
 about:
   music: J.-M. Morin
   lyrics: liturgikus
+  c_holder: Edition de l'Emmanuel
 lyrics:
   - lang: hu
     title: Adjunk hálát Istennek
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

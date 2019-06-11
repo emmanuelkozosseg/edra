@@ -6,10 +6,15 @@ books:
 about:
   music: Continental Singers
   lyrics: Continental Singers
+  c_holder: Bencés Kiadó
+  c_year: 1999
 lyrics:
   - lang: hu
     title: Add a kezed
-    adapted_by: Viszmeg L.
+    about:
+      adapted_by: Viszmeg L.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

@@ -8,13 +8,18 @@ books:
 about:
   music: B. Mélois
   lyrics: B. Ducatel
+  c_holder: Edition de l'Emmanuel
+  c_year: 1983
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/b11_2001.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Áldott legyen az Úr neve
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

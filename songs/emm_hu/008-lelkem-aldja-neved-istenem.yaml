@@ -8,13 +8,18 @@ books:
 about:
   music: B. Ducatel
   lyrics: B. Ducatel
+  c_holder: Edition de l'Emmanuel
+  c_year: 1990
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2000_es_album/a01_2000.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Lelkem áldja neved, Istenem
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

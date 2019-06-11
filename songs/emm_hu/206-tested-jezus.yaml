@@ -8,9 +8,14 @@ books:
 about:
   music: M. Penhard
   lyrics: M. Penhard
+  c_holder: Edition de l'Emmanuel
+  c_year: 1981
 lyrics:
   - lang: hu
     title: Tested, Jézus
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

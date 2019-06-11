@@ -8,13 +8,18 @@ books:
 about:
   music: A. Dumont
   lyrics: A. Dumont
+  c_holder: Edition de l'Emmanuel
+  c_year: 1995
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/a03_2001.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Zengjen az ének az Úr nevének
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

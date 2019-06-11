@@ -6,10 +6,15 @@ books:
 about:
   music: M. Wittal
   lyrics: M. Wittal
+  c_holder: Gemeinschaft Emmanuel
+  c_year: 2000
 lyrics:
   - lang: hu
     title: Ó, Abba, Atyám
-    adapted_by: Varjas A.
+    about:
+      adapted_by: Varjas A.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

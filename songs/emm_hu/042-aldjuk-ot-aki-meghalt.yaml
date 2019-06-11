@@ -8,10 +8,15 @@ books:
 about:
   music: A. Dumont
   lyrics: A. Dumont
+  c_holder: Edition de l'Emmanuel
+  c_year: 1995
 lyrics:
   - lang: hu
     title: Áldjuk Őt, aki meghalt
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

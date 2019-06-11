@@ -11,7 +11,8 @@ about:
 lyrics:
   - lang: hu
     title: Ó, áldott, ki jő
-    adapted_by: Varjas A.
+    about:
+      adapted_by: Varjas A.
     verses:
       - name: v1
         lines:

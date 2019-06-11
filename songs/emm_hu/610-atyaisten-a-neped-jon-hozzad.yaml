@@ -17,7 +17,10 @@ records:
 lyrics:
   - lang: hu
     title: Atyaisten, a néped jön hozzád
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2015
     verses:
       - name: v1
         lines:

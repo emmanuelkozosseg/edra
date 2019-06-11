@@ -8,10 +8,15 @@ books:
 about:
   music: I. Goulven, E. Baranger
   lyrics: I. Goulven, E. Baranger
+  c_holder: Edition de l'Emmanuel
+  c_year: 1993
 lyrics:
   - lang: hu
     title: Jöjj, szabadító Istenünk
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

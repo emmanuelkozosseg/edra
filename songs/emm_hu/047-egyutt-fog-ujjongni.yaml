@@ -3,9 +3,15 @@ books:
     chapter: 0_dics
     number: '47'
     lang: hu
+about:
+  c_holder: Bencés Kiadó
+  c_year: 1999
 lyrics:
   - lang: hu
     title: Együtt fog ujjongni
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

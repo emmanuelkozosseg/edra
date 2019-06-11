@@ -5,9 +5,15 @@ books:
     lang: hu
   - id: emm_fr
     number: 14-18
+about:
+  c_holder: Edition de l'Emmanuel
+  c_year: 2001
 lyrics:
   - lang: hu
     title: Jézus, Jézus (kánon)
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

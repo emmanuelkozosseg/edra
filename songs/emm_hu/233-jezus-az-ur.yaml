@@ -8,13 +8,18 @@ books:
 about:
   music: G. Dadillon, H. Hasunuma
   lyrics: G. Dadillon, H. Hasunuma
+  c_holder: Lafitte Corinne / LTC
+  c_year: 1991
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/13_2007.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Jézus az Úr
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

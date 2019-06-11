@@ -8,10 +8,15 @@ books:
 about:
   music: B. Ben
   lyrics: B. Ben
+  c_holder: Theopolis, Reims
+  c_year: 2006
 lyrics:
   - lang: hu
     title: Mint az agyag
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

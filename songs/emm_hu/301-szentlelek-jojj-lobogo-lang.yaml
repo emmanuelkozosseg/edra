@@ -8,13 +8,18 @@ books:
 about:
   music: J.-M. Morin, P. V. Mugnier
   lyrics: J.-M. Morin, P. V. Mugnier
+  c_holder: Edition de l'Emmanuel
+  c_year: 1981
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2000_es_album/a04_2000.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Szentlélek, jöjj, lobogó láng
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

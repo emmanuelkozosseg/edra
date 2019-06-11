@@ -6,9 +6,14 @@ books:
 about:
   music: C. Frayesse, A. Bergessead
   lyrics: C. Frayesse, A. Bergessead
+  c_holder: Bencés Kiadó
+  c_year: 1999
 lyrics:
   - lang: hu
     title: Áldalak jó Uram
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

@@ -8,9 +8,13 @@ books:
 about:
   music: A. Gouzes
   lyrics: J.-P. Revel, D. Bourgeois
+  c_holder: L'Abbaye de Sylvanes
 lyrics:
   - lang: hu
     title: Isten boldog fénye
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

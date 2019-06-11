@@ -6,9 +6,14 @@ books:
 about:
   music: Peter Sanchez
   lyrics: Peter Sanchez
+  c_holder: Bencés Kiadó
+  c_year: 1999
 lyrics:
   - lang: hu
     title: Mert Te, Uram
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

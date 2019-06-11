@@ -8,10 +8,15 @@ books:
 about:
   music: B. Suijkerbuijk
   lyrics: B. Suijkerbuijk
+  c_holder: Edition de l'Emmanuel
+  c_year: 2000
 lyrics:
   - lang: hu
     title: Christus idem
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

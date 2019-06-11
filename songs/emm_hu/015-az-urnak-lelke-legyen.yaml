@@ -6,9 +6,14 @@ books:
 about:
   music: E. Baranger
   lyrics: E. Baranger
+  c_holder: Edition de l'Emmanuel
+  c_year: 1985
 lyrics:
   - lang: hu
     title: Az Úrnak lelke legyen rajtam
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

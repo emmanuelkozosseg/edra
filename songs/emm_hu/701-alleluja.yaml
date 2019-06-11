@@ -5,9 +5,14 @@ books:
     lang: hu
 about:
   music: O'Caroll, J.P. Lecot
+  c_holder: Gemeinschaft Emmanuel
+  c_year: 1995
 lyrics:
   - lang: hu
     title: Alleluja
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

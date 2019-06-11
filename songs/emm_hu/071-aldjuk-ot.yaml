@@ -8,13 +8,18 @@ books:
 about:
   music: Music & Mission
   lyrics: Music & Mission
+  c_holder: Edition de l'Emmanuel
+  c_year: 2001
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/a02_2003.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Áldjuk Őt!
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

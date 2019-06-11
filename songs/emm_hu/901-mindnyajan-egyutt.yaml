@@ -8,7 +8,10 @@ about:
 lyrics:
   - lang: hu
     title: Mindnyájan együtt...
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

@@ -8,10 +8,15 @@ books:
 about:
   music: C. Brasseur
   lyrics: C. Brasseur
+  c_holder: Edition des Béatitudes
+  c_year: 1990
 lyrics:
   - lang: hu
     title: Rajta, dicsérjétek
-    adapted_by: Csőry
+    about:
+      adapted_by: Csőry
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

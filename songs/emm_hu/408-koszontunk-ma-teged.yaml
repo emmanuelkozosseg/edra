@@ -8,13 +8,18 @@ books:
 about:
   music: M. Dannaud
   lyrics: A. Dumot
+  c_holder: Edition de l'Emmanuel
+  c_year: 2000
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/09_2007.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Köszöntünk ma téged
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

@@ -8,10 +8,15 @@ books:
 about:
   music: P. Brun
   lyrics: F. Rocchetti, M.-F. Fournier
+  c_holder: Edition de l'Emmanuel
+  c_year: 1996
 lyrics:
   - lang: hu
     title: Isten, Ő az erőm
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

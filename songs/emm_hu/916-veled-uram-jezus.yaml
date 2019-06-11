@@ -6,7 +6,10 @@ books:
 lyrics:
   - lang: hu
     title: Veled, Uram Jézus
-    adapted_by: Balaton A.
+    about:
+      adapted_by: Balaton A.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

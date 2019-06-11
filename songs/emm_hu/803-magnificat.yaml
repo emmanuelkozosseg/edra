@@ -5,10 +5,15 @@ books:
     lang: hu
 about:
   lyrics: liturgikus
+  c_holder: Gemeinschaft Emmanuel
+  c_year: 1995
 lyrics:
   - lang: hu
     title: Magnificat
-    adapted_by: Nemes K.
+    about:
+      adapted_by: Nemes K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

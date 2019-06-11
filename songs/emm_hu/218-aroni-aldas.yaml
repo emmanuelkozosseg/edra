@@ -3,9 +3,15 @@ books:
     chapter: 2_br
     number: '218'
     lang: hu
+about:
+  c_holder: Bencés Kiadó
+  c_year: 1999
 lyrics:
   - lang: hu
     title: Ároni áldás
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

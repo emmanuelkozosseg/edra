@@ -5,10 +5,15 @@ books:
     lang: hu
 about:
   music: M. Parkinson
+  c_holder: Bencés Kiadó
+  c_year: 1999
 lyrics:
   - lang: hu
     title: Ave Maria, Jézus nékünk
-    adapted_by: Aszalós Z., Formanek T., Varga A.
+    about:
+      adapted_by: Aszalós Z., Formanek T., Varga A.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

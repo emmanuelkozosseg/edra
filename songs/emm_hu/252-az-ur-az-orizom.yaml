@@ -8,10 +8,15 @@ books:
 about:
   music: Frère Jean-Baptiste OCD
   lyrics: Frère Jean-Baptiste OCD
+  c_holder: Edition de l'Emmanuel
+  c_year: 2010
 lyrics:
   - lang: hu
     title: Az Úr az őrizőm
-    adapted_by: Fábry K., Nemes K.
+    about:
+      adapted_by: Fábry K., Nemes K.
+      c_holder: Emmánuel Közösség
+      c_year: 2015
     verses:
       - name: c
         lines:

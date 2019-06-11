@@ -6,6 +6,9 @@ books:
 lyrics:
   - lang: hu
     title: Mert tudom, semmi nem szakaszthat el
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2015
     verses:
       - name: v1
         lines:

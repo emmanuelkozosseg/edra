@@ -8,10 +8,15 @@ books:
 about:
   music: E. de Vries
   lyrics: E. de Vries
+  c_holder: Edition de l'Emmanuel
+  c_year: 1990
 lyrics:
   - lang: hu
     title: Adjunk hálát az Úrnak
-    adapted_by: Gerencsér Zs., Somogyi A., Varga A.
+    about:
+      adapted_by: Gerencsér Zs., Somogyi A., Varga A.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

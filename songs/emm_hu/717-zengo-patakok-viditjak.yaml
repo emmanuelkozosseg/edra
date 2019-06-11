@@ -9,6 +9,9 @@ about:
 lyrics:
   - lang: hu
     title: Zengő patakok vidítják
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

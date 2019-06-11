@@ -8,10 +8,15 @@ books:
 about:
   music: S. Fry
   lyrics: S. Fry
+  c_holder: Bird Wing Music
+  c_year: 1974
 lyrics:
   - lang: hu
     title: Jöjj, vár az Úr
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

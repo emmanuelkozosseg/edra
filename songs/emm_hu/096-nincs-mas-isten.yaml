@@ -9,7 +9,10 @@ about:
 lyrics:
   - lang: hu
     title: Nincs más Isten
-    adapted_by: Váradi A.
+    about:
+      adapted_by: Váradi A.
+      c_holder: Emmánuel Közösség
+      c_year: 2015
     verses:
       - name: v1
         lines:

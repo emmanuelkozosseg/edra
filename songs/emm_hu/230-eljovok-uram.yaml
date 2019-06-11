@@ -7,10 +7,15 @@ books:
     number: 08-37
 about:
   music: B. Melois
+  c_holder: Edition de l'Emmanuel
+  c_year: 1987
 lyrics:
   - lang: hu
     title: Eljövök, Uram
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

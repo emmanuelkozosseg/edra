@@ -8,10 +8,15 @@ books:
 about:
   music: M. Wittal
   lyrics: M. Wittal
+  c_holder: Edition de l'Emmanuel
+  c_year: 2000
 lyrics:
   - lang: hu
     title: Mind, kik szomjaztok
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

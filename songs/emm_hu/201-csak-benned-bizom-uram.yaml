@@ -8,13 +8,18 @@ books:
 about:
   music: C.-E. Hauguel
   lyrics: C.-E. Hauguel
+  c_holder: Edition de l'Emmanuel
+  c_year: 1985
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2000_es_album/a05_2000.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Csak benned bízom Uram
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

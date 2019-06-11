@@ -5,10 +5,15 @@ books:
     lang: hu
   - id: emm_fr
     number: 12-34
+about:
+  c_holder: Élet Igéje Közösség
 lyrics:
   - lang: hu
     title: Ó, Uram, hozzád száll szavam
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

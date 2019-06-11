@@ -8,13 +8,18 @@ books:
 about:
   music: M. Gierycz
   lyrics: M. Gierycz
+  c_holder: Edition de l'Emmanuel
+  c_year: 2005
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/07_2007.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Nyisd meg szemem, Uram
-    adapted_by: Balaton A., Fábry K.
+    about:
+      adapted_by: Balaton A., Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

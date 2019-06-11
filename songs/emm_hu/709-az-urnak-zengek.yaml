@@ -6,10 +6,15 @@ books:
 about:
   music: G. Pradère, M. Hagemann
   lyrics: G. Pradère, M. Hagemann
+  c_holder: Gemeinschaft Emmanuel
+  c_year: 1995
 lyrics:
   - lang: hu
     title: Az Úrnak zengek
-    adapted_by: Varjas A.
+    about:
+      adapted_by: Varjas A.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

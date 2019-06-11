@@ -8,9 +8,14 @@ books:
 about:
   music: R. Magnabosco
   lyrics: R. Magnabosco
+  c_holder: Karizmatikus megújulás - imacsoport, Párizs
+  c_year: 1989
 lyrics:
   - lang: hu
     title: Jézus, Jézus
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

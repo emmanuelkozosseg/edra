@@ -8,10 +8,15 @@ books:
 about:
   music: M. Penhard
   lyrics: M. Penhard
+  c_holder: Edition de l'Emmanuel
+  c_year: 1982
 lyrics:
   - lang: hu
     title: Táncolj az Úrnak
-    adapted_by: Szulyovszky Endre és Rita
+    about:
+      adapted_by: Szulyovszky Endre és Rita
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

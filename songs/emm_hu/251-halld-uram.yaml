@@ -8,10 +8,15 @@ books:
 about:
   music: Fr. Jean-Baptiste du Jonchay
   lyrics: P. Marie-Eugène de l'E.J.
+  c_holder: Edition du Carmel
+  c_year: 2010
 lyrics:
   - lang: hu
     title: Halld Uram
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2015
     verses:
       - name: c
         lines:

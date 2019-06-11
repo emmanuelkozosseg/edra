@@ -7,10 +7,15 @@ books:
     number: 03-07
 about:
   music: C.-E. Hauguel
+  c_holder: Edition de l'Emmanuel
+  c_year: 1979
 lyrics:
   - lang: hu
     title: Alleluja, Isten a szeretet
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

@@ -8,10 +8,15 @@ books:
 about:
   music: XVI. sz.-i dallam (Greensleeves)
   lyrics: C.-E. Haugel
+  c_holder: Edition de l'Emmanuel
+  c_year: 1983
 lyrics:
   - lang: hu
     title: Ím Gábor angyal megjelent
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

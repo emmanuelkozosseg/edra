@@ -6,7 +6,10 @@ books:
 lyrics:
   - lang: hu
     title: Az Úrnak szüksége van rád
-    adapted_by: Csiszér L.
+    about:
+      adapted_by: Csiszér L.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

@@ -6,10 +6,15 @@ books:
 about:
   music: M. G. Schneider
   lyrics: M. G. Schneider
+  c_holder: Bencés Kiadó
+  c_year: 1999
 lyrics:
   - lang: hu
     title: Hálát adok, hogy itt a reggel
-    adapted_by: Cselényi I. G.
+    about:
+      adapted_by: Cselényi I. G.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

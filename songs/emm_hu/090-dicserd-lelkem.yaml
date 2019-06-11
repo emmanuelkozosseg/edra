@@ -11,13 +11,18 @@ books:
 about:
   music: F. Deboeuf
   lyrics: F. Deboeuf
+  c_holder: Edition de l'Emmanuel
+  c_year: 2012
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/01_2014.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Dicsérd, lelkem, az Úr nevét
-    adapted_by: Balaton A.
+    about:
+      adapted_by: Balaton A.
+      c_holder: Emmánuel Közösség
+      c_year: 2015
     verses:
       - name: c
         lines:

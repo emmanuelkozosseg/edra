@@ -6,9 +6,14 @@ books:
 about:
   music: Kindelmann Gy.
   lyrics: Kindelmann Gy.
+  c_holder: Bencés Kiadó
+  c_year: 1999
 lyrics:
   - lang: hu
     title: Ne félj, mert megváltottalak
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

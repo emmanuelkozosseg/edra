@@ -8,10 +8,15 @@ books:
 about:
   music: M. Dannaud
   lyrics: M. Dannaud
+  c_holder: Edition de l'Emmanuel
+  c_year: 1994
 lyrics:
   - lang: hu
     title: Krisztusnak teste és vére
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

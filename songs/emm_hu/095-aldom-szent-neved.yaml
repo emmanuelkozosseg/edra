@@ -9,7 +9,10 @@ about:
 lyrics:
   - lang: hu
     title: Áldom szent Neved
-    adapted_by: Vass T.
+    about:
+      adapted_by: Vass T.
+      c_holder: Emmánuel Közösség
+      c_year: 2015
     verses:
       - name: v1
         lines:

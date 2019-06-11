@@ -8,10 +8,15 @@ books:
 about:
   music: P. Lemoine
   lyrics: P. Lemoine
+  c_holder: Edition du Caramel
+  c_year: 1989
 lyrics:
   - lang: hu
     title: Jézus vár rád
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

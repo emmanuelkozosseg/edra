@@ -6,6 +6,9 @@ books:
 lyrics:
   - lang: hu
     title: Állj fel és kiálts
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

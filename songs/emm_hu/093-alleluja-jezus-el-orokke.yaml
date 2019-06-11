@@ -8,10 +8,15 @@ books:
 about:
   music: lengyel népének
   lyrics: C.-E. Hauguel
+  c_holder: Edition de l'Emmanuel
+  c_year: 1985
 lyrics:
   - lang: hu
     title: Alleluja, Jézus él örökké
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2015
     verses:
       - name: c
         lines:

@@ -14,7 +14,10 @@ records:
 lyrics:
   - lang: hu
     title: Az égiek serege mind
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2015
     verses:
       - name: c
         lines:

@@ -11,13 +11,18 @@ books:
 about:
   music: G. Creaton
   lyrics: G. Creaton
+  c_holder: Edition de l'Emmanuel
+  c_year: 2005
 records:
   - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/12_2007.mp3
     lang: hu
 lyrics:
   - lang: hu
     title: Jézus, én Uram, imádlak
-    adapted_by: Balaton A.
+    about:
+      adapted_by: Balaton A.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

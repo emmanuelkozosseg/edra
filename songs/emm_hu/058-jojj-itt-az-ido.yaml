@@ -6,10 +6,15 @@ books:
 about:
   music: B. Doerksen
   lyrics: B. Doerksen
+  c_holder: Vineyard Songs
+  c_year: 1998
 lyrics:
   - lang: hu
     title: Jöjj, itt az idő
-    adapted_by: Jóföldi Sz., Mikes A.
+    about:
+      adapted_by: Jóföldi Sz., Mikes A.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

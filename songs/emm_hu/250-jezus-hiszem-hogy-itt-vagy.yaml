@@ -9,6 +9,9 @@ about:
 lyrics:
   - lang: hu
     title: Jézus, hiszem, hogy itt vagy
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2015
     verses:
       - name: v1
         lines:

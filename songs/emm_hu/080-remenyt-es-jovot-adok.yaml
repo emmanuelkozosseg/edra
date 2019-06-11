@@ -12,6 +12,9 @@ records:
 lyrics:
   - lang: hu
     title: Reményt és jövőt adok
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

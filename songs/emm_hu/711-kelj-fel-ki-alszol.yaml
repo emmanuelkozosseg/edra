@@ -6,10 +6,15 @@ books:
 about:
   music: P. Mugnier, V. Mugnier
   lyrics: P. Mugnier, V. Mugnier
+  c_holder: Edition de l'Emmanuel
+  c_year: 1983
 lyrics:
   - lang: hu
     title: Kelj fel, ki alszol
-    adapted_by: Czékus J., Kertészné Luczay H., Nagy Zs.
+    about:
+      adapted_by: Czékus J., Kertészné Luczay H., Nagy Zs.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

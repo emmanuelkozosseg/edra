@@ -8,10 +8,15 @@ books:
 about:
   music: C.-E. Hauguel
   lyrics: C.-E. Hauguel
+  c_holder: Edition de l'Emmanuel
+  c_year: 1976
 lyrics:
   - lang: hu
     title: Hálát adok Néked
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

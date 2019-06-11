@@ -6,9 +6,14 @@ books:
 about:
   music: Sillye J.
   lyrics: Sillye J.
+  c_holder: Bencés Kiadó
+  c_year: 1999
 lyrics:
   - lang: hu
     title: Békesség legyen velünk
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

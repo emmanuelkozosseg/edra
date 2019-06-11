@@ -9,7 +9,10 @@ about:
 lyrics:
   - lang: hu
     title: Alleluja, áldott az Úr
-    adapted_by: Nyolc Boldogság Közösség
+    about:
+      adapted_by: Nyolc Boldogság Közösség
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

@@ -8,10 +8,15 @@ books:
 about:
   music: M.-F. Fournier
   lyrics: M.-F. Fournier
+  c_holder: Edition de l'Emmanuel
+  c_year: 1991
 lyrics:
   - lang: hu
     title: Ma Téged áldjon a szánk
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

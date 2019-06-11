@@ -6,6 +6,9 @@ books:
 lyrics:
   - lang: hu
     title: Van egy név
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2015
     verses:
       - name: v1
         lines:

@@ -8,10 +8,14 @@ books:
 about:
   music: E. Perrot
   lyrics: liturgikus
+  c_holder: L'Abbaye de Sylvanes
 lyrics:
   - lang: hu
     title: Jöjj, Szentlélek, szállj le ránk
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

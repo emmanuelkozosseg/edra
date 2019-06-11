@@ -8,10 +8,15 @@ books:
 about:
   music: C. Guerret-Fourneau
   lyrics: C. Guerret-Fourneau
+  c_holder: C. Guerent-Fourneau
+  c_year: 1978
 lyrics:
   - lang: hu
     title: Nézz testvér fel
-    adapted_by: Illésy I.
+    about:
+      adapted_by: Illésy I.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

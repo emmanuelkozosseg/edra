@@ -8,10 +8,14 @@ books:
 about:
   music: R. Trunck
   lyrics: R. Trunck
+  c_holder: Roger Trunck
 lyrics:
   - lang: hu
     title: Egyedül Isten az én fényem
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

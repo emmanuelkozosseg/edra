@@ -12,6 +12,9 @@ records:
 lyrics:
   - lang: hu
     title: Szelíd és alázatos szívű Jézus
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2015
     verses:
       - name: v1
         lines:

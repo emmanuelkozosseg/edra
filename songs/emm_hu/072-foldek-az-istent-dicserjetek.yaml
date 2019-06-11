@@ -8,10 +8,15 @@ books:
 about:
   music: R. Camp, C.-E. Hauguel
   lyrics: R. Camp, C.-E. Hauguel
+  c_holder: Rita Camp
+  c_year: 1980
 lyrics:
   - lang: hu
     title: Földek az Istent dicsérjétek
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:

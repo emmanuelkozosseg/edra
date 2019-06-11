@@ -9,6 +9,9 @@ about:
 lyrics:
   - lang: hu
     title: Békédre vár a lelkem
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: v1
         lines:

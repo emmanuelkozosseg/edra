@@ -8,10 +8,15 @@ books:
 about:
   music: D.-M. David, L.-E. de Labarthe
   lyrics: D.-M. David, L.-E. de Labarthe
+  c_holder: Edition de l'Emmanuel
+  c_year: 1999
 lyrics:
   - lang: hu
     title: Most minden nép áldja
-    adapted_by: Fábry K.
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
     verses:
       - name: c
         lines:
