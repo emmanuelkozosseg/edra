@@ -54,7 +54,7 @@ chords:
       - [D, hm, em, A4, A3]
       - [D, C6, G, A4, A3]
       - [D, hm, em, A4, A3]
-  - template: c
+  - template: v
     lines:
       - [D, Fis, hm, em]
       - [A, D]

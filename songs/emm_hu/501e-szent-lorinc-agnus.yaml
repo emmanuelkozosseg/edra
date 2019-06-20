@@ -15,7 +15,7 @@ lyrics:
           - Agnus Dei, qui tollis peccata mundi,
           - dona nobis pacem, dona nobis pacem!
 chords:
-  - template: v1
+  - template: all
     lines:
       - ['gm', 'D', 'D7', 'gm', '(F)']
       - ['B', 'F', 'gm', 'D4', 'D3']

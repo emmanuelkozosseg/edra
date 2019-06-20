@@ -62,7 +62,7 @@ chords:
       - [am, dm, am, E]
       - [am, dm, E, E7, am]
   - template: v
-    chords:
+    lines:
       - [am, E, Gis, am]
       - [dm, am, H, E]
       - [am, E, Gis, am]

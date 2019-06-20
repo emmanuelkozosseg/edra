@@ -2,7 +2,7 @@ books:
   - id: emm_hu
     chapter: 8_himn
     number: '806'
-    lang: hu
+    lang: la
   - id: emm_fr
     number: 14-09
 about:
@@ -11,7 +11,7 @@ about:
   c_holder: Edition de l'Emmanuel
   c_year: 2000
 lyrics:
-  - lang: hu
+  - lang: la
     title: Christus idem
     about:
       adapted_by: Fábry K.
@@ -71,7 +71,7 @@ chords:
       - [F, C, gm, A, gm, F/A, B6, C, F]
   - template: v
     lines:
-      - 
+      - []
       - [B, F/A, gm7, F/A, B6, dm]
       - [cm, dm, Es, dm, C4, C3]
       - [gm, F/A, C7, A/Cis, dm, C/E, F]

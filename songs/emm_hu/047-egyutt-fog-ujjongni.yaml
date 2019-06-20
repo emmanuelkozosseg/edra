@@ -26,7 +26,7 @@ lyrics:
               - Vidámmá teszem a szívüket,
               - hogy örvendezzenek a bánatuk helyett.
 chords:
-  - template: v1
+  - template: all
     lines:
       - [H7, em]
       - [am, H7]

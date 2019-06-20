@@ -29,7 +29,7 @@ lyrics:
               - és imádjad Őt!
 chords:
   - template: all
-    chords:
+    lines:
       - group: repeat
         type: unique
         repetitions:

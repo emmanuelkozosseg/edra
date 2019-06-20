@@ -53,7 +53,7 @@ chords:
           -   - [hm, fism]
               - [em, Fis4, Fis3]
           -   - [hm, fism]
-          -   - [em, D/A, A7, D]
+              - [em, D/A, A7, D]
   - template: v
     lines:
       - [C, H7, em]

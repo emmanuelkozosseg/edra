@@ -15,16 +15,30 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - Ó, jöjjetek, örvendjünk,
-          - lelkesen tapsoljunk,
-          - énekeljünk az Úrnak!
-          - Isten küldötte el nékünk szabadítóját,
-          - a népek előtt megjelentette az Ő igazságát.
+          - group: repeat
+            times: 2
+            lines:
+              - Ó, jöjjetek, örvendjünk,
+              - lelkesen tapsoljunk,
+              - énekeljünk az Úrnak!
+          - ""
+          - group: repeat
+            times: 2
+            lines:
+              - Isten küldötte el nékünk szabadítóját,
+              - a népek előtt megjelentette az Ő igazságát.
 chords:
-  - template: v1
+  - template: all
     lines:
-      - [dm]
-      - [F]
-      - [C, dm]
-      - [F, C, dm, A, A7]
-      - [dm, gm, dm, A, dm]
+      - group: repeat
+        type: uniform
+        lines:
+          - [dm]
+          - [F]
+          - [C, dm]
+      - 
+      - group: repeat
+        type: uniform
+        lines:
+          - [F, C, dm, A, A7]
+          - [dm, gm, dm, A, dm]

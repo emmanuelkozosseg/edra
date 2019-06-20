@@ -16,18 +16,34 @@ lyrics:
       - name: v1
         lines:
           - Ha együtt lépünk,
-          - (ha együtt lépünk,)
+          - ha együtt lépünk,
           - nem fél a szívünk,
-          - (nem fél a szívünk.)
+          - nem fél a szívünk.
           - Szeret az Isten!
-          - (Szeret az Isten!)
+          - Szeret az Isten!
           - Szűnik már az éjjel!
       - name: v2
         lines:
           - Te vagy az élet,
-          - (Te vagy az élet,)
+          - Te vagy az élet,
           - dicsérünk Téged,
-          - (dicsérünk Téged,)
+          - dicsérünk Téged,
           - nevedet áldjuk,
-          - (nevedet áldjuk,)
+          - nevedet áldjuk,
           - Jézus, így kiáltunk!
+chords:
+  - template: c
+    lines:
+      - [E, H/E, E, H/E]
+      - [E, H]
+      - [E, H, Cism, H]
+      - [A, H, Cism, H, Cism, A, H, E]
+  - template: v
+    lines:
+      - [E]
+      - [E]
+      - [H]
+      - [H]
+      - [Cism, H]
+      - [A, E/Gis]
+      - [Fism, A, H]

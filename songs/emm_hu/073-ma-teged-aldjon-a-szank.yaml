@@ -20,9 +20,12 @@ lyrics:
     verses:
       - name: c
         lines:
-          - Ma téged áldjon a szánk,
-          - dicsérjen, égi Atyánk!
-          - Ég s a föld is zengje néked háladalát!
+          - group: repeat
+            times: 2
+            lines:
+              - Ma téged áldjon a szánk,
+              - dicsérjen, égi Atyánk!
+              - Ég s a föld is zengje néked háladalát!
       - name: v1
         lines:
           - Téged ünnepelünk, Néked énekelünk,
@@ -44,9 +47,15 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [fism, hm, Cis]
-      - [fism, hm, Cis]
-      - [fism, E, D, Cis7|Cis, -|fism]
+      - group: repeat
+        type: unique
+        repetitions:
+          - - [fism, hm, Cis]
+            - [fism, hm, Cis]
+            - [fism, E, D, Cis7]
+          - - [fism, hm, Cis]
+            - [fism, hm, Cis]
+            - [fism, E, D, Cis, fism]
   - template: v
     lines:
       - [E, A, Cis]

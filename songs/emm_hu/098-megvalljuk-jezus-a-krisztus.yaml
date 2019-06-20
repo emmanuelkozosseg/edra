@@ -12,7 +12,8 @@ about:
 lyrics:
   - lang: hu
     title: Megvalljuk, Jézus a Krisztus
-    adapted_by: Varjas A.
+    about:
+      adapted_by: Varjas A.
     verses:
       - name: v1
         lines:
@@ -50,3 +51,20 @@ lyrics:
           - 'Minden nap ígérte: itt lesz,'
           - 'hirdetjük, bátran kiáltjuk:'
           - megmentett, nem fél a szívünk már!
+chords:
+  - template: v
+    lines:
+      - [Dm]
+      - [F]
+      - [G]
+      - [B]
+      - 
+      - [Dm]
+      - [F]
+      - [Gm, C4, C3]
+  - template: c
+    lines:
+      - [F4, F3, C]
+      - [Gm, Dm, B, C]
+      - [F4, F3, Gm]
+      - [B, C, B, F]

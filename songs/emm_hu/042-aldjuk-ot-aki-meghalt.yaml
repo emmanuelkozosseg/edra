@@ -20,38 +20,60 @@ lyrics:
     verses:
       - name: c
         lines:
-          - Áldjuk Őt, aki meghalt!
-          - Áldjuk Szabadítónkat,
-          - mert Ő visszajön újra,
-          - Krisztus Urunkat!
+          - group: repeat
+            times: 2
+            lines:
+              - Áldjuk Őt, aki meghalt!
+              - Áldjuk Szabadítónkat,
+              - mert Ő visszajön újra,
+              - Krisztus Urunkat!
       - name: v1
         lines:
-          - Üdvözítő Krisztusára várt a világ,
-          - és az Úr elküldte nékünk szent Fiát.
-          - Meghalt, és legyőzte végre már a halált.
-          - Lelkét árasztotta ránk.
+          - group: repeat
+            times: 2
+            lines:
+              - Üdvözítő Krisztusára várt a világ,
+              - és az Úr elküldte nékünk szent Fiát.
+              - Meghalt, és legyőzte végre már a halált.
+              - Lelkét árasztotta ránk.
       - name: v2
         lines:
-          - Énekeljük Istenünk dicséretét,
-          - hangszerekkel ünnepeljük szeretetét!
-          - Örvendezve várjuk, amíg visszatér,
-          - és dicsérjük szent nevét.
+          - group: repeat
+            times: 2
+            lines:
+              - Énekeljük Istenünk dicséretét,
+              - hangszerekkel ünnepeljük szeretetét!
+              - Örvendezve várjuk, amíg visszatér,
+              - és dicsérjük szent nevét.
       - name: v3
         lines:
-          - Tágra nyissuk most a szívünk és a fülünk,
-          - mert az Úr ma újra hív, hogy vele legyünk.
-          - Ő Atyánk minékünk, és mi gyermekei,
-          - Krisztusnak testvérei.
+          - group: repeat
+            times: 2
+            lines:
+              - Tágra nyissuk most a szívünk és a fülünk,
+              - mert az Úr ma újra hív, hogy vele legyünk.
+              - Ő Atyánk minékünk, és mi gyermekei,
+              - Krisztusnak testvérei.
       - name: v4
         lines:
-          - Jézus, Ő az Élet és az Igazság,
-          - Ő az Út, amelyen lelkünk égbe talál.
-          - Mindaz, aki belé vetett hittel él,
-          - nem hal meg mindörökké.
+          - group: repeat
+            times: 2
+            lines:
+              - Jézus, Ő az Élet és az Igazság,
+              - Ő az Út, amelyen lelkünk égbe talál.
+              - Mindaz, aki belé vetett hittel él,
+              - nem hal meg mindörökké.
 chords:
   - template: all
     lines:
-      - [dm, gm9, gm]
-      - [C7, F9/7M, am7]
-      - [B7M, gm7]
-      - [B, B7|A7, A|dm, A7|-]
+      - group: repeat
+        type: unique
+        repetitions:
+          - - [dm, gm9, gm]
+            - [C7, F9/7M, am7]
+            - [B7M, gm7]
+            - [B, B7, A, A7]
+          - - [dm, gm9, gm]
+            - [C7, F9/7M, am7]
+            - [B7M, gm7]
+            - [B, A7, dm]

@@ -7,7 +7,7 @@ lyrics:
   - lang: hu
     title: Kegyelmeddel megváltottál
     verses:
-      - name: c
+      - name: v1
         lines:
           - Kegyelmeddel megváltottál,
           - irgalmaddal új életre hívtál.
@@ -15,14 +15,14 @@ lyrics:
           - Hűséged megújul minden reggel,
           - elárasztasz békeséggel.
           - Átölel mindennap szerelmed.
-      - name: v1
+      - name: v2
         lines:
           - Arcod fénye rám ragyog,
           - teljesen Tiéd vagyok!
           - Felkelek és hirdetem dicsőséged!
           - Azért élek, hogy áldjalak,
           - nagy Király, Élő Isten Fia!
-      - name: v2
+      - name: v3
         lines:
           - Arcod fénye rám ragyog,
           - teljesen Tiéd vagyok!
@@ -33,6 +33,6 @@ lyrics:
           - 'zengik: szent vagy!'
           - Egyetlen hatalmas Úr,
           - 'éneklik: Alleluja!'
-      - name: b
+      - name: v4
         lines:
           - Alleluja! Alleluja! Alleluja!

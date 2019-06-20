@@ -27,7 +27,7 @@ lyrics:
               - Mert jó az Úr, örökkévaló kegyelme,
               - és hűsége megmarad mindörökre!
 chords:
-  - template: v1
+  - template: all
     lines:
       - group: repeat
         type: uniform
