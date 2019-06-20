@@ -65,20 +65,20 @@ chords:
   - template: c
     lines:
       - [F]
-      - [dm]
-      - [D, gm]
+      - [Dm]
+      - [D, Gm]
       - [C]
       - [F]
-      - [dm]
-      - [D, gm]
+      - [Dm]
+      - [D, Gm]
       - [C4, C3]
   - template: v
     lines:
-      - [F, gm/F]
+      - [F, Gm/F]
       - [B, B/C, C]
-      - [F, dm]
-      - [gm, B, C]
+      - [F, Dm]
+      - [Gm, B, C]
       - [F, Es]
       - [B, B/C, C]
-      - [F, gm/F]
+      - [F, Gm/F]
       - [B, C4, C3]

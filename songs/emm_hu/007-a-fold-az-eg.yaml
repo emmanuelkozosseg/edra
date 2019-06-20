@@ -40,9 +40,9 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [em, C, am, D, em]
-      - [em, C, D, hm, em]
+      - [Em, C, Am, D, Em]
+      - [Em, C, D, Hm, Em]
   - template: v
     lines:
-      - [em, hm, C, D, G]
-      - [em, hm, em]
+      - [Em, Hm, C, D, G]
+      - [Em, Hm, Em]

@@ -92,14 +92,14 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [F, C, dm]
-      - [B, gm, C]
-      - [F, C, dm]
-      - [B, gm, C]
+      - [F, C, Dm]
+      - [B, Gm, C]
+      - [F, C, Dm]
+      - [B, Gm, C]
       - [B, C4, C3, F]
   - template: v
     lines:
-      - [dm, am, G]
-      - [dm, C]
+      - [Dm, Am, G]
+      - [Dm, C]
       - [F, C]
-      - [F, B, gm, C]
+      - [F, B, Gm, C]

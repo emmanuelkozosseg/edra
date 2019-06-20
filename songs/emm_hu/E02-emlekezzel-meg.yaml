@@ -24,8 +24,8 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['D', 'G6']
-      - ['D', 'fism']
-      - ['Gmaj7', 'fism7']
-      - ['em7', 'D/A', 'A']
-      - ['Gmaj7', 'em7', 'D']
+      - [D, G6]
+      - [D, Fism]
+      - [Gmaj7, Fism7]
+      - [Em7, D/A, A]
+      - [Gmaj7, Em7, D]

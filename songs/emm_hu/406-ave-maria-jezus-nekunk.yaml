@@ -35,12 +35,12 @@ chords:
   - template: v
     lines:
       - [G, D, C, D]
-      - [G, hm, C, D]
-      - [G, am, D, G]
+      - [G, Hm, C, D]
+      - [G, Am, D, G]
       - [C, D, G, D]
   - template: c
     lines:
       - [G, D, C, D]
-      - [G, am, C, D]
-      - [G, am, D, G]
+      - [G, Am, C, D]
+      - [G, Am, D, G]
       - [C, D, G, C, G]

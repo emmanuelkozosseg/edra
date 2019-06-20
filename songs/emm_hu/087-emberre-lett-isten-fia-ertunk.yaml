@@ -93,13 +93,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [G, D/Fis, C, am/E]
-      - [G, D, em, D]
-      - [G, D/Fis, C, am/E]
+      - [G, D/Fis, C, Am/E]
+      - [G, D, Em, D]
+      - [G, D/Fis, C, Am/E]
       - [C, D, G]
   - template: v
     lines:
       - [G, D]
-      - [em, hm]
+      - [Em, Hm]
       - [C, G]
-      - [am7, D]
+      - [Am7, D]

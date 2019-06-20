@@ -52,15 +52,15 @@ chords:
   - template: c
     lines:
       - [C, F, F7]
-      - [dm, G]
-      - [C, em, F]
-      - [dm, G4, G3]
+      - [Dm, G]
+      - [C, Em, F]
+      - [Dm, G4, G3]
       - [C, F, F7]
-      - [dm, G4, G3]
-      - [C9, em, F, dm, C]
+      - [Dm, G4, G3]
+      - [C9, Em, F, Dm, C]
   - template: v
     lines:
-      - [C, dm]
+      - [C, Dm]
       - [G, F, C]
-      - [E, dm, am]
+      - [E, Dm, Am]
       - [F, G]

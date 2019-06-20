@@ -35,20 +35,20 @@ lyrics:
 chords:
   - template: all
     lines:
-      - [em, D]
-      - [hm7, em]
-      - [C, D, em]
-      - [em, D]
-      - [hm7, em]
-      - [C, D, em]
+      - [Em, D]
+      - [Hm7, Em]
+      - [C, D, Em]
+      - [Em, D]
+      - [Hm7, Em]
+      - [C, D, Em]
 
       - [G, D]
-      - [hm7, em]
-      - [am7, am/Fis, H4, H]
+      - [Hm7, Em]
+      - [Am7, Am/Fis, H4, H]
       - [G, D]
-      - [hm7, em]
+      - [Hm7, Em]
 
       - [C, D]
       - [C, D]
       - [C, D]
-      - [em]
+      - [Em]

@@ -43,12 +43,12 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['dm', 'F', 'gm', 'C']
-      - ['dm', 'F', 'gm', 'C']
-      - ['dm', 'F', 'G', 'A']
-      - ['D', 'F', 'G', 'A']
-      - ['D', 'F', 'G', 'A']
+      - [Dm, F, Gm, C]
+      - [Dm, F, Gm, C]
+      - [Dm, F, G, A]
+      - [D, F, G, A]
+      - [D, F, G, A]
       - group: repeat
         type: uniform
         lines:
-          - ['F', 'gm', 'C', 'D']
+          - [F, Gm, C, D]

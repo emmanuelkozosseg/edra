@@ -38,12 +38,12 @@ chords:
       - group: repeat
         type: uniform
         lines:
-          - [am]
+          - [Am]
           - [C]
-          - [dm]
-      - [am]
+          - [Dm]
+      - [Am]
   - template: v
     lines:
       - [G, E]
-      - [am]
+      - [Am]
       - [H7, E]

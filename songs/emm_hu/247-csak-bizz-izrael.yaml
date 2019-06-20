@@ -40,12 +40,12 @@ lyrics:
 chords:
   - template: v
     lines:
-      - [hm, em, G, A]
-      - [D, em, G, C]
-      - [D, em, hm, A]
+      - [Hm, Em, G, A]
+      - [D, Em, G, C]
+      - [D, Em, Hm, A]
   - template: c
     lines:
-      - [em, A4, A, D, hm]
-      - [G, A, hm, H]
-      - [em, A4, A, D, hm]
-      - [G, A, hm]
+      - [Em, A4, A, D, Hm]
+      - [G, A, Hm, H]
+      - [Em, A4, A, D, Hm]
+      - [G, A, Hm]

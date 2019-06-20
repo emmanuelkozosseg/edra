@@ -27,10 +27,10 @@ chords:
   - template: v1
     lines:
       - [G, D, C, G]
-      - [em, am6, D, G, C, G]
+      - [Em, Am6, D, G, C, G]
   - template: v2
     lines:
-      - [am, D, G, em]
-      - [am, D, G, G7]
-      - [am, D, G, em]
-      - [am, D, G, C, G]
+      - [Am, D, G, Em]
+      - [Am, D, G, G7]
+      - [Am, D, G, Em]
+      - [Am, D, G, C, G]

@@ -67,12 +67,12 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [F, C, gm, dm, B, F, gm, F, C, F, C]
-      - [F, C, gm, A, gm, F/A, B6, C, F]
+      - [F, C, Gm, Dm, B, F, Gm, F, C, F, C]
+      - [F, C, Gm, A, Gm, F/A, B6, C, F]
   - template: v
     lines:
       - []
-      - [B, F/A, gm7, F/A, B6, dm]
-      - [cm, dm, Es, dm, C4, C3]
-      - [gm, F/A, C7, A/Cis, dm, C/E, F]
-      - [Es, gm, C4, C3]
+      - [B, F/A, Gm7, F/A, B6, Dm]
+      - [Cm, Dm, Es, Dm, C4, C3]
+      - [Gm, F/A, C7, A/Cis, Dm, C/E, F]
+      - [Es, Gm, C4, C3]

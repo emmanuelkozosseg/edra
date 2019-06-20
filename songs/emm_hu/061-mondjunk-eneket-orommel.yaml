@@ -48,7 +48,7 @@ chords:
       - [A, H7, E]
   - template: v
     lines:
-      - [A, gism]
-      - [fism, E]
-      - [A, gism]
+      - [A, Gism]
+      - [Fism, E]
+      - [A, Gism]
       - [Fis, H]

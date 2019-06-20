@@ -37,7 +37,7 @@ chords:
       - group: repeat
         type: unique
         repetitions:
-          -   - [em, am]
+          -   - [Em, Am]
           -   - [D, G]
-          -   - [em, am]
+          -   - [Em, Am]
           -   - [D, G, D7, G]

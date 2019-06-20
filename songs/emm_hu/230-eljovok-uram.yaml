@@ -45,11 +45,11 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [em, H]
-      - [C, H7, em]
-      - [G, D, C, (D), em, H7, em]
+      - [Em, H]
+      - [C, H7, Em]
+      - [G, D, C, (D), Em, H7, Em]
   - template: v
     lines:
-      - [em, D, C, H7, em]
-      - [G, D, G, am, em, H]
-      - [em, C, am, H7, em]
+      - [Em, D, C, H7, Em]
+      - [G, D, G, Am, Em, H]
+      - [Em, C, Am, H7, Em]

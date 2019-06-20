@@ -40,15 +40,15 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [am, dm, G]
-      - [em, am]
-      - [am, dm, G]
-      - [em, am]
+      - [Am, Dm, G]
+      - [Em, Am]
+      - [Am, Dm, G]
+      - [Em, Am]
   - template: v
     lines:
-      - [am, dm, G]
-      - [am, G, am]
-      - [dm, em, am]
-      - [am, dm, G]
-      - [am, G, am]
-      - [dm, em, am]
+      - [Am, Dm, G]
+      - [Am, G, Am]
+      - [Dm, Em, Am]
+      - [Am, Dm, G]
+      - [Am, G, Am]
+      - [Dm, Em, Am]

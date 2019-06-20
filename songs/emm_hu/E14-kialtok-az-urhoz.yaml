@@ -23,8 +23,8 @@ chords:
       - group: repeat
         type: uniform
         lines:
-          - ['D', 'A']
-          - ['hm', 'G']
-      - ['D', 'C', 'G']
-      - ['D', 'C', 'G']
-      - ['A', 'D']
+          - [D, A]
+          - [Hm, G]
+      - [D, C, G]
+      - [D, C, G]
+      - [A, D]

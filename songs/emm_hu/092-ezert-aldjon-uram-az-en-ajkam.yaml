@@ -124,9 +124,9 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [F, C, G, am]
+      - [F, C, G, Am]
       - [F, C, G]
-      - [F, C, G, am]
+      - [F, C, G, Am]
       - [F, C, G]
       - [C, F, G, C]
   - template: v
@@ -135,7 +135,7 @@ chords:
       - [C, F, G, C]
       - [C, F, C]
       - [C, F, G, C]
-      - [C, F, G, am]
+      - [C, F, G, Am]
       - [C, F, G, C]
-      - [C, F, G, am]
+      - [C, F, G, Am]
       - [C, F, G, C]

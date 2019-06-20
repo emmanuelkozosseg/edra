@@ -30,12 +30,12 @@ lyrics:
 chords:
   - template: all
     lines:
-      - [D, em]
-      - [A, D, hm]
+      - [D, Em]
+      - [A, D, Hm]
       - [G]
       - [A, D]
       - group: repeat
         type: uniform
         lines:
           - [D, D, A, A]
-          - [G, em, A]
+          - [G, Em, A]

@@ -49,12 +49,12 @@ chords:
   - template: c
     lines:
       - [C, G, F, G]
-      - [am, dm, G]
+      - [Am, Dm, G]
       - [C, G, F, G]
-      - [dm, G, C]
+      - [Dm, G, C]
   - template: v
     lines:
-      - [D, em]
+      - [D, Em]
       - [C, D, G]
-      - [am, G, em]
-      - [am, F, B, G]
+      - [Am, G, Em]
+      - [Am, F, B, G]

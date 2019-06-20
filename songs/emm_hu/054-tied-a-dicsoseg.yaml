@@ -33,11 +33,11 @@ chords:
   - template: c
     lines:
       - [C]
-      - [C, am]
-      - [am, F, dm]
+      - [C, Am]
+      - [Am, F, Dm]
       - [G, G]
   - template: v
     lines:
-      - [C, C, em]
-      - [F, dm]
+      - [C, C, Em]
+      - [F, Dm]
       - [G, G7]

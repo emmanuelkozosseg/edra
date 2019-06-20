@@ -21,7 +21,7 @@ lyrics:
               - Ó, jöjjetek, örvendjünk,
               - lelkesen tapsoljunk,
               - énekeljünk az Úrnak!
-          - ""
+          - ''
           - group: repeat
             times: 2
             lines:
@@ -33,12 +33,12 @@ chords:
       - group: repeat
         type: uniform
         lines:
-          - [dm]
+          - [Dm]
           - [F]
-          - [C, dm]
+          - [C, Dm]
       - 
       - group: repeat
         type: uniform
         lines:
-          - [F, C, dm, A, A7]
-          - [dm, gm, dm, A, dm]
+          - [F, C, Dm, A, A7]
+          - [Dm, Gm, Dm, A, Dm]

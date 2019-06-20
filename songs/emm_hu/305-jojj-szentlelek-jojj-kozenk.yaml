@@ -51,11 +51,11 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [em, hm]
-      - [em, D]
+      - [Em, Hm]
+      - [Em, D]
       - [G, D]
-      - [hm, em]
+      - [Hm, Em]
   - template: v
     lines:
-      - [em, hm, em, hm, em]
-      - [D, G, D, em, hm, em]
+      - [Em, Hm, Em, Hm, Em]
+      - [D, G, D, Em, Hm, Em]

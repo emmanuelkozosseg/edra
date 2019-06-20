@@ -45,19 +45,19 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [dm, C, F]
-      - [gm, C, dm]
-      - [gm, A, dm]
+      - [Dm, C, F]
+      - [Gm, C, Dm]
+      - [Gm, A, Dm]
   - template: v1
     lines:
-      - [dm, C, F]
-      - [gm, C, dm]
-      - [gm, A, dm]
+      - [Dm, C, F]
+      - [Gm, C, Dm]
+      - [Gm, A, Dm]
   - template: v
     lines:
-      - [dm, C, F]
-      - [gm, C, dm]
-      - [gm, A, dm]
-      - [dm, C, F]
-      - [gm, C, dm]
-      - [gm, A, dm]
+      - [Dm, C, F]
+      - [Gm, C, Dm]
+      - [Gm, A, Dm]
+      - [Dm, C, F]
+      - [Gm, C, Dm]
+      - [Gm, A, Dm]

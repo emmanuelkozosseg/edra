@@ -45,13 +45,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [F, dm, gm7, C]
-      - [F, dm, gm7, C]
-      - [F, dm, gm7, C]
-      - [F, B, gm7, C, F]
+      - [F, Dm, Gm7, C]
+      - [F, Dm, Gm7, C]
+      - [F, Dm, Gm7, C]
+      - [F, B, Gm7, C, F]
   - template: v
     lines:
-      - [gm, gm7, C4, C3]
-      - [gm, gm7, C4, C3]
-      - [am, am7, dm]
-      - [gm, gm7, C4, C3]
+      - [Gm, Gm7, C4, C3]
+      - [Gm, Gm7, C4, C3]
+      - [Am, Am7, Dm]
+      - [Gm, Gm7, C4, C3]

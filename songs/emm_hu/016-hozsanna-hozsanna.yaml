@@ -46,11 +46,11 @@ chords:
     lines:
       - [C, D, G]
       - [C, D, G]
-      - [C, D, G, D/Fis, em]
+      - [C, D, G, D/Fis, Em]
       - [C, D, G]
   - template: v
     lines:
       - [G, D]
-      - [em, C, D]
+      - [Em, C, D]
       - [G, D]
-      - [em, C, D]
+      - [Em, C, D]

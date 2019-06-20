@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '503d'
+    number: 503d
     lang: la
 lyrics:
   - lang: la
@@ -18,7 +18,7 @@ lyrics:
         lines:
           - Pleni sunt caeli et terra
           - gloria tua!
-          - ""
+          - ''
           - group: repeat
             times: 2
             lines:
@@ -28,7 +28,7 @@ lyrics:
         lines:
           - Benedictus qui venit
           - in nomine Domini!
-          - ""
+          - ''
           - group: repeat
             times: 2
             lines:
@@ -40,14 +40,14 @@ chords:
       - group: repeat
         type: uniform
         lines:
-          - ['D', '(em7)', 'D', 'G', 'D']
-          - ['C', 'G', 'D']
+          - [D, (Em7), D, G, D]
+          - [C, G, D]
   - template: v
     lines:
-      - ['D', 'fism', 'hm', 'D']
-      - ['G', 'C', 'A']
+      - [D, Fism, Hm, D]
+      - [G, C, A]
       - group: repeat
         type: uniform
         lines:
-          - ['D', 'G', 'A', 'D']
-          - ['C', 'G', 'D']
+          - [D, G, A, D]
+          - [C, G, D]

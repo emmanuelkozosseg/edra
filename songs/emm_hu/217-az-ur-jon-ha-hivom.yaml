@@ -56,11 +56,11 @@ chords:
   - template: c
     lines:
       - [D, D4, D/Fis, G]
-      - [D, em7, em3]
+      - [D, Em7, Em3]
       - [D, D4, G, D]
-      - [G, D, G, em, A4, A3, D]
+      - [G, D, G, Em, A4, A3, D]
   - template: v
     lines:
-      - [hm, fism/A]
-      - [em/G, hm]
+      - [Hm, Fism/A]
+      - [Em/G, Hm]
       - [G, A4, A3]

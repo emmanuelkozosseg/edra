@@ -42,10 +42,10 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [hm, A, G, Fis]
+      - [Hm, A, G, Fis]
   - template: v
     lines:
       - [D, A]
-      - [hm, Fis]
+      - [Hm, Fis]
       - [D, A]
-      - [hm, G, Fis]
+      - [Hm, G, Fis]

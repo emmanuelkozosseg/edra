@@ -37,12 +37,12 @@ chords:
   - template: c
     lines:
       - [G4, G, G4, G]
-      - [C, am, D, D7]
+      - [C, Am, D, D7]
       - [G4, G, G4, G]
       - [C, D, G]
   - template: v
     lines:
-      - [G, D, em]
-      - [am, D4, D]
-      - [G, D, em, C]
-      - [am, am7, D, D7]
+      - [G, D, Em]
+      - [Am, D4, D]
+      - [G, D, Em, C]
+      - [Am, Am7, D, D7]

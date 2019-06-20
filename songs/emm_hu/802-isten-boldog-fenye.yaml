@@ -74,10 +74,10 @@ chords:
     lines:
       - [G]
       - []
-      - [C, G, (am), G, am7, D7, G]
+      - [C, G, (Am), G, Am7, D7, G]
   - template: v
     lines:
-      - [G, am/G]
+      - [G, Am/G]
       - [C, G]
       - [G, D]
       - [C, G, D]

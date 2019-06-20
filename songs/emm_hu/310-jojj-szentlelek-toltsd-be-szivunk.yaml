@@ -56,17 +56,17 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [dm, C, F]
-      - [B, F, gm7, A]
-      - [dm, C, F]
-      - [B, F, gm, A, dm]
+      - [Dm, C, F]
+      - [B, F, Gm7, A]
+      - [Dm, C, F]
+      - [B, F, Gm, A, Dm]
   - template: v
     lines:
-      - [dm, am]
+      - [Dm, Am]
       - [B, F]
-      - [F, gm]
-      - [dm, B, A4, A3]
-      - [dm, am]
+      - [F, Gm]
+      - [Dm, B, A4, A3]
+      - [Dm, Am]
       - [B, F]
-      - [F, gm]
-      - [gm, A4, A3]
+      - [F, Gm]
+      - [Gm, A4, A3]

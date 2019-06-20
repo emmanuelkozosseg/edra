@@ -106,27 +106,27 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [em, C]
+      - [Em, C]
       - [G, D4, D3]
       - [G, C]
-      - [am, C, D]
-      - [em, C]
+      - [Am, C, D]
+      - [Em, C]
       - [G, D4, D3]
-      - [hm, C]
-      - [am, F, D]
+      - [Hm, C]
+      - [Am, F, D]
   - template: v
     lines:
-      - [hm7, C]
-      - [am, em, D]
-      - [hm, C]
+      - [Hm7, C]
+      - [Am, Em, D]
+      - [Hm, C]
       - [F, C, D]
   - template: b
     lines:
       - [G, D]
-      - [C, am, D]
+      - [C, Am, D]
       - [G, D]
-      - [C, am, D]
+      - [C, Am, D]
       - [G, D]
-      - [C, am, D]
+      - [C, Am, D]
       - [G, D]
       - [C, F, D]

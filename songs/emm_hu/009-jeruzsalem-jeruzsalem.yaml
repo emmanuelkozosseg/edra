@@ -111,19 +111,19 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [E, am]
+      - [E, Am]
       - [G, H4, H3]
-      - [E, am]
-      - [em, H7, em]
+      - [E, Am]
+      - [Em, H7, Em]
   - template: v
     lines:
       - group: repeat
         type: uniform
         lines:
-          - [em, H7]
-          - [em]
+          - [Em, H7]
+          - [Em]
       - 
-      - [E, am]
+      - [E, Am]
       - [D, H7]
-      - [em, H7]
-      - [em]
+      - [Em, H7]
+      - [Em]

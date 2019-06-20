@@ -56,15 +56,15 @@ chords:
   - template: all
     lines:
       - [D, G/D, D]
-      - [hm, Fism]
-      - [G, D/Fis, A7, hm]
-      - [hm/A, G, em, A, D]
+      - [Hm, Fism]
+      - [G, D/Fis, A7, Hm]
+      - [Hm/A, G, Em, A, D]
       - 
       - [G, D]
-      - [G, em7, hm]
-      - [G, D/Fis, A7, hm]
+      - [G, Em7, Hm]
+      - [G, D/Fis, A7, Hm]
       - group: repeat
         type: unique
         repetitions:
-          -   - [G, em7, hm]
-          -   - [G, em, D]
+          -   - [G, Em7, Hm]
+          -   - [G, Em, D]

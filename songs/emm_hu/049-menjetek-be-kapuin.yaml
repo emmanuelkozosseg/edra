@@ -32,10 +32,10 @@ chords:
       - group: repeat
         type: uniform
         lines:
-          - [am, G, am]
-          - [am, G, am]
+          - [Am, G, Am]
+          - [Am, G, Am]
       - group: repeat
         type: uniform
         lines:
-          - [am, G, am]
-          - [G, am]
+          - [Am, G, Am]
+          - [G, Am]

@@ -65,12 +65,12 @@ lyrics:
 chords:
   - template: v
     lines:
-      - [dm, A7, B, dm]
+      - [Dm, A7, B, Dm]
       - [B, F]
-      - [gm, dm]
-      - [dm, A7, B, dm]
+      - [Gm, Dm]
+      - [Dm, A7, B, Dm]
       - group: repeat
         type: uniform
         lines:
           - [B]
-          - [gm, am, dm]
+          - [Gm, Am, Dm]

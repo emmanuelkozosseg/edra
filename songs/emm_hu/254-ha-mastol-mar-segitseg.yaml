@@ -49,10 +49,10 @@ lyrics:
 chords:
   - template: v
     lines:
-      - [dm]
+      - [Dm]
       - [F, G]
       - group: repeat
         type: uniform
         lines:
-          - [gm, B, C, dm]
-          - [B, C, dm]
+          - [Gm, B, C, Dm]
+          - [B, C, Dm]

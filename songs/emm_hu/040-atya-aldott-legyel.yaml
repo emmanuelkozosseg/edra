@@ -78,13 +78,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [G, D, em]
-      - [am, C, am, D]
-      - [G, D, em]
-      - [am, D, C, G]
+      - [G, D, Em]
+      - [Am, C, Am, D]
+      - [G, D, Em]
+      - [Am, D, C, G]
   - template: v
     lines:
-      - [em, C, D]
+      - [Em, C, D]
       - [C, D, G]
-      - [G7, em, am, D]
-      - [H7, em, am, D]
+      - [G7, Em, Am, D]
+      - [H7, Em, Am, D]

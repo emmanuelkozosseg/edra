@@ -55,12 +55,12 @@ chords:
   - template: c
     lines:
       - [G, D, G, D]
-      - [C, C/G, G, am, D]
+      - [C, C/G, G, Am, D]
       - [G, D, G, D]
-      - [am, G, C, G]
+      - [Am, G, C, G]
   - template: v
     lines:
-      - [hm, em]
+      - [Hm, Em]
       - [D4, D, G]
-      - [am, em, C]
-      - [am7, F, D4, D3]
+      - [Am, Em, C]
+      - [Am7, F, D4, D3]

@@ -64,7 +64,7 @@ chords:
       - group: repeat
         type: uniform
         lines:
-          - [C, am, dm, G7]
+          - [C, Am, Dm, G7]
       - [C, A7]
   - template: v2
     lines:
@@ -75,7 +75,7 @@ chords:
       - group: repeat
         type: uniform
         lines:
-          - [D, hm, em, A7]
+          - [D, Hm, Em, A7]
       - [D, H7]
   - template: v3
     lines:
@@ -86,7 +86,7 @@ chords:
       - group: repeat
         type: uniform
         lines:
-          - [E, dism, fism, H7]
+          - [E, Dism, Fism, H7]
       - [E, C7]
   - template: v4
     lines:
@@ -97,5 +97,5 @@ chords:
       - group: repeat
         type: uniform
         lines:
-          - [F, dm, gm, C7]
+          - [F, Dm, Gm, C7]
       - [F]

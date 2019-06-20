@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '501e'
+    number: 501e
     lang: la
 lyrics:
   - lang: la
@@ -11,13 +11,13 @@ lyrics:
         lines:
           - Agnus Dei, qui tollis peccata mundi,
           - miserere nobis, miserere nobis.
-          -
+          - 
           - Agnus Dei, qui tollis peccata mundi,
           - dona nobis pacem, dona nobis pacem!
 chords:
   - template: all
     lines:
-      - ['gm', 'D', 'D7', 'gm', '(F)']
-      - ['B', 'F', 'gm', 'D4', 'D3']
-      - ['gm', 'D', 'D7', 'gm', '(F)']
-      - ['B', 'F', 'gm', 'D']
+      - [Gm, D, D7, Gm, (F)]
+      - [B, F, Gm, D4, D3]
+      - [Gm, D, D7, Gm, (F)]
+      - [B, F, Gm, D]

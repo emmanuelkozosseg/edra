@@ -20,12 +20,12 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['C', 'G/H', 'am', 'am/G']
-      - ['F', 'C', 'G']
-      - ['C', 'em7', 'am', 'am/G']
-      - ['F', 'C', 'G']
+      - [C, G/H, Am, Am/G]
+      - [F, C, G]
+      - [C, Em7, Am, Am/G]
+      - [F, C, G]
       - group: repeat
         type: unique
         repetitions:
-          - - ['F', 'F/G', 'C']
-          - - ['F', 'F/G', 'fm6/G', 'C']
+          -   - [F, F/G, C]
+          -   - [F, F/G, Fm6/G, C]

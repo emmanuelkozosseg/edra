@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '507e'
+    number: 507e
     lang: la
 lyrics:
   - lang: la
@@ -20,6 +20,6 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['em', 'hm', 'C', 'D']
-      - ['C', 'hm', 'em']
-      - ['C', 'D', 'em']
+      - [Em, Hm, C, D]
+      - [C, Hm, Em]
+      - [C, D, Em]

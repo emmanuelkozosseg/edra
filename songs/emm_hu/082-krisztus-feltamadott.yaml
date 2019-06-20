@@ -49,18 +49,18 @@ chords:
   - template: c
     lines:
       - [G, C, G, C, G, D]
-      - [em7, C, G, D]
+      - [Em7, C, G, D]
       - [G, C, G, C, G, D]
-      - [em7, C, G, D, G, A, (D)]
+      - [Em7, C, G, D, G, A, (D)]
   - template: v
     lines:
       - [D, A, D, A]
-      - [hm, G, hm, A]
-      - [em, hm7, em, hm, G]
+      - [Hm, G, Hm, A]
+      - [Em, Hm7, Em, Hm, G]
       - [D/Fis, G, D]
   - template: v1
     lines:
       - [D, A, D, A]
-      - [hm, G, hm, A]
-      - [em, hm7, em, hm]
+      - [Hm, G, Hm, A]
+      - [Em, Hm7, Em, Hm]
       - [G, D/Fis, G, D]

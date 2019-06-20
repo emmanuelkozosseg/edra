@@ -40,15 +40,15 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [E, H, cism, gism]
+      - [E, H, Cism, Gism]
       - [A, E/H, H, E, H]
-      - [E, H, cism, gism]
+      - [E, H, Cism, Gism]
       - [A, E/H, H, E]
   - template: v
     lines:
-      - [E, H, cism]
-      - [gism, A]
+      - [E, H, Cism]
+      - [Gism, A]
       - [E, H, E, H]
-      - [E, H, cism]
-      - [gism, A]
+      - [E, H, Cism]
+      - [Gism, A]
       - [E, H, E]

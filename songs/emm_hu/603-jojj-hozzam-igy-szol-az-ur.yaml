@@ -71,19 +71,19 @@ chords:
   - template: c
     lines:
       - [F, B, C7, F]
-      - [A7, dm, em, em7, G, gm4, C]
+      - [A7, Dm, Em, Em7, G, Gm4, C]
   - template: t1
     verses: [v1, v2, v6, v7]
     lines:
-      - [F, gm, C]
+      - [F, Gm, C]
       - [C7, F]
-      - [am, dm]
+      - [Am, Dm]
       - [B, C]
   - template: t2
     verses: [v3, v4, v5]
     lines:
       - [F, C]
-      - [F, gm, C]
+      - [F, Gm, C]
       - [C7, F]
-      - [am, dm]
+      - [Am, Dm]
       - [B, C]

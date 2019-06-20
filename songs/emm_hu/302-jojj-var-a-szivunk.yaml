@@ -41,11 +41,11 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [hm, em]
+      - [Hm, Em]
       - [A7, D, F]
-      - [hm, em]
-      - [A, A6, hm]
+      - [Hm, Em]
+      - [A, A6, Hm]
   - template: v
     lines:
-      - [em7, A7, D, F]
-      - [hm, A, D, F, hm]
+      - [Em7, A7, D, F]
+      - [Hm, A, D, F, Hm]

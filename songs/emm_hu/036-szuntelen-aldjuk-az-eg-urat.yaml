@@ -49,11 +49,11 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [dm, gm, C, F]
-      - [dm, G, A7, dm]
+      - [Dm, Gm, C, F]
+      - [Dm, G, A7, Dm]
   - template: v
     lines:
-      - [dm, gm, C, F]
-      - [B, C, dm, A, dm]
-      - [dm, gm, C4, F]
-      - [B, C, dm, A, dm]
+      - [Dm, Gm, C, F]
+      - [B, C, Dm, A, Dm]
+      - [Dm, Gm, C4, F]
+      - [B, C, Dm, A, Dm]

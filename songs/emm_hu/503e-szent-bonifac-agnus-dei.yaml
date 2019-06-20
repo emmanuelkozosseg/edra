@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '503e'
+    number: 503e
     lang: la
 lyrics:
   - lang: la
@@ -18,9 +18,9 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['D', 'A', 'D', 'A', 'D', 'A', 'hm', 'A', 'E', 'A']
-      - ['D', 'G', 'D', 'A4', 'A3']
+      - [D, A, D, A, D, A, Hm, A, E, A]
+      - [D, G, D, A4, A3]
   - template: v2
     lines:
-      - ['D', 'A', 'D', 'A', 'D', 'A', 'hm', 'A', 'E', 'A']
-      - ['D', 'G', 'D', 'A4', 'A3', 'D']
+      - [D, A, D, A, D, A, Hm, A, E, A]
+      - [D, G, D, A4, A3, D]

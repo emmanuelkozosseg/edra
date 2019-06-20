@@ -48,10 +48,10 @@ chords:
   - template: c
     lines:
       - [A, D, A, E/Gis]
-      - [fism, D, hm, E]
+      - [Fism, D, Hm, E]
       - [A, D, A, E/Gis]
-      - [fism, D, E, A]
+      - [Fism, D, E, A]
   - template: v
     lines:
-      - [A, D, E, A, hm, E]
-      - [A, D, E, fism, D, hm, E]
+      - [A, D, E, A, Hm, E]
+      - [A, D, E, Fism, D, Hm, E]

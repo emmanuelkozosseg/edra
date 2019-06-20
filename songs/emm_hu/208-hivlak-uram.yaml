@@ -40,11 +40,11 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - [D, fism]
-      - [G, em]
+      - [D, Fism]
+      - [G, Em]
       - [D/A, A]
-      - [D, fism]
-      - [G, em, D/A, A]
+      - [D, Fism]
+      - [G, Em, D/A, A]
   - template: v2
     lines:
       - [D]
@@ -62,6 +62,6 @@ chords:
       - group: repeat
         type: uniform
         lines:
-          - [em, C]
-          - [em, C]
-          - [em, C, A]
+          - [Em, C]
+          - [Em, C]
+          - [Em, C, A]

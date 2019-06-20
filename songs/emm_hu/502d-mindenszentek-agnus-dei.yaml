@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '502d'
+    number: 502d
     lang: la
 lyrics:
   - lang: la
@@ -18,9 +18,9 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['em', 'am', 'em', 'H', 'em', 'am', 'em', 'H']
-      - ['am', 'H']
+      - [Em, Am, Em, H, Em, Am, Em, H]
+      - [Am, H]
   - template: v2
     lines:
-      - ['em', 'am', 'em', 'H', 'em', 'am', 'em', 'H']
-      - ['am', 'em', 'H', 'em']
+      - [Em, Am, Em, H, Em, Am, Em, H]
+      - [Am, Em, H, Em]

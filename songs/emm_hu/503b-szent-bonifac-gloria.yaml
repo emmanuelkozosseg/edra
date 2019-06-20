@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '503b'
+    number: 503b
     lang: hu
   - id: emm_fr
     number: 14-28-02
@@ -48,37 +48,37 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['D', 'G', 'A', 'D']
-      - ['C', 'G', 'D', 'am']
-      - ['D', 'G', 'A', 'D']
-      - ['C', 'G', 'D']
+      - [D, G, A, D]
+      - [C, G, D, Am]
+      - [D, G, A, D]
+      - [C, G, D]
   - template: v1
     lines:
-      - ['D', 'A', 'fism', 'hm']
-      - ['G', 'A']
-      - ['D', 'A', 'hm']
-      - ['fism', 'G', 'D']
-      - ['C', 'A', 'C', 'A']
+      - [D, A, Fism, Hm]
+      - [G, A]
+      - [D, A, Hm]
+      - [Fism, G, D]
+      - [C, A, C, A]
   - template: v2
     lines:
-      - ['D', 'A', 'fism', 'hm']
-      - ['G', 'A']
-      - ['D', 'A', 'hm', 'em', 'em7']
-      - ['C', 'A']
-      - ['C', 'A', 'C', 'A']
+      - [D, A, Fism, Hm]
+      - [G, A]
+      - [D, A, Hm, Em, Em7]
+      - [C, A]
+      - [C, A, C, A]
   - template: v3
     lines:
-      - ['D', 'A', 'fism', 'hm']
-      - ['G', 'A']
-      - ['fism', 'hm', 'G', 'D']
-      - ['G', 'A']
-      - ['D', 'A6', 'hm', 'G']
-      - ['C', 'A']
+      - [D, A, Fism, Hm]
+      - [G, A]
+      - [Fism, Hm, G, D]
+      - [G, A]
+      - [D, A6, Hm, G]
+      - [C, A]
   - template: v4
     lines:
-      - ['D', 'A', 'fism', 'hm']
-      - ['fism', 'hm']
-      - ['G', 'A']
-      - ['G', 'A', 'D', 'A', 'hm']
-      - ['fism', 'G', 'D']
-      - ['C', 'A']
+      - [D, A, Fism, Hm]
+      - [Fism, Hm]
+      - [G, A]
+      - [G, A, D, A, Hm]
+      - [Fism, G, D]
+      - [C, A]

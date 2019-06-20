@@ -40,10 +40,10 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [hm, em, Fis]
-      - [G, A, Fis7, hm]
+      - [Hm, Em, Fis]
+      - [G, A, Fis7, Hm]
   - template: v
     lines:
       - [G, D, A, D]
       - [G, D, A7, D]
-      - [H7, em, hm, Fis]
+      - [H7, Em, Hm, Fis]

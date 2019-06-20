@@ -63,17 +63,17 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [G, C, G, am]
+      - [G, C, G, Am]
       - [F, G, C]
-      - [G, C, G, am]
-      - [F, G, am]
+      - [G, C, G, Am]
+      - [F, G, Am]
   - template: v
     lines:
-      - [am]
+      - [Am]
       - [C]
-      - [em]
-      - [dm, E]
-      - [am]
+      - [Em]
+      - [Dm, E]
+      - [Am]
       - [C]
-      - [em]
-      - [dm, E]
+      - [Em]
+      - [Dm, E]

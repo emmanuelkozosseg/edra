@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '504e'
+    number: 504e
     lang: la
 lyrics:
   - lang: la
@@ -22,13 +22,13 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['fism', 'cism/E']
-      - ['D', 'hm', 'A', 'D']
-      - ['hm7', 'E', 'Cis', 'fism']
-      - ['hm7', 'D', 'D9', 'E']
+      - [Fism, Cism/E]
+      - [D, Hm, A, D]
+      - [Hm7, E, Cis, Fism]
+      - [Hm7, D, D9, E]
   - template: v2
     lines:
-      - ['fism', 'cism/E']
-      - ['D', 'hm', 'A', 'D']
-      - ['hm7', 'E', 'Cis', 'fism']
-      - ['hm7', 'D', 'D9', 'E', 'A']
+      - [Fism, Cism/E]
+      - [D, Hm, A, D]
+      - [Hm7, E, Cis, Fism]
+      - [Hm7, D, D9, E, A]

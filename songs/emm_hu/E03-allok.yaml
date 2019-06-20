@@ -52,7 +52,7 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['G', 'D', 'A', 'hm', 'G']
-      - ['D', 'A', 'hm', 'G']
-      - ['D', 'A', 'hm', 'G']
-      - ['D', 'A']
+      - [G, D, A, Hm, G]
+      - [D, A, Hm, G]
+      - [D, A, Hm, G]
+      - [D, A]

@@ -48,15 +48,15 @@ chords:
         lines:
           - [D]
           - []
-          - [hm]
+          - [Hm]
           - []
-          - [em]
+          - [Em]
           - []
           - [A]
           - []
   - template: v2
     lines:
-      - [hm]
+      - [Hm]
       - []
       - [A]
       - []
@@ -65,6 +65,6 @@ chords:
     lines:
       - [D]
       - []
-      - [hm]
+      - [Hm]
       - []
-      - [em, A, D]
+      - [Em, A, D]

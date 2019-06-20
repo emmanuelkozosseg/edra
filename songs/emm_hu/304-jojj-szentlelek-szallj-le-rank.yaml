@@ -60,11 +60,11 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [em, hm, em, D]
-      - [G, D, em, hm, em]
+      - [Em, Hm, Em, D]
+      - [G, D, Em, Hm, Em]
   - template: v
     lines:
-      - [em, D]
+      - [Em, D]
       - [D7, G]
       - [D]
-      - [em, C, D]
+      - [Em, C, D]

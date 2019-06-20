@@ -79,12 +79,12 @@ chords:
   - template: c
     lines:
       - [E, H]
-      - [cism7, A]
+      - [Cism7, A]
       - [E, H]
       - [A, H, E]
   - template: v
     lines:
       - [D9, A]
-      - [H4, H3, cism]
-      - [A, E, D, cism]
+      - [H4, H3, Cism]
+      - [A, E, D, Cism]
       - [A, E, D, H]

@@ -54,11 +54,11 @@ chords:
       - group: repeat
         type: unique
         repetitions:
-          -   - [dm]
-              - [gm, C]
-              - [gm6, A7, dm]
-              - [gm6, A]
-          -   - [dm]
-              - [gm, C]
-              - [gm6, A7, dm]
-              - [gm6, A7, dm4, dm3]
+          -   - [Dm]
+              - [Gm, C]
+              - [Gm6, A7, Dm]
+              - [Gm6, A]
+          -   - [Dm]
+              - [Gm, C]
+              - [Gm6, A7, Dm]
+              - [Gm6, A7, Dm4, Dm3]

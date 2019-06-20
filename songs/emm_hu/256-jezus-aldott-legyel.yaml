@@ -30,16 +30,16 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - [em, G, D]
+      - [Em, G, D]
       - [C, G]
       - [D, C]
       - [G]
       - [D, C]
       - [G, D]
-      - [em]
+      - [Em]
   - template: v2
     lines:
-      - [em, G, D]
+      - [Em, G, D]
       - [C, G]
       - [G, D]
       - [C]

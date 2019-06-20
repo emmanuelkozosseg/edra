@@ -44,12 +44,12 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [F, C, gm7]
-      - [A7/Cis, A7, dm]
+      - [F, C, Gm7]
+      - [A7/Cis, A7, Dm]
       - [G7, F, C7/4, F, C]
   - template: v
     lines:
-      - [dm, G]
-      - [F, A7, dm]
+      - [Dm, G]
+      - [F, A7, Dm]
       - [F, B, D]
-      - [gm, C]
+      - [Gm, C]

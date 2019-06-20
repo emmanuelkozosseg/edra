@@ -83,11 +83,11 @@ chords:
     lines:
       - [F, B, F, B, D]
       - [B, F, B, F]
-      - [am, dm]
-      - [B, gm, B, C4, C3]
+      - [Am, Dm]
+      - [B, Gm, B, C4, C3]
   - template: v
     lines:
-      - [am, B, gm7, am, dm7]
-      - [B, am, C4, C3]
-      - [am, B, gm7, dm7]
-      - [B, am, C]
+      - [Am, B, Gm7, Am, Dm7]
+      - [B, Am, C4, C3]
+      - [Am, B, Gm7, Dm7]
+      - [B, Am, C]

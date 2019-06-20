@@ -64,13 +64,13 @@ chords:
     lines:
       - [A]
       - [E]
-      - [fism, D, E]
+      - [Fism, D, E]
       - [A]
       - [E]
       - [D, E, A]
   - template: v
     lines:
-      - [Cis, fism]
+      - [Cis, Fism]
       - [Cis, D]
-      - [E, fism]
+      - [E, Fism]
       - [D, E]

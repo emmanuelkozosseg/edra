@@ -33,14 +33,14 @@ chords:
       - group: repeat
         type: unique
         repetitions:
-          -   - [A, hm]
+          -   - [A, Hm]
               - [E, A, D, E]
-          -   - [A, hm]
+          -   - [A, Hm]
               - [E, A]
       - group: repeat
         type: unique
         repetitions:
-          -   - [hm]
+          -   - [Hm]
               - [A, Fis]
-          -   - [hm]
+          -   - [Hm]
               - [A]

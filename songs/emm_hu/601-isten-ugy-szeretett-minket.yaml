@@ -61,12 +61,12 @@ chords:
   - template: c
     lines:
       - [D, A, G, D]
-      - [hm6, em, A]
+      - [Hm6, Em, A]
       - [D, A, G, D]
-      - [hm6, em7, A]
+      - [Hm6, Em7, A]
   - template: v
     lines:
-      - [A, fism, hm]
-      - [hm, em, A]
-      - [am6, em, em7]
+      - [A, Fism, Hm]
+      - [Hm, Em, A]
+      - [Am6, Em, Em7]
       - [A]

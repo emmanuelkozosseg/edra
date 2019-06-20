@@ -47,14 +47,14 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [hm]
-      - [em, hm]
-      - [G, G/Fis, em]
-      - [em6, Fis]
+      - [Hm]
+      - [Em, Hm]
+      - [G, G/Fis, Em]
+      - [Em6, Fis]
   - template: v
     lines:
-      - [hm, em]
-      - [hm]
-      - [em6]
-      - [hm]
+      - [Hm, Em]
+      - [Hm]
+      - [Em6]
+      - [Hm]
       - [Fis]

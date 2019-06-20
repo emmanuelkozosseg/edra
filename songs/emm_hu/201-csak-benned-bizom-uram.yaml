@@ -36,13 +36,13 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - [dm, am, dm]
+      - [Dm, Am, Dm]
       - [F, C7, F]
-      - [B, C, dm]
-      - [gm, C, A]
+      - [B, C, Dm]
+      - [Gm, C, A]
   - template: v2
     lines:
       - [B, C, F]
-      - [gm, C, A]
-      - [B, C, dm]
-      - [gm, C, dm]
+      - [Gm, C, A]
+      - [B, C, Dm]
+      - [Gm, C, Dm]

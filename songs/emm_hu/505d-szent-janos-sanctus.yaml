@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '505d'
+    number: 505d
     lang: la
 lyrics:
   - lang: la
@@ -17,34 +17,34 @@ lyrics:
         lines:
           - Pleni sunt caeli et terra
           - gloria tua.
-          - ""
+          - ''
           - Hosanna, hosanna, hosanna in excelsis!
           - Hosanna, hosanna, hosanna in excelsis!
       - name: v3
         lines:
           - Benedictus qui venit
           - in nomine Domini.
-          - ""
+          - ''
           - Hosanna, hosanna, hosanna in excelsis!
           - Hosanna, hosanna, hosanna in excelsis!
 chords:
   - template: v1
     lines:
-      - ['dm', 'B', 'C', 'F']
-      - ['C', 'F', 'G', 'A']
-      - ['dm', 'B', 'C', 'F']
-      - ['dm', 'A4', 'A3', 'dm']
+      - [Dm, B, C, F]
+      - [C, F, G, A]
+      - [Dm, B, C, F]
+      - [Dm, A4, A3, Dm]
   - template: v2
     lines:
-      - ['dm', 'gm', 'C']
-      - ['F', 'G', 'A']
-      -
-      - ['dm', 'B', 'C', 'F', 'C', 'F', 'G', 'A']
-      - ['dm', 'B', 'C', 'F', 'dm', 'gm', 'A', 'dm']
+      - [Dm, Gm, C]
+      - [F, G, A]
+      - 
+      - [Dm, B, C, F, C, F, G, A]
+      - [Dm, B, C, F, Dm, Gm, A, Dm]
   - template: v3
     lines:
-      - ['dm', 'gm', 'C']
-      - ['F', 'A']
-      -
-      - ['dm', 'B', 'C', 'F', 'C', 'F', 'G', 'A']
-      - ['dm', 'B', 'C', 'F', 'dm', 'gm', 'A', 'dm']
+      - [Dm, Gm, C]
+      - [F, A]
+      - 
+      - [Dm, B, C, F, C, F, G, A]
+      - [Dm, B, C, F, Dm, Gm, A, Dm]

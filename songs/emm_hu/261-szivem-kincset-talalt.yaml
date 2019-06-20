@@ -38,22 +38,22 @@ lyrics:
 chords:
   - template: v
     lines:
-      - [A, cism]
+      - [A, Cism]
       - [D, A]
-      - [hm, E, A, E, fism]
+      - [Hm, E, A, E, Fism]
       - [D, E, A]
   - template: c
     lines:
-      - [fism, cism]
+      - [Fism, Cism]
       - [D, A]
       - [E, D]
       - [A, E]
-      - [A, cism]
+      - [A, Cism]
       - [D, A]
       - group: repeat
         type: unique
         repetitions:
-          -   - [hm, E, A, E, fism]
+          -   - [Hm, E, A, E, Fism]
               - [D, E, A]
-          -   - [hm, E, A, E, fism]
+          -   - [Hm, E, A, E, Fism]
               - [D, E, D, A]

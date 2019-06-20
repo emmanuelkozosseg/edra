@@ -30,9 +30,9 @@ chords:
       - group: repeat
         type: unique
         repetitions:
-          -   - [am, F, G, C]
-              - [dm, am]
-              - [dm, E]
-          -   - [am, F, G, C]
-              - [dm, am]
-              - [E, am]
+          -   - [Am, F, G, C]
+              - [Dm, Am]
+              - [Dm, E]
+          -   - [Am, F, G, C]
+              - [Dm, Am]
+              - [E, Am]

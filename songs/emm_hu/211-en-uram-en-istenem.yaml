@@ -36,17 +36,17 @@ lyrics:
 chords:
   - template: v
     lines:
-      - [em, H7]
+      - [Em, H7]
       - [G, D]
-      - [am, em]
+      - [Am, Em]
   - template: c
     lines:
       - group: repeat
         type: unique
         repetitions:
-          -   - [em, H7]
+          -   - [Em, H7]
               - [G, D]
-              - [C, D, em]
-          -   - [em, H7]
+              - [C, D, Em]
+          -   - [Em, H7]
               - [G, D]
               - [C, D, G]

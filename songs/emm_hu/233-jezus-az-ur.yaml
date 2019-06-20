@@ -32,9 +32,9 @@ lyrics:
 chords:
   - template: all
     lines:
-      - [D, A, hm9, hm, em, A4, A3]
-      - [D, A6, hm, fism, G, D6, A6, A]
-      - [D, A4, A3, hm9, hm, em, A4, A3]
-      - [D, A6, hm, fism, G, em, Fis4, Fis3]
-      - [hm, fism, G, D, hm9]
-      - [em7, A, D4, D]
+      - [D, A, Hm9, Hm, Em, A4, A3]
+      - [D, A6, Hm, Fism, G, D6, A6, A]
+      - [D, A4, A3, Hm9, Hm, Em, A4, A3]
+      - [D, A6, Hm, Fism, G, Em, Fis4, Fis3]
+      - [Hm, Fism, G, D, Hm9]
+      - [Em7, A, D4, D]

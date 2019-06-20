@@ -27,6 +27,6 @@ chords:
   - template: all
     lines:
       - [D, A]
-      - [em, hm]
-      - [hm, G, D]
-      - [em7, G(6-5), D, A, D]
+      - [Em, Hm]
+      - [Hm, G, D]
+      - [Em7, G(6-5), D, A, D]

@@ -62,14 +62,14 @@ chords:
   - template: v
     lines:
       - [F]
-      - [C, F, C, dm]
-      - [dm, C]
+      - [C, F, C, Dm]
+      - [Dm, C]
       - []
   - template: v4
     lines:
       - [F, B]
       - [B, F]
       - [F]
-      - [C, F, C, dm]
-      - [dm, C]
+      - [C, F, C, Dm]
+      - [Dm, C]
       - []

@@ -28,13 +28,13 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - [G, hm]
+      - [G, Hm]
       - [C, D]
-      - [em, hm]
-      - [em, D, D7]
+      - [Em, Hm]
+      - [Em, D, D7]
   - template: v2
     lines:
-      - [G, hm]
+      - [G, Hm]
       - [C, D]
       - [C, G]
       - [C, G]

@@ -34,13 +34,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['G', 'D', 'A', 'hm']
-      - ['G', 'D', 'A']
-      - ['G', 'hm', 'G', 'A', 'hm']
-      - ['G', 'A', 'G', 'D']
+      - [G, D, A, Hm]
+      - [G, D, A]
+      - [G, Hm, G, A, Hm]
+      - [G, A, G, D]
   - template: v
     lines:
-      - ['G', 'D', 'A', 'hm']
-      - ['G', 'D', 'A', 'hm']
-      - ['G', 'D', 'A', 'hm']
-      - ['G', 'D', 'A', 'D']
+      - [G, D, A, Hm]
+      - [G, D, A, Hm]
+      - [G, D, A, Hm]
+      - [G, D, A, D]

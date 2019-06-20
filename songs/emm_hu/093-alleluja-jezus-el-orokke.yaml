@@ -52,6 +52,6 @@ chords:
   - template: all
     lines:
       - [F, C, F, C, F, C, F]
-      - [C, dm, C, dm, C, dm, C]
-      - [dm, A, dm, A, dm, A, dm]
+      - [C, Dm, C, Dm, C, Dm, C]
+      - [Dm, A, Dm, A, Dm, A, Dm]
       - [B, F, C7, F]

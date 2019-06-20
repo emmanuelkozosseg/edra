@@ -29,12 +29,12 @@ chords:
   - template: all
     lines:
       - [A, A/Cis]
-      - [D, hm, E]
+      - [D, Hm, E]
       - [D, A/Cis]
-      - [hm7, E/Gis]
-      - [D, Cis4, Cis/Fis, fism, E, A/Cis]
+      - [Hm7, E/Gis]
+      - [D, Cis4, Cis/Fis, Fism, E, A/Cis]
       - group: repeat
         type: unique
         repetitions:
-          -   - [D, E4, E3, fism]
+          -   - [D, E4, E3, Fism]
           -   - [A/Cis, D, E4, E3, A]

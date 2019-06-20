@@ -30,13 +30,13 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - [C, G, am]
+      - [C, G, Am]
       - [F, G, C, C7]
-      - [F, G, E, am]
-      - [dm, D, G4, G7]
+      - [F, G, E, Am]
+      - [Dm, D, G4, G7]
   - template: v2
     lines:
-      - [C, G, am]
+      - [C, G, Am]
       - [F, G, C, C7]
-      - [F, G, E, am]
-      - [dm, G, C]
+      - [F, G, E, Am]
+      - [Dm, G, C]

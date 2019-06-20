@@ -61,7 +61,7 @@ lyrics:
 chords:
   - template: v
     lines:
-      - [D, em7, A6]
+      - [D, Em7, A6]
       - [D, D7, G, A7]
-      - [D, D7, G, gm]
+      - [D, D7, G, Gm]
       - [D, A7, D]

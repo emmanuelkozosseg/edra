@@ -17,5 +17,5 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['am', 'em']
-      - ['F', 'C']
+      - [Am, Em]
+      - [F, C]

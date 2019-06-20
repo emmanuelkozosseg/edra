@@ -45,17 +45,17 @@ chords:
   - template: c
     lines:
       - [A, D, E/A, A]
-      - [E/A, A, A/G, fism, H, E4, E3]
-      - [D, E/D, cism, fism]
-      - [hm, D, Dmaj7, E4, E3]
+      - [E/A, A, A/G, Fism, H, E4, E3]
+      - [D, E/D, Cism, Fism]
+      - [Hm, D, Dmaj7, E4, E3]
       - 
       - [A, D, E/A, A]
-      - [E/A, A, A/G, fism, H, E4, E3]
-      - [D, E/D, cism, fism]
-      - [hm, D, A4, A3]
+      - [E/A, A, A/G, Fism, H, E4, E3]
+      - [D, E/D, Cism, Fism]
+      - [Hm, D, A4, A3]
   - template: v
     lines:
-      - [am, dm, am, E]
-      - [am, F, E4, E3]
+      - [Am, Dm, Am, E]
+      - [Am, F, E4, E3]
       - [A, D/A, E/A, A]
       - [D, E/D, D, E4, E3]

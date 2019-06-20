@@ -34,10 +34,10 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['E', 'A', 'E']
-      - ['H7', 'E']
+      - [E, A, E]
+      - [H7, E]
   - template: v
     lines:
-      - ['E']
-      - ['A', 'E']
-      - ['A', 'H7', 'E']
+      - [E]
+      - [A, E]
+      - [A, H7, E]

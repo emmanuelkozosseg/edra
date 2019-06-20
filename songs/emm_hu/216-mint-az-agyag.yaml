@@ -46,14 +46,14 @@ lyrics:
 chords:
   - template: v
     lines:
-      - [C, dm, am, F]
-      - [dm, am]
-      - [C, dm, am, F]
-      - [dm, am]
+      - [C, Dm, Am, F]
+      - [Dm, Am]
+      - [C, Dm, Am, F]
+      - [Dm, Am]
   - template: c
     lines:
       - group: repeat
         type: uniform
         lines:
-          - [am, em, F, dm7, G]
-          - [E, am]
+          - [Am, Em, F, Dm7, G]
+          - [E, Am]

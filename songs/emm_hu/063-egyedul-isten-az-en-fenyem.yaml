@@ -56,9 +56,9 @@ chords:
       - group: repeat
         type: uniform
         lines:
-          - [dm, C, F, A7]
-          - [dm, am, dm]
-      - [am, em, am]
+          - [Dm, C, F, A7]
+          - [Dm, Am, Dm]
+      - [Am, Em, Am]
       - [B, C7, F, A7]
-      - [dm, C7, F, A7]
-      - [B, am, dm]
+      - [Dm, C7, F, A7]
+      - [B, Am, Dm]

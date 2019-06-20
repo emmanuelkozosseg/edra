@@ -42,13 +42,13 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - [hm, hm]
+      - [Hm, Hm]
       - [D, D]
       - [E, A]
       - [G, Fis]
   - template: v2
     lines:
-      - [hm, hm]
+      - [Hm, Hm]
       - [D, D]
       - [E, A]
       - [E, E]
@@ -57,15 +57,15 @@ chords:
     lines:
       - [D, D]
       - [A, A]
-      - [hm, G, D, A]
+      - [Hm, G, D, A]
   - template: v4
     lines:
       - [D, D]
       - [A, A]
-      - [hm, G, Fis, Fis]
+      - [Hm, G, Fis, Fis]
   - template: v5
     lines:
-      - [hm, hm]
+      - [Hm, Hm]
       - [D, D]
       - [E, A]
       - [G, Fis]

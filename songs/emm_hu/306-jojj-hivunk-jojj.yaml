@@ -45,15 +45,15 @@ chords:
       - group: repeat
         type: uniform
         lines:
-          - [D, hm]
-          - [em, G, A, G, A]
+          - [D, Hm]
+          - [Em, G, A, G, A]
       - [G, D, G, D]
       - [A, G, D]
   - template: v3
     lines:
-      - [D, hm]
-      - [em, G, A, G, A]
-      - [D, hm]
-      - [em, G, A, G, A]
+      - [D, Hm]
+      - [Em, G, A, G, A]
+      - [D, Hm]
+      - [Em, G, A, G, A]
       - [G, D, G, D]
       - [A, G, D]

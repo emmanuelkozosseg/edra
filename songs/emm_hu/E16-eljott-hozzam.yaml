@@ -62,23 +62,23 @@ lyrics:
 chords:
   - template: v
     lines:
-      - ['E', 'H', 'fism']
-      - ['E', 'H', 'A2']
-      - ['E', 'H', 'fism']
-      - ['E', 'H', 'A2']
+      - [E, H, Fism]
+      - [E, H, A2]
+      - [E, H, Fism]
+      - [E, H, A2]
   - template: c
     lines:
-      - ['E']
-      - ['H']
-      - ['E', 'A']
-      - ['E']
-      - ['H']
-      - ['E', 'A2']
+      - [E]
+      - [H]
+      - [E, A]
+      - [E]
+      - [H]
+      - [E, A2]
   - template: b
     lines:
-      - ['H', 'E', 'A']
-      - ['H', 'E', 'A']
+      - [H, E, A]
+      - [H, E, A]
   - template: b2
     lines:
-      - ['E', 'H']
-      - ['cism', 'A']
+      - [E, H]
+      - [Cism, A]

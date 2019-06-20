@@ -59,12 +59,12 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [em]
-      - [H7, em]
-      - [H7, em]
+      - [Em]
+      - [H7, Em]
+      - [H7, Em]
   - template: v
     lines:
       - [C, G]
-      - [H7, em, D, G, G7]
+      - [H7, Em, D, G, G7]
       - [C, G]
-      - [H7, em]
+      - [H7, Em]

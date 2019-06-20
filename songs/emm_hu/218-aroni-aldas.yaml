@@ -34,18 +34,18 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - [C, em, dm, G]
-      - [C, em, dm, G]
+      - [C, Em, Dm, G]
+      - [C, Em, Dm, G]
       - [C, G, C, C7]
   - template: v2
     lines:
-      - [dm, em, C]
-      - [dm, em, C]
-      - [dm, F, G, G7]
+      - [Dm, Em, C]
+      - [Dm, Em, C]
+      - [Dm, F, G, G7]
       - group: repeat
         type: uniform
         lines:
-          - [C, em, dm, G]
+          - [C, Em, Dm, G]
       - group: repeat
         type: unique
         repetitions:

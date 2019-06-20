@@ -62,24 +62,24 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [am, em]
-      - [D, em]
-      - [E7, am, em]
-      - [D, H7, em]
+      - [Am, Em]
+      - [D, Em]
+      - [E7, Am, Em]
+      - [D, H7, Em]
   - template: v
     lines:
-      - [em, am]
-      - [D7, em/G]
-      - [em, am]
-      - [H7, em]
+      - [Em, Am]
+      - [D7, Em/G]
+      - [Em, Am]
+      - [H7, Em]
   - template: v5
     lines:
-      - [D, am, em]
-      - [E7, am, D7, G]
-      - [em, D, am]
-      - [em, E7, am, D7, G]
+      - [D, Am, Em]
+      - [E7, Am, D7, G]
+      - [Em, D, Am]
+      - [Em, E7, Am, D7, G]
       - 
-      - [E7, am, D, em7, C]
-      - [am, em, H4]
-      - [H3, am, D, em, C]
-      - [D, H, em]
+      - [E7, Am, D, Em7, C]
+      - [Am, Em, H4]
+      - [H3, Am, D, Em, C]
+      - [D, H, Em]

@@ -26,10 +26,10 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - [E, H, cism]
+      - [E, H, Cism]
       - [A]
   - template: v2
     lines:
       - [E]
       - [H]
-      - [cism, A]
+      - [Cism, A]

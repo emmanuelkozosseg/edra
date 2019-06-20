@@ -41,20 +41,20 @@ chords:
     lines:
       - [E7]
       - [F]
-      - [E, dm, E]
+      - [E, Dm, E]
   - template: v2
     lines:
       - [E]
-      - [dm]
-      - [E, dm, E]
+      - [Dm]
+      - [E, Dm, E]
   - template: v3
     lines:
-      - [am]
+      - [Am]
       - []
       - []
   - template: v4
     lines:
-      - [dm]
+      - [Dm]
       - []
       - [E]
-      - [E7, am]
+      - [E7, Am]

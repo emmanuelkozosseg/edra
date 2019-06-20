@@ -46,17 +46,17 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [D, em7, D, em7]
+      - [D, Em7, D, Em7]
       - [D, G, A4, A]
-      - [D, em7, D, em7]
+      - [D, Em7, D, Em7]
       - [D, G, A4]
-      - [G, A, C, hm]
+      - [G, A, C, Hm]
       - [G, A, D]
-      - [G, A, C, hm]
+      - [G, A, C, Hm]
       - [G, A, D]
   - template: v
     lines:
-      - [D, em7, D, em7]
+      - [D, Em7, D, Em7]
       - [D, G, A4, A]
-      - [fism, hm, G, C]
-      - [hm, em7, A4, A]
+      - [Fism, Hm, G, C]
+      - [Hm, Em7, A4, A]

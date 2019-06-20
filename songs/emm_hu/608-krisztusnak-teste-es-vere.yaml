@@ -55,11 +55,11 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [C, F/C, G, E, am, em, F, em]
-      - [F, am, G, C, F, C, G4, G3]
+      - [C, F/C, G, E, Am, Em, F, Em]
+      - [F, Am, G, C, F, C, G4, G3]
   - template: v
     lines:
       - [C]
-      - [G, E7, am]
-      - [F, dm6, E7]
+      - [G, E7, Am]
+      - [F, Dm6, E7]
       - [F6, G4, G3]

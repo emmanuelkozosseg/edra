@@ -44,10 +44,10 @@ chords:
   - template: c
     lines:
       - [F, B, C, F]
-      - [B, C, F, dm, C, F]
+      - [B, C, F, Dm, C, F]
   - template: v
     lines:
       - [F]
       - [B, C, F]
-      - [B, C, F, dm]
+      - [B, C, F, Dm]
       - [C, F]

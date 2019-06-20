@@ -42,7 +42,7 @@ lyrics:
 chords:
   - template: all
     lines:
-      - [dm, am]
-      - [C, dm, B/C, C]
-      - [F, gm, C7, F, dm]
-      - [B, C, dm]
+      - [Dm, Am]
+      - [C, Dm, B/C, C]
+      - [F, Gm, C7, F, Dm]
+      - [B, C, Dm]

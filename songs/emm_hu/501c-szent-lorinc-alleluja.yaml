@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '501c'
+    number: 501c
     lang: la
 lyrics:
   - lang: la
@@ -13,4 +13,4 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['gm', 'D', 'gm', 'B', 'F', 'B', 'cm', 'gm', 'D']
+      - [Gm, D, Gm, B, F, B, Cm, Gm, D]

@@ -45,16 +45,16 @@ chords:
   - template: c
     lines:
       - [D, G, A]
-      - [D, hm]
-      - [em, A]
+      - [D, Hm]
+      - [Em, A]
       - [A7, D]
   - template: v
     lines:
       - [A, D, G, A]
-      - [hm, em]
+      - [Hm, Em]
       - [A, D]
-      - [hm, em, G, D]
-      - [hm, em]
+      - [Hm, Em, G, D]
+      - [Hm, Em]
       - [A, D]
-      - [hm, em]
+      - [Hm, Em]
       - [A7, D]

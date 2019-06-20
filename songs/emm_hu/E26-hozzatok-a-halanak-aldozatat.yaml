@@ -28,19 +28,19 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['D', 'A', 'hm', 'fism']
-      - ['G', 'em', 'A']
-      - ['D', 'A', 'hm', 'fism']
-      - ['G', 'A', 'D']
+      - [D, A, Hm, Fism]
+      - [G, Em, A]
+      - [D, A, Hm, Fism]
+      - [G, A, D]
   - template: c
     lines:
-      - ['hm', 'fism']
-      - ['G', 'A', 'D']
-      - ['hm', 'fism']
-      - ['G', 'A', 'D']
+      - [Hm, Fism]
+      - [G, A, D]
+      - [Hm, Fism]
+      - [G, A, D]
   - template: v2
     lines:
-      - ['D', 'A', 'hm', 'fism', 'G', 'em', 'A']
-      - ['D', 'A', 'hm', 'fism', 'G', 'A7', 'D']
-      - ['D', 'A', 'hm', 'fism', 'G', 'A', 'em', 'A']
-      - ['D', 'A', 'hm', 'fism', 'G', 'A', 'em', 'A']
+      - [D, A, Hm, Fism, G, Em, A]
+      - [D, A, Hm, Fism, G, A7, D]
+      - [D, A, Hm, Fism, G, A, Em, A]
+      - [D, A, Hm, Fism, G, A, Em, A]

@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '504b'
+    number: 504b
     lang: hu
   - id: emm_fr
     number: 14-26-02
@@ -46,35 +46,35 @@ lyrics:
 chords:
   - template: c
     lines:
-      - ['A', 'fism7', 'E', 'D/F', 'A/Cis', 'D', 'hm', 'hm7/E', 'E']
-      - ['A', 'fism7', 'E', 'D/F', 'A/Cis', 'D', 'hm', 'E4', 'E3', 'A']
+      - [A, Fism7, E, D/F, A/Cis, D, Hm, Hm7/E, E]
+      - [A, Fism7, E, D/F, A/Cis, D, Hm, E4, E3, A]
   - template: v1
     lines:
-      - ['A', 'E/Gis', 'D', 'E']
-      - ['A/Cis', 'D', 'hm7/E', 'E']
-      - ['fism', 'E', 'A', 'D']
-      - ['hm7', 'D7', 'hm7/E', 'E']
-      - ['D', 'hm7', 'hm7/E', 'E', 'D', 'hm7', 'hm7/E', 'E']
+      - [A, E/Gis, D, E]
+      - [A/Cis, D, Hm7/E, E]
+      - [Fism, E, A, D]
+      - [Hm7, D7, Hm7/E, E]
+      - [D, Hm7, Hm7/E, E, D, Hm7, Hm7/E, E]
   - template: v2
     lines:
-      - ['A', 'E', 'D/Fis', 'E']
-      - ['A/Cis', 'D', 'hm7/E', 'E']
-      - ['fism', 'E', 'A', 'D', 'hm7']
-      - ['D7', 'hm', 'hm7/E', 'E']
-      - ['D', 'hm7', 'hm/E', 'E', 'D', 'hm7', 'hm/E', 'E']
+      - [A, E, D/Fis, E]
+      - [A/Cis, D, Hm7/E, E]
+      - [Fism, E, A, D, Hm7]
+      - [D7, Hm, Hm7/E, E]
+      - [D, Hm7, Hm/E, E, D, Hm7, Hm/E, E]
   - template: v3
     lines:
-      - ['A', 'E/Gis', 'D', 'E']
-      - ['A/Cis', 'D', 'hm7/E', 'E']
-      - ['fism', 'E', 'A', 'D']
-      - ['hm7', 'D7', 'hm7/E', 'E']
-      - ['A', 'E', 'D7', 'E']
-      - ['A/Cis', 'D', 'hm7/E']
+      - [A, E/Gis, D, E]
+      - [A/Cis, D, Hm7/E, E]
+      - [Fism, E, A, D]
+      - [Hm7, D7, Hm7/E, E]
+      - [A, E, D7, E]
+      - [A/Cis, D, Hm7/E]
   - template: v4
     lines:
-      - ['A', 'E/Gis', 'D/Fis', 'E']
-      - ['D/Fis', 'E']
-      - ['A/Cis', 'D', 'hm7/E', 'E']
-      - ['fism', 'E', 'A', 'D']
-      - ['hm', 'hm7/E', 'E']
-      - ['D', 'hm7', 'hm7/E', 'E']
+      - [A, E/Gis, D/Fis, E]
+      - [D/Fis, E]
+      - [A/Cis, D, Hm7/E, E]
+      - [Fism, E, A, D]
+      - [Hm, Hm7/E, E]
+      - [D, Hm7, Hm7/E, E]

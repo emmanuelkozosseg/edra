@@ -66,11 +66,11 @@ chords:
       - [G, C, D, G]
   - template: v
     lines:
-      - [G, D, em]
-      - [em, D, G]
+      - [G, D, Em]
+      - [Em, D, G]
   - template: v10
     lines:
-      - [G, D, em]
-      - [em, D, G]
-      - [G, D, em]
-      - [em, D, G]
+      - [G, D, Em]
+      - [Em, D, G]
+      - [G, D, Em]
+      - [Em, D, G]

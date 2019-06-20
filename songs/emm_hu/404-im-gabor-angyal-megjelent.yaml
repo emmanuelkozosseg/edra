@@ -39,13 +39,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [em, G, D]
+      - [Em, G, D]
       - [C, H]
-      - [em, G, D]
-      - [C, H7, em]
+      - [Em, G, D]
+      - [C, H7, Em]
   - template: v
     lines:
       - [G, D]
-      - [em, H7]
+      - [Em, H7]
       - [G, D]
-      - [C, H7, em]
+      - [C, H7, Em]

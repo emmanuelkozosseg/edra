@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '504c'
+    number: 504c
     lang: la
 lyrics:
   - lang: la
@@ -20,7 +20,7 @@ chords:
       - group: repeat
         type: unique
         repetitions:
-          - - ['A', 'E', 'hm/D', 'E', 'A']
-            - ['fism', 'E', 'A', 'hm/D', 'E']
-          - - ['A', 'E', 'hm/D', 'E', 'A']
-            - ['fism', 'E', 'A', 'hm', 'E', 'A']
+          -   - [A, E, Hm/D, E, A]
+              - [Fism, E, A, Hm/D, E]
+          -   - [A, E, Hm/D, E, A]
+              - [Fism, E, A, Hm, E, A]

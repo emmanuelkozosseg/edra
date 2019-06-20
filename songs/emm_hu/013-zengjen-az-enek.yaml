@@ -54,13 +54,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [D, hm]
-      - [fism, G, A]
-      - [D, hm]
-      - [fism, G, A, D]
+      - [D, Hm]
+      - [Fism, G, A]
+      - [D, Hm]
+      - [Fism, G, A, D]
   - template: v
     lines:
-      - [D, hm, fism7]
-      - [G, A7, fism]
-      - [G6, A7, hm, fism]
+      - [D, Hm, Fism7]
+      - [G, A7, Fism]
+      - [G6, A7, Hm, Fism]
       - [G, A, D]

@@ -50,15 +50,15 @@ chords:
       - group: repeat
         type: unique
         repetitions:
-          - - [fism, hm, Cis]
-            - [fism, hm, Cis]
-            - [fism, E, D, Cis7]
-          - - [fism, hm, Cis]
-            - [fism, hm, Cis]
-            - [fism, E, D, Cis, fism]
+          -   - [Fism, Hm, Cis]
+              - [Fism, Hm, Cis]
+              - [Fism, E, D, Cis7]
+          -   - [Fism, Hm, Cis]
+              - [Fism, Hm, Cis]
+              - [Fism, E, D, Cis, Fism]
   - template: v
     lines:
       - [E, A, Cis]
-      - [fism, Cis7]
+      - [Fism, Cis7]
       - [E7, A, Cis7]
-      - [fism, Cis7, fism, Cis7]
+      - [Fism, Cis7, Fism, Cis7]

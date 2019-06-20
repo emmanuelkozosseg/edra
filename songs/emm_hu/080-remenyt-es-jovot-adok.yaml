@@ -43,7 +43,7 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [F, B, dm]
+      - [F, B, Dm]
       - [B, F, C]
       - [F, B]
       - [(F), B, C7, F]
@@ -51,5 +51,5 @@ chords:
     lines:
       - [F, B]
       - [F, B, C]
-      - [dm, (B), gm6, C]
-      - [dm, C, (F), gm, C]
+      - [Dm, (B), Gm6, C]
+      - [Dm, C, (F), Gm, C]

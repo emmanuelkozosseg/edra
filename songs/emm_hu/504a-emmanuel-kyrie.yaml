@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '504a'
+    number: 504a
     lang: la
 lyrics:
   - lang: la
@@ -10,17 +10,17 @@ lyrics:
       - name: v1
         lines:
           - Kyrie, Kyrie eleison.
-          - ""
+          - ''
           - Christe eleison,
           - Christe eleison,
           - Christe eleison.
-          - ""
+          - ''
           - Kyrie, Kyrie eleison.
 chords:
   - template: all
     lines:
-      - ['fism', 'cism/E', 'D', 'hm', 'A', 'D', 'hm7/E', 'E']
-      - ['A', 'E/Gis']
-      - ['D/Fis', 'E']
-      - ['A/Cis', 'D', 'hm7/E', 'E']
-      - ['fism', 'cism/E', 'D', 'hm', 'A', 'D', 'hm7/E', 'E']
+      - [Fism, Cism/E, D, Hm, A, D, Hm7/E, E]
+      - [A, E/Gis]
+      - [D/Fis, E]
+      - [A/Cis, D, Hm7/E, E]
+      - [Fism, Cism/E, D, Hm, A, D, Hm7/E, E]

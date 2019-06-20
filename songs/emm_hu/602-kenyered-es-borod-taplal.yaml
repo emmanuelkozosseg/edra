@@ -48,9 +48,9 @@ lyrics:
 chords:
   - template: all
     lines:
-      - [C, G, am]
-      - [F, dm, G, G7]
+      - [C, G, Am]
+      - [F, Dm, G, G7]
       - 
-      - [C, E7, am]
+      - [C, E7, Am]
       - [C]
       - [F, G, C, G]

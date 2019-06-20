@@ -86,9 +86,9 @@ chords:
       - [D, G]
   - template: c
     lines:
-      - [am, G, F, C]
-      - [am, G, F]
-      - [am, G, F, C]
+      - [Am, G, F, C]
+      - [Am, G, F]
+      - [Am, G, F, C]
       - [F, G7, A]
       - [F, G7, C]
       - [F, G, C]

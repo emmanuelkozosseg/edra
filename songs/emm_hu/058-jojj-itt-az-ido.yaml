@@ -33,13 +33,13 @@ chords:
   - template: v1
     lines:
       - [D, G, D]
-      - [A, em7, G]
+      - [A, Em7, G]
       - [D, G, D]
-      - [A, em7, G]
+      - [A, Em7, G]
       - [D]
   - template: v2
     lines:
       - [G, D]
       - [G, D]
-      - [G, hm]
-      - [em, A4, A]
+      - [G, Hm]
+      - [Em, A4, A]

@@ -85,12 +85,12 @@ chords:
   - template: c
     lines:
       - [C/G, G, C/G, G]
-      - [C, D, em7, D/Fis]
+      - [C, D, Em7, D/Fis]
       - [C/G, G, C, G]
       - [C, D, C/G, G]
   - template: v
     lines:
-      - [em, hm7, C, G]
-      - [C, hm7, am7, D]
-      - [em, hm7, C, G]
-      - [am7, D]
+      - [Em, Hm7, C, G]
+      - [C, Hm7, Am7, D]
+      - [Em, Hm7, C, G]
+      - [Am7, D]

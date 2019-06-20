@@ -128,11 +128,11 @@ lyrics:
 chords:
   - template: all
     lines:
-      - [G, D/Fis, em, hm7]
-      - [C, am7, D]
-      - [G, D/Fis, em]
-      - [C, G, hm7, D]
-      - [hm, em, D/Fis, G]
+      - [G, D/Fis, Em, Hm7]
+      - [C, Am7, D]
+      - [G, D/Fis, Em]
+      - [C, G, Hm7, D]
+      - [Hm, Em, D/Fis, G]
       - [C/F, G, D4, D3]
-      - [C, D4, D3, H, em]
+      - [C, D4, D3, H, Em]
       - [C, D, G]

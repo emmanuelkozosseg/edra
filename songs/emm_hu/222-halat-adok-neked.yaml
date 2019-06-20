@@ -57,13 +57,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [am, dm, am, E]
-      - [am, dm, G, em, C, E]
-      - [am, dm, am, E]
-      - [am, dm, E, E7, am]
+      - [Am, Dm, Am, E]
+      - [Am, Dm, G, Em, C, E]
+      - [Am, Dm, Am, E]
+      - [Am, Dm, E, E7, Am]
   - template: v
     lines:
-      - [am, E, Gis, am]
-      - [dm, am, H, E]
-      - [am, E, Gis, am]
-      - [dm, am, E, am]
+      - [Am, E, Gis, Am]
+      - [Dm, Am, H, E]
+      - [Am, E, Gis, Am]
+      - [Dm, Am, E, Am]

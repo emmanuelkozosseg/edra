@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '505e'
+    number: 505e
     lang: hu
   - id: emm_fr
     number: 13-25-05
@@ -18,7 +18,7 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['dm', 'gm', 'C']
-      - ['F', 'G', 'A']
-      - ['dm', 'C', 'F']
-      - ['dm', 'A4', 'A3', 'dm']
+      - [Dm, Gm, C]
+      - [F, G, A]
+      - [Dm, C, F]
+      - [Dm, A4, A3, Dm]

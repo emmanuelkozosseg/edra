@@ -43,10 +43,10 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [dm, A7/4, gm(6), A, A7]
-      - [F, C, dm7, B(6), C]
+      - [Dm, A7/4, Gm(6), A, A7]
+      - [F, C, Dm7, B(6), C]
   - template: v
     lines:
-      - [A7, dm, C7, F, gm, A7/4, A7]
+      - [A7, Dm, C7, F, Gm, A7/4, A7]
       - [B, C, F]
-      - [gm, C7(9), A, A7]
+      - [Gm, C7(9), A, A7]

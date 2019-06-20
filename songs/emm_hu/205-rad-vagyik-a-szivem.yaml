@@ -29,6 +29,6 @@ lyrics:
 chords:
   - template: all
     lines:
-      - [em, D, am, H]
-      - [em, D, G, A7, H]
-      - [G, D, em, am, H7, em]
+      - [Em, D, Am, H]
+      - [Em, D, G, A7, H]
+      - [G, D, Em, Am, H7, Em]

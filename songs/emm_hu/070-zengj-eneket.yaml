@@ -51,13 +51,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [D, G, hm, C]
-      - [E7, am, D4, D3]
-      - [D, G, hm, C]
-      - [E7, am, D7/4, D3]
+      - [D, G, Hm, C]
+      - [E7, Am, D4, D3]
+      - [D, G, Hm, C]
+      - [E7, Am, D7/4, D3]
   - template: v
     lines:
-      - [em, A7, H7, em]
-      - [em, hm7, C, D]
-      - [em, A7, H7, em]
-      - [em, A7, H7, em]
+      - [Em, A7, H7, Em]
+      - [Em, Hm7, C, D]
+      - [Em, A7, H7, Em]
+      - [Em, A7, H7, Em]

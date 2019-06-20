@@ -35,17 +35,17 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [G, em]
+      - [G, Em]
       - [C, D]
-      - [G, em]
-      - [am7, D]
+      - [G, Em]
+      - [Am7, D]
       - [G, B, F, C, G, D]
   - template: v1
     lines:
       - [G, F]
-      - [C, em, D]
+      - [C, Em, D]
       - [G, F]
-      - [C, em, D]
+      - [C, Em, D]
   - template: v2
     lines:
       - [G, B, F, G]

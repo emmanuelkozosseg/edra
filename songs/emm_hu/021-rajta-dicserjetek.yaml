@@ -40,12 +40,12 @@ chords:
   - template: c
     lines:
       - [G, C, G]
-      - [C, G, em, D9/4, D]
+      - [C, G, Em, D9/4, D]
       - [G, C, G]
       - [C, G, C, D, G]
   - template: v
     lines:
-      - [em, C]
-      - [am, D, H7]
-      - [em, C]
-      - [am7, D4, D3]
+      - [Em, C]
+      - [Am, D, H7]
+      - [Em, C]
+      - [Am7, D4, D3]

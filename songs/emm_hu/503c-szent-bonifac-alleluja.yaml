@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '503c'
+    number: 503c
     lang: la
 lyrics:
   - lang: la
@@ -14,5 +14,5 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['D', 'G', 'D', 'A']
-      - ['D', 'G', 'hm', 'A', 'D']
+      - [D, G, D, A]
+      - [D, G, Hm, A, D]

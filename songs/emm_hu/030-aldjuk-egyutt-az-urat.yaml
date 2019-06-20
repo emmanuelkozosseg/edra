@@ -60,13 +60,13 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [dm, am, dm]
-      - [dm, C, F, A]
-      - [dm, F, C, dm]
-      - [dm, gm6, am, dm]
+      - [Dm, Am, Dm]
+      - [Dm, C, F, A]
+      - [Dm, F, C, Dm]
+      - [Dm, Gm6, Am, Dm]
   - template: v
     lines:
-      - [dm, gm]
+      - [Dm, Gm]
       - [C, F]
-      - [dm, gm]
-      - [C, am, am7, A7, dm]
+      - [Dm, Gm]
+      - [C, Am, Am7, A7, Dm]

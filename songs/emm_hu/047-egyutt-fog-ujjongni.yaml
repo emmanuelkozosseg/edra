@@ -28,13 +28,13 @@ lyrics:
 chords:
   - template: all
     lines:
-      - [H7, em]
-      - [am, H7]
-      - [H7, em, am, H7]
+      - [H7, Em]
+      - [Am, H7]
+      - [H7, Em, Am, H7]
       - [H7]
       - [H7]
       - group: repeat
         type: uniform
         lines:
-          - [am, D, G]
-          - [C, am, H7, em]
+          - [Am, D, G]
+          - [C, Am, H7, Em]

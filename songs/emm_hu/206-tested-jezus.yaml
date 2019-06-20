@@ -37,11 +37,11 @@ chords:
       - group: repeat
         type: unique
         repetitions:
-          -   - [em, hm]
-              - [em]
-          -   - [hm]
-              - [em]
-          -   - [G, am]
-              - [H7, em]
-          -   - [G, am]
-              - [H7, em]
+          -   - [Em, Hm]
+              - [Em]
+          -   - [Hm]
+              - [Em]
+          -   - [G, Am]
+              - [H7, Em]
+          -   - [G, Am]
+              - [H7, Em]

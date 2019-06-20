@@ -151,17 +151,17 @@ chords:
   - template: c
     lines:
       - [F, C, B, F]
-      - [dm, B7, C4, C3]
+      - [Dm, B7, C4, C3]
       - [F, C, B, F]
-      - [dm, C, B, F]
+      - [Dm, C, B, F]
   - template: v
     lines:
       - [F, B]
       - [G, C]
-      - [A, dm]
+      - [A, Dm]
       - [B, C]
 
       - [F, B]
       - [G, C]
-      - [A, dm]
+      - [A, Dm]
       - [Es, C]

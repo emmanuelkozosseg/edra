@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '506b'
+    number: 506b
     lang: la
 lyrics:
   - lang: la
@@ -14,5 +14,5 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['am', 'F', 'em', 'am']
-      - ['F', 'dm', 'G', 'em', 'am']
+      - [Am, F, Em, Am]
+      - [F, Dm, G, Em, Am]

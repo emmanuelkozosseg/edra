@@ -69,11 +69,11 @@ chords:
       - group: repeat
         type: unique
         repetitions:
-          - - [dm, gm9, gm]
-            - [C7, F9/7M, am7]
-            - [B7M, gm7]
-            - [B, B7, A, A7]
-          - - [dm, gm9, gm]
-            - [C7, F9/7M, am7]
-            - [B7M, gm7]
-            - [B, A7, dm]
+          -   - [Dm, Gm9, Gm]
+              - [C7, F9/7M, Am7]
+              - [B7M, Gm7]
+              - [B, B7, A, A7]
+          -   - [Dm, Gm9, Gm]
+              - [C7, F9/7M, Am7]
+              - [B7M, Gm7]
+              - [B, A7, Dm]

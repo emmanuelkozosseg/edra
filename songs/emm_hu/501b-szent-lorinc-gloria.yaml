@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '501b'
+    number: 501b
     lang: la
 lyrics:
   - lang: la
@@ -19,4 +19,4 @@ chords:
       - group: repeat
         type: uniform
         lines:
-        - ['gm', 'cism', 'B', 'gm', 'D']
+          - [Gm, Cism, B, Gm, D]

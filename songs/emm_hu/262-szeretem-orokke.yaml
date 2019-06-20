@@ -45,23 +45,23 @@ chords:
   - template: v
     lines:
       - [D]
-      - [A, hm]
-      - [fism, em]
+      - [A, Hm]
+      - [Fism, Em]
       - [G, A]
       - [D]
-      - [A, hm]
-      - [fism, em]
+      - [A, Hm]
+      - [Fism, Em]
       - [G, A, D]
   - template: c
     lines:
       - group: repeat
         type: unique
         repetitions:
-          -   - [hm, fism]
+          -   - [Hm, Fism]
               - [G, D]
-              - [hm, fism]
+              - [Hm, Fism]
               - [G, A]
-          -   - [hm, fism]
+          -   - [Hm, Fism]
               - [G, D]
-              - [hm, fism]
+              - [Hm, Fism]
               - [G, G2]

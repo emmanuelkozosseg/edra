@@ -19,7 +19,7 @@ lyrics:
 chords:
   - template: all
     lines:
-      - ['em', 'hm', 'C', 'D', 'G']
-      - ['em', 'hm', 'A', 'C', 'D']
-      - ['G', 'D', 'B', 'F']
-      - ['am7', 'D', 'am7', 'D']
+      - [Em, Hm, C, D, G]
+      - [Em, Hm, A, C, D]
+      - [G, D, B, F]
+      - [Am7, D, Am7, D]

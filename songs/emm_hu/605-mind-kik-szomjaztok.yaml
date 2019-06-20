@@ -66,19 +66,19 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [D, A, hm]
-      - [G, em, A4, A3]
+      - [D, A, Hm]
+      - [G, Em, A4, A3]
       - group: repeat
         type: unique
         repetitions:
-          -   - [G, em, D, hm]
-              - [em7, A, D, D7]
-          -   - [G, em, D, hm]
-              - [em7, A, D]
+          -   - [G, Em, D, Hm]
+              - [Em7, A, D, D7]
+          -   - [G, Em, D, Hm]
+              - [Em7, A, D]
   - template: v
     lines:
       - [D, A, G, A]
-      - [Fis, hm, em7, A]
-      - [G, A, fism, hm]
+      - [Fis, Hm, Em7, A]
+      - [G, A, Fism, Hm]
       - [E4, E7, A4, A7]
 

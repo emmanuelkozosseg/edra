@@ -85,14 +85,14 @@ lyrics:
 chords:
   - template: all
     lines:
-      - [D, A, hm, fism]
-      - [G, D, em, A]
-      - [fism, hm, Fis, hm]
-      - [G, fism, hm, G, A, D]
+      - [D, A, Hm, Fism]
+      - [G, D, Em, A]
+      - [Fism, Hm, Fis, Hm]
+      - [G, Fism, Hm, G, A, D]
   - template: v10
     lines:
-      - [D, A, hm, fism]
-      - [G, D, em, A]
-      - [fism, hm, Fis, hm]
-      - [G, fism, hm, G, A, D]
-      - [D, hm, hm7, A7, D]
+      - [D, A, Hm, Fism]
+      - [G, D, Em, A]
+      - [Fism, Hm, Fis, Hm]
+      - [G, Fism, Hm, G, A, D]
+      - [D, Hm, Hm7, A7, D]

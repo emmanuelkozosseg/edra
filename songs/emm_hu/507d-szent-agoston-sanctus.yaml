@@ -1,7 +1,7 @@
 books:
   - id: emm_hu
     chapter: 5_mise
-    number: '507d'
+    number: 507d
     lang: la
 lyrics:
   - lang: la
@@ -17,29 +17,29 @@ lyrics:
         lines:
           - Pleni sunt caeli et terra
           - gloria tua!
-          - ""
+          - ''
           - Hosanna, hosanna, hosanna in excelsis!
           - Hosanna, hosanna, hosanna in excelsis!
       - name: v3
         lines:
           - Benedictus qui venit
           - in nomine Domini!
-          - ""
+          - ''
           - Hosanna, hosanna, hosanna in excelsis!
           - Hosanna, hosanna, hosanna in excelsis!
 chords:
   - template: v1
     lines:
-      - ['em', 'A']
-      - ['C', 'am6', 'H4', 'H']
-      - ['em', 'A']
-      - ['C', 'am6', 'hm7', 'em']
+      - [Em, A]
+      - [C, Am6, H4, H]
+      - [Em, A]
+      - [C, Am6, Hm7, Em]
   - template: v
     lines:
-      - ['em', 'D/E']
-      - ['C', 'am6', 'H4', 'H']
-      -
-      - ['em', 'A']
-      - ['C', 'am6', 'H4']
-      - ['em', 'A']
-      - ['C', 'am6', 'hm7', 'em']
+      - [Em, D/E]
+      - [C, Am6, H4, H]
+      - 
+      - [Em, A]
+      - [C, Am6, H4]
+      - [Em, A]
+      - [C, Am6, Hm7, Em]

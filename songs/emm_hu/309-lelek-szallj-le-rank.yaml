@@ -48,17 +48,17 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [em, am]
+      - [Em, Am]
       - [D, H4, H3]
-      - [em, C]
-      - [am, H]
-      - [em, am]
+      - [Em, C]
+      - [Am, H]
+      - [Em, Am]
       - [D, H4, H3]
-      - [em, C]
-      - [am6, H, em]
+      - [Em, C]
+      - [Am6, H, Em]
   - template: v
     lines:
-      - [em, am, C]
+      - [Em, Am, C]
       - [D, H7]
-      - [em, am, C]
+      - [Em, Am, C]
       - [D, H4, H3]

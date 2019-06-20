@@ -46,18 +46,18 @@ chords:
   - template: c
     lines:
       - [D, A/Cis]
-      - [em, Fis4, Fis3]
+      - [Em, Fis4, Fis3]
       - group: repeat
         type: unique
         repetitions:
-          -   - [hm, fism]
-              - [em, Fis4, Fis3]
-          -   - [hm, fism]
-              - [em, D/A, A7, D]
+          -   - [Hm, Fism]
+              - [Em, Fis4, Fis3]
+          -   - [Hm, Fism]
+              - [Em, D/A, A7, D]
   - template: v
     lines:
-      - [C, H7, em]
+      - [C, H7, Em]
       - [D7, G]
-      - [Fism7, hm]
+      - [Fism7, Hm]
       - [G, A4, A3]
 

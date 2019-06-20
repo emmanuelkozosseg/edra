@@ -53,15 +53,15 @@ lyrics:
 chords:
   - template: c
     lines:
-      - [em]
+      - [Em]
       - [C]
       - [D, G, H7]
-      - [em]
+      - [Em]
       - [C]
-      - [D, hm, em]
+      - [D, Hm, Em]
   - template: v
     lines:
-      - [em, D]
-      - [G, D, em]
-      - [em, D]
+      - [Em, D]
+      - [G, D, Em]
+      - [Em, D]
       - [G, A, H4, H3]

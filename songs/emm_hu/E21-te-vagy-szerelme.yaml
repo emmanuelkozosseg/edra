@@ -25,16 +25,16 @@ lyrics:
 chords:
   - template: v1
     lines:
-      - ['D', 'A/Cis', 'D/Fis', 'G']
-      - ['D', 'A/Cis', 'G2/H', 'A']
-      - ['D', 'A/Cis', 'D/Fis', 'G']
-      - ['D', 'A/Cis', 'G2/H']
+      - [D, A/Cis, D/Fis, G]
+      - [D, A/Cis, G2/H, A]
+      - [D, A/Cis, D/Fis, G]
+      - [D, A/Cis, G2/H]
   - template: v2
     lines:
-      - ['G2/H', 'A/Cis', 'D']
-      - ['A/Cis', 'G/H', 'A/Cis', 'D']
-      - ['G2/H', 'A/Cis', 'D']
+      - [G2/H, A/Cis, D]
+      - [A/Cis, G/H, A/Cis, D]
+      - [G2/H, A/Cis, D]
       - group: repeat
         type: uniform
         lines:
-          - ['A/Cis', 'G2/H', 'A/C#', 'D', 'A/Cis', 'G2/H', 'A', 'D']
+          - [A/Cis, G2/H, A/C#, D, A/Cis, G2/H, A, D]
