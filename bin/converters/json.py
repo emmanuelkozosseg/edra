@@ -14,11 +14,10 @@ class JsonConverter(AbstractConverter):
         self._songs = []
 
     @staticmethod
-    def add_argparser(subparsers):
+    def create_argparser(subparsers):
         parser_json = subparsers.add_parser("json", help="Converts to JSON format.")
-        parser_json.add_argument("--from-dir", required=True, help="directory where the Emmet.yaml files reside")
         parser_json.add_argument("--to", required=True, help="target file")
-        parser_json.set_defaults(converter=JsonConverter)
+        return parser_json
 
     def convert(self, song_yaml, filepath):
         self._preprocessor.preprocess(song_yaml, flatten=True, soft_line_break_strategy='ignore')

@@ -16,11 +16,10 @@ class OpenSongConverter(AbstractConverter):
         self._books = None
 
     @staticmethod
-    def add_argparser(subparsers):
+    def create_argparser(subparsers):
         parser_opensong = subparsers.add_parser("opensong", help="Converts to OpenSong format.")
-        parser_opensong.add_argument("--from-dir", required=True, help="directory where the Emmet.yaml files reside")
         parser_opensong.add_argument("--to-dir", required=True, help="directory of target files; will be deleted if exists")
-        parser_opensong.set_defaults(converter=OpenSongConverter)
+        return parser_opensong
 
     def setup(self):
         self._create_out_dir(self._out_dir)

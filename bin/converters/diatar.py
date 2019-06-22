@@ -5,7 +5,6 @@ import logging
 class DiatarConverter(AbstractConverter):
     def __init__(self, args):
         super().__init__()
-        self._from_dir = args.from_dir
         self._to_file = args.to
         self._dtx_lines = [
             "; Jézus él!",
@@ -17,11 +16,10 @@ class DiatarConverter(AbstractConverter):
         self._current_id = 0
 
     @staticmethod
-    def add_argparser(subparsers):
+    def create_argparser(subparsers):
         parser_diatar = subparsers.add_parser("diatar", help="Converts to Diatár's format.")
-        parser_diatar.add_argument("--from-dir", required=True, help="directory where the Emmet.yaml files reside")
         parser_diatar.add_argument("--to", required=True, help="target DTX file")
-        parser_diatar.set_defaults(converter=DiatarConverter)
+        return parser_diatar
 
     def convert(self, song_yaml, filepath):
         self._preprocessor.preprocess(song_yaml, flatten=True, soft_line_break_strategy='ignore')

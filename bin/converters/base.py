@@ -37,7 +37,7 @@ class AbstractConverter:
             logging.info("The '{}' directory exists, removing...".format(out_dir))
             shutil.rmtree(out_dir)
         logging.info("Creating directory '{}'...".format(out_dir))
-        os.mkdir(out_dir)
+        os.makedirs(out_dir)
 
     @staticmethod
     def _split_verse_on_hard_breaks(lines):

@@ -41,6 +41,10 @@ class SongPreprocessor:
             for i, line in enumerate(verse['lines']):
                 if line is None:
                     continue
-                verse['lines'][i] = self._RE_LINE_SYMBOLS.sub(' ', line)
+                if isinstance(line, collections.Mapping):
+                    for j, group_line in enumerate(line['lines']):
+                        line['lines'][j] = self._RE_LINE_SYMBOLS.sub(' ', group_line)
+                else:
+                    verse['lines'][i] = self._RE_LINE_SYMBOLS.sub(' ', line)
         else:
             raise Exception("Unknown soft line break strategy '{}'. Possible values are: break, ignore".format(mode))

@@ -36,12 +36,18 @@ def _parse_args():
     argparser = argparse.ArgumentParser(description="Converts Emmet.yaml songs to other formats.")
     subparsers = argparser.add_subparsers()
 
-    OpenSongConverter.add_argparser(subparsers)
-    JsonConverter.add_argparser(subparsers)
-    OpenLyricsConverter.add_argparser(subparsers)
-    DiatarConverter.add_argparser(subparsers)
+    _enable_converter(OpenSongConverter, subparsers)
+    _enable_converter(JsonConverter, subparsers)
+    _enable_converter(OpenLyricsConverter, subparsers)
+    _enable_converter(DiatarConverter, subparsers)
 
     return argparser.parse_args()
+
+
+def _enable_converter(converter_class, subparsers):
+    subparser = converter_class.create_argparser(subparsers)
+    subparser.add_argument("--from-dir", required=True, help="directory where the Emmet.yaml files reside")
+    subparser.set_defaults(converter=converter_class)
 
 
 if __name__ == "__main__":

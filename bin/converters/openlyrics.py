@@ -12,11 +12,10 @@ class OpenLyricsConverter(AbstractConverter):
         self._out_dir = args.to_dir
 
     @staticmethod
-    def add_argparser(subparsers):
+    def create_argparser(subparsers):
         parser_openlyrics = subparsers.add_parser("openlyrics", help="Converts to OpenLyrics format.")
-        parser_openlyrics.add_argument("--from-dir", required=True, help="directory where the Emmet.yaml files reside")
         parser_openlyrics.add_argument("--to-dir", required=True, help="directory of target files; will be deleted if exists")
-        parser_openlyrics.set_defaults(converter=OpenLyricsConverter)
+        return parser_openlyrics
 
     def setup(self):
         super()._create_out_dir(self._out_dir)
