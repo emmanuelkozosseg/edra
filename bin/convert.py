@@ -7,6 +7,7 @@ from converters.opensong import OpenSongConverter
 from converters.json import JsonConverter
 from converters.openlyrics import OpenLyricsConverter
 from converters.diatar import DiatarConverter
+from converters.emmasongs import EmmaSongsConverter
 
 import logging
 logging.basicConfig(format="[%(asctime)s|%(levelname)s] %(message)s", level=logging.DEBUG)
@@ -40,6 +41,7 @@ def _parse_args():
     _enable_converter(JsonConverter, subparsers)
     _enable_converter(OpenLyricsConverter, subparsers)
     _enable_converter(DiatarConverter, subparsers)
+    _enable_converter(EmmaSongsConverter, subparsers)
 
     return argparser.parse_args()
 

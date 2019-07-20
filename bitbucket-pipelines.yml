@@ -5,5 +5,5 @@ pipelines:
     - step:
         name: Build and deploy
         script:
-          - pip install ruamel.yaml --upgrade
+          - pip install ruamel.yaml python-docx --upgrade
           - bash bin/build.sh
