@@ -5,5 +5,5 @@ pipelines:
     - step:
         name: Build and deploy
         script:
-          - pip install ruamel.yaml python-docx --upgrade
+          - pip install ruamel.yaml python-docx pdfkit natsort --upgrade
           - bash bin/build.sh

@@ -25,12 +25,12 @@ class DiatarConverter(AbstractConverter):
         self._preprocessor.preprocess(song_yaml, flatten=True, soft_line_break_strategy='ignore')
 
         # Look up primary language
-        emm_hu_book = next((b for b in song_yaml['books'] if b['id'] == 'emm_hu'), None)
+        emm_hu_book = self._get_book_from_yaml(song_yaml, 'emm_hu')
         if emm_hu_book is None:
             return
 
         # Look up lyrics for primary language
-        song_lyrics = next(l for l in song_yaml['lyrics'] if l['lang'] == emm_hu_book['lang'])
+        song_lyrics = self._get_lyrics_from_yaml(song_yaml, emm_hu_book['lang'])
 
         # Assemble song
         self._dtx_lines.append(">" + emm_hu_book['number'] + " - " + song_lyrics['title'])

@@ -27,7 +27,7 @@ class EmmaSongsConverter(AbstractConverter):
         self._preprocessor.preprocess(song_yaml, flatten=False, soft_line_break_strategy='ignore')
 
         # Find Hungarian book, check if 9##, E* or I*
-        hun_book = next((b for b in song_yaml['books'] if b['id'] == 'emm_hu'), None)
+        hun_book = self._get_book_from_yaml(song_yaml, 'emm_hu')
         if hun_book is None \
                 or (hun_book['number'].startswith('9') and len(hun_book['number']) == 3) \
                 or hun_book['number'].startswith('E') or hun_book['number'].startswith('I'):
@@ -35,12 +35,12 @@ class EmmaSongsConverter(AbstractConverter):
 
         # Skip if song number is 7## (alleluia) and French book doesn't exist
         if hun_book['number'].startswith('7') and len(hun_book['number']) == 3:
-            fr_book = next((b for b in song_yaml['books'] if b['id'] == 'emm_fr'), None)
+            fr_book = self._get_book_from_yaml(song_yaml, 'emm_fr')
             if fr_book is None:
                 return
 
         # Find Hungarian lyrics
-        hun_lyrics = next((l for l in song_yaml['lyrics'] if l['lang'] == 'hu'), None)
+        hun_lyrics = self._get_lyrics_from_yaml(song_yaml, 'hu')
         if hun_lyrics is None:
             return
 
@@ -69,7 +69,7 @@ class EmmaSongsConverter(AbstractConverter):
         self._set_tabstops(p)
 
         # Add title line
-        fr_book = next((b for b in song_yaml['books'] if b['id'] == 'emm_fr'), None)
+        fr_book = self._get_book_from_yaml(song_yaml, 'emm_fr')
         if fr_book is None:
             fr_songno = ""
         else:

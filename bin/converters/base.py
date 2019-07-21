@@ -52,4 +52,12 @@ class AbstractConverter:
         else:
             result.append(lines[first_unprocessed:])
         return result
+
+    @staticmethod
+    def _get_book_from_yaml(song_yaml, book_id):
+        return next((b for b in song_yaml['books'] if b['id'] == book_id), None)
+
+    @staticmethod
+    def _get_lyrics_from_yaml(song_yaml, lang_id):
+        return next((l for l in song_yaml['lyrics'] if l['lang'] == lang_id), None)
     

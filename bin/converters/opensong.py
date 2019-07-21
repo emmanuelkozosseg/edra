@@ -39,7 +39,7 @@ class OpenSongConverter(AbstractConverter):
                 continue
 
             # Look for the language of this book
-            lang_yaml = next((l for l in song_yaml['lyrics'] if l['lang'] == book['lang']), None)
+            lang_yaml = self._get_lyrics_from_yaml(song_yaml, book['lang'])
             if lang_yaml is None:
                 raise Exception("Book {} in song '{}' uses undefined language {}.".format(book['id'], filepath, book['lang']))
 
