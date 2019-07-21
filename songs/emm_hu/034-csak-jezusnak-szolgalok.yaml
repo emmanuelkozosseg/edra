@@ -25,19 +25,37 @@ lyrics:
         lines:
           - Áldjad lelkem Őt, dicsérd Teremtőd
           - most és mindörökké, ámen!
-          - Áldja minden nép, | dicsérd szent nevét
+          - Áldja minden nép, | dicsérd szent nevét,
           - most és mindörökké, ámen!
       - name: v2
         lines:
-          - Hálát adjatok, áldást mondjatok
+          - Hálát adjatok, áldást mondjatok,
           - most és mindörökké, ámen!
-          - Egyházad dicsér nagy jóságodért
+          - Egyházad dicsér nagy jóságodért,
           - most és mindörökké, ámen!
       - name: v3
         lines:
-          - Áldott légy, Atya egyszülött Fia
+          - Áldott légy, Atya és egyszülött Fiad,
           - most és mindörökké, ámen!
-          - Éltető Lélek, Téged dicsérlek
+          - Éltető Lélek, Téged dicsérlek,
+          - most és mindörökké, ámen!
+      - name: v4
+        lines:
+          - Erős vár az Úr, menedéket nyújt,
+          - most és mindörökké, ámen!
+          - Áldott irgalom, véred oltalom,
+          - most és mindörökké, ámen!
+      - name: v5
+        lines:
+          - Hatalmas az Úr, jóságos az Úr,
+          - most és mindörökké, ámen!
+          - Szívem áldja Őt, ujjongjon a Föld,
+          - most és mindörökké, ámen!
+      - name: v6
+        lines:
+          - Szentek, angyalok, szeráfkórusok,
+          - most és mindörökké, ámen,
+          - Néked zengenek, így ünnepelnek,
           - most és mindörökké, ámen!
 chords:
   - template: c
