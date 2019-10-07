@@ -50,6 +50,17 @@ lyrics:
           - dicsérem Istent mindenkor.
           - Az Úrban bízom napról-napra,
           - mivel csak Ő a Szabadítóm.
+      - name: v4
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - La la la...
+              - La la la...
+          - Ujjongva áldom minden percben,
+          - dicsérem Istent mindenkor.
+          - Az Úrban bízom napról-napra,
+          - mivel csak Ő a Szabadítóm.
 chords:
   - template: v
     lines:

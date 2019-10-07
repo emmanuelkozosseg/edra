@@ -1,0 +1,38 @@
+books:
+  - id: emm_hu
+    chapter: e_egyeb
+    number: E34
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Az vagyok, kinek Te hívsz
+    verses:
+      - name: v1
+        lines:
+          - Ki vagyok, mondd,
+          - ha a nagy király fogadott engem?
+          - Elvesztem, de Ő megtalált
+          - és mellém állt, Jézus mellém állt.
+      - name: c1
+        lines:
+          - Akit Ő megvált, az szabaddá vált;
+          - engem gyermekké fogadtál.
+      - name: v2
+        lines:
+          - 'Így szólt Ő:'
+          - „Jöjj, légy szabad, irgalmam nagy!”
+          - Bűnömben csak rab voltam,
+          - Jézus értem halt, igen, értem halt.
+      - name: c2
+        lines:
+          - Akit Ő megvált, az szabaddá vált;
+          - engem gyermekké fogadtál.
+          - Atyám, házadban helyet szánsz nekem;
+          - engem gyermekké fogadtál.
+      - name: b
+        lines:
+          - Jónak láttál, el nem hagytál,
+          - ó, az vagyok, kinek te hívsz.
+          - Mindig érzem, Te vagy értem,
+          - az vagyok, kinek te hívsz,
+          - igen, az vagyok, kinek te hívsz!
