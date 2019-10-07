@@ -26,8 +26,9 @@ class SongPreprocessor:
                     self._process_soft_line_breaks(verse, soft_line_break_strategy)
                 if hard_break_strategy is not None:
                     self._process_hard_breaks(verse, hard_break_strategy)
-
-        del song_yaml['chords']
+        
+        if 'chords' in song_yaml:
+            del song_yaml['chords']
 
     @staticmethod
     def _flatten_verse(verse):
@@ -49,7 +50,7 @@ class SongPreprocessor:
 
     def _process_soft_line_breaks(self, verse, mode):
         if mode == 'break':
-            split_lines = (self._RE_LINE_SYMBOLS.split(l) for l in verse['lines'] if l is not None)
+            split_lines = (self._RE_LINE_SYMBOLS.split(l) if l is not None else [None] for l in verse['lines'])
             verse['lines'] = [l for split_line in split_lines for l in split_line]
         elif mode == 'ignore':
             for i, line in enumerate(verse['lines']):
