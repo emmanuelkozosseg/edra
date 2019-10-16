@@ -26,9 +26,13 @@ def main():
             if not yaml_file.endswith('.yaml') or yaml_file.startswith('_'):
                 continue
             yaml_file_path = os.path.join(root, yaml_file)
-            with open(yaml_file_path, "rt") as f:
-                song_yaml = yaml.load(f)
-            converter.convert(song_yaml, filepath=yaml_file_path)
+            try:
+                with open(yaml_file_path, "rt") as f:
+                    song_yaml = yaml.load(f)
+                converter.convert(song_yaml, filepath=yaml_file_path)
+            except:
+                logging.error("Failed to process file: "+yaml_file_path)
+                raise
     converter.finish()
 
     logging.info("--- Completed. ---")
