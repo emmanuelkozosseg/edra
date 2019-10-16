@@ -5,5 +5,7 @@ pipelines:
     - step:
         name: Build and deploy
         script:
+          # Because the wkhtmltopdf version from apt-get doesn't work headlessly
+          - apt-get install libxrender1 && wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_linux-generic-amd64.tar.xz && tar -xvf wkhtmltox-0.12.4_linux-generic-amd64.tar.xz && mv wkhtmltox/bin/wkhtmltopdf /usr/bin/wkhtmltopdf && chmod a+x /usr/bin/wkhtmltopdf
           - pip install ruamel.yaml python-docx pdfkit natsort --upgrade
           - bash bin/build.sh
