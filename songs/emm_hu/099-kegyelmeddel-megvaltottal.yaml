@@ -1,8 +1,11 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E29
+    chapter: 0_dics
+    number: '99'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E29
 lyrics:
   - lang: hu
     title: Kegyelmeddel megváltottál

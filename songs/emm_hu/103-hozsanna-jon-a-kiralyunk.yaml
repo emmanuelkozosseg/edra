@@ -1,8 +1,11 @@
 books:
   - id: emm_hu
     chapter: 0_dics
-    number: '97'
+    number: '103'
     lang: hu
+    former_numbers:
+      - chapter: 0_dics
+        number: '97'
 lyrics:
   - lang: hu
     title: Hozsanna, jön a királyunk

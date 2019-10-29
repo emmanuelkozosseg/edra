@@ -1,8 +1,11 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E1
+    chapter: 0_dics
+    number: '100'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E1
 lyrics:
   - lang: hu
     title: Lelkem, áldd az Urat

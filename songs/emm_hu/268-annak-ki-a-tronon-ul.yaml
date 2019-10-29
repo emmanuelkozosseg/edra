@@ -1,8 +1,11 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E12
+    chapter: 2_br
+    number: '268'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E12
 lyrics:
   - lang: hu
     title: Annak, ki a trónon ül

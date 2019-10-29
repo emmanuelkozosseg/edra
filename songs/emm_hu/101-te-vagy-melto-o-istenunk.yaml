@@ -1,8 +1,11 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E23
+    chapter: 0_dics
+    number: '101'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E23
 lyrics:
   - lang: hu
     title: Te vagy méltó, ó, Istenünk

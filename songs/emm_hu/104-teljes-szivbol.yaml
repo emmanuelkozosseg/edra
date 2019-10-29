@@ -1,8 +1,11 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E31
+    chapter: 0_dics
+    number: '104'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E31
 lyrics:
   - lang: hu
     title: Teljes szívből

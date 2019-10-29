@@ -1,8 +1,11 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E14
+    chapter: 0_dics
+    number: '105'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E14
 lyrics:
   - lang: hu
     title: Kiáltok az Úrhoz

@@ -1,8 +1,11 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E34
+    chapter: 0_dics
+    number: '106'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E34
 lyrics:
   - lang: hu
     title: Az vagyok, kinek Te hívsz

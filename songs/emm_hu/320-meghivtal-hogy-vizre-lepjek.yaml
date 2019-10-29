@@ -1,8 +1,11 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E20
+    chapter: 3_szl
+    number: '320'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E20
   - id: eeym17
     number: '24'
     lang: en

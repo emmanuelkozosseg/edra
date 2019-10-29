@@ -1,8 +1,11 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E7
+    chapter: 3_szl
+    number: '319'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E7
 lyrics:
   - lang: hu
     title: A Szentlélek leszáll

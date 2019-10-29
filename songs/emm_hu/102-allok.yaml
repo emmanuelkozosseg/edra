@@ -1,8 +1,11 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E3
+    chapter: 0_dics
+    number: '102'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E3
   - id: eeym17
     number: '26'
     lang: en
