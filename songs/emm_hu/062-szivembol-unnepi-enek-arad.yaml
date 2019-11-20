@@ -15,7 +15,7 @@ lyrics:
       c_holder: Emmánuel Közösség
       c_year: 2009
     verses:
-      - name: c1
+      - name: v1
         lines:
           - Szívemből ünnepi ének árad,
           - háladalt éneklek az ég Urának.
@@ -23,49 +23,49 @@ lyrics:
           - jósága körülvesz szárnyként engem.
           - Adjatok hálát az Istennek!
           - Adjatok hálát az Istennek!
-      - name: c2
+      - name: v2
         lines:
           - Ő a mi teremtő Királyunk,
           - alle-alleluja, alleluja, allelluja!
           - Hála legyen, hála legyen,
           - hála, áldott az Úr!
-      - name: v1
+      - name: v3
         lines:
           - Oly jó áldani az Urat!
           - Ujjongóan jó Istennek
           - zengeni zsoltárokat!
-      - name: v2
+      - name: v4
         lines:
           - Már kora reggelen jóságát,
           - éjszakákon át hirdetem
           - szüntelen nagy irgalmát!
-      - name: v3
+      - name: v5
         lines:
           - Pengő hangszeren, lantokon,
           - ujjongóan jó lelkesen
           - zengeni a hálaszót!
-      - name: v4
+      - name: v6
         lines:
           - Az öröm hangjai szóljanak,
           - gitár húrjain magasztalom
           - ujjongva csodáidat!
-      - name: v5
+      - name: v7
         lines:
           - Uram, jó voltál énhozzám,
           - életemben nagy dolgokat
           - műveltél sok év során!
-      - name: v6
+      - name: v8
         lines:
           - Sziklám, oltalmam Te voltál,
           - oly irgalmasan jó, gondoskodó
           - Istenem, égi Atyám!
-      - name: v7
+      - name: v9
         lines:
           - Hála, dicsőség nevednek,
           - most és örökké az égben,
           - a földön! Ámen.
 chords:
-  - template: c1
+  - template: v1
     lines:
       - [F, C, F, C]
       - [G, F, C]
@@ -73,7 +73,7 @@ chords:
       - [Dm, F, Dm7, G7, C]
       - [Dm, G7, C]
       - [G7, C]
-  - template: c2
+  - template: v2
     lines:
       - [C7, F, G]
       - [D, G, F, C, F, C, H7]
