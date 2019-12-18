@@ -3,6 +3,9 @@ books:
     chapter: 3_szl
     number: '317'
     lang: hu
+  - id: eeym17
+    number: '27'
+    lang: en
   - id: emm_fr
     number: 16-18
 about:
@@ -47,6 +50,35 @@ lyrics:
           - Rád hagyatkozunk,
           - csak jöjj, mutasd utunk,
           - ó, jöjj, mert vár Terád a föld!
+  - lang: en
+    title: Come Holy Spirit, come and set our world
+    verses:
+      - name: c
+        lines:
+          - Come, Holy Spirit,
+          - Come and set our world on fire!
+          - Come, Holy Spirit,
+          - Come set us ablaze!
+      - name: v1
+        lines:
+          - Fill us with your love,
+          - renew in us the faith
+          - And come, and set our hearts on fire!
+      - name: v2
+        lines:
+          - Guide in us the truth,
+          - reveal to us the Son,
+          - And come, and set our hearts on fire!
+      - name: v3
+        lines:
+          - Fill us with your strength
+          - and send us in the world,
+          - And come, and set our hearts on fire!
+      - name: v4
+        lines:
+          - Power from above,
+          - come help us to be free,
+          - To tell that Jesus is the Lord!
 chords:
   - template: c
     lines:

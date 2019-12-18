@@ -3,6 +3,9 @@ books:
     chapter: 4_maria
     number: '408'
     lang: hu
+  - id: eeym17
+    number: '34'
+    lang: en
   - id: emm_fr
     number: 14-10
 about:
@@ -60,6 +63,59 @@ lyrics:
           - futhatunk tehozzád,
           - Istenünk előtt állva
           - Te értünk közbenjársz.
+  - lang: en
+    title: Hail Queen of Heaven
+    verses:
+      - name: c
+        lines:
+          - Hail Queen of Heav’n, You are beyond compare,
+          - Mary, full of grace, enrob’d with the sun,
+          - Crown’d with the stars the moon is at your feet,
+          - For our salvation’s dawn we have received in you.
+      - name: v1
+        lines:
+          - Mother Mary new Eve,
+          - you’re the joy of our Lord,
+          - You gave birth to our God,
+          - our Saviour Jesus Christ.
+          -
+          - You have opened to us,
+          - all we lost through our sin;
+          - guide us all on our way,
+          - bright star of the morn.
+      - name: v2
+        lines:
+          - Mary, you still believed,
+          - at the foot of the cross.
+          - Keep us firm in our hope,
+          - protect our faith in Him.
+          -
+          - From the side of your Son,
+          - you have drawn for us all,
+          - Streams of life and of grace
+          - poured out for all the world.
+      - name: v3
+        lines:
+          - O the great joy of Eve,
+          - when you were lifted up,
+          - Higher than all the angels,
+          - ev’n higher than the clouds.
+          -
+          - Mother Mary our Queen,
+          - o how great is our joy,
+          - Contemplating in you
+          - the promise of God’s life.
+      - name: v4
+        lines:
+          - O Immaculate Queen,
+          - virgin free from all sin,
+          - With your body and soul,
+          - you entered into heav’n.
+          -
+          - You were carried in glory,
+          - Queen of heaven you’re blest,
+          - You will welcome us all,
+          - the day when we see God.
 chords:
   - template: c
     lines:

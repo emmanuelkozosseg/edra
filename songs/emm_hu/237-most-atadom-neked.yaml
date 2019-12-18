@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '237'
     lang: hu
+  - id: eeym17
+    number: '46'
+    lang: en
   - id: emm_fr
     number: 14-30
 about:
@@ -38,6 +41,27 @@ lyrics:
           - Testem, lelkem is néked él.
           - Nem vágyom másra, csak hogy Veled éljek.
           - Kezedbe teszem egész életem.
+  - lang: en
+    title: My God, I abandon
+    verses:
+      - name: v1
+        lines:
+          - My God, I abandon my life into your hands.
+          - Do with me only what You will.
+          - I’m ready for all. I accept all things.
+          - Do what You will, Lord, with my thanks.
+      - name: c
+        lines:
+          - For You are my Father,
+          - my life is in your hands.
+          - For You are my Father,
+          - I put my trust in You.
+      - name: v2
+        lines:
+          - My God, I entrust everything I have to You,
+          - In your hands I place my soul.
+          - With all my heart I offer it to You,
+          - I have one desire, Your will be done.
 chords:
   - template: v
     lines:
