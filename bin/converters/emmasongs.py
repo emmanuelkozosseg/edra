@@ -26,10 +26,9 @@ class EmmaSongsConverter(AbstractConverter):
         chords = song_yaml.get('chords')
         self._preprocessor.preprocess(song_yaml, flatten=False, soft_line_break_strategy='ignore')
 
-        # Find Hungarian book, check if 9##, E* or I*
+        # Find Hungarian book, check if E* or I*
         hun_book = self._get_book_from_yaml(song_yaml, 'emm_hu')
         if hun_book is None \
-                or (hun_book['number'].startswith('9') and len(hun_book['number']) == 3) \
                 or hun_book['number'].startswith('E') or hun_book['number'].startswith('I'):
             return
 
@@ -165,18 +164,18 @@ class EmmaSongsConverter(AbstractConverter):
                     if line_chords is not None:
                         # If all repetitions are uniform, then we can just copy the chords as normal.
                         if line_chords['type'] == 'uniform':
-                            printed_line += '\t' + ' '.join(line_chords['lines'][gi])
+                            printed_line += '\t' + ' '.join(self._remove_placeholders_from_chord_list(line_chords['lines'][gi]))
                         # Otherwise, we need to specify all iterations.
                         elif line_chords['type'] == 'unique':
                             # First, let's check if all repetitions have the same chords for this line,
                             # because then we don't need to list them all.
                             if self._list_elems_all_same(c[gi] for c in line_chords['repetitions']):
-                                printed_line += '\t' + ' '.join(line_chords['repetitions'][0][gi])
+                                printed_line += '\t' + ' '.join(self._remove_placeholders_from_chord_list(line_chords['repetitions'][0][gi]))
                             else:
                                 # They're different, so we'll need to list them on separate lines, with (1), (2), ... prefixes for the repetitions.
                                 repetition_chords = []
                                 for rid, repetition in enumerate(line_chords['repetitions']):
-                                    repetition_chords.append("\t(" + str(rid+1) + ") " + ' '.join(repetition[gi]))
+                                    repetition_chords.append("\t(" + str(rid+1) + ") " + ' '.join(self._remove_placeholders_from_chord_list(repetition[gi])))
                                 printed_line += '\n'.join(repetition_chords)
                         else:
                             raise Exception("Unknown repeat type: "+line_chords['type'])
@@ -186,9 +185,13 @@ class EmmaSongsConverter(AbstractConverter):
                 # This is a simple line
                 printed_line = line
                 if line_chords is not None:
-                    printed_line += "\t" + ' '.join(line_chords)
+                    printed_line += "\t" + ' '.join(self._remove_placeholders_from_chord_list(line_chords))
                 printed_lines.append(printed_line)
         return printed_lines
+
+    @staticmethod
+    def _remove_placeholders_from_chord_list(chord_list):
+        return (c for c in chord_list if c != '_')
 
     @staticmethod
     def _get_printed_verse_name(verse_name):

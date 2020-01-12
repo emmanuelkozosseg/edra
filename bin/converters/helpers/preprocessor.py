@@ -4,6 +4,8 @@ import re
 
 class SongPreprocessor:
     _RE_LINE_SYMBOLS = re.compile(r" ?[|] ?")
+    _RE_CHORD_ANCHORS = re.compile(r"\^")
+    _RE_MULTIPLE_SPACES = re.compile(r" {2,}")
 
     def preprocess(self, song_yaml,
                    flatten=False,
@@ -20,6 +22,7 @@ class SongPreprocessor:
         """
         for lang in song_yaml['lyrics']:
             for verse in lang['verses']:
+                self._remove_chord_anchors(verse)
                 if flatten:
                     self._flatten_verse(verse)
                 if soft_line_break_strategy is not None:
@@ -29,6 +32,19 @@ class SongPreprocessor:
         
         if 'chords' in song_yaml:
             del song_yaml['chords']
+
+    def _remove_chord_anchors(self, verse):
+        def process_line(l):
+            return self._RE_MULTIPLE_SPACES.sub(" ", self._RE_CHORD_ANCHORS.sub("", l)).strip()
+        for i, line in enumerate(verse['lines']):
+            if line is None:
+                continue
+            if isinstance(line, collections.Mapping):
+                group_lines = line['lines']
+                for j, grp_line in enumerate(group_lines):
+                    group_lines[j] = process_line(grp_line)
+            else:
+                verse['lines'][i] = process_line(line)
 
     @staticmethod
     def _flatten_verse(verse):

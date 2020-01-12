@@ -18,16 +18,32 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - Add a kezed, hogy zengjünk az Úrnak,
-          - zengjünk az Úrnak alleluját!
-          - Add a kezed, hogy zengjünk az Úrnak,
-          - zengjünk az Úrnak alleluját!
+          - ^Add a kezed, hogy ^zengjünk az ^Úrnak,
+          - ^zengjünk az ^Úrnak ^alleluját!
+          - ^Add a kezed, hogy ^zengjünk az ^Úrnak,
+          - ^zengjünk az ^Úrnak ^allelu^ját!
       - name: c
         lines:
-          - /:Alleluja, alleluja, alleluja, alleluja:/
+          - group: repeat
+            times: 2
+            lines:
+              - ^ Alleluja, ^ alleluja, ^ alleluja, ^alleluja!
       - name: v2
         lines:
-          - Kitárt karokkal mindenki áldja,
-          - mindenki áldja az élet Urát!
-          - Ujjongó szívvel zengjünk az úrnak,
-          - zengjünk az Úrnak alleluját!
+          - ^Kitárt karokkal ^mindenki ^áldja,
+          - ^mindenki ^áldja az ^élet Urát!
+          - ^Ujjongó szívvel ^zengjünk az ^Úrnak,
+          - ^zengjünk az ^Úrnak ^allelu^ját!
+chords:
+  - template: v
+    lines:
+      - [E, A, E]
+      - [A, E, H7]
+      - [E, A, E]
+      - [A, E, H7, E]
+  - template: c
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - [A, E, H7, E]

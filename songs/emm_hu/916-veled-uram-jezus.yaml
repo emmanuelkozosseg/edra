@@ -5,7 +5,7 @@ books:
     lang: hu
 lyrics:
   - lang: hu
-    title: Veled, Uram Jézus
+    title: Veled, Uram, Jézus
     about:
       adapted_by: Balaton A.
       c_holder: Emmánuel Közösség
@@ -13,9 +13,12 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - Veled, Uram Jézus,veled, Uram Jézus,
+          - Veled, Uram, Jézus,
+          - veled, Uram, Jézus,
           - mindnyájan győzni fogunk!
-          - Veled, Uram Jézus,veled, Uram Jézus,
+          - ""
+          - Veled, Uram, Jézus,
+          - veled, Uram, Jézus,
           - a gonoszt legyőztük már!
       - name: v2
         lines:
@@ -23,3 +26,19 @@ lyrics:
           - utamat Ővele járom.
           - Jézus az erőm, én Üdvözítőm,
           - nála az élet vár!
+chords:
+  - template: v1
+    lines:
+      - [D]
+      - [D]
+      - [A]
+      - 
+      - [A]
+      - [A]
+      - [D]
+  - template: v2
+    lines:
+      - [G, D]
+      - [A, D]
+      - [G, D]
+      - [A, D]

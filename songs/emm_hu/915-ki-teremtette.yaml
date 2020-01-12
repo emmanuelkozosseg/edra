@@ -1,0 +1,55 @@
+books:
+  - id: emm_hu
+    chapter: 9_mozg
+    number: '915'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Ki teremtette?
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
+    verses:
+      - name: v1
+        lines:
+          - Ki teremtette ezt a világot,
+          - ezt a világot, az egész világot?
+          - Ki teremtette ezt a világot?
+          - Atyánk, Istenünk!
+      - name: v2
+        lines:
+          - Ki teremtette a hullámzó tengert,
+          - a hullámzó tengert, a hullámzó tengert?
+          - Ki teremtette a hullámzó tengert?
+          - Atyánk, Istenünk!
+      - name: v3
+        lines:
+          - Ki teremtette a csillagot az égen,
+          - a csillagot az égen, a csillagot az égen?
+          - Ki teremtette a csillagot az égen?
+          - Atyánk, Istenünk!
+      - name: v4
+        lines:
+          - Ki teremtette a repülő madárkát,
+          - a repülő madárkát, a repülő madárkát?
+          - Ki teremtette a repülő madárkát?
+          - Atyánk, Istenünk!
+      - name: v5
+        lines:
+          - Ki teremtett meg téged, őt és engem,
+          - téged, őt és engem, téged, őt és engem?
+          - Ki teremtett meg téged, őt és engem?
+          - Atyánk, Istenünk!
+      - name: v6
+        lines:
+          - Ki teremtette ezt a világot,
+          - a hullámzó tengert, repülő madárkát?
+          - Ki teremtett meg téged, őt és engem?
+          - Atyánk, Istenünk!
+chords:
+  - template: all
+    lines:
+      - [D, E, A]
+      - [E7, A]
+      - [D, E, A]
+      - [D, E, A]

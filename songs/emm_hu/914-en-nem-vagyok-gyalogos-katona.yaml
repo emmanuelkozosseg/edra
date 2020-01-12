@@ -1,0 +1,27 @@
+books:
+  - id: emm_hu
+    chapter: 9_mozg
+    number: '914'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Én nem vagyok gyalogos katona
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
+    verses:
+      - name: v1
+        lines:
+          - ^Én nem vagyok gyalogos katona,
+          - ^hadsereg lovasa, ^nem lövök célpontra.
+          - ^Én nem vagyok repülő pilóta,
+          - az ^Istennek ^szolgá^lok!
+          - Ó, igen!
+chords:
+  - template: all
+    lines:
+      - [G]
+      - [D, G]
+      - [G]
+      - [D, D7, G]
+      - []

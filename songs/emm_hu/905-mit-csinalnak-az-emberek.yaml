@@ -5,7 +5,7 @@ books:
     lang: hu
 lyrics:
   - lang: hu
-    title: Mit csinálnak az emberek
+    title: Mit csinálnak az emberek?
     about:
       adapted_by: Fábry K.
       c_holder: Emmánuel Közösség
@@ -13,13 +13,68 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - Lalalala Lalalalalala
-          - 1. Mit csinálnak az emberek?
-          - Dicsérik Istenük!
-          - Alleluja, alleluja,
-          - Dicsőség néked, Istenünk!
-          - Alleluja, alleluja, Dicsőség Neked!
-          - 2. Mit csinálnak az asszonyok?
-          - 3. Mit csinálnak a férfiak?
-          - 4. Mit csinálnak a gyermekek?
-          - 5. Mit csinálnak a papok?
+          - group: repeat
+            times: 2
+            lines:
+              - ^La-la-la-la, ^la-la-la-^la
+          - ^Mit csinálnak az emberek?
+          - ^Dicsérik ^Istenük!
+      - name: c
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - Alle^luja, alleluja,
+              - ^dicsőség néked, ^Istenünk!
+              - Alle^luja, alleluja,
+              - ^dicsőség ne^ked!
+      - name: v2
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - ^La-la-la-la, ^la-la-la-^la
+          - ^Mit csinálnak az asszonyok?
+          - ^Dicsérik ^Istenük!
+      - name: v3
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - ^La-la-la-la, ^la-la-la-^la
+          - ^Mit csinálnak a férfiak?
+          - ^Dicsérik ^Istenük!
+      - name: v4
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - ^La-la-la-la, ^la-la-la-^la
+          - ^Mit csinálnak a gyermekek?
+          - ^Dicsérik ^Istenük!
+      - name: v5
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - ^La-la-la-la, ^la-la-la-^la
+          - ^Mit csinálnak a papok?
+          - ^Dicsérik ^Istenük!
+chords:
+  - template: v
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - [G, D, G]
+      - [G]
+      - [D, G]
+  - template: c
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - [C]
+          - [D, G]
+          - [C]
+          - [D, G]

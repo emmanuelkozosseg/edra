@@ -12,20 +12,30 @@ lyrics:
     verses:
       - name: c
         lines:
-          - Kopp, kopp, kopp, ki kopog az ajtón?
-          - Kopp, kopp, kopp, ki van odakint?
+          - ^Kopp, kopp, kopp, ^ki ko^pog az ^ajtón?
+          - ^Kopp, kopp, kopp, ^ki van oda^kint?
       - name: v1
         lines:
-          - Az ördög, ő akar bejönni.
-          - Nem! Nem! Nem!
-          - Zárva a szívem!
+          - ^Az ördög, ő a^kar be^jönni.
+          - ^Nem! ^Nem! ^Nem!
+          - ^Zárva ^a szí^vem!
       - name: v2
         lines:
-          - Mária, ő akar bejönni.
-          - Igen! Igen! Igen!
-          - Jöjj, segíts nekem!
+          - ^Mária, ő a^kar be^jönni.
+          - ^Igen! ^Igen! ^Igen!
+          - ^Jöjj, se^gíts ne^kem!
       - name: v3
         lines:
-          - Ő Jézus, ő akar bejönni.
-          - Igen! Igen! Igen!
-          - Nyitva a szívem!
+          - Ő Jézus, ő a^kar be^jönni.
+          - ^Igen! ^Igen! ^Igen!
+          - ^Nyitva ^a szí^vem!
+chords:
+  - template: c
+    lines:
+      - [A, D, A, E]
+      - [D, E, A]
+  - template: v
+    lines:
+      - [A, E, D]
+      - [D, E, A]
+      - [A, E, A]

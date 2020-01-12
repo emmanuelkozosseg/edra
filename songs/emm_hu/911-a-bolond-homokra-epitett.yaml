@@ -1,0 +1,67 @@
+books:
+  - id: emm_hu
+    chapter: 9_mozg
+    number: '911'
+    lang: hu
+about:
+  c_holder: Bencés Kiadó
+  c_year: 1999
+lyrics:
+  - lang: hu
+    title: A bolond homokra épített
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
+    verses:
+      - name: v1
+        lines:
+          - group: repeat
+            times: 3
+            lines:
+              - A bolond homokra épített,
+          - és a ház erősen állt.
+      - name: v2
+        lines:
+          - group: repeat
+            times: 3
+            lines:
+              - De jött az eső és fújt a szél,
+          - és a háza összedőlt.
+      - name: v3
+        lines:
+          - group: repeat
+            times: 3
+            lines:
+              - Az okos sziklára épített,
+          - és a ház erősen állt.
+      - name: v4
+        lines:
+          - group: repeat
+            times: 3
+            lines:
+              - És jött az eső és fújt a szél,
+          - és a ház erősen állt.
+      - name: v5
+        lines:
+          - group: repeat
+            times: 3
+            lines:
+              - Te is építsd életed Krisztusra,
+          - és a ház erősen áll.
+      - name: v6
+        lines:
+          - group: repeat
+            times: 3
+            lines:
+              - És jöhet az eső, és fújhat a szél,
+          - és a ház örökre áll!
+chords:
+  - template: all
+    lines:
+      - group: repeat
+        type: unique
+        repetitions:
+          - - [F, C]
+          - - [C, F]
+          - - [F, C]
+      - [C, C7, F]

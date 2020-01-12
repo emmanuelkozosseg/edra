@@ -1,0 +1,46 @@
+books:
+  - id: emm_hu
+    chapter: 9_mozg
+    number: '919'
+    lang: hu
+about:
+  c_holder: Emmausz Katolikus Közösség Marana Tha 2000 Alapítványa
+  c_year: 1993
+lyrics:
+  - lang: hu
+    title: Gloria, Gloria (kánon)
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
+    verses:
+      - name: v1
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - Glória, glória!
+      - name: v2
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - Glória, hozsanna, hozsanna, hozsanna!
+      - name: v3
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - Alleluja Jézusnak, alleluja!
+      - name: v4
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - Sanctus Dominus, Deus Sabaoth!
+chords:
+  - template: all
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - [E, A, E, A, E]

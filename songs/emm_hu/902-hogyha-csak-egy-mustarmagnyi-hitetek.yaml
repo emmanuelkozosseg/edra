@@ -1,0 +1,60 @@
+books:
+  - id: emm_hu
+    chapter: 9_mozg
+    number: '902'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Hogyha csak egy mustármagnyi hitetek
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
+    verses:
+      - name: v1
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - Hogyha csak ^mustármagnyi hitetek is ^volna,
+              - ^ezt mondotta a mi U^runk.
+      - name: v2
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - '^ És ha így ^szóltok a nagy he^gyekhez:'
+              - mozdulja^tok, mozdulja^tok,
+          - group: repeat
+            times: 4
+            lines:
+              - ^akkor a hegyek megindul^nak,
+              - megindulnak, megindul^nak.
+      - name: v3
+        lines:
+          - ^Jöjj el, jöjj el,
+          - ó, ^jöjj el, Szent^lélek!
+chords:
+  - template: v1
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - [Am, E]
+          - [E, Am]
+  - template: v2
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - [Am, Dm, Am]
+          - [E, Am]
+      - group: repeat
+        type: uniform
+        lines:
+          - [Am, E]
+          - [Am]
+  - template: v3
+    lines:
+      - [Am]
+      - [E, Am]

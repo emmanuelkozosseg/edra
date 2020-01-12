@@ -5,7 +5,7 @@ books:
     lang: hu
 lyrics:
   - lang: hu
-    title: Fejem, vállam, térdem...
+    title: Fejem, vállam, térdem, talpam
     about:
       c_holder: Emmánuel Közösség
       c_year: 2009
@@ -16,3 +16,10 @@ lyrics:
           - térdem, talpam, térdem, talpam,
           - fejem, vállam, térdem, talpam
           - mind az Úrnak szolgálnak.
+chords:
+  - template: all
+    lines:
+      - [G]
+      - []
+      - [G]
+      - [D, G]

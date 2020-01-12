@@ -12,19 +12,26 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - Nekem, nekem, nekem, Ő a mindenem.
-          - Segít, ha elfáradok, vígasztal, ha sírok.
-          - 'Nekem, nekem, nekem, Ő a mindenem:'
-          - Jézus, barátom, nekem, nekem, nekem.
+          - ^Nekem, nekem, nekem Ő a ^minde^nem.
+          - ^Segít, ha el^fáradok, ^vigasztal, ha sírok.
+          - '^Nekem, nekem, nekem Ő a ^minde^nem:'
+          - ^Jézus, barátom, ^nekem, nekem, nekem.
       - name: v2
         lines:
-          - Neked, neked, neked, Ő a mindened.
-          - Segít, ha elfáradsz, vígasztal, ha sírsz.
-          - 'Neked, neked, neked, Ő a mindened:'
-          - Jézus barátod, neked, neked, neked.
+          - ^Neked, neked, neked Ő a ^minde^ned.
+          - ^Segít, ha el^fáradsz, ^vigasztal, ha sírsz.
+          - '^Neked, neked, neked Ő a ^minde^ned:'
+          - ^Jézus, barátod, ^neked, neked, neked.
       - name: v3
         lines:
-          - Nekünk, nekünk, nekünk, Ő a mindenünk.
-          - Segít, ha elfáradunk, vígasztal, ha sírunk.
-          - 'Nekünk, nekünk, nekünk, Ő a mindenünk:'
-          - Jézus barátunk, nekünk, nekünk, nekünk.
+          - ^Nekünk, nekünk, nekünk Ő a ^minde^nünk.
+          - ^Segít, ha el^fáradunk, ^vigasztal, ha sírunk.
+          - '^Nekünk, nekünk, nekünk Ő a ^minde^nünk:'
+          - ^Jézus, barátunk, ^nekünk, nekünk, nekünk.
+chords:
+  - template: all
+    lines:
+      - [D, G, A]
+      - [A, A7, D]
+      - [D, G, A]
+      - [A, D]

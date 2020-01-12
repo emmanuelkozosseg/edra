@@ -1,0 +1,53 @@
+books:
+  - id: emm_hu
+    chapter: 9_mozg
+    number: '909'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Isten alkotta
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
+    verses:
+      - name: v1
+        lines:
+          - Isten alkotta az oroszlánokat,
+          - a medvét, a kengurut.
+          - Isten alkotta tevéket is,
+          - a tehenet, a tigrist.
+      - name: c
+        lines:
+          - group: repeat
+            times: 3
+            lines:
+              - Minden, amit alkotott jó,
+          - az Ő műve mind.
+      - name: v2
+        lines:
+          - Isten alkotta a füleimet is,
+          - a szemeim, az orrom.
+          - Isten alkotta az ujjaimat mind,
+          - a térdem s a lábam.
+      - name: v3
+        lines:
+          - Emeld föl kezed, álljál fél lábra,
+          - mosolyogj az Úrnak!
+          - Csípd meg orrodat, görbítsd az ujjad,
+          - 'fordulj körbe és zengd:'
+chords:
+  - template: v
+    lines:
+      - [D, Em]
+      - [A, D]
+      - [D, Em]
+      - [A, D]
+  - template: c
+    lines:
+      - group: repeat
+        type: unique
+        repetitions:
+          - - [G, D]
+          - - [Em, A7, D]
+          - - [Em, D]
+      - [A7, D]

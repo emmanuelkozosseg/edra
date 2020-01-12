@@ -1,0 +1,29 @@
+books:
+  - id: emm_hu
+    chapter: 9_mozg
+    number: '912'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Állj fel és kiáltsd
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
+    verses:
+      - name: v1
+        lines:
+          - ^Állj fel és kiáltsd,
+          - hogy ^szereted az Urat!
+          - ^Állj fel és kiáltsd,
+          - hogy ^szereted ^Őt!
+          - ^Tudni akarom, igen, ^tudni aka^rom,
+          - hogy ^szereted, ^szereted ^Őt.
+chords:
+  - template: all
+    lines:
+      - [D]
+      - [D]
+      - [D]
+      - [D, A]
+      - [D, G, D]
+      - [D, A, D]

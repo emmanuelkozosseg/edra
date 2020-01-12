@@ -1,0 +1,88 @@
+books:
+  - id: emm_hu
+    chapter: 9_mozg
+    number: '901'
+    lang: hu
+about:
+  lyrics: E. Rettino
+lyrics:
+  - lang: hu
+    title: Noé
+    about:
+      adapted_by: Fábry K.
+      c_holder: Emmánuel Közösség
+      c_year: 2009
+    verses:
+      - name: c
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - ^Mindnyájan együtt ^dicsérjük Istenünket!
+          - ^Örven^dezzünk, ^ mert Ő a ^mi Atyánk,
+          - s mi ^Isten ^gyermekei.^^^
+      - name: v1
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - '^Isten szólt: Noé! ^Hatalmas özönvíz jön!'
+          - '^Téged ^kérlek: ^ kérlek, ^mentsed meg az'
+          - ^Isten ^gyermekeit!^^^
+      - name: v2
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - ^Noé meg tüstént ^elkezdett építeni.
+          - ^A bár^kához ^ sok céd^rusfa kellett,
+          - ^Isten ^gyermekei!^^^
+      - name: v3
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - ^Az állatok be^szálltak kettesével.
+          - '^Az e^lefánt ^ és a ^kenguru:'
+          - ^Isten ^gyermekei!^^^
+      - name: v4
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - ^Esett az eső ^negyven nap és negyven éjjel.
+          - ^Az ál^latkák ^ majdnem ^megőrültek.
+          - ^Isten ^gyermekei!^^^
+      - name: v5
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - ^Felkelt a Nap is, ^hogy mindent kiszárítson.
+          - ^S a szá^razföld ^ újra ^befogadja
+          - ^Isten ^gyermekeit.^^^
+      - name: v6
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - ^Az állatok ki^szálltak hármasával.
+          - '^A kro^kodil ^ és a ^kismajom:'
+          - ^Isten ^gyermekei.^^^
+      - name: v7
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - ^Íme, most vége ^Noé történetének.
+          - ^És min^den jó, ^ ha a ^vége jó,
+          - ^Isten ^gyermekei!^^^
+chords:
+  - template: all
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - [C, F]
+      - [C, C7, F, Fm]
+      - [C, G7, C, G, C]

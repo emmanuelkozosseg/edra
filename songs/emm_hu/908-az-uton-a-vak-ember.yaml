@@ -1,0 +1,67 @@
+books:
+  - id: emm_hu
+    chapter: 9_mozg
+    number: '908'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Az úton a vak ember
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
+    verses:
+      - name: v1
+        lines:
+          - group: repeat
+            times: 3
+            lines:
+              - Az úton a vak ember ül és kiált.
+          - Ó-ó-ó, hol van az út,
+          - hol van a fény,
+          - az igazság, ami hazavisz?
+      - name: v2
+        lines:
+          - group: repeat
+            times: 3
+            lines:
+              - A béna is az úton ül és kiált.
+          - Ó-ó-ó, hol van az út,
+          - hol van a fény,
+          - az igazság, ami hazavisz?
+      - name: v3
+        lines:
+          - group: repeat
+            times: 3
+            lines:
+              - A néma is az úton ül és kiált.
+          - Ó-ó-ó, hol van az út,
+          - hol van a fény,
+          - az igazság, ami hazavisz?
+      - name: v4
+        lines:
+          - group: repeat
+            times: 3
+            lines:
+              - Mi mind csak ülünk és a szívünk kiált.
+          - Ó-ó-ó, hol van az út,
+          - hol van a fény,
+          - az igazság, ami hazavisz?
+      - name: v5
+        lines:
+          - group: repeat
+            times: 3
+            lines:
+              - De Jézus is ott ül és velünk kiált.
+          - Ó-ó-ó, én vagyok az út,
+          - az igazság
+          - és az élet, ami hazavisz.
+chords:
+  - template: all
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - [Em, D, C, H7]
+      - [H7, Em, D, C]
+      - [H7, Em, D, C]
+      - [H7, Em, D, C, H7]

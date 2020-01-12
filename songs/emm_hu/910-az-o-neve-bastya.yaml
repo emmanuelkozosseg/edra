@@ -1,0 +1,45 @@
+books:
+  - id: emm_hu
+    chapter: 9_mozg
+    number: '910'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Az Ő neve Bástya
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2009
+    verses:
+      - name: v1
+        lines:
+          - Áldott legyen az Úr neve,
+          - áldott legyen az Úr neve,
+          - áldott legyen az Úr neve örökké, örökké!
+          - ""
+          - Áldott legyen az Úr neve,
+          - áldott legyen az Úr neve,
+          - áldott legyen az Úr neve örökké!
+      - name: v2
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - Az Ő neve Bástya, erős Vár,
+              - az igaz hozzá fut és megmenekül.
+chords:
+  - template: v1
+    lines:
+      - [D]
+      - [Em, A7]
+      - [Fism, Hm, Em, A]
+      -
+      - [D]
+      - [Em, A7]
+      - [Fism, Hm, D]
+  - template: v2
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - [G, D]
+          - [A, G, D]
