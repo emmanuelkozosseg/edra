@@ -23,8 +23,7 @@ lyrics:
         lines:
           - Nagy neved hívom én,
           - és felnézek a vizek fölé.
-          - Ott látlak én,
-          - a lelkem Benned megpihen.
+          - Ott látlak én, | a lelkem Benned megpihen.
           - Enyém vagy és én tied.
       - name: v2
         lines:
@@ -34,12 +33,10 @@ lyrics:
           - Te nem hagysz el és nem inogsz meg.
       - name: b
         lines:
-          - Lélek, add, hogy benned
-          - teljesen megbízzak,
+          - Lélek, add, hogy benned | teljesen megbízzak,
           - a vízen bátran veled járjak,
           - és bárhová hívsz, menjek!
-          - Vigyél tovább,
-          - mint a lábam tudna menni,
+          - Vigyél tovább, | mint a lábam tudna menni,
           - taníts teljes hittel járni,
           - jelenlétedben élni!
   - lang: en
@@ -50,23 +47,19 @@ lyrics:
           - You call me out upon the waters
           - The great unknown where feet may fail
           - And there I find You in the mystery
-          - In oceans deep
-          - My faith will stand
-          - And I will call upon Your name
+          - In oceans deep my faith will stand
+      - name: c
+        lines:
+          - I will call upon Your name
           - And keep my eyes above the waves
           - When oceans rise, my soul will rest in Your embrace
           - For I am Yours and You are mine
       - name: v2
         lines:
           - Your grace abounds in deepest waters
-          - Your sovereign hand
-          - Will be my guide
+          - Your sovereign hand will be my guide
           - Where feet may fail and fear surrounds me
           - You've never failed and You won't start now
-          - So I will call upon Your name
-          - And keep my eyes above the waves
-          - When oceans rise, my soul will rest in Your embrace
-          - For I am Yours and You are mine
       - name: b
         lines:
           - Spirit lead me where my trust is without borders
@@ -75,3 +68,24 @@ lyrics:
           - Take me deeper than my feet could ever wander
           - And my faith will be made stronger
           - In the presence of my Savior
+chords:
+  - template: v
+    lines:
+      - [Hm, A, D]
+      - [A, G]
+      - [Hm, A, D]
+      - [A, G]
+  - template: c
+    lines:
+      - [G, D, A]
+      - [G, D, A]
+      - [G, D, A]
+      - [G, A, Hm, Hm/Cis, D, A, G]
+  - template: b
+    lines:
+      - [Hm, G]
+      - [D]
+      - [A]
+      - [Hm, G]
+      - [D]
+      - [A]

@@ -12,7 +12,26 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - '/: Annak, ki a trónon ül,'
-          - és a Báránynak! :/
-          - '/: Legyen áldás és dicsőség,'
-          - tisztelet és hatalom örökké! :/
+          - group: repeat
+            times: 2
+            lines:
+              - Annak, ki a trónon ül,
+              - és a Báránynak!
+          - group: repeat
+            times: 2
+            lines:
+              - Legyen áldás és dicsőség,
+              - tisztelet és hatalom örökké!
+chords:
+  - template: all
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - [A, Em]
+          - [D, A, A2, A]
+      - group: repeat
+        type: uniform
+        lines:
+          - [F]
+          - [G, A]
