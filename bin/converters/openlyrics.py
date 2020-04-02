@@ -3,6 +3,7 @@ import time
 from xml.etree import ElementTree
 
 from converters.base import AbstractConverter
+from converters.helpers import utils
 
 
 class OpenLyricsConverter(AbstractConverter):
@@ -10,11 +11,13 @@ class OpenLyricsConverter(AbstractConverter):
         super().__init__()
         self._from_dir = args.from_dir
         self._out_dir = args.to_dir
+        self._openlp = args.openlp
 
     @staticmethod
     def create_argparser(subparsers):
         parser_openlyrics = subparsers.add_parser("openlyrics", help="Converts to OpenLyrics format.")
         parser_openlyrics.add_argument("--to-dir", required=True, help="directory of target files; will be deleted if exists")
+        parser_openlyrics.add_argument("--openlp", action='store_true', help="adds adjustments for easier song management in OpenLP")
         return parser_openlyrics
 
     def setup(self):
@@ -43,7 +46,10 @@ class OpenLyricsConverter(AbstractConverter):
         ol_properties = ElementTree.SubElement(ol_song, 'properties')
         ol_titles = ElementTree.SubElement(ol_properties, 'titles')
         ol_title = ElementTree.SubElement(ol_titles, 'title')
-        ol_title.text = song_lyrics['title']
+        if self._openlp:
+            ol_title.text = utils.pad_song_number(emm_hu_book['number'])+" "+song_lyrics['title']
+        else:
+            ol_title.text = song_lyrics['title']
         ol_songbooks = ElementTree.SubElement(ol_properties, 'songbooks')
         ol_songbook = ElementTree.SubElement(ol_songbooks, 'songbook', attrib={
             'name': 'Jézus él!', 'entry': emm_hu_book['number']
@@ -61,8 +67,10 @@ class OpenLyricsConverter(AbstractConverter):
                 })
                 ol_lines = ElementTree.SubElement(ol_verse, 'lines')
                 is_first = True
+                if verse['name'].lower().startswith('c'):
+                    verse_part[0] = '{it}' + verse_part[0]
+                    verse_part[-1] += '{/it}'
                 for line in verse_part:
-                    line = self._clean_verse_line(line)
                     if is_first:
                         ol_lines.text = line
                         is_first = False

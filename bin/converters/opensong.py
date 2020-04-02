@@ -4,6 +4,7 @@ import re
 from xml.etree import ElementTree
 
 from converters.base import AbstractConverter
+from converters.helpers import utils
 
 
 class OpenSongConverter(AbstractConverter):
@@ -46,7 +47,7 @@ class OpenSongConverter(AbstractConverter):
             # Convert lang
             song_xml = self._lang_to_osxml(lang_yaml, book['number'])
 
-            song_xml_filename = self._pad_song_number_for_filename(book['number']) + " " + lang_yaml['title'].replace(".", "") + ".xml"
+            song_xml_filename = utils.pad_song_number(book['number']) + " " + lang_yaml['title'].replace(".", "") + ".xml"
 
             song_xml_dirpath = os.path.join(self._out_dir, self._books[book['id']]['name'])
             self._mkdirs_ignore_if_exists(song_xml_dirpath)
@@ -95,17 +96,6 @@ class OpenSongConverter(AbstractConverter):
     def _add_empty_elements(parent, element_names):
         for name in element_names:
             ElementTree.SubElement(parent, name)
-
-    def _pad_song_number_for_filename(self, song_no):
-        m = self._RE_SONG_NUMBER.match(song_no)
-        if not m:
-            raise Exception("Unsupported song number: {}".format(song_no))
-        prefix, number = m.groups()
-        if not prefix and len(number) < 3:
-            number = "0" * (3-len(number)) + number
-        if prefix and len(number) < 2:
-            number = "0" * (2-len(number)) + number
-        return prefix + number
     
     @staticmethod
     def _mkdirs_ignore_if_exists(dirpath):
