@@ -11,8 +11,20 @@ about:
   c_holder: Edition de l'Emmanuel
   c_year: 2003
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/01_2007.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/zengi-a-hajnal.mp3
     lang: hu
+    purpose: listening
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/zengi-a-hajnal-1.mp3
+    lang: hu
+    purpose: aid
+    note: 1. változat
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/zengi-a-hajnal-2.mp3
+    lang: hu
+    purpose: aid
+    note: 2. változat
 lyrics:
   - lang: hu
     title: Zengi a hajnal...

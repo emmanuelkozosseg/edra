@@ -11,8 +11,14 @@ about:
   c_holder: Edition de l'Emmanuel
   c_year: 2005
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/07_2007.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/nyisd-meg-szemem-uram.mp3
     lang: hu
+    purpose: listening
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/nyisd-meg-szemem-uram.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Nyisd meg szemem, Uram

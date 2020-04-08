@@ -10,6 +10,11 @@ about:
   lyrics: C. Blanchard
   c_holder: Edition de l'Emmanuel
   c_year: 1999
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/teged-dicser.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Téged dicsér

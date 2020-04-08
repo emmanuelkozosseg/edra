@@ -11,8 +11,14 @@ about:
   c_holder: Edition de l'Emmanuel
   c_year: 1997
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/a10_2001.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/jo-atyank.mp3
     lang: hu
+    purpose: listening
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/jo-atyank.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Jó Atyánk, néked minden dicsőség

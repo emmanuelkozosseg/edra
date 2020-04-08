@@ -4,8 +4,10 @@ books:
     number: '411'
     lang: la
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/16_2014.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/ave-maria.mp3
     lang: la
+    purpose: listening
 lyrics:
   - lang: la
     title: Ave Maria

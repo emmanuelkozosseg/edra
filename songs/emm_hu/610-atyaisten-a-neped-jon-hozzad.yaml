@@ -12,8 +12,10 @@ about:
   music: A. Broeders
   lyrics: A. Broeders
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/14_2014.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/atyaisten-a-neped-jon-hozzad.mp3
     lang: hu
+    purpose: listening
 lyrics:
   - lang: hu
     title: Atyaisten, a néped jön hozzád

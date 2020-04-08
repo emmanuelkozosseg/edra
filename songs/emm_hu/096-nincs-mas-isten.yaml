@@ -6,6 +6,11 @@ books:
 about:
   music: Ch. Tomlin, J. Reeves, J. Myrin
   lyrics: Ch. Tomlin, J. Reeves, J. Myrin
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/nincs-mas-isten.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Nincs más Isten

@@ -11,8 +11,14 @@ about:
   c_holder: Edition de l'Emmanuel
   c_year: 1997
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/10_2014.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/irgalmas-istenem.mp3
     lang: hu
+    purpose: listening
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/irgalmas-istenem.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Irgalmas Istenem

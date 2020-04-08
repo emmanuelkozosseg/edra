@@ -10,8 +10,14 @@ about:
   c_holder: Orange Caramel
   c_year: 1995
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/b07_2003.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/udvozlegy-maria.mp3
     lang: hu
+    purpose: listening
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/udvozlegy-maria.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Üdvözlégy Mária

@@ -11,8 +11,14 @@ about:
   c_holder: Edition de l'Emmanuel
   c_year: 1981
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2000_es_album/a04_2000.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/szentlelek-jojj-lobogo-lang.mp3
     lang: hu
+    purpose: listening
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/szentlelek-jojj-lobogo-lang.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Szentlélek, jöjj, lobogó Láng

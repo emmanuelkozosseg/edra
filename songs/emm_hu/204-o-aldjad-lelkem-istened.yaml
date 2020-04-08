@@ -11,8 +11,10 @@ about:
   c_holder: Edition de l'Emmanuel
   c_year: 1983
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2001_es_album/b03_2001.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/o-aldjad-lelkem-istened.mp3
     lang: hu
+    purpose: listening
 lyrics:
   - lang: hu
     title: Ó, áldjad, lelkem, Istened

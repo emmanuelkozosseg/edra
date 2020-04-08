@@ -9,6 +9,11 @@ books:
   - id: eeym17
     number: '24'
     lang: en
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/meghivtal-hogy-vizre-lepjek.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Meghívtál, hogy vízre lépjek

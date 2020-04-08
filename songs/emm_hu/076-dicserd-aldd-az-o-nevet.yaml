@@ -11,8 +11,10 @@ about:
   c_holder: Edition de l'Emmanuel
   c_year: 2001
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/10_2007.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/dicserd-aldd-az-o-nevet.mp3
     lang: hu
+    purpose: listening
 lyrics:
   - lang: hu
     title: Dicsérd, áldd az Ő nevét

@@ -9,6 +9,11 @@ about:
   music: B. Pavageau
   lyrics: B. Pavageau
   year: 2018
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/megvalljuk-jezus-a-krisztus.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Megvalljuk, Jézus a Krisztus

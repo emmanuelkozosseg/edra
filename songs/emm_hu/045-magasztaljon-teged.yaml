@@ -6,9 +6,14 @@ books:
 about:
   c_holder: Emmausz Katolikus Közösség Marana Tha 2000 Alapítványa
   c_year: 1993
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/magasztaljon-teged.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
-    title: Magasztaljon téged minden
+    title: Magasztaljon Téged
     about:
       c_holder: Emmánuel Közösség
       c_year: 2009

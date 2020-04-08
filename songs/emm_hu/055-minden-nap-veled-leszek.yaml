@@ -3,6 +3,17 @@ books:
     chapter: 0_dics
     number: '55'
     lang: hu
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/minden-nap-veled-leszek.mp3
+    lang: hu
+    purpose: aid
+    note: Normál hangmagasságban
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/minden-nap-veled-leszek-low.mp3
+    lang: hu
+    purpose: aid
+    note: Alacsonyabb hangmagasságban
 lyrics:
   - lang: hu
     title: Minden nap veled leszek

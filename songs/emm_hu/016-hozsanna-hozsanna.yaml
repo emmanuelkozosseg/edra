@@ -10,6 +10,11 @@ about:
   lyrics: C. Tuttle
   c_holder: Vineyard Ministries International
   c_year: 1986
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/hozsanna-hozsanna.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Hozsanna, hozsanna

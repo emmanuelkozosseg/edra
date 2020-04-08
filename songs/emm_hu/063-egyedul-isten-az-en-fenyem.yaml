@@ -9,6 +9,11 @@ about:
   music: R. Trunck
   lyrics: R. Trunck
   c_holder: Roger Trunck
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/egyedul-isten-az-en-fenyem.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Egyedül Isten az én fényem

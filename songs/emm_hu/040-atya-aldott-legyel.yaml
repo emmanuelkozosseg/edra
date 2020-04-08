@@ -14,8 +14,14 @@ about:
   c_holder: Edition de l'Emmanuel
   c_year: 2000
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/b03_2003.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/atya-aldott-legyel.mp3
     lang: hu
+    purpose: listening
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/atya-aldott-legyel.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Atya, áldott legyél

@@ -9,6 +9,11 @@ about:
   music: C.-E. Hauguel
   c_holder: Edition de l'Emmanuel
   c_year: 1979
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/alleluja-isten-a-szeretet.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Alleluja, Isten a szeretet

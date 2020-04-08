@@ -8,6 +8,11 @@ about:
   lyrics: B. Doerksen
   c_holder: Vineyard Songs
   c_year: 1998
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/jojj-itt-az-ido.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Jöjj, itt az idő

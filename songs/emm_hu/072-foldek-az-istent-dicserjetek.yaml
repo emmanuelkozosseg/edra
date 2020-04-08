@@ -10,6 +10,11 @@ about:
   lyrics: R. Camp, C.-E. Hauguel
   c_holder: Rita Camp
   c_year: 1980
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/foldek-az-istent-dicserjetek.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Földek az Istent dicsérjétek

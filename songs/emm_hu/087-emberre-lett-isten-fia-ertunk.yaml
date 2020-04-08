@@ -13,6 +13,11 @@ about:
   lyrics: M. Hagemann
   c_holder: Edition de l'Emmanuel
   c_year: 2003
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/emberre-lett-isten-fia-ertunk.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Emberré lett Isten fia értünk

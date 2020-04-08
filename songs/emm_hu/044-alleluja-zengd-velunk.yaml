@@ -10,9 +10,14 @@ about:
   lyrics: E. Baranger
   c_holder: Edition de l'Emmanuel
   c_year: 1985
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/alleluja-zengd-velunk.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
-    title: Zengd velünk
+    title: Alleluja, zengd velünk
     about:
       adapted_by: Hollósy P.
       c_holder: Emmánuel Közösség

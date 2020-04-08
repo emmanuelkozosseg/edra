@@ -11,8 +11,10 @@ about:
   c_holder: Edition de l'Emmanuel
   c_year: 1999
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2003_as_album/a01_2003.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/jojj-zengd-velem.mp3
     lang: hu
+    purpose: listening
 lyrics:
   - lang: hu
     title: Jöjj, zengd velem

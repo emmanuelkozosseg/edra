@@ -4,8 +4,10 @@ books:
     number: '403'
     lang: la
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/14_2007.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/totus-tuus.mp3
     lang: la
+    purpose: listening
 lyrics:
   - lang: la
     title: Totus tuus

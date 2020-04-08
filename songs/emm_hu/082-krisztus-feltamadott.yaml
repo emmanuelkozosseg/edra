@@ -11,8 +11,14 @@ about:
   c_holder: Edition de l'Emmanuel
   c_year: 2003
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/03_2007.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/krisztus-feltamadott.mp3
     lang: hu
+    purpose: listening
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/krisztus-feltamadott.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Krisztus feltámadott

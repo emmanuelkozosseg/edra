@@ -7,8 +7,10 @@ about:
   music: Fábry K.
   lyrics: Fábry K.
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/15_2007.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/remenyt-es-jovot-adok.mp3
     lang: hu
+    purpose: listening
 lyrics:
   - lang: hu
     title: Reményt és jövőt adok

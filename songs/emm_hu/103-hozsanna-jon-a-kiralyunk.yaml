@@ -6,6 +6,11 @@ books:
     former_numbers:
       - chapter: 0_dics
         number: '97'
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/hozsanna-jon-a-kiralyunk.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Hozsanna, jön a királyunk

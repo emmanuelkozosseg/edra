@@ -10,6 +10,11 @@ about:
   lyrics: C. Brasseur
   c_holder: Edition des Béatitudes
   c_year: 1990
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/rajta-dicserjetek.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Rajta, dicsérjétek

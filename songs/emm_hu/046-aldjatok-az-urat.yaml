@@ -8,6 +8,11 @@ about:
   lyrics: Emmanuel Songs
   c_holder: Edition de l'Emmanuel
   c_year: 1978
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/aldjatok-az-urat.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Áldjátok az Urat

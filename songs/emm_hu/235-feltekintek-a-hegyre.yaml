@@ -11,8 +11,10 @@ about:
   c_holder: Edition de l'Emmanuel
   c_year: 1999
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2007_es_album/08_2007.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/feltekintek-a-hegyre.mp3
     lang: hu
+    purpose: listening
 lyrics:
   - lang: hu
     title: Feltekintek a hegyre

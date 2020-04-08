@@ -10,6 +10,11 @@ about:
   lyrics: G. Dadillon
   c_holder: Edition de l'Emmanuel
   c_year: 1989
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/gyertek-az-urat-dicserni.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Gyertek az Urat dicsérni

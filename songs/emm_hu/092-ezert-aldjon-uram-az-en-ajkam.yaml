@@ -14,8 +14,10 @@ about:
   c_holder: Edition de l'Emmanuel
   c_year: 2010
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/02_2014.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/ezert-aldjon-uram-az-en-ajkam.mp3
     lang: hu
+    purpose: listening
 lyrics:
   - lang: hu
     title: Ezért áldjon, Uram, az én ajkam

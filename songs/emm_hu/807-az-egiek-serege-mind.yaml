@@ -9,8 +9,10 @@ about:
   music: I. Izzi
   lyrics: I. Izzi
 records:
-  - url: http://emmanuel.hu/hangtaar/emmanuel_albumok/2014_es_album/07_2014.mp3
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/az-egiek-serege-mind.mp3
     lang: hu
+    purpose: listening
 lyrics:
   - lang: hu
     title: Az égiek serege mind

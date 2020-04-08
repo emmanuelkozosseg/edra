@@ -10,6 +10,11 @@ about:
   lyrics: C. Guerret-Fourneau
   c_holder: C. Guerent-Fourneau
   c_year: 1978
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/nezz-testver-fel.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Nézz, testvér, fel

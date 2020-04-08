@@ -6,6 +6,11 @@ books:
 about:
   music: R. Founds
   lyrics: R. Founds
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/hozzad-szall-az-enekem.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Hozzád száll az énekem

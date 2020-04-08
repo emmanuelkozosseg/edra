@@ -6,6 +6,11 @@ books:
     former_numbers:
       - chapter: e_egyeb
         number: E1
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/lelkem-aldd-az-urat.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Lelkem, áldd az Urat

@@ -10,6 +10,11 @@ about:
   lyrics: D.-M. David, L.-E. de Labarthe
   c_holder: Edition de l'Emmanuel
   c_year: 1999
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/most-minden-nep-aldja.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Most minden nép áldja

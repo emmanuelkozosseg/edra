@@ -6,6 +6,11 @@ books:
     former_numbers:
       - chapter: e_egyeb
         number: E34
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/az-vagyok-kinek-te-hivsz.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Az vagyok, kinek Te hívsz

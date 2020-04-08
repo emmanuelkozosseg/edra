@@ -6,6 +6,11 @@ books:
     former_numbers:
       - chapter: e_egyeb
         number: E29
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/kegyelmeddel-megvaltottal.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Kegyelmeddel megváltottál
@@ -18,14 +23,14 @@ lyrics:
           - Hűséged megújul minden reggel,
           - elárasztasz békességgel.
           - Átölel mindennap szerelmed.
-      - name: v2
+      - name: v2a
         lines:
           - Arcod fénye rám ragyog,
           - teljesen Tiéd vagyok!
           - Felkelek és hirdetem dicsőséged!
           - Azért élek, hogy áldjalak,
           - nagy Király, Élő Isten Fia!
-      - name: v3
+      - name: v2b
         lines:
           - Arcod fénye rám ragyog,
           - teljesen Tiéd vagyok!
@@ -36,6 +41,6 @@ lyrics:
           - 'zengik: szent vagy!'
           - Egyetlen hatalmas Úr,
           - 'éneklik: Alleluja!'
-      - name: v4
+      - name: b
         lines:
           - Alleluja! Alleluja! Alleluja!
