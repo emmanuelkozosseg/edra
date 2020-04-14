@@ -19,6 +19,7 @@ python3 bin/convert.py pdf --from-dir songs/ --to dist/emmet_offline.pdf
 # zip -r -9 ../opensong.zip .
 # cd ../..
 python3 -c "import shutil; shutil.make_archive(base_name='dist/opensong-enekek', format='zip', root_dir='dist', base_dir='Emmánuel')"
+rm -rf dist/Emmánuel/
 
 if [[ $BB_AUTH_STRING ]]; then
     curl -v -X POST "https://${BB_AUTH_STRING}@api.bitbucket.org/2.0/repositories/${BITBUCKET_REPO_OWNER}/${BITBUCKET_REPO_SLUG}/downloads" --form files=@"dist/opensong-enekek.zip"

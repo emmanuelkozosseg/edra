@@ -18,7 +18,7 @@ records:
     note: Csak Benned bízom (2000)
 lyrics:
   - lang: hu
-    title: Csak benned bízom Uram
+    title: Csak Benned bízom, Uram
     about:
       adapted_by: Fábry K.
       c_holder: Emmánuel Közösség
@@ -30,8 +30,7 @@ lyrics:
           - én Istenem.
           - Csak benned remél a szívem,
           - én mindenem.
-      - name: v2
-        lines:
+          - 
           - Ezért nem félek, Uram,
           - mert csak benned hiszek.
           - Ezért nem félek, Uram,
