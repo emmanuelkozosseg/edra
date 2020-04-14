@@ -15,6 +15,7 @@ records:
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/jo-atyank.mp3
     lang: hu
     purpose: listening
+    note: Őáltala, Ővele, Őbenne (2001)
   - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/jo-atyank.mp3
     lang: hu

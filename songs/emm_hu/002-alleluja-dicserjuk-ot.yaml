@@ -15,6 +15,7 @@ records:
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/alleluja-dicserjuk-ot.mp3
     lang: hu
     purpose: listening
+    note: Csak Benned bízom (2000)
   - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/alleluja-dicserjuk-ot.mp3
     lang: hu

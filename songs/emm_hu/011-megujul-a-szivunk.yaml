@@ -15,6 +15,7 @@ records:
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/megujul-a-szivunk.mp3
     lang: hu
     purpose: listening
+    note: Csak Benned bízom (2000)
 lyrics:
   - lang: hu
     title: Megújul a szívünk

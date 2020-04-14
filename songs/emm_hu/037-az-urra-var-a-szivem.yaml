@@ -15,6 +15,7 @@ records:
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/az-urra-var-a-szivem.mp3
     lang: hu
     purpose: listening
+    note: Jézus, megígérted (2003)
   - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/az-urra-var-a-szivem.mp3
     lang: hu

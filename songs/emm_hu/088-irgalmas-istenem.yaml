@@ -15,6 +15,7 @@ records:
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/irgalmas-istenem.mp3
     lang: hu
     purpose: listening
+    note: Te vagy az Út (2014)
   - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/irgalmas-istenem.mp3
     lang: hu

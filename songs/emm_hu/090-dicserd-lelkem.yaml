@@ -18,6 +18,7 @@ records:
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/dicserd-lelkem.mp3
     lang: hu
     purpose: listening
+    note: Te vagy az Út (2014)
   - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/dicserd-lelkem.mp3
     lang: hu

@@ -15,6 +15,7 @@ records:
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/zengi-a-hajnal.mp3
     lang: hu
     purpose: listening
+    note: Reményt és jövőt adok (2007)
   - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/zengi-a-hajnal-1.mp3
     lang: hu
