@@ -12,6 +12,7 @@ books:
 lyrics:
   - lang: hu
     title: Eljött hozzám
+    order: [v1, c, b1, c, b2, c]
     verses:
       - name: v1
         lines:
@@ -37,6 +38,7 @@ lyrics:
           - és megmenekülsz!
   - lang: en
     title: Here I am to worship
+    order: [v1, c, v2, c, b, c]
     verses:
       - name: v1
         lines:

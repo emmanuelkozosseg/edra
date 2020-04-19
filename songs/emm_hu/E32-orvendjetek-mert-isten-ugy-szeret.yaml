@@ -3,6 +3,10 @@ books:
     chapter: e_egyeb
     number: E32
     lang: hu
+about:
+  music: Pálhegyi Dávid
+  lyrics: Dr. Pálhegyi Ferenc
+  orig_lang: hu
 lyrics:
   - lang: hu
     title: Örvendjetek, mert Isten úgy szeret

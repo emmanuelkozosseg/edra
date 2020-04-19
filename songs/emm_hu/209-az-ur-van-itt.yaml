@@ -26,22 +26,20 @@ lyrics:
               - (Ő vár rád,)
               - Ő vár rád,
               - (Ő vár rád,)
-      - name: v2
-        lines:
+          - 
           - hogy elmondja,
           - (hogy elmondja,)
           - mennyire szeret,
           - (mennyire szeret,)
           - a legdrágábbat adta érted.
-      - name: v3
-        lines:
+          - 
           - Az Ő Fiát,
           - (az Ő Fiát,)
           - aki most is él,
           - (aki most is él,)
           - uralkodik mindörökké.
 chords:
-  - template: v1
+  - template: all
     lines:
       - group: repeat
         type: uniform
@@ -54,15 +52,13 @@ chords:
           - []
           - [A]
           - []
-  - template: v2
-    lines:
+      - 
       - [Hm]
       - []
       - [A]
       - []
       - [G, C, A]
-  - template: v3
-    lines:
+      - 
       - [D]
       - []
       - [Hm]

@@ -21,6 +21,7 @@ lyrics:
           - Tiéd vagyok.
   - lang: en
     title: The Stand
+    order: [v1, v2, p, v3, p, c]
     verses:
       - name: v1
         lines:

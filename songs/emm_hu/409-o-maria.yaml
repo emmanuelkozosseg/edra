@@ -17,6 +17,7 @@ lyrics:
       adapted_by: Fábry K.
       c_holder: Emmánuel Közösség
       c_year: 2009
+    order: [c1, c2, v1, c1, c2, v2, c1, c2, v3, c1, c2]
     verses:
       - name: c1
         lines:

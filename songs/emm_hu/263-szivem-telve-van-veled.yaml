@@ -18,8 +18,7 @@ lyrics:
           - mit értem tettél, drága Jézus,
           - hogy elhívtál és befogadtál,
           - nincsen más otthonom.
-      - name: v2
-        lines:
+          - 
           - Karod óv és átölel,
           - nálad van lakhelyem.
           - Jöjj közel hát, és ölelj most át!
@@ -35,8 +34,7 @@ chords:
       - [C, Em7, D]
       - [C, Em, D, G]
       - [Am7, Em, D]
-  - template: v2
-    lines:
+      - 
       - [G, D/Fis, C]
       - [G, D, C]
       - [Am, Em, D, C]

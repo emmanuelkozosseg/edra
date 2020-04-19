@@ -14,6 +14,7 @@ lyrics:
     about:
       c_holder: Emmánuel Közösség
       c_year: 2009
+    order: [v1, c1, v2, c2]
     verses:
       - name: v1
         lines:

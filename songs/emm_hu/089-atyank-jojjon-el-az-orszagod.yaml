@@ -26,6 +26,7 @@ lyrics:
       adapted_by: Fábry K.
       c_holder: Emmánuel Közösség
       c_year: 2015
+    order: [c, v1, c, v2, c, b, v3, c]
     verses:
       - name: c
         lines:
@@ -67,6 +68,7 @@ lyrics:
           - sem gyász, sem halál.
   - lang: en
     title: May your kingdom come
+    order: [c, v1, c, v2, c, b, v3, c]
     verses:
       - name: c
         lines:

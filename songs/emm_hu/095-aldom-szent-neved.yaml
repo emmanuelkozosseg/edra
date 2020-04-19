@@ -13,6 +13,7 @@ lyrics:
       adapted_by: Vass T.
       c_holder: Emmánuel Közösség
       c_year: 2015
+    order: [v1, c, v2, c, b, c]
     verses:
       - name: v1
         lines:
@@ -27,10 +28,10 @@ lyrics:
           - áldom nevedet.
           - 
           - Minden áldást dicséretté formál szívem,
-          - 's ha körülzár a sötétség, azt mondom én:'
+          - 's ha körülzár a sötétség, azt mondom én, hogy:'
       - name: c
         lines:
-          - Hogy áldott legyen az Úr neve,
+          - Áldott legyen az Úr neve,
           - áldom nevedet!
           - Áldott legyen az Úr neve,
           - áldott legyen hatalmas neved!
@@ -47,7 +48,7 @@ lyrics:
           - áldom nevedet.
           - 
           - Minden áldást dicséretté formál szívem,
-          - 's ha körülzár a sötétség, azt mondom én:'
+          - 's ha körülzár a sötétség, azt mondom én, hogy:'
       - name: b
         lines:
           - Te adsz és elveszel,

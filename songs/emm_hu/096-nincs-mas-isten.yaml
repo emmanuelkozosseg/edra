@@ -18,14 +18,14 @@ lyrics:
       adapted_by: Váradi A.
       c_holder: Emmánuel Közösség
       c_year: 2015
+    order: [v1, c, b, c]
     verses:
       - name: v1
         lines:
           - Nálad lett borrá a víz,
           - holtakat életre hívsz,
           - nincs más Isten, nincsen más.
-      - name: v2
-        lines:
+          - 
           - Te ragyogod be az éjt,
           - Te hozod el a reményt,
           - nincs más Isten, nincsen más.

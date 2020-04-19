@@ -14,6 +14,7 @@ records:
 lyrics:
   - lang: hu
     title: Az vagyok, kinek Te hívsz
+    order: [v1, c1, v2, c2, b, c2]
     verses:
       - name: v1
         lines:

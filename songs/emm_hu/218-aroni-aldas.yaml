@@ -18,11 +18,11 @@ lyrics:
           - Áldjon meg téged az Úr,
           - áldjon meg téged az Úr,
           - és őrizzen meg tégedet!
-      - name: v2
-        lines:
+          - 
           - Világosítsa meg az Úr
           - az Ő orcáját terajtad,
           - és könyörüljön terajtad!
+          - ""
           - group: repeat
             times: 2
             lines:
@@ -32,16 +32,16 @@ lyrics:
             lines:
               - és adjon békét tenéked!
 chords:
-  - template: v1
+  - template: all
     lines:
       - [C, Em, Dm, G]
       - [C, Em, Dm, G]
       - [C, G, C, C7]
-  - template: v2
-    lines:
+      - 
       - [Dm, Em, C]
       - [Dm, Em, C]
       - [Dm, F, G, G7]
+      - 
       - group: repeat
         type: uniform
         lines:

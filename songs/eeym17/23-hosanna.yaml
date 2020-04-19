@@ -5,6 +5,7 @@ books:
 lyrics:
   - lang: en
     title: Hosanna
+    order: [v1, c, v2, c, b, c]
     verses:
       - name: v1
         lines:
