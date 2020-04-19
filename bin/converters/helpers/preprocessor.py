@@ -1,68 +1,55 @@
+from converters.features.chords import NoGuitarChords
+from converters.features.verseorder import NoVerseOrders
 import collections
 import re
 
 
 class SongPreprocessor:
+    """Preprocesses a song's object."""
+
     _RE_LINE_SYMBOLS = re.compile(r" ?[|] ?")
-    _RE_CHORD_ANCHORS = re.compile(r"\^")
-    _RE_MULTIPLE_SPACES = re.compile(r" {2,}")
+
+    def __init__(self):
+        # Set up default feature processors
+        self._processors = {
+            "chords": NoGuitarChords(),
+            "order": NoVerseOrders(),
+        }
+
+    def set_required_features(self, *args):
+        """Sets the feature processors needed by the converter.
+        They override the default / previously assigned processors for their respective features
+        (only one processor can be active for a feature at a time).
+
+        :param args: list of required feature processors
+        :return: None
+        """
+        for processor in args:
+            self._processors[processor.get_feature()] = processor
 
     def preprocess(self, song_yaml,
-                   flatten=False,
                    soft_line_break_strategy=None,
                    hard_break_strategy=None):
         """
         Preprocesses the song YAML, performing common tasks.
         If options are omitted or passed as None, then they won't be performed.
         :param song_yaml: the song's object
-        :param flatten: if True, then repeat groups will be flattened and chords will be removed
         :param soft_line_break_strategy: 'break': breaks the lines on soft line breaks, 'ignore': ignores soft line breaks
         :param hard_break_strategy: 'convert': converts the hard break into a normal one
         :return:
         """
+        for processor in self._processors.values():
+            processor.process_song(song_yaml)
         for lang in song_yaml['lyrics']:
+            for processor in self._processors.values():
+                processor.process_lyrics(lang)
             for verse in lang['verses']:
-                self._remove_chord_anchors(verse)
-                if flatten:
-                    self._flatten_verse(verse)
+                for processor in self._processors.values():
+                    processor.process_verse(verse)
                 if soft_line_break_strategy is not None:
                     self._process_soft_line_breaks(verse, soft_line_break_strategy)
                 if hard_break_strategy is not None:
                     self._process_hard_breaks(verse, hard_break_strategy)
-        
-        if 'chords' in song_yaml:
-            del song_yaml['chords']
-
-    def _remove_chord_anchors(self, verse):
-        def process_line(l):
-            return self._RE_MULTIPLE_SPACES.sub(" ", self._RE_CHORD_ANCHORS.sub("", l)).strip()
-        for i, line in enumerate(verse['lines']):
-            if line is None:
-                continue
-            if isinstance(line, collections.Mapping):
-                group_lines = line['lines']
-                for j, grp_line in enumerate(group_lines):
-                    group_lines[j] = process_line(grp_line)
-            else:
-                verse['lines'][i] = process_line(line)
-
-    @staticmethod
-    def _flatten_verse(verse):
-        # Skip if there are no blocks
-        if next((l for l in verse['lines'] if isinstance(l, collections.Mapping)), None) is None:
-            return
-
-        # Copy to new array
-        new_lines = []
-        for line in verse['lines']:
-            if isinstance(line, collections.Mapping):
-                group_lines = line['lines']
-                group_lines[0] = '/: ' + group_lines[0]
-                group_lines[-1] += ' :/'
-                new_lines.extend(group_lines)
-            else:
-                new_lines.append(line)
-        verse['lines'] = new_lines
 
     def _process_soft_line_breaks(self, verse, mode):
         if mode == 'break':

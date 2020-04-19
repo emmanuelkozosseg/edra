@@ -10,7 +10,7 @@ rm -rf dist/
 mkdir dist/
 
 python3 bin/convert.py opensong --from-dir songs/ --to-dir dist/Emmánuel/
-python3 bin/convert.py json --from-dir songs/ --to dist/songs.json
+python3 bin/convert.py emmet-json --from-dir songs/ --to dist/emmet.json
 python3 bin/convert.py diatar --from-dir songs/ --to dist/emmanuel.dtx
 python3 bin/convert.py pdf --from-dir songs/ --to dist/emmet_offline.pdf
 
@@ -23,7 +23,7 @@ rm -rf dist/Emmánuel/
 
 if [[ $BB_AUTH_STRING ]]; then
     curl -v -X POST "https://${BB_AUTH_STRING}@api.bitbucket.org/2.0/repositories/${BITBUCKET_REPO_OWNER}/${BITBUCKET_REPO_SLUG}/downloads" --form files=@"dist/opensong-enekek.zip"
-    curl -v -X POST "https://${BB_AUTH_STRING}@api.bitbucket.org/2.0/repositories/${BITBUCKET_REPO_OWNER}/${BITBUCKET_REPO_SLUG}/downloads" --form files=@"dist/songs.json"
+    curl -v -X POST "https://${BB_AUTH_STRING}@api.bitbucket.org/2.0/repositories/${BITBUCKET_REPO_OWNER}/${BITBUCKET_REPO_SLUG}/downloads" --form files=@"dist/emmet.json"
     curl -v -X POST "https://${BB_AUTH_STRING}@api.bitbucket.org/2.0/repositories/${BITBUCKET_REPO_OWNER}/${BITBUCKET_REPO_SLUG}/downloads" --form files=@"dist/emmanuel.dtx"
     curl -v -X POST "https://${BB_AUTH_STRING}@api.bitbucket.org/2.0/repositories/${BITBUCKET_REPO_OWNER}/${BITBUCKET_REPO_SLUG}/downloads" --form files=@"dist/emmet_offline.pdf"
 else

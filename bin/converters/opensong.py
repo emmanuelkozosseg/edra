@@ -32,7 +32,7 @@ class OpenSongConverter(AbstractConverter):
         if not song_yaml['books']:
             raise Exception("No books are specified in song '{}'.".format(filepath))
 
-        self._preprocessor.preprocess(song_yaml, flatten=True, soft_line_break_strategy='break')
+        self._preprocessor.preprocess(song_yaml, soft_line_break_strategy='break')
 
         for book in song_yaml['books']:
             # Continue if this is just a "marker book"

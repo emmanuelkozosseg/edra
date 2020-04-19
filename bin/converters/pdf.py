@@ -22,7 +22,7 @@ class PdfConverter(AbstractConverter):
         return parser_html
 
     def convert(self, song_yaml, filepath):
-        self._preprocessor.preprocess(song_yaml, flatten=True, soft_line_break_strategy='ignore', hard_break_strategy='convert')
+        self._preprocessor.preprocess(song_yaml, soft_line_break_strategy='ignore', hard_break_strategy='convert')
 
         hu_book = self._get_book_from_yaml(song_yaml, 'emm_hu')
         if hu_book is None:

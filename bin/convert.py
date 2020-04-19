@@ -4,7 +4,7 @@ import os
 import ruamel.yaml
 
 from converters.opensong import OpenSongConverter
-from converters.json import JsonConverter
+from converters.emmet import EmmetJsonConverter
 from converters.openlyrics import OpenLyricsConverter
 from converters.diatar import DiatarConverter
 from converters.emmasongs import EmmaSongsConverter
@@ -26,6 +26,8 @@ def main():
             if not yaml_file.endswith('.yaml') or yaml_file.startswith('_'):
                 continue
             yaml_file_path = os.path.join(root, yaml_file)
+            if args.debug:
+                logging.debug("Processing file: "+yaml_file_path)
             try:
                 with open(yaml_file_path, "rt") as f:
                     song_yaml = yaml.load(f)
@@ -40,10 +42,11 @@ def main():
 
 def _parse_args():
     argparser = argparse.ArgumentParser(description="Converts Emmet.yaml songs to other formats.")
+    argparser.add_argument("--debug", action='store_true')
     subparsers = argparser.add_subparsers()
 
     _enable_converter(OpenSongConverter, subparsers)
-    _enable_converter(JsonConverter, subparsers)
+    _enable_converter(EmmetJsonConverter, subparsers)
     _enable_converter(OpenLyricsConverter, subparsers)
     _enable_converter(DiatarConverter, subparsers)
     _enable_converter(EmmaSongsConverter, subparsers)

@@ -25,7 +25,7 @@ class OpenLyricsConverter(AbstractConverter):
         ElementTree.register_namespace('', "http://openlyrics.info/namespace/2009/song")
 
     def convert(self, song_yaml, filepath):
-        self._preprocessor.preprocess(song_yaml, flatten=True, soft_line_break_strategy='ignore')
+        self._preprocessor.preprocess(song_yaml, soft_line_break_strategy='ignore')
 
         # Look up primary language
         emm_hu_book = self._get_book_from_yaml(song_yaml, 'emm_hu')

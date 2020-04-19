@@ -4,11 +4,13 @@ import collections
 import os
 
 from converters.base import AbstractConverter
+from converters.features.chords import GuitarChordsWithoutPositioning
 
 
 class EmmaSongsConverter(AbstractConverter):
     def __init__(self, args):
         super().__init__()
+        self._preprocessor.set_required_features(GuitarChordsWithoutPositioning())
         self._from_dir = args.from_dir
         self._to_dir = args.to_dir
 
@@ -24,7 +26,7 @@ class EmmaSongsConverter(AbstractConverter):
 
     def convert(self, song_yaml, filepath):
         chords = song_yaml.get('chords')
-        self._preprocessor.preprocess(song_yaml, flatten=False, soft_line_break_strategy='ignore')
+        self._preprocessor.preprocess(song_yaml, soft_line_break_strategy='ignore')
 
         # Find Hungarian book, check if E* or I*
         hun_book = self._get_book_from_yaml(song_yaml, 'emm_hu')

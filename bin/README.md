@@ -107,7 +107,9 @@ A szerzői adatokat tartalmazza.
 about:
   music: J. Smith  # Zeneszerző
   lyrics: J. Doe  # Eredeti dalszöveg írója
-  year: 2019  # Eredeti kiadás éve
+  orig_lang: en  # Eredeti nyelv
+  c_holder: Emmanuel Community  # A szerzői jog tulajdonosa
+  c_year: 2019  # Eredeti kiadás éve
 ```
 
 ## Dalszöveg (lyrics)
@@ -117,14 +119,24 @@ A fájl központi része, amely a dal szövegeit tartalmazza.
 A legfelső szinten az elérhető fordításokat sorolja fel. Ezek adatai:
 * `lang`: ISO 639-1 szerinti nyelvkód
 * `title`: a dal címe ebben a fordításban
-* `adapted_by`: a fordító(k) neve(i), vesszővel elválasztva (opcionális)
+* `about`: a fordítás szerzői jogi információi
+  * `adapted_by`: a fordító(k) neve(i), vesszővel elválasztva (opcionális)
+  * `c_holder`, `c_year`: a fordítás szerzői jogának a tulajdonosa
+* `order`: a versszakok sorrendje
+  * Ha csak `c` és `v[szám]` versszakok léteznek, akkor nem kötelező megadni. Ilyenkor a versszakokon megy végig a felvett sorrendben, a refrén megjelenésétől kezdve azt minden versszak után beszúrva.
+  * Pl. `v1, c, v2, v3` sorrendben felvett versszakoknál az alapértelmezett sorrend: `v1, c, v2, c, v3, c`
+  * Pl. `c, v1, v2, v3` esetben: `c, v1, c, v2, c, v3, c`
 * `verses`: a versszakok listája
 
 ```yaml
 lyrics:
   - lang: hu
     title: Az én dalom
-    adapted_by: Gipsz J., Kovács J.
+    about:
+      adapted_by: Gipsz J., Kovács J.
+      c_holder: Emmánuel Közösség
+      c_year: 2019
+    order: [c, v1, c, v2, c, v3, b, c]
     verses:
       - (...)
 ```
