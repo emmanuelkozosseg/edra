@@ -6,6 +6,9 @@ books:
 about:
   music: Fábry K.
   lyrics: Fábry K.
+  orig_lang: hu
+  c_holder: Emmánuel Közösség
+  c_year: 2009
 records:
   - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/remenyt-es-jovot-adok.mp3
@@ -15,9 +18,6 @@ records:
 lyrics:
   - lang: hu
     title: Reményt és jövőt adok
-    about:
-      c_holder: Emmánuel Közösség
-      c_year: 2009
     verses:
       - name: c
         lines:

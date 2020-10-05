@@ -1,0 +1,56 @@
+books:
+  - id: emm_hu
+    chapter: e_egyeb
+    number: E34
+    lang: hu
+about:
+  lyrics: Reuben Morgan, Ben Fielding
+  orig_lang: en
+lyrics:
+  - lang: hu
+    title: Kell, hogy végre érezd
+    about:
+      adapted_by: Hunyadi Tamás
+    order: [v1, c, v2, c, b, c]
+    verses:
+      - name: v1
+        lines:
+          - ^Kell, hogy végre é^rezd, hogy mennyire szeret az ^Isten,
+          - ke^gyelme éltet.^
+          - És ^kell, hogy végre ^átéld, ahogy a megbo^csátás
+          - átfor^mál egy népet.^^^^
+      - name: c
+        lines:
+          - ^Győztes; hegyeket moz^dít el,
+          - Király és ^Szabadí^tó, í^tél és megse^gít;
+          - Meg^váltó, Üdvösség Szer^zője,
+          - mert Ő le^győzte a ^sírt, Ő le^győzte a ^sírt!
+      - name: v2
+        lines:
+          - ^Ha hibáztam, Te ^védj meg; ölelj át ha fé^lek,
+          - ^töltsd be életem;^
+          - meghaj^lok e^lőtted, szívem^ből kö^vetlek,
+          - csak ^Érted élek!^^^^
+      - name: b
+        lines:
+          - Éle^tünkkel mondjuk el, ^hogy ^élsz;
+          - hir^detjük Meg^váltónk di^csőségét!
+          - ^Jézus,
+chords:
+  - template: v
+    lines:
+      - [C, G, Em]
+      - [D, C]
+      - [C, G, Em]
+      - [D, C, D, C, D]
+  - template: c
+    lines:
+      - [G, D]
+      - [C, G, Em, D]
+      - [G, D]
+      - [C, G, Em, D]
+  - template: b
+    lines:
+      - [C, G, D]
+      - [C, G, D]
+      - [Em]

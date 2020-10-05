@@ -1,0 +1,59 @@
+books:
+  - id: emm_hu
+    chapter: e_egyeb
+    number: E35
+    lang: hu
+about:
+  music: Zach Williams
+  lyrics: Zach Williams
+  orig_lang: en
+  c_holder: Provident Label Group LLC
+  c_year: 2018
+lyrics:
+  - lang: hu
+    title: Nem tart fogva semmi már
+    about:
+      adapted_by: Varjas A.
+      c_holder: Emmánuel Közösség
+      c_year: 2020
+    verses:
+      - name: v1
+        lines:
+          - Mikor körbefog gyönyörű dalod,
+          - bennem minden helyreáll.
+          - Várom Lelkedet, bátor így leszek,
+          - s a félelmem elszáll.
+          - group: repeat
+            times: 2
+            lines:
+              - Nem tart fogva semmi már;
+              - fiad vagyok, Atyám.
+      - name: v2
+        lines:
+          - Anyám méhétől kiválasztottál
+          - és elhívtál engem.
+          - Újjászülettem, családtag lettem,
+          - véred folyik bennem.
+          - group: repeat
+            times: 2
+            lines:
+              - Nem tart fogva semmi már;
+              - fiad vagyok, Atyám.
+      - name: b
+        lines:
+          - 'Olyan jó, hogy érzem: Atyám karja átölel!'
+          - Olyan jó, hogy átjár a dallam, mely Rólad szól!
+          - Tiéd lett már a szívem, lelkemben széttört minden lánc,
+          - ezért zeng most az ének a teljes szabadításról.
+          - ""
+          - group: repeat
+            times: 2
+            lines:
+              - Ó-ó-ó-ó-ó
+              - ó-ó-ó-ó-ó
+      - name: v3
+        lines:
+          - A tenger kettévált, s én átsétáltam,
+          - lelkemben széttört minden lánc.
+          - 'Megmentettél, fennhangon zengem hát:'
+          - fiad vagyok, Atyám!
