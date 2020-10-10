@@ -58,16 +58,16 @@ class OpenLyricsConverter(AbstractConverter):
         ol_lyrics = ElementTree.SubElement(ol_song, 'lyrics')
         for verse in song_lyrics['verses']:
             verse_parts = self._split_verse_on_hard_breaks(verse['lines'])
+            ol_verse = ElementTree.SubElement(ol_lyrics, 'verse', attrib={
+                'name': verse['name']
+            })
 
             for i, verse_part in enumerate(verse_parts):
-                verse_suffix = '' if len(verse_parts) == 1 else '-' + str(i+1)
-
-                ol_verse = ElementTree.SubElement(ol_lyrics, 'verse', attrib={
-                    'name': verse['name'] + verse_suffix
-                })
                 ol_lines = ElementTree.SubElement(ol_verse, 'lines')
+                if i < len(verse_part)-1:
+                    ol_lines.set('break', 'optional')
                 is_first = True
-                if verse['name'].lower().startswith('c'):
+                if self._openlp and verse['name'].lower().startswith('c'):
                     verse_part[0] = '{it}' + verse_part[0]
                     verse_part[-1] += '{/it}'
                 for line in verse_part:
