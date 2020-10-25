@@ -1,10 +1,14 @@
 books:
+  - id: emm_hu
+    chapter: n_nemzetkozi
+    number: N6
+    lang: en
   - id: eeym17
     number: '32'
     lang: en
 lyrics:
   - lang: en
-    title: Praise to you
+    title: Praise to You
     verses:
       - name: c
         lines:

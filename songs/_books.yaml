@@ -35,6 +35,9 @@
     - id: i_ima
       badge: I00
       name: Imádságok
+    - id: n_nemzetkozi
+      badge: N00
+      name: Nemzetközi (idegen nyelvű) énekek
   
 - id: emm_fr
   name: Il est vivant

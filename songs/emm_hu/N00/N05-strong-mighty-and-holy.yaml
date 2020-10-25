@@ -1,10 +1,14 @@
 books:
+  - id: emm_hu
+    chapter: n_nemzetkozi
+    number: N5
+    lang: en
   - id: eeym17
     number: '18'
     lang: en
 lyrics:
   - lang: en
-    title: Strong, mighty and holy
+    title: Strong, Mighty and Holy
     verses:
       - name: v1
         lines:

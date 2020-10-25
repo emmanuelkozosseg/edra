@@ -1,10 +1,14 @@
 books:
+  - id: emm_hu
+    chapter: n_nemzetkozi
+    number: N4
+    lang: en
   - id: eeym17
     number: '10'
     lang: en
 lyrics:
   - lang: en
-    title: Give praise to God’s holy name!
+    title: Give Praise to God’s Holy Name
     verses:
       - name: c
         lines:
