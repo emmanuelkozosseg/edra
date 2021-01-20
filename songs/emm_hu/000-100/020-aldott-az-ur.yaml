@@ -6,6 +6,11 @@ books:
 about:
   music: C. Brasseur
   lyrics: C. Brasseur
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/aldott-az-ur.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Alleluja, áldott az Úr

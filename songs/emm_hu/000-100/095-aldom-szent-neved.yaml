@@ -6,6 +6,11 @@ books:
 about:
   music: M. Redman
   lyrics: B. Redman
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/aldom-szent-neved.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Áldom szent Neved

@@ -6,6 +6,11 @@ books:
     former_numbers:
       - chapter: e_egyeb
         number: E23
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/te-vagy-melto-o-istenunk.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Te vagy méltó, ó, Istenünk

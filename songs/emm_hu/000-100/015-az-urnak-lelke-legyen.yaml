@@ -8,6 +8,11 @@ about:
   lyrics: E. Baranger
   c_holder: Edition de l'Emmanuel
   c_year: 1985
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/az-urnak-lelke-legyen.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Az Úrnak lelke legyen rajtam
