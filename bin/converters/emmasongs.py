@@ -28,10 +28,11 @@ class EmmaSongsConverter(AbstractConverter):
         chords = song_yaml.get('chords')
         self._preprocessor.preprocess(song_yaml, soft_line_break_strategy='ignore')
 
-        # Find Hungarian book, check if E* or I*
+        # Find Hungarian book, check if E*, I* or N*
         hun_book = self._get_book_from_yaml(song_yaml, 'emm_hu')
         if hun_book is None \
-                or hun_book['number'].startswith('E') or hun_book['number'].startswith('I'):
+                or hun_book['number'].startswith('E') or hun_book['number'].startswith('I') \
+                or hun_book['number'].startswith('N'):
             return
 
         # Skip if song number is 7## (alleluia) and French book doesn't exist
