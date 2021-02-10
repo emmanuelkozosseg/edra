@@ -10,6 +10,11 @@ about:
   lyrics: Frère Jean-Baptiste OCD
   c_holder: Edition de l'Emmanuel
   c_year: 2010
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/az-ur-az-orizom.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Az Úr az őrizőm

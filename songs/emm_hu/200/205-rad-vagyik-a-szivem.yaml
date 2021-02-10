@@ -16,6 +16,10 @@ records:
     lang: hu
     purpose: listening
     note: Őáltala, Ővele, Őbenne (2001)
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/rad-vagyik-a-szivem.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Rád vágyik a szívem
