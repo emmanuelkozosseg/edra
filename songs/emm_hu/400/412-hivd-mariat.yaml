@@ -1,8 +1,57 @@
 books:
+  - id: emm_hu
+    chapter: 4_maria
+    number: '412'
+    lang: hu
   - id: eeym17
     number: '35'
     lang: en
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/hivd-mariat.mp3
+    lang: hu
+    purpose: aid
 lyrics:
+  - lang: hu
+    title: Hívd Máriát
+    order: [v1, c, v2, c, v3, c, v4, c, b]
+    verses:
+      - name: v1
+        lines:
+          - Ha a kísértések árja elragad,
+          - ha a próba sziklaként utadba áll,
+          - ha a szenvedélyek lángja elborít,
+          - 'ha a becsvágy elsodor, mint áradás:'
+      - name: c
+        lines:
+          - Hívd Máriát, tenger csillagát,
+          - bátran kövesd, bízz, és ne félj!
+          - Hívd Máriát, tenger csillagát,
+          - ő vezet, míg Jézushoz érsz!
+      - name: v2
+        lines:
+          - Ha a kétség fogva tart és felkavar,
+          - vagy a reménytelenségnek éje vár,
+          - ha a bűnöd földre nyom és mélybe húz,
+          - 'és az önvád súlyos kínja fojtogat:'
+      - name: v3
+        lines:
+          - Ha a harag önti el a lelkedet,
+          - ha a féltékenység marja szívedet,
+          - ha a szomorúság végleg elborít,
+          - 'ha úgy érzed, hogy innen nincs tovább:'
+      - name: v4
+        lines:
+          - Az éjjel felragyog, ha Ő van ott,
+          - és a remény tiszta fényével elér.
+          - A tenger felett Ő a csillagod,
+          - aki elvezet s az égig elkísér.
+      - name: b
+        lines:
+          - Menj, kövesd őt, jó utat mutat,
+          - hívd, kérjed őt, s újra erőt ad!
+          - Bízz és ne félj, mindig veled tart!
+          - Míg célba érsz, addig támogat!
   - lang: en
     title: Look up to the star
     order: [v1, c, v2, c, v3, c, v4, c, b, c]
