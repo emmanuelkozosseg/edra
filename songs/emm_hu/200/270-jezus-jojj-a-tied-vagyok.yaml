@@ -1,0 +1,17 @@
+books:
+  - id: emm_hu
+    chapter: 2_br
+    number: '270'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Jézus, jöjj, a Tiéd vagyok
+    verses:
+      - name: v1
+        lines:
+          - Ó, Jézus, méltó, hogy tiéd legyen dicsőség, tisztesség!
+          - Ó, Jézus, szent vagy, jó, mindenható; dicsőség, tisztesség!
+      - name: c
+        lines:
+          - Jézus, jöjj, a Tiéd vagyok, nincsen más nagy király!
+          - Szívem áld, csak Előtted hódolok, minden nép Téged vár.

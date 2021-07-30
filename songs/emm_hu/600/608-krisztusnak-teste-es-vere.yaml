@@ -10,12 +10,6 @@ about:
   lyrics: M. Dannaud
   c_holder: Edition de l'Emmanuel
   c_year: 1994
-records:
-  - type: file
-    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/krisztusnak-teste-es-vere.mp3
-    lang: hu
-    purpose: listening
-    note: Jézus, megígérted (2003)
 lyrics:
   - lang: hu
     title: Krisztusnak teste és vére

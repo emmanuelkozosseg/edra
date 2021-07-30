@@ -1,8 +1,21 @@
 books:
+  - id: emm_hu
+    chapter: e_egyeb
+    number: E36
+    lang: hu
   - id: eeym17
     number: '25'
     lang: en
 lyrics:
+  - lang: hu
+    title: Dicső, fenséges Úr
+    verses:
+      - name: v1
+        lines:
+          - Dicső, fenséges Úr s Király,
+          - ki az egeken trónol,
+          - bölcs, erős és szent az Úr,
+          - a mi Istenünk!
   - lang: en
     title: Our God is an awesome God
     verses:
