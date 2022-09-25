@@ -13,15 +13,20 @@ class EmmetJsonConverter(AbstractConverter):
         self._preprocessor.set_required_features(ValidVerseOrdersForAllSongs())
         self._from_dir = args.from_dir
         self._to_file = args.to
+        self._verbose = args.verbose
         self._songs = []
 
     @staticmethod
     def create_argparser(subparsers):
         parser_json = subparsers.add_parser("emmet-json", help="Converts to JSON format for use in Emmet.")
         parser_json.add_argument("--to", required=True, help="target file")
+        parser_json.add_argument("-v", "--verbose", action="store_true", help="verbose mode")
         return parser_json
 
     def convert(self, song_yaml, filepath):
+        if self._verbose:
+            logging.info("Processing {}...".format(filepath))
+
         self._preprocessor.preprocess(song_yaml, soft_line_break_strategy='ignore')
 
         self._songs.append(song_yaml)

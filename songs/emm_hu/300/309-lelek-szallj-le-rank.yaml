@@ -10,6 +10,11 @@ about:
   lyrics: D.-M. David
   c_holder: Edition de l'Emmanuel
   c_year: 1998
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/lelek-szallj-le-rank.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Lélek, szállj le ránk

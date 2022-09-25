@@ -7,6 +7,11 @@ about:
   music: M. Parkinson
   c_holder: Bencés Kiadó
   c_year: 1999
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/ave-maria-jezus-nekunk.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Ave Maria, Jézus nékünk
