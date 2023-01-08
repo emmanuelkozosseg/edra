@@ -9,9 +9,13 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - Ó, Jézus, méltó, hogy tiéd legyen dicsőség, tisztesség!
-          - Ó, Jézus, szent vagy, jó, mindenható; dicsőség, tisztesség!
-      - name: c
+          - Ó, Jézus, méltó, hogy tiéd legyen
+          - dicsőség, tisztesség!
+          - Ó, Jézus, szent vagy, jó, mindenható;
+          - dicsőség, tisztesség!
+      - name: v2
         lines:
-          - Jézus, jöjj, a Tiéd vagyok, nincsen más nagy király!
-          - Szívem áld, csak Előtted hódolok, minden nép Téged vár.
+          - Jézus, jöjj, a Tiéd vagyok,
+          - nincsen más nagy király!
+          - Szívem áld, csak Előtted hódolok,
+          - minden nép Téged vár.

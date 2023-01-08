@@ -17,16 +17,14 @@ lyrics:
       adapted_by: Fábry K.
       c_holder: Emmánuel Közösség
       c_year: 2009
-    order: [c1, c2, v1, c1, c2, v2, c1, c2, v3, c1, c2]
     verses:
-      - name: c1
+      - name: c
         lines:
           - Ó, Mária,
           - Te az Úrnak Anyja lettél.
           - A mi Istenünk a Te igened által
           - lett emberré.
-      - name: c2
-        lines:
+          - 
           - Örök Isten,
           - legyen úgy, ahogy szeretnéd!
           - Lélek Istenünk töltsd be életünk!
@@ -52,6 +50,10 @@ lyrics:
 chords:
   - template: c
     lines:
+      - [C, Em7]
+      - [F, E7/9, Am4, Am3]
+      - [Fmaj7, Em7, Dm, C]
+      - [Fmaj7, G4, G3]
       - [C, Em7]
       - [F, E7/9, Am4, Am3]
       - [Fmaj7, Em7, Dm, C]

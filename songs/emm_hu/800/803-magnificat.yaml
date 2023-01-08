@@ -17,44 +17,34 @@ lyrics:
     verses:
       - name: c
         lines:
-          - Áldjad én lelkem az Úr nevét!
+          - Áldjad, én lelkem, az Úr nevét!
       - name: v1
         lines:
           - Magasztalja lelkem az Urat,
           - és szívem ujjong üdvözítő Istenemben.
-      - name: v2
-        lines:
           - Tekintetre méltatta | alázatos szolgálóleányát,
           - íme, ezentúl boldognak hirdet | az összes nemzedék.
-      - name: v3
+      - name: v2
         lines:
           - 'Mert nagyot művelt velem | Ő, aki Hatalmas:'
           - Ő, akit Szentnek hívunk.
-      - name: v4
-        lines:
           - Nemzedékről nemzedékre | megmarad irgalma azokon,
           - akik istenfélők.
-      - name: v5
+      - name: v3
         lines:
           - 'Csodát művelt erős karjával:'
           - a kevélykedőket széjjelszórta;
-      - name: v6
-        lines:
           - hatalmasokat elűzött trónjukról,
           - kicsinyeket pedig felmagasztalt.
-      - name: v7
-        lines:
           - Az éhezőket minden jóval betölti,
           - a gazdagokat elbocsátja üres kézzel.
-      - name: v8
+      - name: v4
         lines:
           - 'Gondjába vette gyermekét, Izraelt:'
           - megemlékezett irgalmáról,
-      - name: v9
-        lines:
           - melyet atyáinknak hajdan megígért,
           - Ábrahámnak és utódainak mindörökké.
-      - name: v10
+      - name: v5
         lines:
           - Dicsőség az Atyának, a Fiúnak
           - és a Szentlélek Istennek,
@@ -68,7 +58,17 @@ chords:
     lines:
       - [G, D, Em]
       - [Em, D, G]
-  - template: v10
+      - [G, D, Em]
+      - [Em, D, G]
+  - template: v3
+    lines:
+      - [G, D, Em]
+      - [Em, D, G]
+      - [G, D, Em]
+      - [Em, D, G]
+      - [G, D, Em]
+      - [Em, D, G]
+  - template: v5
     lines:
       - [G, D, Em]
       - [Em, D, G]

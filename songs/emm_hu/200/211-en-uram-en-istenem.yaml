@@ -20,7 +20,12 @@ lyrics:
           - Én Uram, én Istenem,
           - vedd el tőlem mindenem,
           - ami gátol feléd.
-      - name: c
+      - name: v2
+        lines:
+          - Én Uram, én Istenem,
+          - add meg nekem mindenem,
+          - ami segít feléd.
+      - name: v3
         lines:
           - group: repeat
             times: 2
@@ -28,18 +33,13 @@ lyrics:
               - Én Uram, én Istenem,
               - fogadd el az életem,
               - hadd legyek egészen a tiéd.
-      - name: v2
-        lines:
-          - Én Uram, én Istenem,
-          - add meg nekem mindenem,
-          - ami segít feléd.
 chords:
   - template: v
     lines:
       - [Em, H7]
       - [G, D]
       - [Am, Em]
-  - template: c
+  - template: v3
     lines:
       - group: repeat
         type: unique
