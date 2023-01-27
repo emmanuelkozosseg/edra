@@ -3,6 +3,11 @@ books:
     chapter: 2_br
     number: '270'
     lang: hu
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/jezus-jojj-a-tied-vagyok.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Jézus, jöjj, a Tiéd vagyok

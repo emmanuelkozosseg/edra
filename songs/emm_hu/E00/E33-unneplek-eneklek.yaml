@@ -9,6 +9,11 @@ about:
   year: 1982
   copyright: Amstutz Daniel, Maranatha Praise, Inc
   ccli: 21239
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/unneplek-eneklek.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Ünneplek, éneklek

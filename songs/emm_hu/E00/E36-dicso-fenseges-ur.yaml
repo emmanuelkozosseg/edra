@@ -6,6 +6,11 @@ books:
   - id: eeym17
     number: '25'
     lang: en
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/dicso-fenseges-ur.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Dicső, fenséges Úr

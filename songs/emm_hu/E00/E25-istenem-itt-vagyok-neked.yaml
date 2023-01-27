@@ -5,27 +5,28 @@ books:
     lang: hu
 lyrics:
   - lang: hu
-    title: Istenem itt vagyok neked
+    title: Istenem, itt vagyok neked
     verses:
       - name: v1
         lines:
           - Istenem, itt vagyok Neked!
-          - Istenem Te rám nézel,
+          - Istenem, te rám nézel,
           - s én áldalak, áldalak, Atyám!
       - name: v2
         lines:
-          - /:Tekinteted megnyugszik rajtam:/
+          - Tekinteted megnyugszik rajtam,
+          - tekinteted megnyugszik rajtam,
           - s én áldalak, áldalak, Atyám!
       - name: v3
         lines:
-          - Istenem, Te rám nézel,
-          - én is a Te Arcod keresem,
+          - Istenem, te rám nézel,
+          - én is a te arcod keresem,
           - s áldalak, áldalak, Atyám!
       - name: v4
         lines:
-          - Istenem, Te rám nézel,
-          - én Istenem Rád nézek,
+          - Istenem, te rám nézel,
+          - én Istenem, rád nézek,
           - s áldalak, áldalak, Atyám!
       - name: c
         lines:
-          - Te Rám nézel, Te rám nézel.
+          - Te rám nézel, te rám nézel.

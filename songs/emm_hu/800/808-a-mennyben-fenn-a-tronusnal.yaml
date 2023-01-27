@@ -3,6 +3,11 @@ books:
     chapter: 8_himn
     number: '808'
     lang: hu
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/a-mennyben-fenn-a-tronusnal.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: A mennyben fenn, a trónusnál

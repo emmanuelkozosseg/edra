@@ -6,6 +6,11 @@ books:
     former_numbers:
       - chapter: e_egyeb
         number: E14
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/kialtok-az-urhoz.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Kiáltok az Úrhoz

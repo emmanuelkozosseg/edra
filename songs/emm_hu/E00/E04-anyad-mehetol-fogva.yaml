@@ -9,19 +9,31 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - /:Anyád méhétől fogva kiválasztottalak,
-          - az enyém vagy, az enyém vagy,
-          - az enyém vagy.:/
-          - /:A hajnalból szültelek téged,
-          - körülvettelek és dédelgettelek,
-          - kezemben hordom életed,
-          - angyalaimmal őrzöm tetteidet.:/
+          - group: repeat
+            times: 2
+            lines:
+              - Anyád méhétől fogva kiválasztottalak,
+              - az enyém vagy, az enyém vagy,
+              - az enyém vagy.
+          - group: repeat
+            times: 2
+            lines:
+              - A hajnalból szültelek téged,
+              - körülvettelek és dédelgettelek,
+              - kezemben hordom életed,
+              - angyalaimmal őrzöm tetteidet.
       - name: v2
         lines:
-          - /:Anyád méhétől fogva kiválasztottalak,
-          - az enyém vagy, az enyém vagy,
-          - az enyém vagy.:/
-          - /:A hajnalból szültelek téged,
-          - körülvettelek és dédelgettelek,
-          - kezemben hordom szívedet,
-          - angyalaimmal őrzöm tetteidet.:/
+          - group: repeat
+            times: 2
+            lines:
+              - Anyád méhétől fogva kiválasztottalak,
+              - az enyém vagy, az enyém vagy,
+              - az enyém vagy.
+          - group: repeat
+            times: 2
+            lines:
+              - A hajnalból szültelek téged,
+              - körülvettelek és dédelgettelek,
+              - kezemben hordom szívedet,
+              - angyalaimmal őrzöm tetteidet.

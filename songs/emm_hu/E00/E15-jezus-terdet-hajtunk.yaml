@@ -13,5 +13,8 @@ lyrics:
           - Te vagy a Királyunk,
           - énekünk magasba emel,
           - foglald el királyi trónod!
-          - '/: Úgy várunk, jöjj, tiéd a trón! /3x'
+          - group: repeat
+            times: 3
+            lines:
+              - Úgy várunk, jöjj, tiéd a trón!
           - Jöjj, Úr Jézus, Te légy Urunk!

@@ -10,6 +10,11 @@ about:
   lyrics: P. Marie-Eugène de l'E.J.
   c_holder: Edition du Carmel
   c_year: 2010
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/halld-uram.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Halld Uram

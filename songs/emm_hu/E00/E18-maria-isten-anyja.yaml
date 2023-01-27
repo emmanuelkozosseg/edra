@@ -5,14 +5,14 @@ books:
     lang: hu
 lyrics:
   - lang: hu
-    title: Mária isten anyja
+    title: Mária, Isten Anyja
     verses:
       - name: v1
         lines:
           - Mária, Isten Anyja,
           - Téged áldunk, Királynénk.
           - Mert Te szülted Jézust,
-          - Ki üdvözített minket.
+          - ki üdvözített minket.
       - name: c
         lines:
           - Ave, Tu Immaculata,
@@ -24,12 +24,12 @@ lyrics:
       - name: v2
         lines:
           - Hittél az angyal szavának,
-          - Igent mondtál az Atyának,
-          - És szívedbe fogadtad,
-          - A végtelen Teremtőt.
+          - igent mondtál az Atyának,
+          - és szívedbe fogadtad
+          - a végtelen Teremtőt.
       - name: v3
         lines:
           - Irgalom Édesanyja,
-          - Engedelmességed,
-          - És bizalmad világít,
-          - Számunkra szenvedéseinkben.
+          - engedelmességed
+          - és bizalmad világít
+          - számunkra szenvedéseinkben.

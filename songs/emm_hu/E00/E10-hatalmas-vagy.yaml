@@ -10,7 +10,10 @@ lyrics:
       - name: v1
         lines:
           - Hatalmas vagy, erős Isten,
-          - Szent és dicső senki más nincsen!
+          - szent és dicső senki más nincsen!
           - Feltámadtál és Te győztél,
           - a halálon uralmat vettél.
-          - '/: Alleluja, örvendezzünk hát! :/'
+          - group: repeat
+            times: 2
+            lines:
+              - Alleluja, örvendezzünk hát!

@@ -21,10 +21,13 @@ lyrics:
           - szeretetének dalát!
       - name: v3
         lines:
-          - '/: Te vagy az Istennek Báránya,'
-          - a Magasságos Fia, aki kilépett a sírból,
-          - a halál nem fogott rajta.
-          - Szabadítónk lettél nékünk,
-          - Benned van reményünk,
-          - nincs másban üdvösség,
-          - Tied minden dicsőség!:/
+          - group: repeat
+            times: 2
+            lines:
+              - Te vagy az Istennek Báránya,
+              - a Magasságos Fia, aki kilépett a sírból,
+              - a halál nem fogott rajta.
+              - Szabadítónk lettél nékünk,
+              - Benned van reményünk,
+              - nincs másban üdvösség,
+              - Tied minden dicsőség!

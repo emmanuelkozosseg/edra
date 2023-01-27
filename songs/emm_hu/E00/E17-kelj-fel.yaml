@@ -9,9 +9,12 @@ lyrics:
     verses:
       - name: v1
         lines:
-          - '/: Kelj fel, mert a Fény eljött,'
-          - íme eljött világosságod! :/
+          - group: repeat
+            times: 2
+            lines:
+              - Kelj fel, mert a Fény eljött,
+              - íme, eljött világosságod!
           - Az Úr dicsősége rajtad feltámadt,
           - az Ő fénye benned ég.
-          - Az Úr dicsősége rajtad
-          - feltámadt és ragyog örökké!
+          - Az Úr dicsősége rajtad feltámadt
+          - és ragyog örökké!

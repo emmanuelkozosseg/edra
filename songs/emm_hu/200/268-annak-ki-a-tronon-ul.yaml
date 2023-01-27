@@ -6,6 +6,11 @@ books:
     former_numbers:
       - chapter: e_egyeb
         number: E12
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/annak-ki-a-tronon-ul.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Annak, ki a trónon ül

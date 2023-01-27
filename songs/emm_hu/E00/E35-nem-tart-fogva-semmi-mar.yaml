@@ -9,6 +9,11 @@ about:
   orig_lang: en
   c_holder: Provident Label Group LLC
   c_year: 2018
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/nem-tart-fogva-semmi-mar.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Nem tart fogva semmi már
