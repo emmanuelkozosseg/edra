@@ -13,6 +13,12 @@ lyrics:
           - "^arra kérünk, ^égi Aty^^ánk:"
           - ^ragyogd be az ^éjünk ^Szentlelked tü^zé^vel,
           - ^adjon nekünk ^vigaszta^^lást!
+      - name: c
+        lines:
+          - ^Jöjj, szállj le re^^ánk,
+          - ^ó, ^jöjj, és ^halld meg i^^mánk!
+          - ^Hozd el a ^fényt, égi ^^Tűz,
+          - ^és ^add, hogy ^általad ^él^jünk!
       - name: v2
         lines:
           - ^Jöjj, teremtő ^Lélek, ^alkoss újjá ^min^dent,
@@ -26,9 +32,15 @@ lyrics:
           - ^Mindig készen ^álljunk ^tanúságot ^ten^ni,
           - ^bátorítón ^szóljon a ^^szánk!
 chords:
-  - template: all
+  - template: v
     lines:
       - [D, D9/Fis, G, D, A/Cis]
       - [Hm7, G9, A4, A3]
       - [D, D9/Fis, G, D, A/Cis]
       - [Hm7, G9, A4, A3]
+  - template: c
+    lines:
+      - [G, D4, D3]
+      - [Em, Hm, G, A4, A3]
+      - [D/Fis, G, D4, D3]
+      - [Em, Hm, G, A4, A3]
