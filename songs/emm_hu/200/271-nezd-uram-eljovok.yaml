@@ -1,0 +1,57 @@
+books:
+  - id: emm_hu
+    chapter: 2_br
+    number: '271'
+    lang: hu
+about:
+  music: Maher, Matt
+  lyrics: Maher, Matt
+  orig_lang: en
+lyrics:
+  - lang: hu
+    title: Nézd, Uram, eljövök
+    order: [v1, c, v2, c, b, c]
+    verses:
+      - name: v1
+        lines:
+          - Nézd, U^ram,^ eljö^vök,
+          - nálad ^lelkem ^békét ^nyer.
+          - Nélkü^led^ mit érek ^én?
+          - Te élj ^szívem ^mé^lyén.
+      - name: c
+        lines:
+          - Jézus, ^várom, ^Lelked ^vá^rom,
+          - ^minden ^percben ^vá^rom.
+          - Míg ^léte^zem, az ^éle^tem
+          - Te ^óvd mindig, ^Iste^nem.
+      - name: v2
+        lines:
+          - Hol sok a ^bűn,^ kegyelmed ^több,
+          - hol kegye^lem,^ ott vagy je^len.
+          - És veled ^már^ lelkem sza^bad,
+          - Krisztus ^Lelke ^megszen^tel.
+      - name: b
+        lines:
+          - Neked ^zengjen ^szívem ^minden ^dalt,
+          - ha ^kísértések ^bánta^nak.
+          - "Hogyha ^lábam ^nem bír ^el, tu^dom:"
+          - ^Jézus, benned ^bízha^tom.
+chords:
+  - template: v
+    chords:
+      - [G, C, G]
+      - [Em, D, C]
+      - [G, C, G]
+      - [Em, D, C]
+  - template: c
+    chords:
+      - [G, C, G, D]
+      - [Em, C, G, D]
+      - [G, C, G, C]
+      - [G, D, G]
+  - template: b
+    chords:
+      - [C, G, D, Em]
+      - [C, D, C]
+      - [C, G, D, Em]
+      - [C, D, G]

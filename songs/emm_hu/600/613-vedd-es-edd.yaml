@@ -1,0 +1,36 @@
+books:
+  - id: emm_hu
+    chapter: 6_euch
+    number: '613'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Vedd és edd, Krisztus teste táplál
+    about:
+      c_holder: Emmánuel Közösség
+      c_year: 2015
+    verses:
+      - name: v1
+        lines:
+          - Maradjatok bennem, ahogy én is bennetek.
+          - Szeressétek úgy egymást, ahogy én szerettelek!
+          - Hogyha bennem éltek, akkor nincs mit félnetek,
+          - testem, vérem éltet, s ad örök életet.
+      - name: c
+        lines:
+          - Vedd és edd, Krisztus teste táplál,
+          - "vedd és idd: szent vére éltet."
+          - Jöjj tiszta szívvel, ő néked adja önmagát,
+          - és nála béke vár.
+      - name: v2
+        lines:
+          - Lelkem küldöm el, aki mindent megtanít,
+          - eszetekbe juttat mindent, s mindig a jóra hív.
+          - "Arról tudja bárki, hogy az enyéim vagytok:"
+          - szeretetben éltek és hűek maradtok.
+      - name: v2
+        lines:
+          - Szentek legyetek, ahogy én is szent vagyok.
+          - Aki bennem bízik, azt én elveszni nem hagyom.
+          - Mindaz hű barátom, aki hallva hangomat
+          - kész megtenni bármit, amit én parancsoltam.

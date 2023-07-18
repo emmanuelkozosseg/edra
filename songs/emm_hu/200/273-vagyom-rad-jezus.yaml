@@ -1,0 +1,28 @@
+books:
+  - id: emm_hu
+    chapter: 2_br
+    number: '273'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Vágyom rád, Jézus
+    verses:
+      - name: c
+        lines:
+          - ^Vágyom rád, Jézus!
+          - Vágyom ^rá, hogy bennem ^élj
+          - s én neked él^jek.
+          - ""
+          - ^Vágyom rád, Jézus!
+          - Vágyom ^rá, hogy örök^ké^
+          - veled él^jek.
+chords:
+  - template: c
+    chords:
+      - [G]
+      - [C, Am]
+      - [D]
+      - 
+      - [G]
+      - [C, Am, D]
+      - [G]

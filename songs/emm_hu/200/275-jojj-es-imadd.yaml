@@ -1,0 +1,23 @@
+books:
+  - id: emm_hu
+    chapter: 2_br
+    number: '275'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Jöjj és imádd
+    verses:
+      - name: c
+        lines:
+          - Jöjj, és imádd az ég Urát,
+          - aki a mennyből testet öltve földre szállt!
+          - Jöjj, és imádd az ég Urát,
+          - aki az életét adta és vár terád!
+      - name: v1
+        lines:
+          - Lépj elé, és ő betölti szíved vágyait,
+          - csak add át életed!
+      - name: v2
+        lines:
+          - Megsegít az Úr, ha kéred őt,
+          - s mint gyermekét, most védőn átölel.

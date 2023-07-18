@@ -1,0 +1,26 @@
+books:
+  - id: emm_hu
+    chapter: 2_br
+    number: '274'
+    lang: hu
+  - id: emm_hu
+    chapter: i_ima
+    number: I6
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Egységima
+    verses:
+      - name: v1
+        lines:
+          - Ó, Imádott Jézusom,
+          - Lábunk együtt járjon,
+          - Kezünk együtt gyűjtsön,
+          - Szívünk együtt dobbanjon,
+          - Bensőnk együtt érezzen,
+          - Elménk gondolata egy legyen,
+          - Fülünk együtt figyeljen a csöndességre.
+          - Szemünk egymásba nézzen és
+          - Tekintetünk összeforrjon,
+          - Ajkunk együtt könyörögjön az Örök Atyához irgalomért.
+          - Amen.

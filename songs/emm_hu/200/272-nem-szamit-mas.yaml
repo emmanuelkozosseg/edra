@@ -1,0 +1,27 @@
+books:
+  - id: emm_hu
+    chapter: 2_br
+    number: '272'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Nem számít más, csak szent kegyelmed, Istenem
+    verses:
+      - name: v1
+        lines:
+          - Isten jön, ha hívom, Ő véd és megsegít.
+          - Mindig benne bízom, ki mindent alkotott.
+          - Hűséges az Isten, a mennyből lehajol,
+          - nem hagy cserben engem, mert szíve így szeret.
+      - name: c
+        lines:
+          - Nem számít más, csak szent kegyelmed, Istenem.
+          - Megváltottál, pedig méltatlan vagyok.
+          - Megmentettél, a lelkem benned újra él.
+          - Feltámadtál győztesen, tiéd a mindenség.
+      - name: v2
+        lines:
+          - Jól ismersz te engem, és minden gondomat.
+          - Még meg sem születtem, de már hívtál, Uram.
+          - Mindig megbocsátasz, mert irgalmad örök,
+          - nem nézed a múltam, veled célhoz ér utam.
