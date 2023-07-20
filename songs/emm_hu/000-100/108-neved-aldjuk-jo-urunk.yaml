@@ -1,0 +1,50 @@
+books:
+  - id: emm_hu
+    chapter: 0_dics
+    number: '108'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Neved áldjuk, jó Urunk
+    verses:
+      - name: c
+        lines:
+          - Neved ^áldjuk, jó U^runk^,
+          - hisz e ^névben győzhe^tünk.
+          - "Ez a ^név, Emmánu^el:"
+          - velünk ^élő Iste^nünk.
+          - A te ^Lelked küldted ^el,
+          - és a ^szívünk lángra ^gyúlt,
+          - ma a ^néped ünne^pel,
+          - téged ^áldunk, Jézu^sunk.
+      - name: v1
+        lines:
+          - ^Jézus, szent kereszted fáját | ^értünk visel^ted.
+          - Véred ^á^rán mi ^újjá^szület^tünk.
+          - Te vagy az ^É^let!
+      - name: v2
+        lines:
+          - "^Szent Szíved kitártad nékünk, | ^ebből merí^tünk:"
+          - élő ^víz^zel a ^lelkünk ^betöl^töd.
+          - Te vagy az ^É^let!
+      - name: v3
+        lines:
+          - ^Harmadnapra feltámadtál, | ^többé nincs ha^lál.
+          - Nincs mit ^fél^nünk, ^teljes ^öröm ^vár.
+          - Te vagy az ^É^let!
+chords:
+  - template: c
+    chords:
+      - [C, G4, G3]
+      - [F, C]
+      - [Am, F]
+      - [Dm, G]
+      - [Am, Em]
+      - [F, C]
+      - [Am, Dm]
+      - [F, G]
+  - template: v
+    chords:
+      - [Dm, G4, G]
+      - [C4, C3, F, C, Dm]
+      - [F, G]
