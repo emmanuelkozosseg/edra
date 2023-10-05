@@ -1,0 +1,44 @@
+books:
+  - id: emm_hu
+    chapter: e_egyeb
+    number: E37
+    lang: hu
+lyrics:
+  - lang: hu
+    title: A neved élet
+    order: [v1, v2, c, v3, c, b, c]
+    verses:
+      - name: v1
+        lines:
+          - Hatalmas neved kimondom, Jézus,
+          - minden szív és gondolat felett,
+          - mert jelenlétedből békesség árad.
+          - Hívlak, Jézus!
+      - name: v2
+        lines:
+          - Hatalmas neved kimondom, Jézus,
+          - minden sötét függőség felett,
+          - mert van remény és van teljes szabadság.
+          - Hívlak, Jézus!
+      - name: c
+        lines:
+          - A neved élet,
+          - a neved gyógyír,
+          - neved erő!
+          - Láncokat tör szét,
+          - szökik az árnyék
+          - fénye elől!
+      - name: v3
+        lines:
+          - Hatalmas neved kimondom, Jézus,
+          - a félelem és szorongás felett.
+          - A csüggedés vermében szenvedőkért
+          - hívlak, Jézus!
+      - name: b
+        lines:
+          - A hegytetőkről zengjen,
+          - az utcán hirdessék,
+          - a sötétségen át kiáltsuk
+          - Jézus nagy nevét!
+          - Egész családomra
+          - 'ragyogjon fel e név: Jézus!'
