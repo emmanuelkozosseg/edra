@@ -1,0 +1,26 @@
+books:
+  - id: emm_hu
+    chapter: 7_zsolt
+    number: '721'
+    lang: la
+about:
+  music: B. Suijkerbuijk
+  lyrics: B. Suijkerbuijk
+  orig_lang: la
+lyrics:
+  - lang: la
+    title: Verbum caro factum est
+    verses:
+      - name: v1
+        lines:
+          - ^Verbum caro ^factum ^est,
+          - al^lelu^ia, alle^lu^ia.
+          - ^Verbum caro ^factum ^est,
+          - al^lelu^ia, alle^lu^ia.
+chords:
+  - template: all
+    lines:
+      - [F, B, F]
+      - [B, Gm, C4, C]
+      - [F, B, F]
+      - [B, Gm, C, F]

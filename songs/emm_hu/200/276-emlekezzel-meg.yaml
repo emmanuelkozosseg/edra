@@ -1,8 +1,11 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E2
+    chapter: 2_br
+    number: '276'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E2
 records:
   - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/emlekezzel-meg.mp3

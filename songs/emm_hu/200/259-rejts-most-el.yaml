@@ -1,0 +1,41 @@
+books:
+  - id: emm_hu
+    chapter: 2_br
+    number: '259'
+    lang: hu
+about:
+  music: Reuben Morgan
+  lyrics: Reuben Morgan
+lyrics:
+  - lang: hu
+    title: Rejts most el
+    about:
+      adapted_by: Labadics Kriszta
+    verses:
+      - name: v1
+        lines:
+          - ^Rejts ^most ^el a ^szár^nyad a^lá,^
+          - ^erős kéz^zel ^takarj be en^gem!
+      - name: c
+        lines:
+          - ^Tenger tombol, ^zúg, sü^vít a ^szél,
+          - Te emelsz fel ^a vi^har fö^lé.
+          - Uralkodsz hul^lámok ^habja^in,
+          - szívem nem ^fél, Ben^ned re^mél,
+          - szívem nem ^fél, Ben^ned re^mél.
+      - name: v2
+        lines:
+          - Csak ^Is^ten^ben bízz, ^én ^lel^kem^,
+          - ^mert Ő ^él, és ^nagyobb minden^nél!
+chords:
+  - template: v
+    lines:
+      - [C, G, Am, F, D, G4, G]
+      - [C, F, Dm, G]
+  - template: c
+    lines:
+      - [C, F, G, C]
+      - [F, G, Am]
+      - [F, G, C]
+      - [F, G, Am]
+      - [F, G, C]

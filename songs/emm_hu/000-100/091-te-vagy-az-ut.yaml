@@ -19,6 +19,10 @@ records:
     lang: hu
     purpose: listening
     note: Te vagy az Út (2014)
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/te-vagy-az-ut.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Te vagy az Út

@@ -1,8 +1,11 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E33
+    chapter: 0_dics
+    number: '109'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E33
 about:
   music: Linda Duvall
   lyrics: Linda Duvall

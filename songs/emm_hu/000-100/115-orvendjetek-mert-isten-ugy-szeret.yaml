@@ -1,8 +1,11 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E32
+    chapter: 0_dics
+    number: '115'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E32
 about:
   music: Pálhegyi Dávid
   lyrics: Dr. Pálhegyi Ferenc

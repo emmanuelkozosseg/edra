@@ -9,6 +9,10 @@ records:
     lang: la
     purpose: listening
     note: Reményt és jövőt adok (2007)
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/totus-tuus.mp3
+    lang: la
+    purpose: aid
 lyrics:
   - lang: la
     title: Totus tuus

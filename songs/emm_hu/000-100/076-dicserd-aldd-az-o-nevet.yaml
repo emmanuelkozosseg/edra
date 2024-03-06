@@ -16,6 +16,10 @@ records:
     lang: hu
     purpose: listening
     note: Reményt és jövőt adok (2007)
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/dicserd-aldd-az-o-nevet.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Dicsérd, áldd az Ő nevét

@@ -1,12 +1,43 @@
 books:
   - id: emm_hu
-    chapter: n_nemzetkozi
-    number: N3
-    lang: en
+    chapter: 0_dics
+    number: '107'
+    lang: hu
+  - id: emm_fr
+    number: 17-03
   - id: eeym17
     number: '3'
     lang: en
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/a-dicsoseges-istent.mp3
+    lang: hu
+    purpose: aid
 lyrics:
+  - lang: hu
+    title: A dicsőséges Istent
+    verses:
+      - name: v1
+        lines:
+          - A dicsőséges Istent az egek hirdessék!
+          - Az egész föld is zengje, hogy övé minden nép!
+          - Ki örök hűségében nekünk ad mindent,
+          - a nevünkön hív minket és betölt örömével.
+          - Alleluja...
+      - name: v2
+        lines:
+          - A csodás mindenségnek a Teremtője vagy.
+          - A királyok Királya és uraknak Ura.
+          - A hegyek és a tenger, a mezőn minden vad
+          - 'az Úrnak énekelnek, a folyók tapsolnak:'
+          - Alleluja...
+      - name: v3
+        lines:
+          - Nagy csodákat tett köztünk, az Örökkévaló,
+          - a velünk élő Isten, a dicső Megváltó.
+          - Kereszthalálával a remény újra él,
+          - 'és ezért szívből áldja a világmindenség:'
+          - Alleluja...
   - lang: en
     title: Alleluia, Let All the World Acclaim You
     verses:

@@ -1,8 +1,11 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E35
+    chapter: 0_dics
+    number: '111'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E35
 about:
   music: Zach Williams
   lyrics: Zach Williams

@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '275'
     lang: hu
+  - id: eeym17
+    number: '45'
+    lang: en
 lyrics:
   - lang: hu
     title: Jöjj és imádd
@@ -21,3 +24,20 @@ lyrics:
         lines:
           - Megsegít az Úr, ha kéred őt,
           - s mint gyermekét, most védőn átölel.
+  - lang: en
+    title: Let us adore
+    verses:
+      - name: c
+        lines:
+          - Let us adore our Lord and God.
+          - May all the praises of our songs proclaim his name!
+          - Let us adore our Lord and God.
+          - Release the fire of the Spirit from our Hearts.
+      - name: v1
+        lines:
+          - Come to Him, come close to Him today.
+          - Make of yourselves a living sacrifice!
+      - name: v2
+        lines:
+          - One in heart, in spirit and in truth,
+          - We bow before the Lord, the Bread of life!

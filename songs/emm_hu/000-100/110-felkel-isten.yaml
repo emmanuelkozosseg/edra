@@ -1,8 +1,11 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E30
+    chapter: 0_dics
+    number: '110'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E30
 records:
   - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/lobbanj-fel-draga-tuz.mp3
@@ -10,7 +13,7 @@ records:
     purpose: aid
 lyrics:
   - lang: hu
-    title: Lobbanj fel, drága tűz
+    title: Felkél Isten
     verses:
       - name: v1
         lines:

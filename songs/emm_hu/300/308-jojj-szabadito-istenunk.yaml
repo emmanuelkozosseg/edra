@@ -10,6 +10,11 @@ about:
   lyrics: I. Goulven, E. Baranger
   c_holder: Edition de l'Emmanuel
   c_year: 1993
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/jojj-szabadito-istenunk.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Jöjj, szabadító Istenünk

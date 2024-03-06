@@ -5,6 +5,11 @@ books:
     lang: hu
   - id: emm_fr
     number: 12-21
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/mint-az-agyag.mp3
+    lang: hu
+    purpose: aid
 about:
   music: B. Ben
   lyrics: B. Ben

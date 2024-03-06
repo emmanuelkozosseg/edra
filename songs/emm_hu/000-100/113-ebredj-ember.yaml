@@ -1,11 +1,14 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E5
+    chapter: 0_dics
+    number: '113'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E5
 lyrics:
   - lang: hu
-    title: Alleluja, ébredj, ember
+    title: Ébredj, ember
     verses:
       - name: v1
         lines:

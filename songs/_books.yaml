@@ -29,9 +29,9 @@
     - id: 9_mozg
       badge: '900'
       name: Megmozgató énekek
-    - id: e_egyeb
-      badge: E00
-      name: Egyéb (nem Emmánueles) énekek
+    # - id: e_egyeb
+    #   badge: E00
+    #   name: Egyéb (nem Emmánueles) énekek
     - id: i_ima
       badge: I00
       name: Imádságok

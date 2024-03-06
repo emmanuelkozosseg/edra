@@ -1,11 +1,19 @@
 books:
   - id: emm_hu
-    chapter: e_egyeb
-    number: E37
+    chapter: 0_dics
+    number: '114'
     lang: hu
+    former_numbers:
+      - chapter: e_egyeb
+        number: E37
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/hivlak-jezus.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
-    title: A neved élet
+    title: Hívlak, Jézus
     order: [v1, v2, c, v3, c, b, c]
     verses:
       - name: v1

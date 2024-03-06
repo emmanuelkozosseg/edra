@@ -3,9 +3,17 @@ books:
     chapter: 0_dics
     number: '108'
     lang: hu
+  - id: eeym17
+    number: '5'
+    lang: en
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/neved-aldjuk.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
-    title: Neved áldjuk, jó Urunk
+    title: Neved áldjuk
     verses:
       - name: c
         lines:
@@ -32,6 +40,34 @@ lyrics:
           - ^Harmadnapra feltámadtál, | ^többé nincs ha^lál.
           - Nincs mit ^fél^nünk, ^teljes ^öröm ^vár.
           - Te vagy az ^É^let!
+  - lang: en
+    title: Come, Proclaim the King of Heaven
+    verses:
+      - name: c
+        lines:
+          - Come, proclaim the King of Heav'n
+          - and give glory to his name!
+          - Come, adore Emmanuel!
+          - God is with us ev'ry day.
+          - He has set our hearts ablaze,
+          - with the Holy Spirit's flame.
+          - Let us praise our saving Lord,
+          - as we place our hope in Him!
+      - name: v1
+        lines:
+          - Jesus has revealed his heart, | afire with love for us.
+          - We adore Him, we see his power near.
+          - Let us rejoice!
+      - name: v2
+        lines:
+          - Jesus showed compassion | for us high upon the Cross,
+          - And we love Him, we love his Holy Name.
+          - Let us rejoice!
+      - name: v3
+        lines:
+          - We can see his Kingdom, | we have heard his Holy Word.
+          - We proclaim Him, for Jesus is alive.
+          - Let us rejoice!
 chords:
   - template: c
     chords:
