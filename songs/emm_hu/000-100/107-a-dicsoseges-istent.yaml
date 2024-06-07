@@ -23,21 +23,22 @@ lyrics:
           - Az egész föld is zengje, hogy övé minden nép!
           - Ki örök hűségében nekünk ad mindent,
           - a nevünkön hív minket és betölt örömével.
-          - Alleluja...
+      - name: c
+        lines:
+          - Alleluja, alleluja,
+          - alleluja, alleluja!
       - name: v2
         lines:
           - A csodás mindenségnek a Teremtője vagy.
           - A királyok Királya és uraknak Ura.
           - A hegyek és a tenger, a mezőn minden vad
           - 'az Úrnak énekelnek, a folyók tapsolnak:'
-          - Alleluja...
       - name: v3
         lines:
           - Nagy csodákat tett köztünk, az Örökkévaló,
           - a velünk élő Isten, a dicső Megváltó.
           - Kereszthalálával a remény újra él,
           - 'és ezért szívből áldja a világmindenség:'
-          - Alleluja...
   - lang: en
     title: Alleluia, Let All the World Acclaim You
     verses:

@@ -14,7 +14,7 @@ records:
 lyrics:
   - lang: hu
     title: Kegyelmeddel megváltottál
-    order: [v1, v2a, v1, v2b, b, v2b]
+    order: [v1, v2a, v1, v2b, b, v2a]
     verses:
       - name: v1
         lines:
