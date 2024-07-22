@@ -3,10 +3,11 @@ books:
     chapter: 2_br
     number: '274'
     lang: hu
-  - id: emm_hu
-    chapter: i_ima
-    number: I6
-    lang: hu
+  # FIXME Az Emmet nem támogat egy éneket több fejezetben
+  # - id: emm_hu
+  #   chapter: i_ima
+  #   number: I6
+  #   lang: hu
 lyrics:
   - lang: hu
     title: Egységima

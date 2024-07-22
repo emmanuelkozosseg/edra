@@ -1,0 +1,47 @@
+books:
+  - id: emm_hu
+    chapter: 2_br
+    number: '277'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Áldjuk Őt
+    verses:
+      - name: v1
+        lines:
+          - ^Áldjuk Őt, a ^trónon ülőt,
+          - ^nagy Király, a ^Mindenha^tó.
+          - ^Arcod ragyog, mint a ^nap tündököl,
+          - '^mindaz, ki lát, ^szívből kiált:^'
+      - name: c
+        lines:
+          - ^Méltó vagy, Urunk, Téged ^illet
+          - ^áldás, tisztelet, a di^csé^ret,
+          - ^minden győzelem és az ^Ország.
+          - Áldott a ^Bárány! Á^men.^
+      - name: v2
+        lines:
+          - ^Jöjj, Uram, ó, ^Jézus, ne várj,
+          - a ^Lélek úgy hív, a meny^asszony úgy ^vár.
+          - ^Rád szomjazom, jöjj, ne ^késs, Kedvesem,
+          - '^föld és a menny ^így énekel:^'
+      - name: v3
+        lines:
+          - ^Nemzetek és ^szent angyalok,
+          - ^áldjátok Őt, alle^luját ki^áltsatok!
+          - ^Jézus nevét vallja ^meg minden nyelv,
+          - ^mert Ő az Úr, ^mert Ő a Szent.^
+chords:
+  - template: v
+    lines:
+      - [Dm, C]
+      - [Gm, Dm, C]
+      - [F, C]
+      - [Gm, A4, A3]
+  - template: c
+    lines:
+      - [Dm, C]
+      - [Gm, B, C]
+      - [F, C]
+      - [Gm, A4, A3]
+  

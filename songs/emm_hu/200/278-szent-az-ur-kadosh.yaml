@@ -1,0 +1,48 @@
+books:
+  - id: emm_hu
+    chapter: 2_br
+    number: '278'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Szent az Úr (Kadosh)
+    verses:
+      - name: v1
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - ^Szent az Úr,
+              - ^dicsé^rem, mert ^szent az Úr!
+          - group: repeat
+            times: 2
+            lines:
+              - Ado^náj, élő ^Úr,
+              - seregek ^Istene.
+      - name: v2
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - Aki ^volt, aki ^van,
+              - aki ^eljöven^dő!
+chords:
+  - template: v1
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - [Am]
+          - [Dm, G, Am]
+      - group: repeat
+        type: uniform
+        lines:
+          - [G, Em]
+          - [Am]
+  - template: v2
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - [A, G]
+          - [D, A]
