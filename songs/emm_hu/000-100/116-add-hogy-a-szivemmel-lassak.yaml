@@ -1,0 +1,40 @@
+books:
+  - id: emm_hu
+    chapter: 0_dics
+    number: '116'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Add, hogy a szívemmel lássak
+    verses:
+      - name: v1
+        lines:
+          - ^Add, hogy a szívemmel lássak,
+          - ^add meg, hogy láthassalak!
+          - Látni a^karlak!
+          - Látni a^karlak!
+      - name: c
+        lines:
+          - Kérlek, ^nyisd meg most sze^mem,
+          - egy ^pillantást hadd vessek a menny^be,
+          - hogy ^valóban lássa^lak,
+          - 'miközben ^énekeljük: "^Szent vagy!"'
+      - name: v2
+        lines:
+          - ^Szent vagy, szent vagy, szent vagy!
+          - ^Szent vagy, szent vagy, szent vagy!
+          - ^Szent vagy, szent vagy, szent vagy!
+          - Látni a^karlak!
+chords:
+  - template: v
+    lines:
+      - [D]
+      - [A/Cis]
+      - [G/H]
+      - [D]
+  - template: c
+    lines:
+      - [A, Hm]
+      - [G, A]
+      - [A, Hm]
+      - [G, A]
