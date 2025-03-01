@@ -1,0 +1,46 @@
+name: Create Release
+
+on:
+  push:
+    tags:
+      - 'v[0-9]+.[0-9]+.[0-9]+'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Install dependencies
+        run: sudo apt install libxrender1 wkhtmltopdf
+      - name: Build
+        run: bin/build.sh --create-opensong-package
+      - name: Deploy songs to Emmet
+        uses: joutvhu/ftp-transfer@v1
+        with:
+          host: ${{ vars.FTP_HOST }}
+          username: ${{ vars.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          commands: |
+            put dist/emmet.json /subdoms/emmet/songs.json.new
+            rename /subdoms/emmet/songs.json /subdoms/emmet/songs.json.${{ github.ref_name }}.bak
+            rename /subdoms/emmet/songs.json.new /subdoms/emmet/songs.json
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/opensong-enekek.zip
+            dist/opensong-csomag.zip
+            dist/emmet.json
+            dist/emmanuel.dtx
+            dist/emmet_offline.pdf
+          fail_on_unmatched_files: true
+          make_latest: 'true'
+          generate_release_notes: true

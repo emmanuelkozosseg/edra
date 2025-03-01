@@ -151,7 +151,7 @@ class EmmaSongsConverter(AbstractConverter):
         printed_lines = []
         for i, line in enumerate(lines):
             line_chords = chords[i] if chords is not None else None
-            if isinstance(line, collections.Mapping):
+            if isinstance(line, collections.abc.Mapping):
                 # This is a repeat group.
                 printed_group_lines = []
                 for gi, group_line in enumerate(line['lines']):
