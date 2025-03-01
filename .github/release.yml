@@ -1,0 +1,8 @@
+changelog:
+  categories:
+    - title: 🎵 Énekek
+      labels:
+        - affects::songs
+    - title: ⚙ Infrastruktúra
+      labels:
+        - affects::infra

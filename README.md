@@ -1,5 +1,5 @@
-![Emmert](emmert.png)
+![Edra](edra.png)
 
-# Üdv az **Emm**ánuel **É**nek**r**ak**t**árban (Emmert)!
+# Üdv az **E**mmánuel **D**al**ra**ktárban (Edra)!
 
-A raktár leírását a [wikin](https://bitbucket.org/eckerg/emmert/wiki/Home) találod.
+A raktár leírását a [wikin](https://github.com/emmanuelkozosseg/edra/wiki) találod.
