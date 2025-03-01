@@ -59,7 +59,7 @@ class SongPreprocessor:
             for i, line in enumerate(verse['lines']):
                 if line is None:
                     continue
-                if isinstance(line, collections.Mapping):
+                if isinstance(line, collections.abc.Mapping):
                     for j, group_line in enumerate(line['lines']):
                         line['lines'][j] = self._RE_LINE_SYMBOLS.sub(' ', group_line)
                 else:

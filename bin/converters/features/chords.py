@@ -49,12 +49,12 @@ class NoGuitarChords(GuitarChordsWithoutPositioning):
     @staticmethod
     def _flatten_verse(verse):
         # Skip if there are no blocks
-        if next((line for line in verse['lines'] if isinstance(line, collections.Mapping)), None) is None:
+        if next((line for line in verse['lines'] if isinstance(line, collections.abc.Mapping)), None) is None:
             return
         # Copy to new array
         new_lines = []
         for line in verse['lines']:
-            if isinstance(line, collections.Mapping):
+            if isinstance(line, collections.abc.Mapping):
                 group_lines = line['lines']
                 group_lines[0] = '/: ' + group_lines[0]
                 group_lines[-1] += ' :/'
