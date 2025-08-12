@@ -10,39 +10,28 @@ fi
 python3 -m venv .venv/
 source .venv/bin/activate
 python -m pip install --upgrade pip
-pip install -r requirements.txt
-
-# Done this way to avoid having to install 'zip'. It's equivalent to:
-# cd dist/Emmánuel/
-# zip -r -9 ../opensong.zip .
-# cd ../..
-function zip() {
-    local rootdir=$1  # Path to the directory whose contents we want to zip
-    local basedir=$2  # Zip only the contents of this directory within the root
-    local targetfile=$3  # Path to the target file, WITHOUT FILE EXTENSION
-    python -c "import shutil; shutil.make_archive(base_name='$targetfile', format='zip', root_dir='$rootdir', base_dir='$basedir')"
-}
-function unzip() {
-    local zipfile=$1
-    local targetdir=$2
-    python -c "import shutil; shutil.unpack_archive(filename='$zipfile', extract_dir='$targetdir')"
-}
+python -m pip install -r requirements.txt
 
 # Cleanup and preparation
 rm -rf dist/
 mkdir dist/
 
+# Find current commit's date
+COMMIT_DATE=$(git show -s --format=%cd --date=format:%Y.%m.%d.)
+
 # Conversions
 python bin/convert.py opensong --from-dir songs/ --to-dir dist/Emmánuel/
-python bin/convert.py emmet-json --from-dir songs/ --to dist/emmet.json
+python bin/convert.py emmet-json --from-dir songs/ --to dist/emmet.json --version $COMMIT_DATE
 python bin/convert.py diatar --from-dir songs/ --to dist/emmanuel.dtx
 python bin/convert.py pdf --from-dir songs/ --to dist/emmet_offline.pdf
 
-# Zip up OpenSong files
-zip "dist" "Emmánuel" "dist/opensong-enekek"
+cd dist/
+
+# Zip up OpenSong song files
+zip -r opensong-enekek.zip Emmánuel
 
 # Patch song files into the portable OpenSong package
-unzip opensong-skeleton.zip dist/
-mv dist/Emmánuel/ "dist/OpenSong/OpenSong Data/Songs/"
-zip "dist" "OpenSong" "dist/opensong-csomag"
-rm -rf dist/OpenSong/ dist/opensong-skeleton.zip
+unzip ../opensong-skeleton.zip
+mv Emmánuel/ "OpenSong/OpenSong Data/Songs/"
+zip -r opensong-csomag.zip OpenSong
+rm -rf OpenSong/ opensong-skeleton.zip

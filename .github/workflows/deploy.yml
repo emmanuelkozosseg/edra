@@ -21,9 +21,11 @@ jobs:
         with:
           python-version: '3.13'
       - name: Install dependencies
-        run: sudo apt install libxrender1 wkhtmltopdf
+        run: |
+          sudo apt update
+          sudo apt install -y libxrender1 wkhtmltopdf
       - name: Build
-        run: bin/build.sh --create-opensong-package
+        run: bin/build.sh
       - name: Deploy songs to Emmet
         uses: joutvhu/ftp-transfer@v1
         with:

@@ -1,4 +1,5 @@
 import collections
+from datetime import datetime
 import json
 import logging
 import ruamel.yaml
@@ -13,6 +14,7 @@ class EmmetJsonConverter(AbstractConverter):
         self._preprocessor.set_required_features(ValidVerseOrdersForAllSongs())
         self._from_dir = args.from_dir
         self._to_file = args.to
+        self._version = args.version
         self._verbose = args.verbose
         self._songs = []
 
@@ -20,6 +22,8 @@ class EmmetJsonConverter(AbstractConverter):
     def create_argparser(subparsers):
         parser_json = subparsers.add_parser("emmet-json", help="Converts to JSON format for use in Emmet.")
         parser_json.add_argument("--to", required=True, help="target file")
+        parser_json.add_argument("--version", default=datetime.today().strftime("%Y.%m.%d"),
+            help="Version (as of date), defaults to today")
         parser_json.add_argument("-v", "--verbose", action="store_true", help="verbose mode")
         return parser_json
 
@@ -38,7 +42,8 @@ class EmmetJsonConverter(AbstractConverter):
         with open(self._to_file, "wt") as f:
             f.write(EmmetJsonConverter.YamlJsonEncoder(separators=(',', ':')).encode({
                 "books": books_yaml,
-                "songs": self._songs
+                "songs": self._songs,
+                "version": self._version
             }))
 
     class YamlJsonEncoder(json.JSONEncoder):
