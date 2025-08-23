@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt update
-          sudo apt install -y libxrender1 wkhtmltopdf
+          sudo apt install -y fonts-lato libpango-1.0-0 libharfbuzz0b libpangoft2-1.0-0 libharfbuzz-subset0
       - name: Build
         run: bin/build.sh
       - name: Deploy songs to Emmet

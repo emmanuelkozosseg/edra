@@ -1,11 +1,9 @@
 from natsort import natsorted
-import pdfkit
 import pprint
+from weasyprint import HTML, CSS
+from weasyprint.text.fonts import FontConfiguration
 
 from converters.base import AbstractConverter
-
-# pip install natsort pdfkit
-# Install latest wkhtmltopdf from: https://github.com/wkhtmltopdf/wkhtmltopdf/releases
 
 
 class PdfConverter(AbstractConverter):
@@ -81,23 +79,47 @@ class PdfConverter(AbstractConverter):
                         '</div></div>'
                     ))
                 html_songs.append('</div>')
-                html_songs.append('<p class="emmet-toplink"><a href="#toc-song-{songNo}">↑ Vissza a tartalomjegyzékre</a><br />'
-                                  '<a href="#toc">↑↑ Vissza a tetejére</a></p>'
+                html_songs.append('<p class="emmet-toplink"><a href="#toc-song-{songNo}">↑ Vissza a tartalomjegyzékre</a></p>'
                                   .format(songNo=book['number']))
             html_toc.append('</ul>')
         html_toc.append('</section>')
         html_end = '</body></html>'
 
         html_doc = '\n'.join(html_header + html_toc + html_songs + [html_end])
-        with open(self._out_path+'.html', 'wt') as f:
-            f.write(html_doc)
-        pdfkit.from_string(html_doc, self._out_path, {
-            'page-size': 'A6',
-            'margin-top': '0mm',
-            'margin-left': '0mm',
-            'margin-right': '0mm',
-            'margin-bottom': '0mm',
-        })
+
+        pdf_fontconfig = FontConfiguration()
+        pdf_html = HTML(string=html_doc)
+        pdf_css = CSS(string="""
+            @font-face {
+                font-family: 'lato';
+                src: url(file:/usr/share/fonts/truetype/lato/Lato-Regular.ttf);
+                font-weight: normal;
+                font-style: normal;
+            }
+            @font-face {
+                font-family: 'lato';
+                src: url(file:/usr/share/fonts/truetype/lato/Lato-Bold.ttf);
+                font-weight: 700;
+                font-style: normal;
+            }
+            @font-face {
+                font-family: 'lato';
+                src: url(file:/usr/share/fonts/truetype/lato/Lato-Italic.ttf);
+                font-weight: normal;
+                font-style: italic;
+            }
+            @font-face {
+                font-family: 'lato';
+                src: url(file:/usr/share/fonts/truetype/lato/Lato-BoldItalic.ttf);
+                font-weight: 700;
+                font-style: italic;
+            }
+            @page {
+                size: 105mm 149mm;
+                margin: 0;
+            }
+        """ + _CSS_SECTION, font_config=pdf_fontconfig)
+        pdf_html.write_pdf(self._out_path, stylesheets=[pdf_css], font_config=pdf_fontconfig)
 
     @staticmethod
     def _get_displayed_verse_name(verse_code):
@@ -181,7 +203,7 @@ span.badge {
 }
 /* Custom fixes */
 body {
-    font-family: Tahoma;
+    font-family: Lato;
     /* Copied from the Bootstrap template */
     background-color: #222;
     color: #fff;
