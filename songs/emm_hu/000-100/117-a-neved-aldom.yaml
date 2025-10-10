@@ -1,0 +1,38 @@
+books:
+  - id: emm_hu
+    chapter: 0_dics
+    number: '117'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: A neved áldom
+    verses:
+      - name: c
+        lines:
+          - A neved áldom
+          - és csodás tetteid,
+          - mert olyan nagy a (Te) jóságod!
+          - Te vagy és csak Te vagy,
+          - akiben bízhatom.
+          - Imádlak, Uram, Megváltóm.
+      - name: v1
+        lines:
+          - Ha Téged hívlak,
+          - Uram, a bajban,
+          - lehajolsz hozzám és meghallgatsz.
+          - A kezed nyújtod és magadhoz húzol,
+          - a karod megtart, benned bízom.
+      - name: v2
+        lines:
+          - Az egész létem
+          - kezedbe téve,
+          - ha veled járok, már nem félek.
+          - Ki szabadít meg úgy, ahogy Te tetted?
+          - Tenálad békét lelt a lelkem.
+      - name: v3
+        lines:
+          - Nincs élet máshol,
+          - csak benned, Isten!
+          - Ragyogjon fel rám arcod fénye!
+          - Szentlelked add és reményemet éltesd,
+          - hogy mindig hálát adjak Néked!

@@ -1,0 +1,37 @@
+books:
+  - id: emm_hu
+    chapter: 2_br
+    number: '279'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: A Te hangod szól
+    order: [v1, c, v2, c, b, c, v1]
+    verses:
+      - name: v1
+        lines:
+          - Ó, mindenség Ura,
+          - szárnyad árnyéka, szívem oltalma.
+          - Kegyelmed védelem,
+          - karjaidban szívem megpihen.
+      - name: c
+        lines:
+          - Lehet száraz a puszta,
+          - lehet magas a hegy,
+          - Neked nincs lehetetlen.
+          - Minden térdre borul,
+          - ha a Te hangod szól.
+      - name: v2
+        lines:
+          - Viharban béke vagy,
+          - még a csillagok is térdet hajtanak.
+          - Erődet bíztad rám,
+          - hogy több lehessek minden álmomnál.
+      - name: b
+        lines:
+          - Bármi történjék velem,
+          - mindig ott állsz mellettem,
+          - semmi nem túl nagy akadály nálad.
+          - És ha minden csődöt mond,
+          - sorsom újra formálod,
+          - semmi nem túl nagy akadály nálad.
