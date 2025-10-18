@@ -3,6 +3,11 @@ books:
     chapter: 2_br
     number: '278'
     lang: hu
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/szent-az-ur-kadosh.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Szent az Úr (Kadosh)
@@ -14,12 +19,14 @@ lyrics:
             lines:
               - ^Szent az Úr,
               - ^dicsé^rem, mert ^szent az Úr!
+      - name: v2
+        lines:
           - group: repeat
             times: 2
             lines:
               - Ado^náj, élő ^Úr,
               - seregek ^Istene.
-      - name: v2
+      - name: v3
         lines:
           - group: repeat
             times: 2
@@ -34,12 +41,14 @@ chords:
         lines:
           - [Am]
           - [Dm, G, Am]
+  - template: v2
+    lines:
       - group: repeat
         type: uniform
         lines:
           - [G, Em]
           - [Am]
-  - template: v2
+  - template: v3
     lines:
       - group: repeat
         type: uniform

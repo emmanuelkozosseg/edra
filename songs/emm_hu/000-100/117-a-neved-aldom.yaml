@@ -3,6 +3,14 @@ books:
     chapter: 0_dics
     number: '117'
     lang: hu
+  - id: eeym17
+    number: '8'
+    lang: en
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/a-neved-aldom.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: A neved áldom
@@ -11,28 +19,54 @@ lyrics:
         lines:
           - A neved áldom
           - és csodás tetteid,
-          - mert olyan nagy a (Te) jóságod!
+          - mert olyan nagy a Te jóságod!
           - Te vagy és csak Te vagy,
           - akiben bízhatom.
           - Imádlak, Uram, Megváltóm.
       - name: v1
         lines:
-          - Ha Téged hívlak,
-          - Uram, a bajban,
+          - Ha Téged hívlak, Uram, a bajban,
           - lehajolsz hozzám és meghallgatsz.
           - A kezed nyújtod és magadhoz húzol,
           - a karod megtart, benned bízom.
       - name: v2
         lines:
-          - Az egész létem
-          - kezedbe téve,
+          - Az egész létem kezedbe téve,
           - ha veled járok, már nem félek.
           - Ki szabadít meg úgy, ahogy Te tetted?
           - Tenálad békét lelt a lelkem.
       - name: v3
         lines:
-          - Nincs élet máshol,
-          - csak benned, Isten!
+          - Nincs élet máshol, csak benned, Isten!
           - Ragyogjon fel rám arcod fénye!
           - Szentlelked add és reményemet éltesd,
           - hogy mindig hálát adjak Néked!
+  - lang: en
+    title: For all your marvels
+    verses:
+      - name: c
+        lines:
+          - For all your marvels,
+          - I want to sing your Name,
+          - Tell of your wonders to the world.
+          - In You I put my trust,
+          - In You and You alone,
+          - You are the Saviour I adore.
+      - name: v1
+        lines:
+          - For when I call You in grief or sadness,
+          - You hear my cry, You draw close to me.
+          - With your right hand You comfort and protect me.
+          - In your embrace You hold me safely.
+      - name: v2
+        lines:
+          - Into your hands Lord, I give my spirit,
+          - And I abandon myself to You.
+          - Who else can save and pardon our transgression?
+          - Only from You comes true salvation.
+      - name: v3
+        lines:
+          - Far from your presence I cannot live, Lord.
+          - But let your face shine always on me.
+          - Don't disappoint the hope I have in You, Lord.
+          - Forever I will sing your praises.

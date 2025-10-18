@@ -6,6 +6,11 @@ books:
 about:
   music: Reuben Morgan
   lyrics: Reuben Morgan
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/rejts-most-el.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: Rejts most el

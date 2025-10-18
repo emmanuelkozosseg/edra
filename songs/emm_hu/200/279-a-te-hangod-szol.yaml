@@ -3,6 +3,11 @@ books:
     chapter: 2_br
     number: '279'
     lang: hu
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/a-te-hangod-szol.mp3
+    lang: hu
+    purpose: aid
 lyrics:
   - lang: hu
     title: A Te hangod szól
