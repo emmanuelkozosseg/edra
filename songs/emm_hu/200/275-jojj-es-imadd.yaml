@@ -6,6 +6,12 @@ books:
   - id: eeym17
     number: '45'
     lang: en
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/jojj-es-imadd.mp3
+    lang: hu
+    purpose: listening
+    note: Megvalljuk (2025)
 lyrics:
   - lang: hu
     title: Jöjj és imádd

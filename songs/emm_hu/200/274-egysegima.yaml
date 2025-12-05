@@ -10,6 +10,11 @@ books:
   #   lang: hu
 records:
   - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/egysegima.mp3
+    lang: hu
+    purpose: listening
+    note: Megvalljuk (2025)
+  - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/egysegima.mp3
     lang: hu
     purpose: aid

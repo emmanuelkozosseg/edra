@@ -8,6 +8,12 @@ books:
 about:
   music: B. Suijkerbuijk
   lyrics: B. Suijkerbuijk
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/o-aldott-ki-jo.mp3
+    lang: hu
+    purpose: listening
+    note: Megvalljuk (2025)
 lyrics:
   - lang: hu
     title: Ó, áldott, ki jő
@@ -25,6 +31,20 @@ lyrics:
             times: 2
             lines:
               - aki szent, igaz Isten, amen!
+  - lang: en
+    title: The Lamb That Was Slain
+    verses:
+      - name: v1
+        lines:
+          - The Lamb that was slain
+          - is worthy of all praise;
+          - to Him glory and honour,
+          - pow'r and might belong.
+          - To Him be the majesty and the royal crown,
+          - group: repeat
+            times: 2
+            lines:
+              - for all ages, for ever, Amen!
 chords:
   - template: all
     lines:

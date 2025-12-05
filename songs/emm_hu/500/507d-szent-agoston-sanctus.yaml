@@ -5,6 +5,11 @@ books:
     lang: la
 records:
   - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/mise-agoston-sanctus.mp3
+    lang: hu
+    purpose: listening
+    note: Megvalljuk (2025)
+  - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/mise-agoston-sanctus.mp3
     lang: hu
     purpose: aid

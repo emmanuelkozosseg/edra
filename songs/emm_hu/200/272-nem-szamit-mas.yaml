@@ -3,6 +3,12 @@ books:
     chapter: 2_br
     number: '272'
     lang: hu
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/nem-szamit-mas.mp3
+    lang: hu
+    purpose: listening
+    note: Megvalljuk (2025)
 lyrics:
   - lang: hu
     title: Nem számít más, csak szent kegyelmed, Istenem

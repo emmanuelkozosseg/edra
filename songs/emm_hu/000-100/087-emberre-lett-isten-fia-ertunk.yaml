@@ -15,6 +15,11 @@ about:
   c_year: 2003
 records:
   - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/emberre-lett-isten-fia-ertunk.mp3
+    lang: hu
+    purpose: listening
+    note: Megvalljuk (2025)
+  - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/emberre-lett-isten-fia-ertunk.mp3
     lang: hu
     purpose: aid

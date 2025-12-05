@@ -7,6 +7,11 @@ books:
     number: 19-22-02
 records:
   - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/mise-agoston-gloria.mp3
+    lang: hu
+    purpose: listening
+    note: Megvalljuk (2025)
+  - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/mise-agoston-gloria.mp3
     lang: hu
     purpose: aid
