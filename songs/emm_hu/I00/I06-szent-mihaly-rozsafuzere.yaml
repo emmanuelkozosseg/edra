@@ -1,0 +1,159 @@
+books:
+  - id: emm_hu
+    chapter: i_ima
+    number: I6
+    lang: hu
+records:
+  - type: file
+    url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/szent-mihaly-rozsafuzere.mp3
+    lang: hu
+    purpose: aid
+lyrics:
+  - lang: hu
+    title: Szent Mihály rózsafüzére
+    verses:
+      - name: v1
+        lines:
+          - Istenem, jöjj segítségemre!
+          - Uram, segíts meg engem!
+      - name: v2
+        label: Bevezetés, 1. szem
+        lines:
+          - Szent Mihály arkangyal!
+          - Neked ajánlom halálom óráját.
+          - Tartsd fogva akkor a gonosz ellenséget,
+          - hogy ne kísérthessen meg engem és ne ártson lelkemnek.
+          - Mi Atyánk...
+      - name: v3
+        label: Bevezetés, 2. szem
+        lines:
+          - Szent Gábriel arkangyal!
+          - Esdj ki számomra Istentől élő hitet,
+          - erős reményt, bensőséges szeretetet,
+          - s nagy áhítatot a legszentebb Oltáriszentség iránt.
+          - Mi Atyánk...
+      - name: v4
+        label: Bevezetés, 3. szem
+        lines:
+          - Szent Rafael arkangyal!
+          - Vezess engem minden időben az erény és a tökéletesség útján.
+          - Mi Atyánk...
+      - name: v5
+        label: Bevezetés, 4. szem
+        lines:
+          - Szent Őrangyalom!
+          - Eszközölj ki számomra isteni sugallatokat s különleges kegyelmet,
+          - hogy azokat követni tudjam.
+          - Mi Atyánk...
+      - name: v6
+        label: 1. harmad
+        lines:
+          - Szent Mihály és a Szeráfok égi karának közbenjárására
+          - engedje meg nekünk az Úr,
+          - hogy a tökéletes felebaráti szeretet tüze lángoljon bennünk!
+          - Ámen.
+          - Mi Atyánk...
+          - Üdvözlégy... (x3)
+      - name: v7
+        label: 2. harmad
+        lines:
+          - Szent Mihály és a Kerubok égi karának közbenjárására
+          - adja meg nekünk a kegyelmet az Úr,
+          - hogy elhagyjuk a gonoszság útját,
+          - és a keresztény tökéletesség útjára lépjünk!
+          - Ámen.
+          - Mi Atyánk...
+          - Üdvözlégy... (x3)
+      - name: v8
+        label: 3. harmad
+        lines:
+          - Szent Mihály és a Trónok mennyei karának közbenjárására
+          - öntse szívünkbe az Úr az alázat igazi és őszinte lelkét!
+          - Ámen.
+          - Mi Atyánk...
+          - Üdvözlégy... (x3)
+      - name: v9
+        label: 4. harmad
+        lines:
+          - Szent Mihály és az Uralkodók égi karának közbenjárására
+          - adja meg nekünk az Úr a kegyelmet,
+          - hogy uralkodni tudjunk érzékeinken és elhagyjuk rendetlen szenvedélyeinket!
+          - Ámen.
+          - Mi Atyánk...
+          - Üdvözlégy... (x3)
+      - name: v10
+        label: 5. harmad
+        lines:
+          - Szent Mihály és a Hatalmasságok égi karának közbenjárására
+          - töltse el lelkünket az Úr az engedelmesség igaz lelkével!
+          - Ámen.
+          - Mi Atyánk...
+          - Üdvözlégy... (x3)
+      - name: v11
+        label: 6. harmad
+        lines:
+          - Szent Mihály és az Erősségek égi karának közbenjárására
+          - engedje meg nekünk az Úr,
+          - hogy megvédjék lelkünket az ördög kelepcéi és kísértései ellen!
+          - Ámen.
+          - Mi Atyánk...
+          - Üdvözlégy... (x3)
+      - name: v12
+        label: 7. harmad
+        lines:
+          - Szent Mihály és a Fejedelemségek égi karának közbenjárására
+          - óvjon meg bennünket az Úr a bűntől,
+          - és ne engedje, hogy kísértésbe essünk!
+          - Ámen.
+          - Mi Atyánk...
+          - Üdvözlégy... (x3)
+      - name: v13
+        label: 8. harmad
+        lines:
+          - Szent Mihály és az Arkangyalok égi karának közbenjárására
+          - adja meg nekünk az Úr
+          - a hitben és minden jóban való állhatatosságot,
+          - hogy elnyerhessük a Paradicsom dicsőségét!
+          - Ámen.
+          - Mi Atyánk...
+          - Üdvözlégy... (x3)
+      - name: v14
+        label: 9. harmad
+        lines:
+          - Szent Mihály és a szent Angyalok közbenjárására
+          - adja meg nekünk az Úr,
+          - hogy megvédjenek földi életünkben,
+          - majd az örök dicsőségbe vezessenek bennünket!
+          - Ámen.
+          - Mi Atyánk...
+          - Üdvözlégy... (x3)
+      - name: v15
+        label: Záró ima
+        lines:
+          - Ó dicsőséges angyalfejedelem, Szent Mihály,
+          - a mennyei seregek feje és parancsolója,
+          - lelkünk őre, a lázadó lelkek legyőzője,
+          - az isteni Király házának szolgája és a mi csodálatos vezetőnk,
+          - aki kiváló és emberfeletti erényektől ragyogsz,
+          - segíts megszabadulnunk minden bűntől!
+          - Bizalommal fordulunk Hozzád,
+          - kegyes védelmeddel tégy alkalmassá,
+          - hogy egyre hűségesebben szolgálhassuk Istent!
+          - Imádkozzál érettünk, ó dicsőséges Szent Mihály,
+          - Jézus Krisztus Egyházának fejedelme,
+          - hogy méltók lehessünk Jézus ígéreteire!
+          - 
+          - Könyörögjünk!
+          - Mindenható örök Istenünk,
+          - aki jóságos akaratoddal és minden ember üdvösségét kívánó irgalmaddal
+          - Szent Mihály arkangyalt Egyházad fejedelmévé tetted,
+          - kérünk Téged, tégy minket méltóvá arra,
+          - hogy Szent Mihály megszabadítson minket minden ellenségünktől,
+          - halálunk óráján pedig bántalmazóinktól,
+          - és ő vezessen minket isteni Felséged magasságos jelenlétébe!
+          - Ámen.
+
+
+
+
+
