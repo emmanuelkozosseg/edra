@@ -1,0 +1,88 @@
+books:
+  - id: emm_hu
+    chapter: 0_dics
+    number: '118'
+    lang: hu
+  - id: eeym17
+    number: '2'
+    lang: en
+lyrics:
+  - lang: hu
+    title: Alleluja, jubilate
+    verses:
+      - name: v1
+        lines:
+          - Áldjuk ^Őt, (mert) jó az ^Úr, alle^lu^ja,
+          - szünte^len úgy sze^ret, alle^lu^ja,
+          - napke^let és napnyu^gat, alle^lu^ja,
+          - áldja ^Őt s tette^it, alle^^lu^ja!
+      - name: c
+        lines:
+          - Alle^lu^ja, alle^^lu^ja,
+          - Jubilate ^^De^o!
+          - Alle^lu^ja, alle^^lu^ja,
+          - jubilate, ^al^lelu^ja!
+      - name: v2
+        lines:
+          - Isten ^az, ki küldte ^Őt, alle^lu^ja,
+          - szent ^fiát, a Messi^ást, alle^luj^a.
+          - "Szólt a ^Szűz: Úgy le^gyen! Alle^lu^ja,"
+          - és az ^Úr megje^lent, alle^^lu^ja!
+      - name: v3
+        lines:
+          - Az éle^tét adta ^Ő, alle^lu^ja,
+          - értem ^is és érted ^is, alle^lu^ja.
+          - "Jézus ^él, feltáma^dott, alle^lu^ja:"
+          - Nincs ha^lál, a mennybe ^vár, alle^^lu^ja!
+      - name: v4
+        lines:
+          - Jézu^sunk, éle^tünk, alle^lu^ja,
+          - lelke^det add ne^künk, alle^lu^ja!
+          - Ő ve^zet, báto^rít, alle^lu^ja,
+          - "(hogy) mondjuk ^el minde^nütt: alle^^lu^ja!"
+  - lang: en
+    title: Alleluia Jubilate
+    verses:
+      - name: v1
+        lines:
+          - Praise the Lord for He is good, alleluia
+          - And his love, it has no end, alleluia!
+          - To the East and to the West, alleluia
+          - Let us proclaim unending love, alleluia!
+      - name: c
+        lines:
+          - Alleluia! Alleluia,
+          - Jubilate Deo!
+          - Alleluia! Alleluia,
+          - Jubilate, alleluia!
+      - name: v2
+        lines:
+          - The Father longed to send his Son, alleluia
+          - Out of love for everyone, alleluia!
+          - Mary said, "Let it be done", alleluia
+          - So Christ the Lord came to be born, alleluia!
+      - name: v3
+        lines:
+          - Jesus came to set us free, alleluia
+          - From our sin and from our strife, alleluia!
+          - Victory comes from his cross, alleluia
+          - He feeds us with the Bread of Life, alleluia!
+      - name: v4
+        lines:
+          - Jesus is alive today, alleluia
+          - His own heart, true source of love, alleluia!
+          - Spirit-filled, we go our way, alleluia
+          - To tell the world that God is Love, alleluia!
+chords:
+  - template: v
+    lines:
+      - [D, Hm, G, A]
+      - [D, Hm, G, A]
+      - [D, Hm, G, A]
+      - [D, Hm, G, A, D]
+  - template: c
+    lines:
+      - [G, D, Fis, Hm, G]
+      - [A4, A, Hm]
+      - [G, D, Fis, Hm, G]
+      - [A4, A, D]
