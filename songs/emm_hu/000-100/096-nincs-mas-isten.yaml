@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '96'
     lang: hu
+  - id: nagymaros-2026-tav
+    number: '3'
+    lang: hu
 about:
   music: Ch. Tomlin, J. Reeves, J. Myrin
   lyrics: Ch. Tomlin, J. Reeves, J. Myrin

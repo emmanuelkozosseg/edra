@@ -5,6 +5,9 @@ books:
     lang: hu
   - id: emm_fr
     number: 05-22
+  - id: nagymaros-2026-tav
+    number: '20'
+    lang: hu
 about:
   music: J.-M. Morin, P. V. Mugnier
   lyrics: J.-M. Morin, P. V. Mugnier

@@ -8,6 +8,9 @@ books:
     lang: en
   - id: emm_fr
     number: 18-26
+  - id: nagymaros-2026-tav
+    number: '29'
+    lang: hu
 about:
   music: A. Fleury
   lyrics: A. Fleury

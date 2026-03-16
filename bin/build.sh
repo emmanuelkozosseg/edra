@@ -20,8 +20,8 @@ mkdir dist/
 COMMIT_DATE=$(git show -s --format=%cd --date=format:%Y.%m.%d.)
 
 # Conversions
-python bin/convert.py opensong --from-dir songs/ --to-dir dist/Emmánuel/
 python bin/convert.py emmet-json --from-dir songs/ --to dist/emmet.json --version $COMMIT_DATE
+python bin/convert.py opensong --from-dir songs/ --to-dir dist/Emmánuel/
 python bin/convert.py diatar --from-dir songs/ --to dist/emmanuel.dtx
 python bin/convert.py pdf --from-dir songs/ --to dist/emmet_offline.pdf
 

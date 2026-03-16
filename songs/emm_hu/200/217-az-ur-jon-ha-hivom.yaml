@@ -5,6 +5,9 @@ books:
     lang: hu
   - id: emm_fr
     number: 14-43
+  - id: nagymaros-2026-tav
+    number: '10'
+    lang: hu
 about:
   music: M. Hagemann
   lyrics: M. Hagemann

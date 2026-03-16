@@ -1,0 +1,19 @@
+books:
+  - id: nagymaros-2026-tav
+    number: '23'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Tápláló Szent Kenyér
+    verses:
+      - name: v1
+        lines:
+          - Tápláló szent kenyér,
+          - tápláló drága vér,
+          - betölti szívemet
+          - a végtelen.
+          - ""
+          - Békémnek záloga,
+          - lelkemnek otthona,
+          - formáld át életem,
+          - légy velem! 

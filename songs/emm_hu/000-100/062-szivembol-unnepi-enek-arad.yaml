@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '62'
     lang: hu
+  - id: nagymaros-2026-tav
+    number: '28'
+    lang: hu
 about:
   music: Dax
   lyrics: Rozsályi Z.
@@ -21,45 +24,53 @@ lyrics:
           - háladalt éneklek az ég Urának.
           - Ujjongva tör fel a hála bennem,
           - jósága körülvesz szárnyként engem.
-          - Adjatok hálát az Istennek!
-          - Adjatok hálát az Istennek!
       - name: v2
         lines:
-          - Ő a mi teremtő Királyunk,
-          - alle-alleluja, alleluja, allelluja!
-          - Hála legyen, hála legyen,
-          - hála, áldott az Úr!
+          - group: repeat
+            times: 2
+            lines:
+              - Adjatok hálát az Istennek!
+              - Adjatok hálát az Istennek!
+              - Ő a mi Teremtőnk, Királyunk,
+              - alle-alleluja, alleluja, alleluja!
       - name: v3
+        lines:
+          - group: repeat
+            times: 2
+            lines:
+              - Hála legyen, hála legyen, hála!
+              - Áldott az Úr!
+      - name: v4
         lines:
           - Oly jó áldani az Urat!
           - Ujjongóan jó Istennek
           - zengeni zsoltárokat!
-      - name: v4
+      - name: v5
         lines:
           - Már kora reggelen jóságát,
           - éjszakákon át hirdetem
           - szüntelen nagy irgalmát!
-      - name: v5
+      - name: v6
         lines:
           - Pengő hangszeren, lantokon,
           - ujjongóan jó lelkesen
           - zengeni a hálaszót!
-      - name: v6
+      - name: v7
         lines:
           - Az öröm hangjai szóljanak,
           - gitár húrjain magasztalom
           - ujjongva csodáidat!
-      - name: v7
+      - name: v8
         lines:
           - Uram, jó voltál énhozzám,
           - életemben nagy dolgokat
           - műveltél sok év során!
-      - name: v8
+      - name: v9
         lines:
           - Sziklám, oltalmam Te voltál,
           - oly irgalmasan jó, gondoskodó
           - Istenem, égi Atyám!
-      - name: v9
+      - name: v10
         lines:
           - Hála, dicsőség nevednek,
           - most és örökké az égben,
@@ -71,14 +82,22 @@ chords:
       - [G, F, C]
       - [G, F, C]
       - [Dm, F, Dm7, G7, C]
-      - [Dm, G7, C]
-      - [G7, C]
   - template: v2
     lines:
-      - [C7, F, G]
-      - [D, G, F, C, F, C, H7]
-      - [E]
-      - [H7, E]
+      - group: repeat
+        type: uniform
+        lines:
+          - [Dm, G7, C]
+          - [G7, C]
+          - [C7, F, G]
+          - [D, G, F, C, F, C, H7]
+  - template: v3
+    lines:
+      - group: repeat
+        type: uniform
+        lines:
+          - [E]
+          - [H7, E]
   - template: v
     lines:
       - [A, E, A, E, A]

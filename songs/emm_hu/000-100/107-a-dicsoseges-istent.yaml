@@ -8,6 +8,9 @@ books:
   - id: eeym17
     number: '3'
     lang: en
+  - id: nagymaros-2026-tav
+    number: '2'
+    lang: hu
 records:
   - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/a-dicsoseges-istent.mp3

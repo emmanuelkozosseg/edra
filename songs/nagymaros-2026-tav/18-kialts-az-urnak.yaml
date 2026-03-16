@@ -1,0 +1,27 @@
+books:
+  - id: nagymaros-2026-tav
+    number: '18'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Kiálts az Úrnak
+    verses:
+      - name: v1
+        lines:
+          - Úr Jézus, Megváltóm,
+          - nincs senki olyan, mint Te,
+          - minden napon magasztalom
+          - a Te szereteted nagy voltát.
+          - Vigaszom, oltalmam,
+          - menedékem, váram,
+          - ami vagyok, egész valóm,
+          - Téged szomjaz, Téged áld.
+      - name: v2
+        lines:
+          - Kiálts az Úrnak, te föld, énekelj,
+          - adj dicsőséget a Felségesnek,
+          - hegyek, hódoljatok, zúgj, tenger,
+          - a mi Urunk nagy nevének!
+          - Éneklem hűséged és kegyelmed,
+          - örökké szeretlek, én Istenem,
+          - semmi sem ér fel a Te jelenléteddel!

@@ -5,6 +5,9 @@ books:
     lang: hu
   - id: emm_fr
     number: 24-09
+  - id: nagymaros-2026-tav
+    number: '30'
+    lang: hu
 about:
   music: B. Pavageau
   lyrics: B. Pavageau

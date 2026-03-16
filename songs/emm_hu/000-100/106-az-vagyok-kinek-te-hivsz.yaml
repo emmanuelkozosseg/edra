@@ -6,6 +6,9 @@ books:
     former_numbers:
       - chapter: e_egyeb
         number: E34
+  - id: nagymaros-2026-tav
+    number: '4'
+    lang: hu
 records:
   - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/az-vagyok-kinek-te-hivsz.mp3

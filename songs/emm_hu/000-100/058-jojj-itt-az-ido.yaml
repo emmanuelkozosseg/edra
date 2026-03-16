@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '58'
     lang: hu
+  - id: nagymaros-2026-tav
+    number: '1'
+    lang: hu
 about:
   music: B. Doerksen
   lyrics: B. Doerksen

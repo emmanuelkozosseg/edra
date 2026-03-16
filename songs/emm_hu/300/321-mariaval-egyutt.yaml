@@ -6,6 +6,9 @@ books:
   - id: eeym17
     number: '30'
     lang: en
+  - id: nagymaros-2026-tav
+    number: '6'
+    lang: hu
 records:
   - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/mariaval-egyutt.mp3

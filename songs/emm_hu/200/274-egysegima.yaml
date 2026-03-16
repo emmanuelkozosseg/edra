@@ -8,6 +8,9 @@ books:
   #   chapter: i_ima
   #   number: I6
   #   lang: hu
+  - id: nagymaros-2026-tav
+    number: '25'
+    lang: hu
 records:
   - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/egysegima.mp3
@@ -20,7 +23,7 @@ records:
     purpose: aid
 lyrics:
   - lang: hu
-    title: Egységima
+    title: Az Úrral való egység imája
     verses:
       - name: v1
         lines:

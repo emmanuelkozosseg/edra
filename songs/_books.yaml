@@ -45,4 +45,8 @@
 
 - id: eeym17
   name: EEYM 2017
+  selectable: false
+
+- id: nagymaros-2026-tav
+  name: Nagymaros 2026. tavasz
   selectable: true

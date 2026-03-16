@@ -8,6 +8,9 @@ books:
     lang: en
   - id: emm_fr
     number: 15-43
+  - id: nagymaros-2026-tav
+    number: '22'
+    lang: hu
 about:
   music: A. Broeders
   lyrics: A. Broeders

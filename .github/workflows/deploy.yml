@@ -34,7 +34,7 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           commands: |
             put dist/emmet.json ${{ vars.FTP_SUBDIR }}songs.json.new
-            rename ${{ vars.FTP_SUBDIR }}songs.json ${{ vars.FTP_SUBDIR }}songs.json.${{ github.ref_name }}.bak
+            rename ${{ vars.FTP_SUBDIR }}songs.json ${{ vars.FTP_SUBDIR }}songs.json.${{ github.sha }}.bak
             rename ${{ vars.FTP_SUBDIR }}songs.json.new ${{ vars.FTP_SUBDIR }}songs.json
       - name: Upload artifacts to release
         uses: softprops/action-gh-release@v2

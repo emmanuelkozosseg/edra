@@ -3,6 +3,9 @@ books:
     chapter: 9_mozg
     number: '907'
     lang: hu
+  - id: nagymaros-2026-tav
+    number: '26'
+    lang: hu
 lyrics:
   - lang: hu
     title: Kicsiny kis fényemmel

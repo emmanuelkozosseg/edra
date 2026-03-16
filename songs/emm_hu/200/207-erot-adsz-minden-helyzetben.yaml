@@ -3,6 +3,9 @@ books:
     chapter: 2_br
     number: '207'
     lang: hu
+  - id: nagymaros-2026-tav
+    number: '11'
+    lang: hu
 about:
   music: N. Livingstone
   lyrics: N. Livingstone

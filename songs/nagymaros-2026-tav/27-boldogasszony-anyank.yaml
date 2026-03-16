@@ -1,0 +1,21 @@
+books:
+  - id: nagymaros-2026-tav
+    number: '27'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Boldogasszony Anyánk
+    verses:
+      - name: v1
+        lines:
+          - Boldogasszony Anyánk, régi nagy Pátrónánk!
+          - "Nagy ínségben lévén, így szólít meg hazánk:"
+          - Magyarországról, édes hazánkról,
+          - ne felejtkezzél el szegény magyarokról! 
+      - name: v2
+        lines:
+          - Ó, Atya Istennek kedves szép leánya!
+          - "Krisztus Jézus Anyja, Szentlélek mátkája:"
+          - Magyarországról, édes hazánkról,
+          - ne felejtkezzél el szegény magyarokról!
+

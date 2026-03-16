@@ -3,6 +3,9 @@ books:
     chapter: 0_dics
     number: '59'
     lang: hu
+  - id: nagymaros-2026-tav
+    number: '9'
+    lang: hu
 about:
   c_holder: Bencés Kiadó
   c_year: 1999

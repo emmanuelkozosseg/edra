@@ -3,15 +3,18 @@ books:
     chapter: 5_mise
     number: 507a
     lang: la
+  - id: nagymaros-2026-tav
+    number: '21a'
+    lang: la
 records:
   - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/listening/mise-agoston-kyrie.mp3
-    lang: hu
+    lang: la
     purpose: listening
     note: Megvalljuk (2025)
   - type: file
     url: https://emmet.emmanuelkozosseg.hu/mp3/emm_hu/aid/mise-agoston-kyrie.mp3
-    lang: hu
+    lang: la
     purpose: aid
 lyrics:
   - lang: la
