@@ -1,0 +1,50 @@
+books:
+  - id: emm_hu
+    chapter: 0_dics
+    number: '119'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Örökké szent vagy
+    order: [v1, b, c1, v2, c2, b, c2, v3]
+    verses:
+      - name: v1
+        lines:
+          - Népek, nemzedékek térdre hullva áldnak,
+          - éneklik a Bárány énekét.
+          - Mind, ki előttünk járt, és akik hinni fognak,
+          - éneklik a Bárány énekét.
+      - name: b
+        lines:
+          - Neved, Uram, oly nagy, Neved, ami megtart,
+          - Neved mind fölött való!
+          - Trónok és hatalmak, erők és uralmak,
+          - Neved mind fölött való!
+      - name: c1
+        lines:
+          - Minden angyal zeng, szent az Úr!
+          - A teremtés zeng, szent az Úr!
+          - Magasságban fent
+          - szent az Úr, örökké szent vagy!
+      - name: v2
+        lines:
+          - Ha bűnöd megbocsátva, s a megváltás tiéd,
+          - énekeld a Bárány énekét!
+          - Ha szabadságban járhatsz, s neve a tiéd,
+          - énekeld a Bárány énekét!
+          - Énekeld örökké, ámen!
+      - name: c2
+        lines:
+          - Minden angyal zeng, szent az Úr!
+          - A teremtés zeng, szent az Úr!
+          - Magasságban fent
+          - szent az Úr, örökké szent vagy!
+          - ""
+          - Dalunk hozzád szól, szent Urunk!
+          - A királyunk vagy, szent Urunk!
+          - Mindig az maradsz,
+          - szent Urunk, örökké szent vagy!
+      - name: v3
+        lines:
+          - Mindig szent maradsz, Jézus, 
+          - örökké szent vagy!

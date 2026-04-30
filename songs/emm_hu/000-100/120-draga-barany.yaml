@@ -1,0 +1,34 @@
+books:
+  - id: emm_hu
+    chapter: 0_dics
+    number: '120'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Drága Bárány
+    verses:
+      - name: v1
+        lines:
+          - Drága Bárány, szent és méltó,
+          - ki érettünk megölettél.
+          - Szívemből száll fel Hozzád egy új dal,
+          - ki ott ülsz fent Atyád jobbján.
+      - name: c
+        lines:
+          - Szent vagy, szent vagy, szent vagy,
+          - mindenható Úristen,
+          - aki volt, aki van és eljövendő.
+          - "Énekli minden élő, szívből dicséretét:"
+          - imádlak, mindenem, Királyom, örökké!
+      - name: v2
+        lines:
+          - Szivárványból szőtt ruhát vettél fel,
+          - villámok fénye vesz körül.
+          - Áldás, erő, dicsőség, hála és tisztelet
+          - csak Téged illet, senki mást, Jézus.
+      - name: v3
+        lines:
+          - Ámulattal így csodállak,
+          - mikor hangod szól hozzám.
+          - Nevedből erő árad, élő vized reményt ad.
+          - Csodálatos rejtély vagy, Jézus.
