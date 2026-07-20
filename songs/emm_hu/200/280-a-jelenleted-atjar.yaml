@@ -1,0 +1,40 @@
+books:
+  - id: emm_hu
+    chapter: 2_br
+    number: '280'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: A jelenléted átjár
+    order: [c, v1, c, v2, c, b, c]
+    verses:
+      - name: c
+        lines:
+          - A jelenléted átjár,
+          - hadd időzzek csendben lábadnál!
+          - A pillanat oly szent, ó, Jézus,
+          - sose múljon el!
+          - Nem áldásokért jöttem,
+          - Jézus, nem vagy adósom nekem.
+          - Minden csodás ajándékon túl,
+          - csak vágyom Rád.
+      - name: v1
+        lines:
+          - Úgy bánom, mikor megszokásból jöttem,
+          - úgy bánom, mikor a szám dalolt csupán.
+          - Vissza az első szeretethez,
+          - a szívem megnyitom feléd.
+      - name: v2
+        lines:
+          - Úgy bánom, mikor hosszú listát hoztam,
+          - és rólad közben elfeledkeztem.
+          - Vissza az első szeretethez,
+          - a szívem megnyitom feléd.
+      - name: b
+        lines:
+          - Úgy vágyom Rád,
+          - semmi más, semmi más,
+          - semmi más nem kell.
+          - Úgy vágyom Rád,
+          - semmi más, semmi más,
+          - semmi más nem kell.

@@ -1,0 +1,30 @@
+books:
+  - id: emm_hu
+    chapter: 0_dics
+    number: '121'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Te vagy méltó, Istenünk
+    order: [v1, c, b, c]
+    verses:
+      - name: v1
+        lines:
+          - Minden szent és angyal
+          - a te trónodhoz borul.
+          - Minden vén most hódol
+          - az Isten báránya előtt
+          - "és énekli:"
+      - name: c
+        lines:
+          - Te vagy méltó, Istenünk,
+          - hogy Téged dicsérjünk,
+          - mert csak Te vagy méltó,
+          - hisz minden Rólad szól,
+          - és felmagasztal Téged!
+      - name: b
+        lines:
+          - Éjjel is, nappal is hadd szálljon hozzád,
+          - a mi tömjénünk illata szálljon hozzád!
+          - Éjjel is, nappal is hadd szálljon hozzád,
+          - a mi tömjénünk illata szálljon hozzád!
