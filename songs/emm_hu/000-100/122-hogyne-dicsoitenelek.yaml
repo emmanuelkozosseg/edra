@@ -1,0 +1,38 @@
+books:
+  - id: emm_hu
+    chapter: 0_dics
+    number: '122'
+    lang: hu
+lyrics:
+  - lang: hu
+    title: Hogyne dicsőítenélek?
+    verses:
+      - name: c
+        lines:
+          - ^Hogyne dicsőíte^né^lek?
+          - Hogyne dicsőíte^^né^lek?
+          - Jézus, hogyne zenge^^ném,
+          - hogy Te vagy az ^Úr?
+          - Te vagy! Te vagy!^
+      - name: v1
+        lines:
+          - ^Ahogy körbenézek, ^Jézus, dicsérlek ^én.
+          - Dicsőséged ^látom ^ragyogni ^itt.
+          - Jézus, hogyne zenge^^ném,
+          - hogy Te vagy az ^Úr?
+          - Te vagy! Te vagy!
+      - name: v2
+        lines:
+          - "^Ahogy körbenézek, ^Jézus, örvend a ^szív:"
+          - köszönöm, hogy ^ők a ^testvére^im.
+          - Jézus, hogyne zenge^^ném,
+          - hogy Te vagy az ^Úr?
+          - Te vagy! Te vagy!
+chords:
+  - template: all
+    lines:
+      - [E, A, H]
+      - [E, H, Cism]
+      - [Fism, H]
+      - [E]
+      - []
